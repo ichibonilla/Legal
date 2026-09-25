@@ -25,6 +25,6 @@
 - **R-041** — Irregularidades formales menores del acta 16-08-2026. Fuente: Acta JD 16-08-2026 (sesión del 19/08/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-16-08-2026.pdf, 55 págs., sha256 1252ee3d9d0d…3ba84, download_id 128535; oficio CPPCR-JD-99-2026 (Gmail msg 1a049a7c6f9b1483). Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.
 - **N-010** — LGAP art. 164.1: invalidez parcial. Fuente: Sin cotejo. Añadida en el análisis; texto no cotejado.
 
-## Sin folio (49 de 49 vigentes)
+## Sin folio (50 de 50 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

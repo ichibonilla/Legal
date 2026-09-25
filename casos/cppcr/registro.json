@@ -695,6 +695,19 @@
       "supersede": "",
       "razon": "No se ha revisado la Ley 6144 ni su reglamento sobre este punto.",
       "folio": ""
+    },
+    {
+      "id": "R-042",
+      "fecha": "2026-09-17",
+      "tipo": "hecho",
+      "titulo": "La notificación de los acuerdos 730, 731 y 732 no adjunta el 730",
+      "afirmacion": "El correo de notificacionesjunta@psicologiacr.com del 17/09/2026 (11:49 hora de Costa Rica), dirigido a legal@grupopoiesis.com, anuncia en el asunto y el cuerpo los acuerdos JD.CPPCR-730, 731 y 732-2026, pero solo trae dos adjuntos: el 731 y el 732. El 730, que responde el POI-LEG-2026-001, no se adjuntó.",
+      "fuente": "Gmail msg 1a0b07cd85a59493 (lista de adjuntos).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-09-25",
+      "supersede": "",
+      "razon": "Cotejado contra los metadatos del mensaje. Falta confirmar que no llegó en otro correo.",
+      "folio": ""
     }
   ],
   "evaluaciones": [

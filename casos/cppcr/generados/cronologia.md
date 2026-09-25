@@ -44,6 +44,7 @@ Registro actualizado el 2026-09-25.
 | 2026-09-02 | R-040 | POR VERIFICAR | Acuerdo JD.CPPCR-731-2026: atribuye a la Fiscalía la recusación resuelta en el 680 | — |
 | 2026-09-08 | R-029 | VERIFICADO | Res. SC 2026-034225: no ha lugar a la adición y aclaración | — |
 | 2026-09-16 | R-034 | VERIFICADO | Acuerdo JD.CPPCR-778-2026: toma nota de la copia de la gestión sobre el 680 y pide no remitir copias | — |
+| 2026-09-17 | R-042 | VERIFICADO | La notificación de los acuerdos 730, 731 y 732 no adjunta el 730 | — |
 | 2026-09-22 | ~~R-030~~ (superado por R-034) | PENDIENTE | ~~Acuerdo JD.CPPCR-778-2026 — PLAZO CRÍTICO~~ | — |
 | 2026-09-24 | ~~R-032~~ (superado por R-033) | POR VERIFICAR | ~~Hipótesis inicial: la frase podría venir de la denuncia de la Licda. Robles~~ | — |
 | 2026-09-24 | R-033 | VERIFICADO | La frase no es cita de ninguna parte ni del Tribunal de Honor | — |
