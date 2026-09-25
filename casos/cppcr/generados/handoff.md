@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-09-24 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-09-25 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Carlos F. Bonilla Cortés — Colegio de Profesionales en Psicología de Costa Rica
 
-Estado al 2026-09-24. Fuente única: `registro.json`.
+Estado al 2026-09-25. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -36,16 +36,22 @@ Viable y la vía más sólida. Dos objetos: (a) responsabilidad patrimonial del 
 
 ### E-004 — Recursos
 
-Contra las sentencias de la Sala no cabe recurso [N-003]; la adición ya fue rechazada [R-029]. El Acuerdo 778 no resuelve nada sobre el fondo: toma nota de una copia y pide no remitir copias futuras, con salvedades amplias y la aclaración expresa de que no limita derechos ni recursos [R-034]. Una revocatoria tendría objeto escaso y ningún beneficio práctico; si aun así se quisiera presentar, el plazo de 3 días hábiles vencería el 25/09/2026 [N-005]. El 778 confirma, además, que la Junta remite la ejecución del 680 al Tribunal de Honor. Contra el Acuerdo 680, revisar contenido y plazo [R-027].
+Contra las sentencias de la Sala no cabe recurso [N-003]; la adición ya fue rechazada [R-029]. El Acuerdo 778 no resuelve nada sobre el fondo: toma nota de una copia y pide no remitir copias futuras, con salvedades amplias y la aclaración expresa de que no limita derechos ni recursos [R-034]. Una revocatoria tendría objeto escaso y ningún beneficio práctico; si aun así se quisiera presentar, el plazo de 3 días hábiles vencería el 25/09/2026 [N-005]. El 778 confirma, además, que la Junta remite la ejecución del 680 al Tribunal de Honor. Contra el Acuerdo 680 no se recomienda recurso ahora; véase E-005 [R-035].
 
-> Advertencia: N-005 está POR VERIFICAR. R-027 está PENDIENTE.
+> Advertencia: N-005 está POR VERIFICAR. R-035 está POR VERIFICAR.
+
+### E-005 — Recusación resuelta por los propios recusados (Acuerdo 680)
+
+El vicio parece sólido. Seis de los siete votantes eran los recusados [R-036, R-035]. Sin ellos no había quórum, y la recusación debía pasar al superior del órgano [N-007, N-008]; falta precisar quién es ese superior [N-011]. El proyecto lo preparó un asesor que también estuvo en la sesión del 20 de mayo [R-037, R-038], lo que suma el art. 230.2 [N-006]. Con notificación el 28/08 [R-035], la revocatoria de tres días venció el 02/09. El propio 680 acogió la apelación [R-035]. Un ataque dirigido solo al rechazo de la recusación no tendría por qué alcanzar esa parte si es independiente [N-010]. Aun así, conviene no abrir ese frente ahora. El art. 238.3 permite hacerlo valer contra el acto final del Exp. 02-2026 o en la vía contencioso-administrativa [N-009]. Las contradicciones de los acuerdos 730 y 731 [R-039, R-040] y las irregularidades de forma [R-041] refuerzan el cuadro, pero no lo sostienen por sí solas.
+
+> Advertencia: R-035 está POR VERIFICAR. R-036 está POR VERIFICAR. R-037 está POR VERIFICAR. R-039 está POR VERIFICAR. R-040 está POR VERIFICAR. R-041 está POR VERIFICAR. N-010 está POR VERIFICAR. N-011 está PENDIENTE.
 
 ## Pendientes (2)
 
 - R-016 — Respuesta de fondo a OER-049 (Acuerdo 381-2025 y punto sétimo)
-- R-027 — Acuerdo JD.CPPCR-680-2026 (gestión de recusación, Exp. 02-2026)
+- N-011 — Superior de la Junta Directiva a efectos del art. 234.2
 
-## Por verificar (7)
+## Por verificar (14)
 
 - R-001 — Acuerdo JD.CPPCR-381-2025: origen del vocabulario «acoso u hostigamiento de personas usuarias»
 - R-011 — Publicación del acta 12-06-2026 en el sitio web
@@ -54,11 +60,19 @@ Contra las sentencias de la Sala no cabe recurso [N-003]; la adición ya fue rec
 - N-002 — LGAP art. 273: reserva de piezas del expediente
 - N-004 — Plazos: CPCA art. 39 (1 año), LGAP art. 198 (4 años), CPP art. 31 (2 años acción privada con multa)
 - N-005 — Ley 6144 art. 44: revocatoria contra lo resuelto por la Junta
+- R-035 — Acuerdo JD.CPPCR-680-2026: rechaza la recusación y acoge la apelación
+- R-036 — Seis de los siete votantes del 680 eran los recusados
+- R-037 — El proyecto del 680 lo preparó el asesor legal Delgado Faith
+- R-039 — Acuerdo JD.CPPCR-730-2026 (responde POI-LEG-2026-001): contradicción interna
+- R-040 — Acuerdo JD.CPPCR-731-2026: atribuye a la Fiscalía la recusación resuelta en el 680
+- R-041 — Irregularidades formales menores del acta 16-08-2026
+- N-010 — LGAP art. 164.1: invalidez parcial
 
 ## Registros reemplazados
 
 - R-032 → R-033 (2026-09-24): La sentencia y los informes jurados descartan que la frase sea cita de una parte. El vínculo con el Acuerdo 381-2025 depende de R-001 (POR VERIFICAR).
 - R-030 → R-034 (2026-09-24): Se leyó el acuerdo. Su contenido reemplaza la ficha provisional R-030, que solo registraba la notificación y un plazo posible.
+- R-027 → R-035 (sin fecha): Reemplaza la ficha provisional R-027 (contenido no leído). Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.
 
 ## Reglas
 

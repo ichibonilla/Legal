@@ -10,7 +10,7 @@
       "Sala Constitucional 26-007865-0007-CO (amparo contra Ministerio de Salud)",
       "Sala Constitucional 26-018306-0007-CO (acción de inconstitucionalidad, Decreto 40556-S)"
     ],
-    "actualizado_el": "2026-09-24",
+    "actualizado_el": "2026-09-25",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -526,6 +526,175 @@
       "supersede": "R-030",
       "razon": "Se leyó el acuerdo. Su contenido reemplaza la ficha provisional R-030, que solo registraba la notificación y un plazo posible.",
       "folio": ""
+    },
+    {
+      "id": "R-035",
+      "fecha": "2026-08-19",
+      "tipo": "resolucion",
+      "titulo": "Acuerdo JD.CPPCR-680-2026: rechaza la recusación y acoge la apelación",
+      "afirmacion": "Punto 4, «Seguimiento de acuerdo JD.CPPCR-615-2026». Rechaza la recusación [R-020] y, en la alzada, ordena al Tribunal de Honor admitir la prueba que había rechazado (parte favorable). Aprobación registrada así: «¿Hay alguna observación al acuerdo? se aprueba por unanimidad». No consta abstención ni retiro de ninguno de los recusados. Notificado el 28/08/2026 (R-027).",
+      "fuente": "Acta JD 16-08-2026 (sesión del 19/08/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-16-08-2026.pdf, 55 págs., sha256 1252ee3d9d0d…3ba84, download_id 128535, pág. 26 y siguientes.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "R-027",
+      "razon": "Reemplaza la ficha provisional R-027 (contenido no leído). Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.",
+      "folio": ""
+    },
+    {
+      "id": "R-036",
+      "fecha": "2026-08-19",
+      "tipo": "hecho",
+      "titulo": "Seis de los siete votantes del 680 eran los recusados",
+      "afirmacion": "Asistencia del 19/08/2026: Serrano, Corrales, Vargas, Cerdas, Obando y Zúñiga (los seis que votaron 385 y 386 [R-006] y fueron recusados [R-020]), más la Dra. Bogantes, única no recusada.",
+      "fuente": "Acta JD 16-08-2026 (sesión del 19/08/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-16-08-2026.pdf, 55 págs., sha256 1252ee3d9d0d…3ba84, download_id 128535, lista de asistencia.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.",
+      "folio": ""
+    },
+    {
+      "id": "R-037",
+      "fecha": "2026-08-19",
+      "tipo": "hecho",
+      "titulo": "El proyecto del 680 lo preparó el asesor legal Delgado Faith",
+      "afirmacion": "El Acuerdo 730, considerandos Séptimo y Octavo, reconoce que el Lic. Alejandro Delgado Faith remitió la recomendación el 19/08/2026 y que la Junta la aprobó ese mismo día.",
+      "fuente": "Acta JD 17-09-2026 (sesión del 02/09/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-17-09-2026.pdf, 59 págs., sha256 a622cf8525c9…07277, download_id 128615, págs. 32-34.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.",
+      "folio": ""
+    },
+    {
+      "id": "R-038",
+      "fecha": "2026-05-20",
+      "tipo": "hecho",
+      "titulo": "El asesor Delgado Faith estuvo presente en la sesión del 20 de mayo",
+      "afirmacion": "El acta 10-05-2026 registra al Lic. Alejandro Delgado Faith, «Asesor legal», presente desde Curridabat en la sesión en que se adoptaron los acuerdos 385 y 386. El acta no muestra, por sí sola, qué intervención tuvo en su redacción.",
+      "fuente": "Acta JD 10-05-2026, Artículo I (comprobación de asistencia). Coincide con el Hallazgo 11 de la bitácora del usuario.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-09-25",
+      "supersede": "",
+      "razon": "Cotejado contra el texto del acta 10-05-2026 aportado en esta sesión de trabajo.",
+      "folio": ""
+    },
+    {
+      "id": "R-039",
+      "fecha": "2026-09-02",
+      "tipo": "resolucion",
+      "titulo": "Acuerdo JD.CPPCR-730-2026 (responde POI-LEG-2026-001): contradicción interna",
+      "afirmacion": "El Considerando Séptimo admite que el estudio se entregó y se resolvió el 19/08/2026; el Por Tanto 2 informa que «no existe actualmente un plazo… para la rendición del estudio», como si siguiera pendiente. Falta confirmar, con el texto a la vista, que ambos pasajes se refieren al mismo estudio.",
+      "fuente": "Acta JD 17-09-2026 (sesión del 02/09/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-17-09-2026.pdf, 59 págs., sha256 a622cf8525c9…07277, download_id 128615, págs. 32-34.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.",
+      "folio": ""
+    },
+    {
+      "id": "R-040",
+      "fecha": "2026-09-02",
+      "tipo": "resolucion",
+      "titulo": "Acuerdo JD.CPPCR-731-2026: atribuye a la Fiscalía la recusación resuelta en el 680",
+      "afirmacion": "Afirma que la recusación «ya fue resuelta» y la describe como recusación «de la Fiscalía», cuando el 680 resolvió la recusación planteada contra miembros de la Junta [R-020].",
+      "fuente": "Acta JD 17-09-2026 (sesión del 02/09/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-17-09-2026.pdf, 59 págs., sha256 a622cf8525c9…07277, download_id 128615, pág. 34 y siguientes.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.",
+      "folio": ""
+    },
+    {
+      "id": "R-041",
+      "fecha": "2026-08-19",
+      "tipo": "hecho",
+      "titulo": "Irregularidades formales menores del acta 16-08-2026",
+      "afirmacion": "El encabezado fecha la sesión el 19/08/2026, pero la Presidencia la abre diciendo «hoy 15 de agosto»; el oficio de notificación CPPCR-JD-99 la llama «sesión extraordinaria» y el acta, «ordinaria».",
+      "fuente": "Acta JD 16-08-2026 (sesión del 19/08/2026), CPPCR/Actas JD/ACTA-SESION-ORDINARIA-16-08-2026.pdf, 55 págs., sha256 1252ee3d9d0d…3ba84, download_id 128535; oficio CPPCR-JD-99-2026 (Gmail msg 1a049a7c6f9b1483).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Lectura del usuario del 25/09/2026. El PDF no está en fuentes/ (el proxy bloquea psicologiacr.com); se verifica al copiarlo y comprobar el hash completo.",
+      "folio": ""
+    },
+    {
+      "id": "N-006",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "LGAP art. 230.2: la abstención alcanza a quien asesora",
+      "afirmacion": "Los motivos de abstención se extienden a quienes intervienen «asesorándolos».",
+      "fuente": "Texto vigente de la LGAP cotejado por el usuario el 25/09/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-09-25",
+      "supersede": "",
+      "razon": "Cotejo del usuario contra el texto vigente.",
+      "folio": ""
+    },
+    {
+      "id": "N-007",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "LGAP art. 234.2: recusación en órgano colegiado",
+      "afirmacion": "Resuelven «los miembros restantes… si los hubiere suficientes para formar quórum; de lo contrario, resolverá el superior del órgano».",
+      "fuente": "Texto vigente de la LGAP cotejado por el usuario el 25/09/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-09-25",
+      "supersede": "",
+      "razon": "Cotejo del usuario contra el texto vigente.",
+      "folio": ""
+    },
+    {
+      "id": "N-008",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "LGAP art. 236.3: qué decide la persona recusada",
+      "afirmacion": "La persona recusada solo decide si se abstiene o si estima infundada la recusación, y luego «procederá… en la forma ordenada por los artículos anteriores».",
+      "fuente": "Texto vigente de la LGAP cotejado por el usuario el 25/09/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-09-25",
+      "supersede": "",
+      "razon": "Cotejo del usuario contra el texto vigente.",
+      "folio": ""
+    },
+    {
+      "id": "N-009",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "LGAP art. 238.2 y 238.3: recursos y alegación posterior",
+      "afirmacion": "238.2: contra lo resuelto caben recursos ordinarios. 238.3: los motivos de abstención pueden hacerse valer al impugnar el acto final, en vía administrativa y judicial.",
+      "fuente": "Texto vigente de la LGAP cotejado por el usuario el 25/09/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-09-25",
+      "supersede": "",
+      "razon": "Cotejo del usuario contra el texto vigente.",
+      "folio": ""
+    },
+    {
+      "id": "N-010",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "LGAP art. 164.1: invalidez parcial",
+      "afirmacion": "La invalidez parcial de un acto no alcanza a las partes independientes de él.",
+      "fuente": "Sin cotejo.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Añadida en el análisis; texto no cotejado.",
+      "folio": ""
+    },
+    {
+      "id": "N-011",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Superior de la Junta Directiva a efectos del art. 234.2",
+      "afirmacion": "Por determinar quién es el «superior del órgano» de la Junta Directiva del CPPCR bajo la Ley 6144 (posiblemente la Asamblea General).",
+      "fuente": "Sin cotejo.",
+      "estado": "PENDIENTE",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "No se ha revisado la Ley 6144 ni su reglamento sobre este punto.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -568,13 +737,33 @@
     {
       "id": "E-004",
       "titulo": "Recursos",
-      "conclusion": "Contra las sentencias de la Sala no cabe recurso [N-003]; la adición ya fue rechazada [R-029]. El Acuerdo 778 no resuelve nada sobre el fondo: toma nota de una copia y pide no remitir copias futuras, con salvedades amplias y la aclaración expresa de que no limita derechos ni recursos [R-034]. Una revocatoria tendría objeto escaso y ningún beneficio práctico; si aun así se quisiera presentar, el plazo de 3 días hábiles vencería el 25/09/2026 [N-005]. El 778 confirma, además, que la Junta remite la ejecución del 680 al Tribunal de Honor. Contra el Acuerdo 680, revisar contenido y plazo [R-027].",
+      "conclusion": "Contra las sentencias de la Sala no cabe recurso [N-003]; la adición ya fue rechazada [R-029]. El Acuerdo 778 no resuelve nada sobre el fondo: toma nota de una copia y pide no remitir copias futuras, con salvedades amplias y la aclaración expresa de que no limita derechos ni recursos [R-034]. Una revocatoria tendría objeto escaso y ningún beneficio práctico; si aun así se quisiera presentar, el plazo de 3 días hábiles vencería el 25/09/2026 [N-005]. El 778 confirma, además, que la Junta remite la ejecución del 680 al Tribunal de Honor. Contra el Acuerdo 680 no se recomienda recurso ahora; véase E-005 [R-035].",
       "depende_de": [
         "N-003",
         "R-029",
         "R-034",
         "N-005",
-        "R-027"
+        "R-035"
+      ]
+    },
+    {
+      "id": "E-005",
+      "titulo": "Recusación resuelta por los propios recusados (Acuerdo 680)",
+      "conclusion": "El vicio parece sólido. Seis de los siete votantes eran los recusados [R-036, R-035]. Sin ellos no había quórum, y la recusación debía pasar al superior del órgano [N-007, N-008]; falta precisar quién es ese superior [N-011]. El proyecto lo preparó un asesor que también estuvo en la sesión del 20 de mayo [R-037, R-038], lo que suma el art. 230.2 [N-006]. Con notificación el 28/08 [R-035], la revocatoria de tres días venció el 02/09. El propio 680 acogió la apelación [R-035]. Un ataque dirigido solo al rechazo de la recusación no tendría por qué alcanzar esa parte si es independiente [N-010]. Aun así, conviene no abrir ese frente ahora. El art. 238.3 permite hacerlo valer contra el acto final del Exp. 02-2026 o en la vía contencioso-administrativa [N-009]. Las contradicciones de los acuerdos 730 y 731 [R-039, R-040] y las irregularidades de forma [R-041] refuerzan el cuadro, pero no lo sostienen por sí solas.",
+      "depende_de": [
+        "R-035",
+        "R-036",
+        "R-037",
+        "R-038",
+        "R-039",
+        "R-040",
+        "R-041",
+        "N-006",
+        "N-007",
+        "N-008",
+        "N-009",
+        "N-010",
+        "N-011"
       ]
     }
   ]
