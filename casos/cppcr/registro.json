@@ -10,7 +10,7 @@
       "Sala Constitucional 26-007865-0007-CO (amparo contra Ministerio de Salud)",
       "Sala Constitucional 26-018306-0007-CO (acción de inconstitucionalidad, Decreto 40556-S)"
     ],
-    "actualizado_el": "2026-09-25",
+    "actualizado_el": "2026-09-26",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -704,9 +704,9 @@
       "afirmacion": "El correo de notificacionesjunta@psicologiacr.com del 17/09/2026 (11:49 hora de Costa Rica), dirigido a legal@grupopoiesis.com, anuncia en el asunto y el cuerpo los acuerdos JD.CPPCR-730, 731 y 732-2026, pero solo trae dos adjuntos: el 731 y el 732. El 730, que responde el POI-LEG-2026-001, no se adjuntó.",
       "fuente": "Gmail msg 1a0b07cd85a59493 (lista de adjuntos).",
       "estado": "VERIFICADO",
-      "verificado_el": "2026-09-25",
+      "verificado_el": "2026-09-26",
       "supersede": "",
-      "razon": "Cotejado contra los metadatos del mensaje. Falta confirmar que no llegó en otro correo.",
+      "razon": "Cotejado contra los metadatos del mensaje. El 26/09/2026 se buscó en carlosbonilla@gmail.com (copia de todo lo enviado a legal@) «730-2026», «JD.CPPCR-730» y «POI-LEG-2026-001»: no hay otra notificación del 730. Falta revisar el buzón legal@grupopoiesis.com directamente.",
       "folio": ""
     }
   ],

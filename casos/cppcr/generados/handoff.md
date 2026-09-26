@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-09-25 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-09-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Carlos F. Bonilla Cortés — Colegio de Profesionales en Psicología de Costa Rica
 
-Estado al 2026-09-25. Fuente única: `registro.json`.
+Estado al 2026-09-26. Fuente única: `registro.json`.
 
 ## Expedientes
 
