@@ -30,18 +30,22 @@ Registro actualizado el 2026-09-26.
 | 2026-07-22 | R-020 | VERIFICADO | Recusación de los seis directivos que votaron 385 y 386 | — |
 | 2026-08-03 | R-021 | VERIFICADO | Notificación del curso del amparo y sustitución posterior del acta | — |
 | 2026-08-05 | R-022 | VERIFICADO | Informes jurados en el amparo | — |
-| 2026-08-19 | R-035 | POR VERIFICAR | Acuerdo JD.CPPCR-680-2026: rechaza la recusación y acoge la apelación | — |
-| 2026-08-19 | R-036 | POR VERIFICAR | Seis de los siete votantes del 680 eran los recusados | — |
-| 2026-08-19 | R-037 | POR VERIFICAR | El proyecto del 680 lo preparó el asesor legal Delgado Faith | — |
-| 2026-08-19 | R-041 | POR VERIFICAR | Irregularidades formales menores del acta 16-08-2026 | — |
+| 2026-08-19 | R-035 | VERIFICADO | Acuerdo JD.CPPCR-680-2026: rechaza la recusación y acoge la apelación | — |
+| 2026-08-19 | R-036 | VERIFICADO | Seis de los siete votantes del 680 eran los recusados | — |
+| 2026-08-19 | R-037 | VERIFICADO | El proyecto del 680 lo preparó el asesor legal Delgado Faith | — |
+| 2026-08-19 | ~~R-041~~ (superado por R-044) | POR VERIFICAR | ~~Irregularidades formales menores del acta 16-08-2026~~ | — |
+| 2026-08-19 | R-044 | POR VERIFICAR | Detalles formales del acta 16-08-2026 (versión corregida) | — |
+| 2026-08-19 | R-045 | VERIFICADO | En la misma sesión, un directivo se retiró para que se votara un asunto propio | — |
+| 2026-08-19 | R-046 | VERIFICADO | Cómo describe el 680 el artículo 44 de la Ley 6144 | — |
 | 2026-08-27 | R-023 | VERIFICADO | Sentencia SC 2026-033012: lesión al honor, sin condena en daños | — |
 | 2026-08-27 | R-024 | VERIFICADO | Sentencia, considerando VI: la frase no era cita de una parte y carecía de sustento | — |
 | 2026-08-27 | R-025 | VERIFICADO | Sentencia, considerandos V y IX: la autoría es asunto de legalidad ordinaria | — |
 | 2026-08-27 | R-026 | VERIFICADO | Sentencia, considerando VII: deber de mantener solo la versión corregida | — |
 | 2026-08-28 | ~~R-027~~ (superado por R-035) | PENDIENTE | ~~Acuerdo JD.CPPCR-680-2026 (gestión de recusación, Exp. 02-2026)~~ | — |
 | 2026-08-29 | R-028 | VERIFICADO | Gestión de adición y aclaración de la sentencia | — |
-| 2026-09-02 | R-039 | POR VERIFICAR | Acuerdo JD.CPPCR-730-2026 (responde POI-LEG-2026-001): contradicción interna | — |
-| 2026-09-02 | R-040 | POR VERIFICAR | Acuerdo JD.CPPCR-731-2026: atribuye a la Fiscalía la recusación resuelta en el 680 | — |
+| 2026-09-02 | R-039 | VERIFICADO | Acuerdo JD.CPPCR-730-2026 (responde POI-LEG-2026-001): contradicción interna | — |
+| 2026-09-02 | ~~R-040~~ (superado por R-043) | POR VERIFICAR | ~~Acuerdo JD.CPPCR-731-2026: atribuye a la Fiscalía la recusación resuelta en el 680~~ | — |
+| 2026-09-02 | R-043 | VERIFICADO | Acuerdo JD.CPPCR-731-2026: da por resuelta en el 680 una recusación contra personal de la Fiscalía | — |
 | 2026-09-08 | R-029 | VERIFICADO | Res. SC 2026-034225: no ha lugar a la adición y aclaración | — |
 | 2026-09-16 | R-034 | VERIFICADO | Acuerdo JD.CPPCR-778-2026: toma nota de la copia de la gestión sobre el 680 y pide no remitir copias | — |
 | 2026-09-17 | R-042 | VERIFICADO | La notificación de los acuerdos 730, 731 y 732 no adjunta el 730 | — |
