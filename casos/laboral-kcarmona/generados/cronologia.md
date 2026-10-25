@@ -13,16 +13,21 @@ Registro actualizado el 2026-10-25.
 | 2024-11-15 | R-003 | VERIFICADO | Funciones de coordinación de recursos humanos (one on ones, reclutamiento) | — |
 | 2024-11-15 | R-006 | VERIFICADO | Kristel pidió retroalimentación directa; la Dirección respondió que no veía mal desempeño | — |
 | 2025-04-10 | R-008 | VERIFICADO | Episodio de abril de 2025: dice haber mantenido la calma ante una reacción agresiva | — |
+| 2025-06-09 | R-031 | VERIFICADO | El registro informal de desahogo en el grupo Crew es compartido por la jefatura y el equipo | — |
+| 2025-12-05 | R-029 | VERIFICADO | Cálculo del aguinaldo 2025: «el salario sin bonos» | — |
 | 2026-02-19 | R-009 | VERIFICADO | Protocolo de Atención Telefónica: Kristel lo confirmó como «Entendido y de acuerdo» | — |
 | 2026-04-21 | R-001 | POR VERIFICAR | Nombre completo y cédula consignados en el grupo | — |
 | 2026-07-16 | R-010 | VERIFICADO | Kristel domina el estándar de atención que la clínica promueve | — |
 | 2026-08-21 | R-014 | VERIFICADO | Tensión laboral previa entre la Dirección y Fiorella, expuesta en el grupo | — |
 | 2026-09-03 | R-013 | VERIFICADO | Ha tenido acceso a material de litigio de la empresa | — |
+| 2026-09-04 | R-030 | VERIFICADO | Horario administrativo de Kristel desde el 7/09/2026 | — |
 | 2026-10-07 | R-002 | VERIFICADO | Puesto: asistente administrativa, con funciones de agenda y archivo | — |
-| 2026-10-07 | R-012 | VERIFICADO | Colaboró como posible testigo en el asunto Robles | — |
+| 2026-10-07 | ~~R-012~~ (superado por R-027) | VERIFICADO | ~~Colaboró como posible testigo en el asunto Robles~~ | — |
+| 2026-10-07 | R-027 | VERIFICADO | Respondió el primer cuestionario sobre el asunto Robles; no consta respuesta al segundo | — |
 | 2026-10-20 | R-015 | VERIFICADO | Funciones actuales: responsable del cierre diario de efectivo | — |
 | 2026-10-23 | R-011 | VERIFICADO | Reconocimientos escritos recientes a su trabajo | — |
-| 2026-10-25 | R-016 | VERIFICADO | Los chats no contienen registro escrito de las conductas que motivan el plan | — |
+| 2026-10-25 | ~~R-016~~ (superado por R-032) | VERIFICADO | ~~Los chats no contienen registro escrito de las conductas que motivan el plan~~ | — |
+| 2026-10-25 | R-032 | VERIFICADO | Los cuatro chats no contienen registro escrito de las conductas que motivan el plan | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
@@ -33,3 +38,4 @@ Registro actualizado el 2026-10-25.
 | — | R-024 | PENDIENTE | Existencia de Reglamento Interior de Trabajo aprobado | — |
 | — | R-025 | PENDIENTE | Verificación de protecciones especiales | — |
 | — | R-026 | PENDIENTE | Cumplimiento patronal al día | — |
+| — | R-028 | POR VERIFICAR | Declinó participar en el asunto Robles y la Dirección lo aceptó | — |

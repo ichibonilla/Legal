@@ -14,9 +14,9 @@ Estado al 2026-10-25. Fuente única: `registro.json`.
 
 ### E-001 — Despido sin responsabilidad patronal hoy
 
-No recomendable. Las conductas que lo motivarían no constan por escrito [R-016] y sí constan reconocimientos recientes de su trabajo [R-011]. La carga de la prueba es del empleador y la carta de despido fija los hechos [N-005]; un despido no probado suma salarios caídos a preaviso y cesantía [N-011]. La cercanía con su colaboración en el asunto Robles [R-012] facilita una lectura de represalia [N-013].
+No recomendable. Las conductas que lo motivarían no constan por escrito [R-032] y sí constan reconocimientos recientes de su trabajo [R-011]. La carga de la prueba es del empleador y la carta de despido fija los hechos [N-005]; un despido no probado suma salarios caídos a preaviso y cesantía [N-011]. Respondió un primer cuestionario sobre el asunto Robles [R-027] y luego declinó participar, lo que se le aceptó [R-028]: el riesgo de represalia cambia de forma, pero no desaparece [N-013].
 
-> Advertencia: N-005 está POR VERIFICAR. N-011 está POR VERIFICAR. N-013 está POR VERIFICAR.
+> Advertencia: N-005 está POR VERIFICAR. N-011 está POR VERIFICAR. R-028 está POR VERIFICAR. N-013 está POR VERIFICAR.
 
 ### E-002 — Plan de mejora del desempeño
 
@@ -36,6 +36,12 @@ Opción legítima solo si ella la propone. Los derechos devengados se pagan ínt
 
 > Advertencia: N-017 está POR VERIFICAR. N-011 está POR VERIFICAR.
 
+### E-005 — Ruta hacia el despido por justa causa después del plan
+
+Viable si se construye durante el plan, no al final. No alcanzar una meta numérica es, por sí solo, una base débil; lo que sostiene la justa causa es la reiteración de conductas concretas, verificadas y advertidas [N-004, N-020]. Cada hecho se sanciona dentro del mes [N-006] con amonestación escrita; con antecedentes por la misma conducta y una falta nueva dentro del plazo, procede valorar el despido sin responsabilidad, con carta que describa los hechos [N-005]. Antes: protecciones especiales [R-025], cumplimiento patronal al día, incluido el aguinaldo de 2025 [R-026, R-029, N-019], y trato igual al resto del equipo [R-031].
+
+> Advertencia: N-004 está POR VERIFICAR. N-020 está POR VERIFICAR. N-006 está POR VERIFICAR. N-005 está POR VERIFICAR. R-025 está PENDIENTE. R-026 está PENDIENTE. N-019 está POR VERIFICAR.
+
 ## Pendientes (10)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -49,7 +55,7 @@ Opción legítima solo si ella la propone. Los derechos devengados se pagan ínt
 - R-025 — Verificación de protecciones especiales
 - R-026 — Cumplimiento patronal al día
 
-## Por verificar (19)
+## Por verificar (22)
 
 - R-001 — Nombre completo y cédula consignados en el grupo
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
@@ -70,6 +76,14 @@ Opción legítima solo si ella la propone. Los derechos devengados se pagan ínt
 - N-016 — Jornada extraordinaria remunerada
 - N-017 — Irrenunciabilidad de derechos laborales
 - N-018 — Fondo de Capitalización Laboral
+- R-028 — Declinó participar en el asunto Robles y la Dirección lo aceptó
+- N-019 — Base de cálculo del aguinaldo
+- N-020 — Reiteración de faltas y antecedentes disciplinarios
+
+## Registros reemplazados
+
+- R-012 → R-027 (2026-10-25): R-012 la describía como colaboradora o posible testigo; la Dirección aclara que finalmente declinó participar (R-028). Se conserva solo lo que consta en el chat.
+- R-016 → R-032 (2026-10-25): Se agrega CHAT-C, recibido el 25/10/2026. Hallazgo negativo: en CHAT-G y CHAT-C se buscó por términos, no se leyeron todos los mensajes.
 
 ## Reglas
 
@@ -77,6 +91,6 @@ Opción legítima solo si ella la propone. Los derechos devengados se pagan ínt
 - No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.
 - Estados: VERIFICADO (cotejado contra la fuente citada en verificado_el), POR VERIFICAR (afirmación sin cotejo contra fuente primaria), PENDIENTE (falta el documento o la respuesta).
 - Folio: vacío; este caso no tiene expediente certificado.
-- Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip. Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.
+- Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.
 - Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.
 - Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona

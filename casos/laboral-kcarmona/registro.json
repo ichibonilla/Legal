@@ -12,7 +12,7 @@
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
       "Estados: VERIFICADO (cotejado contra la fuente citada en verificado_el), POR VERIFICAR (afirmación sin cotejo contra fuente primaria), PENDIENTE (falta el documento o la respuesta).",
       "Folio: vacío; este caso no tiene expediente certificado.",
-      "Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip. Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.",
+      "Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.",
       "Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.",
       "Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona"
     ]
@@ -589,32 +589,177 @@
       "supersede": "",
       "razon": "Cotejar artículo aplicable.",
       "folio": ""
+    },
+    {
+      "id": "R-027",
+      "fecha": "2026-10-07",
+      "tipo": "hecho",
+      "titulo": "Respondió el primer cuestionario sobre el asunto Robles; no consta respuesta al segundo",
+      "afirmacion": "El 7/10/2026 Kristel respondió un cuestionario de 58 preguntas de la Dirección sobre expedientes de Andrea Robles (en su mayoría «no recuerdo» o «no me consta»). Ese mismo día la Dirección envió 35 preguntas adicionales; la exportación (24/10/2026) no muestra respuesta.",
+      "fuente": "CHAT-D, 10/7/26 10:11:48 AM, 10:59:22 AM y 11:07:13 AM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "R-012",
+      "razon": "R-012 la describía como colaboradora o posible testigo; la Dirección aclara que finalmente declinó participar (R-028). Se conserva solo lo que consta en el chat.",
+      "folio": ""
+    },
+    {
+      "id": "R-028",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Declinó participar en el asunto Robles y la Dirección lo aceptó",
+      "afirmacion": "Después del primer cuestionario, Kristel manifestó que no deseaba participar en lo relacionado con el asunto Robles, y la Dirección aceptó su decisión.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 25/10/2026. No consta por escrito en CHAT-D, CHAT-M2, CHAT-G ni CHAT-C.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Conviene un respaldo escrito (mensaje o correo) en que conste que su decisión se aceptó sin consecuencias, con la fecha.",
+      "folio": ""
+    },
+    {
+      "id": "R-029",
+      "fecha": "2025-12-05",
+      "tipo": "hecho",
+      "titulo": "Cálculo del aguinaldo 2025: «el salario sin bonos»",
+      "afirmacion": "Al pedir los datos para el aguinaldo de 2025, la jefatura indicó: «Diay no es el salario sin bonos y listo». Fiorella respondió: «nosotras recibimos bonos».",
+      "fuente": "CHAT-C, 3/12/25 8:25:23 a. m. y 5/12/25 5:34:58 p. m. a 5:35:51 p. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "El chat no muestra cómo se pagó finalmente. Si los bonos son habituales, integran el salario para el aguinaldo (N-019).",
+      "folio": ""
+    },
+    {
+      "id": "R-030",
+      "fecha": "2026-09-04",
+      "tipo": "hecho",
+      "titulo": "Horario administrativo de Kristel desde el 7/09/2026",
+      "afirmacion": "Lunes y martes de 11:00 a. m. a 8:00 p. m.; miércoles a viernes de 7:30 a. m. a 4:30 p. m.",
+      "fuente": "CHAT-C, 4/9/26 1:04:06 p. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "Las sesiones del plan se programan dentro de estas franjas (N-016).",
+      "folio": ""
+    },
+    {
+      "id": "R-031",
+      "fecha": "2025-06-09",
+      "tipo": "hecho",
+      "titulo": "El registro informal de desahogo en el grupo Crew es compartido por la jefatura y el equipo",
+      "afirmacion": "En el grupo Crew hay comentarios de cansancio y desahogo sobre terceros en los que participan la jefatura y el equipo administrativo, incluida Kristel (por ejemplo, el 9/06/2025: «Qué pereza de verdad», «Ya es demasiado», «Todas estamos cansadas»).",
+      "fuente": "CHAT-C, 9/6/25 1:10:48 p. m. a 1:21:02 p. m.; 24/6/25 9:37:52 a. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "Relevante para la igualdad de trato: el plan atiende la conducta ante pacientes, terceros y compañeras, no el desahogo interno que la propia jefatura comparte.",
+      "folio": ""
+    },
+    {
+      "id": "R-032",
+      "fecha": "2026-10-25",
+      "tipo": "hecho",
+      "titulo": "Los cuatro chats no contienen registro escrito de las conductas que motivan el plan",
+      "afirmacion": "En los cuatro chats (2019-2026) no se encontraron quejas escritas de pacientes sobre el trato de Kristel, reclamos salariales suyos, manifestaciones sobre cesantía, comentarios negativos sobre la empresa ante terceros ni conflictos con Fiorella atribuibles a ella.",
+      "fuente": "CHAT-D, CHAT-M2, CHAT-G y CHAT-C: lectura completa de CHAT-D y de CHAT-M2 desde junio de 2025; búsqueda por términos en CHAT-G y CHAT-C (queja, molest, groser, cortante, trato, tono, salario, aumento, cesant, aguinaldo, despid, renunci, ciza, chism, habla mal, Kris/Kristel, Fiorella).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "R-016",
+      "razon": "Se agrega CHAT-C, recibido el 25/10/2026. Hallazgo negativo: en CHAT-G y CHAT-C se buscó por términos, no se leyeron todos los mensajes.",
+      "folio": ""
+    },
+    {
+      "id": "N-019",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Base de cálculo del aguinaldo",
+      "afirmacion": "El aguinaldo equivale a la doceava parte de los salarios ordinarios y extraordinarios devengados entre el 1 de diciembre y el 30 de noviembre; los bonos e incentivos habituales que remuneran el trabajo forman parte del salario.",
+      "fuente": "Ley 2412 y jurisprudencia de la Sala Segunda sobre salario variable. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar texto y una sentencia sobre inclusión de bonos habituales.",
+      "folio": ""
+    },
+    {
+      "id": "N-020",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Reiteración de faltas y antecedentes disciplinarios",
+      "afirmacion": "Cada falta debe sancionarse dentro del mes desde que se conoce (N-006). Las amonestaciones escritas anteriores no se reabren, pero sirven de antecedente: una nueva falta, dentro del plazo, sumada a amonestaciones previas por conductas de la misma naturaleza, puede configurar falta grave.",
+      "fuente": "Código de Trabajo, arts. 81 y 414; jurisprudencia de la Sala Segunda por identificar.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Identificar al menos una sentencia de la Sala Segunda que lo sostenga antes de la decisión de despido.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
     {
       "id": "E-001",
       "titulo": "Despido sin responsabilidad patronal hoy",
-      "conclusion": "No recomendable. Las conductas que lo motivarían no constan por escrito [R-016] y sí constan reconocimientos recientes de su trabajo [R-011]. La carga de la prueba es del empleador y la carta de despido fija los hechos [N-005]; un despido no probado suma salarios caídos a preaviso y cesantía [N-011]. La cercanía con su colaboración en el asunto Robles [R-012] facilita una lectura de represalia [N-013].",
-      "depende_de": ["R-016", "R-011", "N-005", "N-011", "R-012", "N-013"]
+      "conclusion": "No recomendable. Las conductas que lo motivarían no constan por escrito [R-032] y sí constan reconocimientos recientes de su trabajo [R-011]. La carga de la prueba es del empleador y la carta de despido fija los hechos [N-005]; un despido no probado suma salarios caídos a preaviso y cesantía [N-011]. Respondió un primer cuestionario sobre el asunto Robles [R-027] y luego declinó participar, lo que se le aceptó [R-028]: el riesgo de represalia cambia de forma, pero no desaparece [N-013].",
+      "depende_de": [
+        "R-032",
+        "R-011",
+        "N-005",
+        "N-011",
+        "R-027",
+        "R-028",
+        "N-013"
+      ]
     },
     {
       "id": "E-002",
       "titulo": "Plan de mejora del desempeño",
       "conclusion": "Vía recomendada. Se ancla en un estándar que ella aceptó por escrito [R-009] y domina [R-010], aplica una práctica que la clínica ya usó con otra colaboradora [R-007] y responde a su propio pedido de retroalimentación directa [R-006]. Desde la entrega, cada hecho se registra el mismo día, dentro del plazo de un mes [N-006], con base en sus obligaciones contractuales [N-001, N-002].",
-      "depende_de": ["R-009", "R-010", "R-007", "R-006", "N-006", "N-001", "N-002"]
+      "depende_de": [
+        "R-009",
+        "R-010",
+        "R-007",
+        "R-006",
+        "N-006",
+        "N-001",
+        "N-002"
+      ]
     },
     {
       "id": "E-003",
       "titulo": "La expectativa de cesantía y aguinaldo",
       "conclusion": "El aguinaldo, las vacaciones y el Fondo de Capitalización Laboral se reciben en cualquier forma de terminación [N-008, N-009, N-018]. Solo el preaviso y la cesantía dependen de la causa [N-007]. El riesgo real es otro: que durante el plan cambien sus condiciones y ella termine el contrato con responsabilidad patronal [N-010].",
-      "depende_de": ["N-008", "N-009", "N-018", "N-007", "N-010"]
+      "depende_de": [
+        "N-008",
+        "N-009",
+        "N-018",
+        "N-007",
+        "N-010"
+      ]
     },
     {
       "id": "E-004",
       "titulo": "Salida negociada",
       "conclusion": "Opción legítima solo si ella la propone. Los derechos devengados se pagan íntegros [N-017]; lo negociable es el monto adicional. Conviene formalizarla ante el MTSS y compararla con el costo esperado de un litigio [N-011]. Nunca se sugiere ni se presiona una renuncia.",
-      "depende_de": ["N-017", "N-011"]
+      "depende_de": [
+        "N-017",
+        "N-011"
+      ]
+    },
+    {
+      "id": "E-005",
+      "titulo": "Ruta hacia el despido por justa causa después del plan",
+      "conclusion": "Viable si se construye durante el plan, no al final. No alcanzar una meta numérica es, por sí solo, una base débil; lo que sostiene la justa causa es la reiteración de conductas concretas, verificadas y advertidas [N-004, N-020]. Cada hecho se sanciona dentro del mes [N-006] con amonestación escrita; con antecedentes por la misma conducta y una falta nueva dentro del plazo, procede valorar el despido sin responsabilidad, con carta que describa los hechos [N-005]. Antes: protecciones especiales [R-025], cumplimiento patronal al día, incluido el aguinaldo de 2025 [R-026, R-029, N-019], y trato igual al resto del equipo [R-031].",
+      "depende_de": [
+        "N-004",
+        "N-020",
+        "N-006",
+        "N-005",
+        "R-025",
+        "R-026",
+        "R-029",
+        "N-019",
+        "R-031"
+      ]
     }
   ]
 }

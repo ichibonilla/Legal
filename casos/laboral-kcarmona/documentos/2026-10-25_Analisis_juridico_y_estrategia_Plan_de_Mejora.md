@@ -1,7 +1,7 @@
 # Análisis jurídico y estrategia · Plan de mejora de Kristel Carmona Soto
 
 Confidencial. Uso interno de la Dirección General de Grupo Poïesis.
-25 de octubre de 2026.
+25 de octubre de 2026. Revisión 2: incorpora el chat «Crew Poïesis», la aclaración sobre el asunto Robles y la ruta hacia la justa causa.
 
 Hechos y normas: `registro.json` de este caso. Cada cita [R-xxx] o [N-xxx] remite a él. Las normas están en estado POR VERIFICAR: la consulta al SCIJ no fue posible desde la sesión de trabajo, y conviene cotejarlas antes de cualquier medida disciplinaria.
 
@@ -9,55 +9,98 @@ Hechos y normas: `registro.json` de este caso. Cada cita [R-xxx] o [N-xxx] remit
 
 ## 1. Conclusión
 
-1. **El plan de mejora es la vía correcta hoy.** Un despido sin responsabilidad patronal, en este momento, tendría alta probabilidad de declararse injustificado: las conductas descritas no constan por escrito [R-016] y sí constan reconocimientos recientes de su trabajo [R-011].
-2. **El plan se apoya en un estándar que ella aceptó por escrito**: el Protocolo de Atención del 19 de febrero de 2026, que confirmó como «entendido y de acuerdo» [R-009], y cuyo lenguaje domina [R-010]. Así, una percepción («es cortante») se convierte en un incumplimiento verificable.
-3. **Lo que está en juego económicamente es menor de lo que ella parece suponer.** El aguinaldo, las vacaciones y el Fondo de Capitalización Laboral se reciben en cualquier forma de terminación [N-008, N-009, N-018]. Solo el preaviso y la cesantía dependen de la causa [N-007].
-4. **El riesgo principal no es pagar la cesantía.** Es un despido no probado, que suma salarios caídos [N-011], o un reclamo por despido indirecto si durante el plan cambian sus condiciones [N-010].
-5. **Hay una coincidencia de fechas que pide cuidado.** El 7 de octubre de 2026 respondió un cuestionario sobre el asunto Robles [R-012] y ha tenido acceso a material del litigio laboral de la empresa [R-013]. El plan no se mezcla con esos asuntos, ni en el texto ni en la conversación.
+1. **El plan de mejora es la vía correcta hoy, y es también el primer tramo hacia una eventual justa causa.** Un despido sin responsabilidad patronal, en este momento, tendría alta probabilidad de declararse injustificado: las conductas descritas no constan por escrito en ninguno de los cuatro chats [R-032] y sí constan reconocimientos recientes de su trabajo [R-011].
+2. **La justa causa se construye durante el plan, no al final.** No alcanzar una meta numérica es, por sí solo, una base débil. Lo que sostiene un despido es la reiteración de conductas concretas, verificadas, advertidas por escrito y sancionadas cada una dentro del mes [N-006, N-020]. La sección 5 detalla esa ruta.
+3. **El plan se apoya en un estándar que ella aceptó por escrito**: el Protocolo de Atención del 19 de febrero de 2026, que confirmó como «entendido y de acuerdo» [R-009], y cuyo lenguaje domina [R-010].
+4. **Lo que está en juego económicamente es menor de lo que ella parece suponer.** El aguinaldo, las vacaciones y el Fondo de Capitalización Laboral se reciben en cualquier forma de terminación [N-008, N-009, N-018]. Solo el preaviso y la cesantía dependen de la causa [N-007].
+5. **Conviene revisar el aguinaldo de 2025 antes de entregar el plan.** En diciembre de 2025 se indicó que el dato era «el salario sin bonos», y el equipo recibe bonos [R-029]. Si esos bonos son habituales, integran la base del aguinaldo [N-019]. Una diferencia pendiente sería un reclamo legítimo y, sobre todo, un argumento para que ella termine el contrato con responsabilidad patronal [N-010].
+6. **Asunto Robles.** Kristel respondió un primer cuestionario el 7 de octubre [R-027] y luego declinó participar, decisión que la Dirección aceptó [R-028]. El riesgo cambia de forma, pero no desaparece: el argumento ya no sería «me sancionaron por declarar», sino «me sancionaron por negarme a declarar a favor de la empresa». Conviene dejar por escrito que su decisión se aceptó sin consecuencias, y que el plan no lo mencione.
 
 ## 2. Lo que muestran los chats y lo que no
 
-Se revisaron tres exportaciones: el chat directo, la línea Móvil II y el grupo «Assist with Love» (2019-2026).
+Se revisaron cuatro exportaciones: el chat directo, la línea Móvil II, el grupo «Assist with Love» y el grupo «Crew Poïesis» (2019-2026).
 
 | Lo que consta | Lo que no consta |
 |---|---|
-| Puesto y funciones: agenda, archivo, cierres de caja y, en 2024, coordinación de recursos humanos [R-002, R-003, R-015] | Quejas escritas de pacientes sobre su trato [R-017] |
-| Aceptación del Protocolo de Atención [R-009] y dominio de su lenguaje [R-010] | Comentarios negativos sobre la empresa [R-019] |
+| Puesto, funciones y horario [R-002, R-003, R-015, R-030] | Quejas escritas de pacientes sobre su trato [R-017] |
+| Aceptación del Protocolo de Atención [R-009] y dominio de su lenguaje [R-010] | Comentarios negativos sobre la empresa ante terceros [R-019] |
 | Reconocimientos escritos entre noviembre de 2025 y el 23 de octubre de 2026 [R-011] | Manifestaciones sobre buscar el despido [R-020] |
 | En 2024 pidió retroalimentación directa; la respuesta fue «no veo que hagas mal tu trabajo, lo diría» [R-006] | Conflictos con Fiorella atribuibles a ella [R-021] |
 | Una práctica previa de cartas de mejora con entrenamiento [R-007] | Reclamos salariales escritos |
+| Cálculo del aguinaldo 2025 «sin bonos» [R-029] | Constancia escrita de que declinó participar en el asunto Robles [R-028] |
+| Un registro informal de desahogo en el grupo Crew, compartido por la jefatura y el equipo [R-031] | |
 
 **Lectura.** Lo que la Dirección percibe probablemente ocurre de forma verbal: en el teléfono, en recepción, entre compañeras. Eso no lo hace menos real, pero sí invisible para un juez. El plan corrige esa asimetría: desde su entrega, cada hecho se registra el mismo día.
 
-Un dato adicional, útil para el encuadre: en noviembre de 2024 ella misma pidió que, si había un problema con su trabajo, se le dijera de manera directa [R-006]. El plan responde a esa solicitud.
+Un dato útil para el encuadre: en noviembre de 2024 ella misma pidió que, si había un problema con su trabajo, se le dijera de manera directa [R-006]. El plan responde a esa solicitud.
 
 ## 3. Marco jurídico, en términos operativos
 
 - **Obligaciones de la trabajadora.** El contrato obliga a la buena fe [N-001] y a ejecutar el trabajo con cuidado y esmero, con buenas costumbres en horas de trabajo [N-002]. El trato a pacientes conforme al protocolo es parte de ese contenido.
-- **Plazo para sancionar.** Un mes desde que la jefatura conoce el hecho [N-006]. Lo ocurrido antes sirve de contexto, no de base de sanción. De ahí la importancia de registrar el mismo día.
+- **Plazo para sancionar.** Un mes desde que la jefatura conoce el hecho [N-006]. Lo ocurrido antes sirve de contexto, no de base de sanción. Un plan de 60 días que acumule hechos para evaluarlos al final dejaría vencer los primeros.
 - **Gradualidad.** Sin Reglamento Interior de Trabajo aprobado [R-024], la secuencia prudente es: conversación documentada, amonestación escrita y, ante reincidencia, valoración de despido. La suspensión sin goce de salario requiere base reglamentaria [N-014].
-- **Despido sin responsabilidad.** Solo por causa justa [N-004]. El trato inadecuado a pacientes no es una prohibición expresa del artículo 72 [N-003]; encuadra, en principio, como falta grave a las obligaciones del contrato, con más solidez cuando persiste después de amonestaciones escritas. La carga de la prueba es del empleador, y la carta de despido fija los hechos que pueden invocarse en juicio [N-005].
+- **Despido sin responsabilidad.** Solo por causa justa [N-004]. El trato inadecuado a pacientes no es una prohibición expresa del artículo 72 [N-003]; encuadra como falta grave a las obligaciones del contrato, con más solidez cuando persiste después de amonestaciones escritas [N-020]. La carga de la prueba es del empleador, y la carta de despido fija los hechos que pueden invocarse en juicio [N-005].
 - **Si el despido no se prueba.** Preaviso, cesantía y salarios caídos [N-011]. Un despido sin responsabilidad mal sustentado cuesta más que uno con responsabilidad.
-- **Despido indirecto.** Si el empleador altera condiciones esenciales (salario, horario, funciones, trato), ella puede terminar el contrato con responsabilidad patronal [N-010].
+- **Despido indirecto.** Si el empleador altera condiciones esenciales o incumple obligaciones salariales, ella puede terminar el contrato con responsabilidad patronal [N-010].
 - **Protecciones especiales.** Embarazo o lactancia notificados [N-012]; no discriminación y tutela de fueros [N-013]. Se verifican antes de cualquier medida [R-025].
 - **Datos de pacientes.** Son datos sensibles; en el expediente de este proceso se usan códigos, nunca nombres ni contenido clínico [N-015].
-- **Reuniones del plan.** Dentro de la jornada. Fuera de ella son jornada extraordinaria [N-016]; el intercambio del 21 de agosto con Fiorella muestra que el equipo conoce este punto [R-014].
+- **Reuniones del plan.** Dentro de su horario [R-030]. Fuera de él son jornada extraordinaria [N-016].
 
 ## 4. Riesgos y cómo se atienden
 
 | Riesgo | Base | Medida |
 |---|---|---|
-| Despido sin prueba suficiente | [R-016], [N-011] | Plan de mejora y bitácora diaria de hechos |
-| Lectura de represalia | [R-012], [R-013], [N-013] | El asunto Robles se canaliza solo por medio de la abogada; el plan no lo menciona; los motivos del plan son hechos de servicio, con fecha |
+| Despido sin prueba suficiente | [R-032], [N-011] | Plan de mejora, bitácora diaria y amonestación por cada hecho verificado |
+| Prescripción de hechos durante el plan | [N-006] | Cada hecho se conversa y, si corresponde, se sanciona dentro del mes; no se acumulan para el día 60 |
+| Lectura de represalia por no participar en el asunto Robles | [R-027], [R-028], [N-013] | Constancia escrita de que su decisión se aceptó sin consecuencias; el plan no lo menciona; los motivos son hechos de servicio, con fecha posterior a la entrega |
+| Diferencia en el aguinaldo de 2025 | [R-029], [N-019] | Revisar la base con contabilidad y, si corresponde, pagar la diferencia antes de entregar el plan, a todo el equipo en la misma situación |
 | Despido indirecto | [N-010] | Durante el plan no cambian salario, horario, funciones ni sede |
-| Percepción de acoso laboral | [N-013] | Seguimiento en privado, por escrito y en tono neutro; ninguna corrección en los grupos de trabajo |
+| Desigualdad de trato | [R-031] | El plan atiende conductas ante pacientes, terceros y compañeras, no el desahogo interno; el mismo estándar se aplica a todo el equipo |
+| Percepción de acoso laboral | [N-013] | Seguimiento en privado, por escrito y en tono neutro; ninguna corrección ni comentario sobre el proceso en los grupos |
 | Extensión del conflicto al equipo | [R-014], [R-021] | Plan individual y confidencial; Fiorella no participa como fuente de evaluación ni como testigo de entrega |
-| Incumplimientos propios del empleador | [R-026] | Revisión previa de planilla CCSS e INS por el salario real, aguinaldo de 2025 y vacaciones |
 | Expediente administrado por ella | [R-003] | La Dirección custodia el expediente del plan fuera de las carpetas que ella gestiona |
 
-Sobre la forma en los grupos: un juez lee los chats completos. Intercambios como el del 21 de agosto [R-014] se leen como clima de trabajo, aunque el fondo tenga razón. Para este proceso conviene que todo lo correctivo vaya por escrito y en privado, y que los grupos se reserven para coordinación.
+Sobre los grupos de WhatsApp: un juez lee los chats completos. El grupo Crew tiene un registro informal compartido por la jefatura y el equipo [R-031]; el grupo general contiene el intercambio del 21 de agosto con Fiorella [R-014]. Para este proceso conviene que, desde hoy, ningún grupo contenga comentarios sobre Kristel ni sobre el plan, y que todo lo correctivo vaya por escrito y en privado.
 
-## 5. Cesantía, aguinaldo y lo que recibe en cada escenario
+## 5. Ruta hacia el despido por justa causa
+
+**El principio.** La justa causa no surge del plan en sí, sino de lo que ocurre durante y después de él: conductas concretas, verificadas, advertidas por escrito y reiteradas.
+
+**Durante el plan**
+
+1. Cada situación se registra en la bitácora el mismo día, con fecha, descripción sin adjetivos y fuente.
+2. Se conversa con ella en un plazo breve, y su versión se anota.
+3. Si la situación se verifica, se le entrega una amonestación escrita dentro del mes desde que se conoció [N-006]. La plantilla está en `escritos/Plantilla_Amonestacion_Escrita_KCarmona.md`.
+4. Las amonestaciones se refieren a conductas de la misma naturaleza (trato a pacientes, comunicación ante terceros, relaciones de trabajo), para que la reiteración sea clara.
+
+**Umbral para valorar el despido**
+
+- Al menos una amonestación escrita previa, y preferiblemente dos, por conductas de la misma naturaleza, y una falta nueva, verificada y ocurrida o conocida dentro del último mes [N-020]; o
+- Un hecho grave por sí mismo, por ejemplo un trato ofensivo a un paciente o el mal manejo de una persona en crisis contrario al protocolo, que puede justificar el despido sin pasar por amonestaciones previas [N-004].
+
+**Antes de decidir**
+
+| Verificación | Base |
+|---|---|
+| La última falta ocurrió o se conoció hace menos de un mes | [N-006] |
+| Cada hecho tiene fuente: queja escrita, bitácora, testigo identificado | [R-017], [R-018] |
+| Ella fue escuchada sobre cada hecho y su versión consta | Plan, sección 9 |
+| Las amonestaciones previas fueron entregadas con constancia | Plantilla de amonestación |
+| No hay protección especial vigente | [R-025], [N-012] |
+| El empleador está al día: planilla, aguinaldo 2025, vacaciones | [R-026], [R-029] |
+| El mismo estándar se ha aplicado al resto del equipo | [R-031] |
+| La abogada revisó el expediente | — |
+
+**La carta de despido** [N-005]
+
+- Describe cada hecho con fecha, de forma puntual y clara, y cita la causal. En juicio solo podrán invocarse esos hechos.
+- Se entrega personalmente, en el acto del despido, con constancia de recibido. Si ella se niega a recibirla, se remite al Ministerio de Trabajo dentro del plazo legal.
+- La liquidación incluye siempre salario pendiente, aguinaldo proporcional y vacaciones no disfrutadas [N-008, N-009].
+- La redacta o revisa la abogada con el expediente completo.
+
+**Si al día 60 la prueba no alcanza.** Las opciones son extender el plan una sola vez, hasta por 30 días, o, si la decisión de terminar la relación se mantiene, un despido con responsabilidad patronal, que resulta más predecible y menos costoso que una justa causa que no se logre probar [N-011].
+
+## 6. Cesantía, aguinaldo y lo que recibe en cada escenario
 
 | Concepto | Renuncia | Despido con responsabilidad | Despido sin responsabilidad, probado | Despido sin responsabilidad, no probado |
 |---|---|---|---|---|
@@ -69,48 +112,49 @@ Sobre la forma en los grupos: un juez lee los chats completos. Intercambios como
 | Cesantía [N-007] | No | Sí | No | Sí |
 | Salarios caídos [N-011] | No | No | No | Sí |
 
-**Orden de magnitud.** Con presencia desde 2022 [R-004], la cesantía rondaría 21 días de salario por año trabajado, más un mes de preaviso, sobre el promedio de los últimos seis meses [N-007]. El cálculo exacto requiere la fecha formal de ingreso y la planilla [R-022].
+**Orden de magnitud.** Con presencia desde 2022 [R-004], la cesantía rondaría 21 días de salario por año trabajado, más un mes de preaviso, sobre el promedio de los últimos seis meses, bonos incluidos [N-007]. El cálculo exacto requiere la fecha formal de ingreso y la planilla [R-022].
 
 **En la conversación.** Si ella menciona la cesantía o el aguinaldo, la respuesta exacta y neutra desactiva un malentendido: el aguinaldo y las vacaciones se pagan en cualquier caso. No se sugiere ni se insinúa una renuncia; una renuncia inducida puede impugnarse.
 
-## 6. Si ella propone una salida negociada
+## 7. Si ella propone una salida negociada
 
 Es una opción legítima. Los derechos devengados (salarios, aguinaldo, vacaciones) se pagan completos [N-017]; lo negociable es un monto adicional. Conviene formalizar el acuerdo ante el Ministerio de Trabajo y compararlo antes con el costo esperado de un litigio [N-011]. La decisión corresponde a la Dirección General, con criterio de la abogada.
 
-## 7. Lectura clínico-institucional
+## 8. Lectura clínico-institucional
 
 La queja reiterada y el deseo de que «la echen» tienen una estructura reconocible: la separación se desea, pero se pide que otro la decida y cargue con ella. Si la institución responde desde el espejo, con irritación, réplica pública o rivalidad, confirma la escena y la alimenta. Si responde con complacencia, la queja se desplaza hacia donde hace más daño: la atención a pacientes.
 
-La respuesta que sostiene es la del encuadre: reglas claras, iguales para todo el equipo, dichas en privado, y un lugar formal donde la queja pueda decirse. Por eso el plan incluye una reunión con la Dirección sobre salario y condiciones. Lo que encuentra palabra tiende a dejar de actuarse en recepción.
+La respuesta que sostiene es la del encuadre: reglas claras, iguales para todo el equipo, dichas en privado, y un lugar formal donde la queja pueda decirse. Por eso el plan incluye una reunión con la Dirección sobre salario y condiciones. Lo que encuentra palabra tiende a dejar de actuarse en recepción. Y si no deja de actuarse, el encuadre ya habrá producido, con serenidad, el registro que la ley exige.
 
 Esta lectura no es un diagnóstico de la colaboradora ni debe aparecer en ningún documento que se le entregue.
 
-## 8. Secuencia y roles
+## 9. Secuencia y roles
 
 | Paso | Cuándo | Ejecuta | Aprueba |
 |---|---|---|---|
-| 0. Verificaciones previas [R-022 a R-026] | Semana del 26 de octubre | Silvia, con contabilidad | Carlos |
+| 0. Verificaciones previas [R-022 a R-026], aguinaldo 2025 [R-029] y constancia sobre el asunto Robles [R-028] | Semana del 26 de octubre | Silvia, con contabilidad | Carlos |
 | 1. Documentación de hechos de los últimos 30 días, con fecha y fuente | De inmediato | Silvia | — |
 | 2. Decisión: plan solo, o plan más amonestación escrita si hay un hecho reciente, probado y relevante | Al cerrar el paso 1 | Carlos, con la abogada | Carlos |
 | 3. Cotejo del plan sin observaciones | Antes de la entrega | Silvia | Carlos |
 | 4. Reunión de entrega | Día 0 | Silvia conduce; Carlos presente | — |
-| 5. Seguimientos | Días 15, 30 y 45 | Silvia | — |
+| 5. Seguimientos; amonestación por cada hecho verificado, dentro del mes | Días 15, 30 y 45, y cuando ocurra un hecho | Silvia | Carlos |
 | 6. Cierre | Día 60 | Silvia y Carlos | Carlos |
-| 7. Si no hay mejora | Al cierre | Amonestación escrita; ante reincidencia documentada, valoración con la abogada de despido sin responsabilidad o, si la prueba es insuficiente, con responsabilidad | Carlos |
+| 7. Si se alcanza el umbral de la sección 5 | Cuando ocurra | Carta de despido revisada por la abogada | Carlos |
 
 Mide: Silvia (lista de verificación, bitácora, quejas). Aprueba: Carlos. No participan en la evaluación compañeras del mismo nivel.
 
-## 9. Guion de la reunión de entrega
+## 10. Guion de la reunión de entrega
 
-**Encuadre.** Lugar privado, dentro de la jornada, 30 a 40 minutos. Silvia conduce; Carlos acompaña. Dos copias impresas del plan.
+**Encuadre.** Lugar privado, dentro de su horario [R-030], 30 a 40 minutos. Silvia conduce; Carlos acompaña. Dos copias impresas del plan.
 
 1. **Apertura.** El propósito, en una frase: que la atención a pacientes y la relación con el equipo correspondan al estándar de Poïesis, con apoyo de la clínica.
 2. **Reconocimiento.** Lo que se valora de su trabajo, con ejemplos concretos (sección 2 del plan).
 3. **Hechos.** Lectura de las situaciones, tal como están escritas, sin agregar adjetivos.
 4. **Estándar y metas.** El protocolo que ya conoce y la lista de verificación.
 5. **Apoyos.** Repaso del protocolo, seguimientos y la reunión con la Dirección sobre sus inquietudes.
-6. **Escucha.** Espacio para su versión. Se anota textualmente y se incorpora a la minuta.
-7. **Cierre.** Firma de recibido, que no implica acuerdo; cinco días hábiles para observaciones escritas; entrega de copia.
+6. **Consecuencias.** La sección 8 del plan, leída con serenidad y sin énfasis adicional.
+7. **Escucha.** Espacio para su versión. Se anota textualmente y se incorpora a la minuta.
+8. **Cierre.** Firma de recibido, que no implica acuerdo; cinco días hábiles para observaciones escritas; entrega de copia.
 
 **Si menciona el salario.** Se agenda la reunión con la Dirección prevista en el plan; no se discute en esta.
 
@@ -120,24 +164,27 @@ Mide: Silvia (lista de verificación, bitácora, quejas). Aprueba: Carlos. No pa
 
 **Lo que no se trata.** El asunto Robles, el litigio, Fiorella, conjeturas sobre sus intenciones y comparaciones con otras personas.
 
-## 10. Bitácora de hechos durante el plan
+## 11. Bitácora de hechos durante el plan
 
-| Fecha y hora | Canal | Qué se dijo o hizo (textual si es posible) | Paciente (código) | Quién lo observó | Evidencia | Se conversó con ella |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| Fecha y hora | Canal | Qué se dijo o hizo (textual si es posible) | Paciente (código) | Quién lo observó | Evidencia | Conversado con ella | Medida y fecha |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
 
 Criterios:
 
 - Se registra el mismo día.
 - Se describen conductas, no rasgos: «respondió "no hay espacio" y cerró la conversación», no «fue grosera».
 - Las quejas de pacientes, idealmente por escrito (correo o WhatsApp), sin datos clínicos, y con la indicación de que se usarán internamente.
-- Cada hecho se conversa con ella en el seguimiento siguiente, y su respuesta se anota.
+- Cada hecho se conversa con ella antes de cualquier medida, y su respuesta se anota.
+- La columna «Medida y fecha» permite comprobar de un vistazo que ningún hecho quedó sin atender dentro del mes.
 
-## 11. Pendientes antes de entregar el plan
+## 12. Pendientes antes de entregar el plan
 
 - Documentar los hechos de la sección 3 del plan [R-017, R-018, R-019, R-021].
+- Constancia escrita de que su decisión de no participar en el asunto Robles se aceptó sin consecuencias [R-028].
+- Revisar la base del aguinaldo de 2025 y pagar la diferencia si corresponde [R-029, N-019].
 - Confirmar nombre y cédula contra el documento de identidad [R-001].
-- Contrato, fecha de ingreso, horario y salario [R-022]; comparación con el salario mínimo [R-023].
+- Contrato, fecha de ingreso y salario [R-022]; comparación con el salario mínimo [R-023].
 - Reglamento Interior de Trabajo [R-024]; protecciones especiales [R-025]; cumplimiento patronal [R-026].
-- Cotejar en el SCIJ las normas N-001 a N-018 y marcarlas VERIFICADO con fecha.
+- Cotejar en el SCIJ las normas N-001 a N-020 e identificar una sentencia de la Sala Segunda sobre reiteración de faltas [N-020].
 - Ejecutar el cotejo del plan hasta que no queden observaciones.

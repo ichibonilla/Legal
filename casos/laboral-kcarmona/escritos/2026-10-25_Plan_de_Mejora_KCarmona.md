@@ -140,7 +140,9 @@ Cada reunión deja una minuta breve, firmada por usted y por la jefatura (Anexo 
 - **Avance claro, aunque incompleto.** El plan puede extenderse una sola vez, hasta por 30 días.
 - **Metas no alcanzadas.** La clínica aplicará las medidas disciplinarias que correspondan, de forma proporcional y conforme al Código de Trabajo [N-004].
 
-Si durante la vigencia ocurriera un hecho grave, se atenderá conforme a la ley, con independencia de este plan.
+Cada situación que se verifique durante la vigencia del plan se conversará con usted y podrá dar lugar, en ese momento, a la medida disciplinaria que corresponda [N-006].
+
+Le informamos con claridad que la reiteración de las situaciones descritas, después de este plan y de las amonestaciones que se hayan aplicado, puede constituir falta grave y dar lugar a la terminación del contrato sin responsabilidad patronal [N-004, N-020]. Si durante la vigencia ocurriera un hecho grave, se atenderá conforme a la ley, con independencia de este plan.
 
 ## 9. Su participación
 
