@@ -1,0 +1,43 @@
+<!-- Generado por herramientas/registro.py el 2026-10-25 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+
+
+# Pendientes y por verificar
+
+## PENDIENTE (10)
+
+- **R-017** — Quejas de pacientes sobre el trato de Kristel. La Dirección refiere varias quejas; ninguna consta por escrito en las fuentes revisadas (R-016).
+- **R-018** — Observaciones directas de la jefatura sobre trato inadecuado a pacientes. Hechos con más de un mes desde que la jefatura los conoció sirven de contexto, no de base disciplinaria (N-006).
+- **R-019** — Comentarios negativos sobre la empresa. Quejarse ante la jefatura es legítimo; lo relevante son los comentarios ante pacientes o terceros.
+- **R-020** — Manifestaciones sobre buscar el despido para cobrar cesantía. No es falta por sí misma; sirve como contexto para leer conductas posteriores. No se incluye en el plan.
+- **R-021** — Episodios concretos de conflicto con Fiorella atribuibles a Kristel. Existe una tensión previa entre la Dirección y Fiorella (R-014); sin episodios concretos, el punto no entra al plan.
+- **R-022** — Contrato, fecha formal de ingreso, horario y salario. Necesario para el plan y para estimar preaviso y cesantía (N-007).
+- **R-023** — Salario frente al mínimo legal de su categoría. La Dirección indica que gana por encima de la norma; conviene tenerlo documentado.
+- **R-024** — Existencia de Reglamento Interior de Trabajo aprobado. No aparece en las fuentes revisadas. Define si cabe la suspensión sin goce (N-014).
+- **R-025** — Verificación de protecciones especiales. Cualquiera de esas situaciones cambia el procedimiento (N-012, N-013).
+- **R-026** — Cumplimiento patronal al día. Es lo primero que revisa la defensa de una trabajadora ante cualquier medida.
+
+## POR VERIFICAR (19)
+
+- **R-001** — Nombre completo y cédula consignados en el grupo. Fuente: CHAT-G, 4/21/26 2:20:49 PM (Siggie - Poïesis Móvil I); contexto 1:56:58 PM y 2:18 PM. El mensaje existe, pero el dato se digitó desde otra línea; cotejar con la cédula y la planilla antes de usarlo en el plan.
+- **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
+- **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
+- **N-003** — Código de Trabajo, art. 72: prohibiciones de la persona trabajadora. Fuente: Código de Trabajo, art. 72. SCIJ. Cotejar en SCIJ. Relevante porque la causal de reincidencia tras apercibimiento del art. 81 remite a estas prohibiciones.
+- **N-004** — Código de Trabajo, art. 81: causas justas de despido sin responsabilidad patronal. Fuente: Código de Trabajo, art. 81 (incisos i y l, por confirmar; la Ley 10090 adicionó un inciso n). Jurisprudencia de la Sala Segunda por identificar. Confirmar letras de incisos, el contenido del inciso n) y una sentencia de la Sala Segunda sobre reiteración de faltas leves.
+- **N-005** — Código de Trabajo, art. 35 (Ley 9343): carta de despido. Fuente: Código de Trabajo, art. 35 reformado por la Ley 9343 (Reforma Procesal Laboral); efecto procesal en el art. 500 (por confirmar). Confirmado solo por fuentes secundarias (búsqueda del 25/10/2026); cotejar texto y plazo de remisión en SCIJ.
+- **N-006** — Prescripción de la potestad disciplinaria: un mes. Fuente: Código de Trabajo, art. 414 (numeración posterior a la Ley 9343; antes art. 603). Sala Segunda. Número de artículo confirmado por fuente secundaria (CIJUL); el plazo de un mes, de memoria. Cotejar en SCIJ.
+- **N-007** — Código de Trabajo, arts. 28 y 29: preaviso y cesantía. Fuente: Código de Trabajo, arts. 28 y 29. SCIJ. Tabla exacta y tratamiento de fracciones de año por cotejar.
+- **N-008** — Ley de aguinaldo: se paga en cualquier forma de terminación. Fuente: Ley 2412 (aguinaldo para la empresa privada) y sus reformas. SCIJ. Cotejar artículo exacto en SCIJ.
+- **N-009** — Vacaciones proporcionales al terminar la relación. Fuente: Código de Trabajo, arts. 153 y siguientes (en particular art. 156). SCIJ. Cotejar artículo exacto.
+- **N-010** — Código de Trabajo, art. 83: terminación por la trabajadora con responsabilidad patronal. Fuente: Código de Trabajo, art. 83. SCIJ. Cotejar incisos.
+- **N-011** — Código de Trabajo, art. 82: consecuencias del despido no justificado. Fuente: Código de Trabajo, art. 82. SCIJ. Confirmar el tope vigente de los salarios caídos.
+- **N-012** — Código de Trabajo, art. 94: protección de la trabajadora embarazada o en lactancia. Fuente: Código de Trabajo, arts. 94 y 94 bis. SCIJ. Cotejar redacción y procedimiento.
+- **N-013** — Prohibición de discriminación y proceso de tutela (Ley 9343). Fuente: Código de Trabajo, arts. 404 y siguientes y 540 y siguientes (Ley 9343). Estado legislativo del acoso laboral según búsqueda del 25/10/2026 (expedientes 18.136 y 20.873, no aprobados según fuentes secundarias). Confirmar numeración en SCIJ y que no se haya aprobado una ley de acoso laboral en 2026.
+- **N-014** — Reglamento Interior de Trabajo y sanciones disciplinarias. Fuente: Código de Trabajo, arts. 66 a 68. SCIJ. Cotejar; confirmar el criterio jurisprudencial sobre suspensiones sin reglamento.
+- **N-015** — Ley 8968: datos sensibles de salud. Fuente: Ley 8968, Protección de la Persona frente al Tratamiento de sus Datos Personales. SCIJ. Cotejar artículos aplicables.
+- **N-016** — Jornada extraordinaria remunerada. Fuente: Código de Trabajo, art. 139. SCIJ. Cotejar.
+- **N-017** — Irrenunciabilidad de derechos laborales. Fuente: Código de Trabajo, art. 11. SCIJ. Cotejar.
+- **N-018** — Fondo de Capitalización Laboral. Fuente: Ley 7983, Ley de Protección al Trabajador. SCIJ. Cotejar artículo aplicable.
+
+## Sin folio (44 de 44 vigentes)
+
+Se completan de una sola vez cuando llegue el expediente certificado.
