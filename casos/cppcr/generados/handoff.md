@@ -52,17 +52,28 @@ El vicio queda documentado. Seis de los siete votantes del 680 eran los recusado
 
 ### E-006 — Amparo por el rechazo de las denuncias sobre expedientes y por las denuncias contra los avisos
 
-Viabilidad baja en el objeto planteado. La Sala ya resolvió dos veces que el trámite de las denuncias y la tutela administrativa de los expedientes corresponden a la vía ordinaria [R-031, R-059], y puede rechazar por el fondo la reiteración de una gestión igual o similar [N-013]. Las denuncias siguen en vía recursiva [R-050, R-052, R-053], y la corrección de lo resuelto es legalidad ordinaria salvo arbitrariedad manifiesta [R-060]. Lo nuevo, el trato asimétrico entre la denuncia archivada y la que se tramita contra el Dr. Bonilla [R-057], rinde más en la revocatoria pendiente, en la apelación ante la Asamblea General [N-025] y en el contencioso [N-026] que en un amparo. Un amparo estrecho sería viable solo ante una omisión concreta y actual: la falta de entrega del expediente que ordenó la Junta [R-058], si persiste más allá de diez días hábiles desde el 21/10/2026 [N-016]; la falta de acceso a las denuncias del Exp. 32-2026 si el trámite avanza sin darlo [R-054]; o una orden de retirar los avisos antes de una decisión firme, que sería censura previa [N-018]. La protección de las personas usuarias no depende del Colegio: la comunicación individual a cada persona, activa o pasiva, y las vías sanitaria y de protección de datos que la Sala dejó abiertas son más rápidas y menos expuestas [R-059, N-019, N-020, N-021]. Sobre los avisos, la querella sigue pendiente [R-049]; lo que diga la resolución contravencional [R-048] debe leerse antes de invocarlo.
+Viabilidad baja en el objeto planteado. La Sala ya resolvió dos veces que el trámite de las denuncias y la tutela administrativa de los expedientes corresponden a la vía ordinaria [R-031, R-059], y puede rechazar por el fondo la reiteración de una gestión igual o similar [N-013]. Lo que la Sala dijo vincula también al Colegio como precedente [N-028]: nombró la dimensión disciplinaria del asunto y dejó a salvo esa vía [R-059], lo que contradice la tesis de que la custodia está «fuera de la competencia deontológica» [R-062]. Esa contradicción y el trato asimétrico ya cotejado [R-064] rinden más en la revocatoria, en la apelación ante la Asamblea General [N-025] y en el contencioso [N-026]; pueden abrir la puerta de la arbitrariedad manifiesta que la Sala dejó [R-060] si la vía administrativa no los corrige. El Acuerdo 867 no abre plazo: solo da audiencia a la Fiscalía [R-061]. Los dos frentes con lesión directa y actual son el acceso a expedientes: el 05-2026 ordenado y no entregado, y el del Exp. 32-2026, pedido y no entregado mientras el Tribunal decidió continuar el trámite [R-058, R-063, R-065]. La protección de las personas usuarias pasivas se desarrolla en E-007 y la defensa del Exp. 32-2026 en E-008.
 
-> Advertencia: R-048 está PENDIENTE. R-053 está PENDIENTE. R-057 está POR VERIFICAR. N-013 está POR VERIFICAR. N-018 está POR VERIFICAR. N-019 está POR VERIFICAR. N-020 está POR VERIFICAR. N-021 está POR VERIFICAR. N-025 está POR VERIFICAR. N-026 está POR VERIFICAR.
+> Advertencia: N-013 está POR VERIFICAR. N-025 está POR VERIFICAR. N-026 está POR VERIFICAR. N-028 está POR VERIFICAR.
 
-## Pendientes (3)
+### E-007 — Personas usuarias pasivas: vacío de tutela y ruta hacia un amparo sólido
+
+Es la lesión constitucional de mayor peso y la menos atendida. Las personas usuarias son titulares de sus datos de salud, que gozan de protección reforzada [N-017, N-019, N-020]; según la propia Fiscalía, solo ellas pueden pedir su expediente [R-067], pero las pasivas no saben quién lo tiene. La Fiscalía declinó valorar cuántas personas estaban activas [R-062], la PRODHAB remitió al Colegio [R-068] y la Sala dejó a salvo las vías «que resulten competentes» [R-059]. No conviene que la clínica contacte por iniciativa propia a personas pasivas: puede ser clínicamente intrusivo, expone datos sensibles a terceros y requiere una base legal clara. La tutela debe pedirse a la autoridad competente: la PRODHAB, ante la que el Dr. Bonilla figura como responsable del resguardo [R-066], con aviso de la vulneración si el Reglamento lo exige [N-029]; el Ministerio de Salud por la habilitación del establecimiento [N-021, N-031]; y la Auditoría General de Servicios de Salud [N-030]. Si esas autoridades declinan o no actúan en un plazo razonable [N-016], quedaría documentada una omisión directa, posterior a la Sentencia 2026-033012 y atribuible a autoridades distintas del Colegio: base de un amparo nuevo, en favor de las personas usuarias y sin individualizarlas, para que la autoridad competente adopte medidas dentro de su propia competencia. Viabilidad estimada: moderada. Con personas menores de edad, el estándar es más alto [N-017, N-038].
+
+> Advertencia: N-019 está POR VERIFICAR. N-020 está POR VERIFICAR. N-021 está POR VERIFICAR. N-029 está POR VERIFICAR. N-030 está POR VERIFICAR. N-031 está POR VERIFICAR. N-038 está POR VERIFICAR. R-066 está POR VERIFICAR. R-067 está POR VERIFICAR. R-068 está POR VERIFICAR.
+
+### E-008 — Exp. 32-2026: defensa y riesgo de indefensión
+
+Es el frente con mayor riesgo inmediato. El Tribunal decidió continuar el trámite [R-063] sin haber entregado el expediente pedido el 30/09 y el 07/10 [R-065]; incorporó a la Fiscalía como denunciante, la misma que declaró la custodia de expedientes ajena a su competencia [R-062, R-064]; y la resolución del 05/10 la firmó solo la Presidenta, hoy recusada. Si el Tribunal emite un traslado de cargos o convoca a comparecencia sin dar antes acceso íntegro al expediente, o sin resolver la recusación, habría lesión directa al debido proceso [N-034, N-035]: amparo inmediato, con la suspensión que produce su interposición [N-036]. En el fondo, las defensas son cuatro: la publicación informa a las personas titulares dónde está su expediente y cumple deberes del establecimiento [N-021, R-066]; la exclusión de ofensa al honor por cumplimiento de un deber o ejercicio de un derecho, sin propósito ofensivo [N-032]; la incoherencia de declarar ajena la retención y propia la queja por el aviso [R-064, N-037]; y el límite que la Sala impuso al Colegio de no presentar como conclusión una responsabilidad no declarada [R-026].
+
+> Advertencia: R-066 está POR VERIFICAR. N-021 está POR VERIFICAR. N-032 está POR VERIFICAR. N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR. N-037 está POR VERIFICAR.
+
+## Pendientes (2)
 
 - R-016 — Respuesta de fondo a OER-049 (Acuerdo 381-2025 y punto sétimo)
 - R-048 — Resolución contravencional sobre el aviso legal
-- R-053 — Acuerdo JD.CPPCR-867-2026 (Inadmisibilidad 06-2026)
 
-## Por verificar (24)
+## Por verificar (36)
 
 - R-001 — Acuerdo JD.CPPCR-381-2025: origen del vocabulario «acoso u hostigamiento de personas usuarias»
 - R-011 — Publicación del acta 12-06-2026 en el sitio web
@@ -73,8 +84,6 @@ Viabilidad baja en el objeto planteado. La Sala ya resolvió dos veces que el tr
 - N-010 — LGAP art. 164.1: invalidez parcial
 - R-044 — Detalles formales del acta 16-08-2026 (versión corregida)
 - N-012 — Recurso contra actos de la Junta Directiva: fundamento y plazo
-- R-051 — La Fiscalía trató la retención de expedientes como una controversia contractual
-- R-057 — Trato asimétrico: se archiva la denuncia contra el Lic. Aguilar y se tramita la del Lic. Aguilar contra el Dr. Bonilla
 - N-013 — LJC art. 9: rechazo de plano y reiteración de gestiones
 - N-014 — LJC art. 35: plazo del amparo
 - N-015 — LJC art. 57: amparo contra sujetos de derecho privado
@@ -88,6 +97,20 @@ Viabilidad baja en el objeto planteado. La Sala ya resolvió dos veces que el tr
 - N-025 — Ley 6144 arts. 14, 15.e y 23: la Asamblea General como órgano superior
 - N-026 — CPCA: conducta omisiva y medidas cautelares
 - N-027 — LJC art. 31: el amparo no exige agotar la vía administrativa
+- R-066 — Resolución PRODHAB 710-2025: el director del establecimiento, responsable del resguardo de la información
+- R-067 — Fiscalía, 15/04/2026: solo la persona usuaria está legitimada sobre su expediente
+- R-068 — La PRODHAB remitió el asunto al Colegio, que no respondió: origen del primer amparo
+- N-028 — LJC art. 13: la jurisprudencia constitucional vincula erga omnes
+- N-029 — Reglamento a la Ley 8968: aviso de vulneraciones de seguridad
+- N-030 — Ley 8239: Auditoría General de Servicios de Salud
+- N-031 — Decreto 41202-S: responsable sanitario del establecimiento
+- N-032 — Código Penal arts. 25, 149 y 151: causas que excluyen la ofensa al honor
+- N-033 — LGAP art. 148: suspensión de la ejecución
+- N-034 — Debido proceso administrativo (Constitución arts. 39 y 41; voto 15-90 de la Sala)
+- N-035 — LGAP arts. 272 a 274: acceso de las partes al expediente
+- N-036 — LJC art. 41: efecto de la interposición del amparo
+- N-037 — Constitución arts. 11 y 33: legalidad, igualdad e interdicción de la arbitrariedad
+- N-038 — Código de la Niñez y la Adolescencia art. 5: interés superior
 
 ## Registros reemplazados
 
@@ -98,6 +121,10 @@ Viabilidad baja en el objeto planteado. La Sala ya resolvió dos veces que el tr
 - R-041 → R-044 (sin fecha): La corrección de la fecha consta en el acta; se retira como hallazgo. Lo relativo al oficio sigue sin cotejo.
 - N-005 → N-012 (sin fecha): N-005 atribuía al art. 44 una revocatoria general de tres días contra lo resuelto por la Junta; el 680 lo describe con un alcance más limitado.
 - N-011 → N-025 (sin fecha): N-011 dejaba abierto quién es el superior de la Junta. El recurso del 28/09/2026 transcribe el art. 14 de la Ley 6144, que señala a la Asamblea General. Falta cotejo contra el texto oficial.
+- R-053 → R-061 (2026-10-26): Se leyó el acuerdo. Reemplaza la ficha provisional R-053 y retira la alerta de plazo del 28/10/2026.
+- R-051 → R-062 (2026-10-26): Cotejado contra la respuesta de la Fiscalía y el Acuerdo 780. Reemplaza a R-051, que se apoyaba en la descripción del recurso.
+- R-055 → R-063 (2026-10-26): Se leyeron las dos resoluciones y el recurso. Reemplaza a R-055, que solo registraba la presentación.
+- R-057 → R-064 (2026-10-26): Reemplaza a R-057. Las dos decisiones están cotejadas; la identidad entre las publicaciones y los avisos descansa en la manifestación del usuario y debe confirmarse con la denuncia del Exp. 32-2026.
 
 ## Reglas
 
