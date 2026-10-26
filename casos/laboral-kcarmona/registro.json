@@ -810,6 +810,97 @@
       "supersede": "",
       "razon": "Cotejar la redacción vigente. Encaja con el Protocolo de Atención, comunicado con claridad y aceptado por escrito (R-009), si después del plan y de amonestaciones se negara de forma manifiesta y reiterada a aplicarlo.",
       "folio": ""
+    },
+    {
+      "id": "R-038",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras",
+      "afirmacion": "Según la Dirección, Kristel habla mal del Dr. Bonilla y de Poïesis a sus espaldas, de forma reiterada: que es el peor trabajo, que abusan de ella, que no se le paga bien. No existe registro escrito.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "PENDIENTE",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.",
+      "folio": ""
+    },
+    {
+      "id": "R-039",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Puntualidad en el horario",
+      "afirmacion": "Según la Dirección, Kristel llega a la hora, con atrasos menores ocasionales, y sale a la hora exacta de término.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Descarta el inciso g) del art. 81. Salir a la hora de término es un derecho, no una falta.",
+      "folio": ""
+    },
+    {
+      "id": "R-040",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Fiorella pide que se le pague el salario sin cargas sociales",
+      "afirmacion": "Según la Dirección, Fiorella solicita recibir su salario sin que se reporte ni se pague a la CCSS.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Conviene tener su solicitud por escrito. No se atribuye a Kristel sin prueba.",
+      "folio": ""
+    },
+    {
+      "id": "N-025",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Art. 81 a) y c): injuria, calumnia o vías de hecho contra el patrono",
+      "afirmacion": "Es causa justa acudir a la injuria, la calumnia o las vías de hecho contra el patrono durante el trabajo (inciso a) o fuera de él, si no hubo provocación y la convivencia se vuelve imposible (inciso c). En materia laboral, la injuria se entiende en sentido más amplio que en el penal: toda ofensa que lesione la dignidad o el decoro del patrono. La crítica u opinión sobre las condiciones de trabajo, sin ofensa ni imputación falsa, no la configura.",
+      "fuente": "Código de Trabajo, art. 81, incisos a) y c). Jurisprudencia de la Sala Segunda por identificar.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Identificar una sentencia de la Sala Segunda sobre el concepto laboral de injuria y otra sobre críticas al patrono.",
+      "folio": ""
+    },
+    {
+      "id": "N-026",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Seguro social obligatorio e irrenunciable",
+      "afirmacion": "La afiliación a la CCSS de las personas asalariadas es obligatoria; ni el patrono ni la persona trabajadora pueden renunciar a ella. El patrono responde por las cuotas obrero-patronales no reportadas, con recargos e intereses; retener la cuota obrera sin pagarla es delito. La póliza de riesgos del trabajo también es obligatoria y, sin ella, el patrono asume el costo total de un accidente.",
+      "fuente": "Constitución Política, arts. 73 y 74; Ley Constitutiva de la CCSS (arts. 3, 44 y 45); Código de Trabajo, arts. 11, 193 y 221. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar artículos y montos de recargos.",
+      "folio": ""
+    },
+    {
+      "id": "N-027",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Límites a la obtención de prueba: grabaciones y comunicaciones privadas",
+      "afirmacion": "Grabar sin consentimiento las palabras de otras personas no destinadas al público puede constituir delito. Las comunicaciones privadas son inviolables. La prueba obtenida así puede ser ilícita y además exponer penalmente a quien la obtiene.",
+      "fuente": "Código Penal, art. 198 (captación indebida de manifestaciones verbales); Constitución Política, art. 24; Ley 7425. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar texto y jurisprudencia sobre la grabación por un participante de la conversación.",
+      "folio": ""
+    },
+    {
+      "id": "N-028",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Contrato realidad",
+      "afirmacion": "Se presume la relación laboral entre quien presta un servicio y quien lo recibe. Si existe subordinación (horario, dirección, salario), la relación es laboral aunque se llame «servicios profesionales».",
+      "fuente": "Código de Trabajo, art. 18. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -890,6 +981,31 @@
         "R-028",
         "R-033",
         "N-022"
+      ]
+    },
+    {
+      "id": "E-007",
+      "titulo": "Causas del artículo 81 que mejor se alinean con la conducta descrita",
+      "conclusion": "Inciso l), falta grave por reiteración de conductas advertidas por escrito [N-004, N-020], y su forma de lealtad cuando las expresiones llegan a pacientes o terceros [N-001]. Inciso h), segunda parte, frente al Protocolo de Atención [N-024]. Incisos a) y c) solo ante expresiones concretas, ofensivas o con imputaciones falsas contra el Dr. Bonilla o Poïesis, probadas con testigos [N-025, R-038]. La negatividad o la queja, en sí mismas, no son causa; la crítica sobre el salario tampoco. No se ajusta el inciso g): no hay problema de horario [R-039]. La prueba de lo verbal se construye con anotaciones del mismo día y declaraciones voluntarias, nunca con grabaciones ocultas [N-027].",
+      "depende_de": [
+        "N-004",
+        "N-020",
+        "N-001",
+        "N-024",
+        "N-025",
+        "R-038",
+        "R-039",
+        "N-027"
+      ]
+    },
+    {
+      "id": "E-008",
+      "titulo": "Solicitud de Fiorella de recibir salario sin cargas sociales",
+      "conclusion": "No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e irrenunciable y el patrono responde por las cuotas no reportadas, con recargos [N-026]. Llamarlo «servicios profesionales» no cambia la naturaleza de la relación [N-028]. Aceptarlo daría además a la trabajadora un reclamo posterior contra la clínica. Se responde por escrito, con cortesía. No se atribuye la solicitud a Kristel sin prueba [R-040].",
+      "depende_de": [
+        "N-026",
+        "N-028",
+        "R-040"
       ]
     }
   ]

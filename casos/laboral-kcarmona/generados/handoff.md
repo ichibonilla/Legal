@@ -48,7 +48,19 @@ Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos qu
 
 > Advertencia: N-023 está POR VERIFICAR. R-028 está POR VERIFICAR. N-022 está POR VERIFICAR.
 
-## Pendientes (10)
+### E-007 — Causas del artículo 81 que mejor se alinean con la conducta descrita
+
+Inciso l), falta grave por reiteración de conductas advertidas por escrito [N-004, N-020], y su forma de lealtad cuando las expresiones llegan a pacientes o terceros [N-001]. Inciso h), segunda parte, frente al Protocolo de Atención [N-024]. Incisos a) y c) solo ante expresiones concretas, ofensivas o con imputaciones falsas contra el Dr. Bonilla o Poïesis, probadas con testigos [N-025, R-038]. La negatividad o la queja, en sí mismas, no son causa; la crítica sobre el salario tampoco. No se ajusta el inciso g): no hay problema de horario [R-039]. La prueba de lo verbal se construye con anotaciones del mismo día y declaraciones voluntarias, nunca con grabaciones ocultas [N-027].
+
+> Advertencia: N-004 está POR VERIFICAR. N-020 está POR VERIFICAR. N-001 está POR VERIFICAR. N-024 está POR VERIFICAR. N-025 está POR VERIFICAR. R-038 está PENDIENTE. R-039 está POR VERIFICAR. N-027 está POR VERIFICAR.
+
+### E-008 — Solicitud de Fiorella de recibir salario sin cargas sociales
+
+No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e irrenunciable y el patrono responde por las cuotas no reportadas, con recargos [N-026]. Llamarlo «servicios profesionales» no cambia la naturaleza de la relación [N-028]. Aceptarlo daría además a la trabajadora un reclamo posterior contra la clínica. Se responde por escrito, con cortesía. No se atribuye la solicitud a Kristel sin prueba [R-040].
+
+> Advertencia: N-026 está POR VERIFICAR. N-028 está POR VERIFICAR. R-040 está POR VERIFICAR.
+
+## Pendientes (11)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
 - R-018 — Observaciones directas de la jefatura sobre trato inadecuado a pacientes
@@ -60,8 +72,9 @@ Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos qu
 - R-024 — Existencia de Reglamento Interior de Trabajo aprobado
 - R-025 — Verificación de protecciones especiales
 - R-026 — Cumplimiento patronal al día
+- R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 
-## Por verificar (25)
+## Por verificar (31)
 
 - R-001 — Nombre completo y cédula consignados en el grupo
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
@@ -88,6 +101,12 @@ Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos qu
 - N-022 — Causales del artículo 81 ligadas a la confianza
 - N-023 — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados
 - N-024 — Art. 81 h), segunda parte: negativa manifiesta y reiterada a acatar normas claras de trabajo
+- R-039 — Puntualidad en el horario
+- R-040 — Fiorella pide que se le pague el salario sin cargas sociales
+- N-025 — Art. 81 a) y c): injuria, calumnia o vías de hecho contra el patrono
+- N-026 — Seguro social obligatorio e irrenunciable
+- N-027 — Límites a la obtención de prueba: grabaciones y comunicaciones privadas
+- N-028 — Contrato realidad
 
 ## Registros reemplazados
 

@@ -95,6 +95,7 @@ El estándar es el que usted ya conoce: el Protocolo de Atención Telefónica de
 - Trato respetuoso y colaborativo con todas las compañeras y compañeros.
 - Los desacuerdos se conversan de forma directa, con la persona involucrada o con la jefatura.
 - Las situaciones personales o de desempeño de otras personas del equipo no se comentan en su ausencia.
+- Las referencias a la Dirección, a la jefatura y a la clínica, también en su ausencia, se expresan con respeto, sin descalificaciones ni expresiones ofensivas. Las inconformidades se plantean por el canal de la sección 4.2.
 
 Estas expectativas forman parte de las obligaciones propias del puesto [N-001, N-002].
 

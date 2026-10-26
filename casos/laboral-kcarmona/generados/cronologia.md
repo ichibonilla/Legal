@@ -44,3 +44,6 @@ Registro actualizado el 2026-10-26.
 | — | R-025 | PENDIENTE | Verificación de protecciones especiales | — |
 | — | R-026 | PENDIENTE | Cumplimiento patronal al día | — |
 | — | R-028 | POR VERIFICAR | Declinó participar en el asunto Robles y la Dirección lo aceptó | — |
+| — | R-038 | PENDIENTE | Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras | — |
+| — | R-039 | POR VERIFICAR | Puntualidad en el horario | — |
+| — | R-040 | POR VERIFICAR | Fiorella pide que se le pague el salario sin cargas sociales | — |
