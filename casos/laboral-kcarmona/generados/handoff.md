@@ -68,9 +68,9 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 
 ### E-010 — Respuesta sobre el bono
 
-Tres escenarios según lo que se dijo el 22/10 [R-055, R-058]: A) se suspendió expresamente la producción; B) solo se suspendieron los pagos; C) ambas cosas. Hoy los escritos apuntan a B: Kristell preguntó el 22 cómo se pagaría el sábado 24 y sitúa en el 26 la instrucción de no producir [R-056]. En B, la entrega del 24 siguió una práctica habitual [R-049] y se paga con la tarifa que se venía aplicando; en A o C, con prueba de testigos, puede tratarse como no solicitada, sin descartar la condición salarial consolidada [N-031, N-010]. La remuneración de un trabajo ya realizado no se fija después y a discreción del patrono: se corrige el criterio de la sesión del 26/10 que lo permitía. El pago no depende de la firma; la revisión tiene una fecha límite breve; la negativa a firmar no es falta [N-032].
+Posición de Poïesis: el 22/10 se suspendieron las nuevas producciones y sus pagos [R-059], y el mensaje del 26/10 lo confirmó por escrito. Kristell reconoce haber recibido la instrucción a más tardar el 26 [R-056]: toda entrega posterior es claramente no solicitada. Ni el mensaje del 26 ni la pregunta de Kristell del 22 prueban que la producción siguiera autorizada; son lecturas posibles, no concluyentes. Material del sábado 24: se revisa contra las condiciones anteriores y el resultado se comunica a más tardar el 30/10, sin atar el reconocimiento a la firma; si hubiera algo exigible, se paga en su plazo legal, no en la fecha de la revisión. Contingencia principal: la naturaleza del pago [N-031, N-010]. Si contabilidad muestra que se pagaba por video encargado y entregado, la posición de Poïesis es sólida. La negativa a firmar no es falta [N-032].
 
-> Advertencia: R-055 está POR VERIFICAR. R-058 está POR VERIFICAR. R-056 está POR VERIFICAR. N-031 está POR VERIFICAR. N-010 está POR VERIFICAR. N-032 está POR VERIFICAR.
+> Advertencia: R-059 está POR VERIFICAR. R-056 está POR VERIFICAR. N-031 está POR VERIFICAR. N-010 está POR VERIFICAR. N-032 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -131,7 +131,7 @@ Tres escenarios según lo que se dijo el 22/10 [R-055, R-058]: A) se suspendió 
 - R-055 — Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato
 - N-032 — Carga de la prueba del pago del salario
 - R-056 — Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24
-- R-058 — Versión de la Dirección: el 22/10 se frenó todo pago hasta aclarar el contrato
+- R-059 — Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos
 
 ## Registros reemplazados
 
@@ -141,6 +141,7 @@ Tres escenarios según lo que se dijo el 22/10 [R-055, R-058]: A) se suspendió 
 - R-040 → R-041 (sin fecha): La Dirección corrige R-040: la solicitud es de Kristel, no de Fiorella. Conviene tener su planteamiento por escrito.
 - R-001 → R-046 (sin fecha): R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.
 - R-051 → R-055 (sin fecha): La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.
+- R-058 → R-059 (sin fecha): Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.
 
 ## Reglas
 

@@ -1188,6 +1188,19 @@
       "supersede": "",
       "razon": "La valoración externa del 26/10 consigna una versión más amplia: que el 22 también se suspendió la producción. Hay que precisar cuál de las dos fue, porque cambia el escenario jurídico. El mensaje de Kristell (R-056) y el de la Dirección del 26/10 sitúan la suspensión de la producción en el 26/10.",
       "folio": ""
+    },
+    {
+      "id": "R-059",
+      "fecha": "2026-10-22",
+      "tipo": "hecho",
+      "titulo": "Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos",
+      "afirmacion": "Según la Dirección, en la reunión del jueves 22/10 comunicó la suspensión de las nuevas producciones audiovisuales y de sus pagos, mientras se revisaban y definían las condiciones de una propuesta contractual, que se presentaría para que las colaboradoras la valoraran.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026 y en la valoración externa de la misma fecha.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "R-058",
+      "razon": "Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1314,12 +1327,10 @@
     {
       "id": "E-010",
       "titulo": "Respuesta sobre el bono",
-      "conclusion": "Tres escenarios según lo que se dijo el 22/10 [R-055, R-058]: A) se suspendió expresamente la producción; B) solo se suspendieron los pagos; C) ambas cosas. Hoy los escritos apuntan a B: Kristell preguntó el 22 cómo se pagaría el sábado 24 y sitúa en el 26 la instrucción de no producir [R-056]. En B, la entrega del 24 siguió una práctica habitual [R-049] y se paga con la tarifa que se venía aplicando; en A o C, con prueba de testigos, puede tratarse como no solicitada, sin descartar la condición salarial consolidada [N-031, N-010]. La remuneración de un trabajo ya realizado no se fija después y a discreción del patrono: se corrige el criterio de la sesión del 26/10 que lo permitía. El pago no depende de la firma; la revisión tiene una fecha límite breve; la negativa a firmar no es falta [N-032].",
+      "conclusion": "Posición de Poïesis: el 22/10 se suspendieron las nuevas producciones y sus pagos [R-059], y el mensaje del 26/10 lo confirmó por escrito. Kristell reconoce haber recibido la instrucción a más tardar el 26 [R-056]: toda entrega posterior es claramente no solicitada. Ni el mensaje del 26 ni la pregunta de Kristell del 22 prueban que la producción siguiera autorizada; son lecturas posibles, no concluyentes. Material del sábado 24: se revisa contra las condiciones anteriores y el resultado se comunica a más tardar el 30/10, sin atar el reconocimiento a la firma; si hubiera algo exigible, se paga en su plazo legal, no en la fecha de la revisión. Contingencia principal: la naturaleza del pago [N-031, N-010]. Si contabilidad muestra que se pagaba por video encargado y entregado, la posición de Poïesis es sólida. La negativa a firmar no es falta [N-032].",
       "depende_de": [
-        "R-055",
-        "R-058",
+        "R-059",
         "R-056",
-        "R-049",
         "N-031",
         "N-010",
         "N-032"
