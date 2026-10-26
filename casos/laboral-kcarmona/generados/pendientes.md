@@ -59,8 +59,8 @@
 - **R-047** — Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Sin rastro en los cuatro chats. Falta la fecha y un relato voluntario y firmado de Jennipher. Relevante porque se atribuye una potestad de la Dirección ante una profesional externa; por sí solo es leve, pero suma si se reitera y se documenta (inciso l).
 - **R-050** — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. No consta por escrito en los cuatro chats. Falta el documento o mensaje en que se le comunicó; la fecha del último pago; montos, periodicidad y si se reportó a la CCSS y se incluyó en el aguinaldo.
 - **N-031** — Salario: concepto, primacía de la realidad y bonos. Fuente: Código de Trabajo, arts. 162 a 164; Ley 2412; jurisprudencia de la Sala Segunda sobre bonos e incentivos, por identificar. SCIJ. Cotejar artículos e identificar una sentencia sobre bonos por productividad e incentivos habituales.
-- **R-051** — Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Conviene un control de entregas por mes (videos y podcast) que respalde la ausencia de producto, y el borrador del contrato.
+- **R-055** — Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.
 
-## Sin folio (78 de 78 vigentes)
+## Sin folio (80 de 80 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

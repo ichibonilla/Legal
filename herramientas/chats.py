@@ -12,6 +12,7 @@ marca es la fecha y hora tal como aparece en la exportación y en el campo
 """
 import argparse
 import re
+import signal
 import sys
 import zipfile
 from datetime import datetime
@@ -48,6 +49,7 @@ def mensajes(fuente):
 
 
 def main():
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # permite cortar la salida con head
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("accion", choices=["ver", "buscar"])
     ap.add_argument("fuente")

@@ -12,7 +12,7 @@
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
       "Estados: VERIFICADO (cotejado contra la fuente citada en verificado_el), POR VERIFICAR (afirmación sin cotejo contra fuente primaria), PENDIENTE (falta el documento o la respuesta).",
       "Folio: vacío; este caso no tiene expediente certificado.",
-      "Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.",
+      "Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación; CHAT-A = fuentes/WhatsApp_Chat_-_Administrativo_.zip (exportado desde el teléfono de la Dirección).",
       "Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.",
       "Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona",
       "Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible."
@@ -1097,6 +1097,45 @@
       "supersede": "",
       "razon": "El viaje fue un periodo de vacaciones autorizado: no es una falta. Explica la falta de producto, no la reprocha.",
       "folio": ""
+    },
+    {
+      "id": "R-053",
+      "fecha": "2024-12-28",
+      "tipo": "hecho",
+      "titulo": "Grupo «Administrativo»: creado por Kristell para consultar a la Dirección sobre el salario",
+      "afirmacion": "El 28/12/2024 Kristell creó el grupo «Administrativo», agregó al Dr. Bonilla y a Fiorella, y escribió: «Hacemos este grupo con el fin de saber si sucedió algo con respecto a nuestro salario?». Fiorella aclaró que el depósito había llegado solo en parte. El 26/10/2026 Fiorella agregó a la Dra. Salas y a Angiolette, y Kristell preguntó por el depósito del bono.",
+      "fuente": "CHAT-A, 12/28/24 2:02:16 PM a 3:19:33 PM; 10/26/26 3:25:44 PM a 3:26:48 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "Es un canal de consulta sobre pagos en el que la Dirección participa desde su creación. Crearlo no es una falta.",
+      "folio": ""
+    },
+    {
+      "id": "R-054",
+      "fecha": "2024-12-28",
+      "tipo": "hecho",
+      "titulo": "Depósito de salario parcial en diciembre de 2024",
+      "afirmacion": "Ante la consulta, la Dirección respondió: «A costado un poco mantener todas las cuentas saludables para que no pase nada de eso».",
+      "fuente": "CHAT-A, 12/28/24 3:10:56 PM y 3:12:10 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "Antecedente de pago incompleto; relevante para el cumplimiento patronal (R-026).",
+      "folio": ""
+    },
+    {
+      "id": "R-055",
+      "fecha": "2026-10-22",
+      "tipo": "hecho",
+      "titulo": "Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato",
+      "afirmacion": "Según la Dirección, Kristell sí entregó videos. En la reunión del jueves 22/10/2026 se le indicó que el pago por producto no continuaría hasta firmarse un contrato, concebido como compra del producto. Fiorella no entregó el podcast.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "R-051",
+      "razon": "La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1223,15 +1262,13 @@
     {
       "id": "E-010",
       "titulo": "Respuesta sobre el bono",
-      "conclusion": "La base defendible es que no hubo producto en el periodo [R-051], durante unas vacaciones autorizadas [R-052]: sin producto no hay pago variable, sea cual sea la calificación del bono. El mensaje no califica el bono ni menciona el viaje; indica que no se recibió producto y que el pago variable se retoma al firmarse el contrato [R-050]. Se evita escribir «no salarial»: un pago por producto se analiza como salario variable [N-031] y esa frase sería prueba en otros reclamos (aguinaldo, CCSS) [R-029, N-026]. Se responde en privado [R-048].",
+      "conclusion": "Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente.",
       "depende_de": [
-        "R-051",
-        "R-052",
-        "R-050",
-        "N-031",
-        "R-029",
-        "N-026",
-        "R-048"
+        "R-055",
+        "N-010",
+        "R-048",
+        "R-053",
+        "N-031"
       ]
     }
   ]

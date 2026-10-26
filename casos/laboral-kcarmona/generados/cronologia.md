@@ -13,6 +13,8 @@ Registro actualizado el 2026-10-26.
 | 2024-10-29 | R-007 | VERIFICADO | Práctica previa: carta de mejora con entrenamiento a otra colaboradora | — |
 | 2024-11-15 | R-003 | VERIFICADO | Funciones de coordinación de recursos humanos (one on ones, reclutamiento) | — |
 | 2024-11-15 | R-006 | VERIFICADO | Kristel pidió retroalimentación directa; la Dirección respondió que no veía mal desempeño | — |
+| 2024-12-28 | R-053 | VERIFICADO | Grupo «Administrativo»: creado por Kristell para consultar a la Dirección sobre el salario | — |
+| 2024-12-28 | R-054 | VERIFICADO | Depósito de salario parcial en diciembre de 2024 | — |
 | 2025-04-10 | R-008 | VERIFICADO | Episodio de abril de 2025: dice haber mantenido la calma ante una reacción agresiva | — |
 | 2025-06-09 | R-031 | VERIFICADO | El registro informal de desahogo en el grupo Crew es compartido por la jefatura y el equipo | — |
 | 2025-06-30 | R-036 | VERIFICADO | En sus funciones de confianza, los chats la muestran protegiendo los intereses de la clínica | — |
@@ -32,6 +34,7 @@ Registro actualizado el 2026-10-26.
 | 2026-10-07 | ~~R-012~~ (superado por R-027) | VERIFICADO | ~~Colaboró como posible testigo en el asunto Robles~~ | — |
 | 2026-10-07 | R-027 | VERIFICADO | Respondió el primer cuestionario sobre el asunto Robles; no consta respuesta al segundo | — |
 | 2026-10-20 | R-015 | VERIFICADO | Funciones actuales: responsable del cierre diario de efectivo | — |
+| 2026-10-22 | R-055 | POR VERIFICAR | Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato | — |
 | 2026-10-23 | R-011 | VERIFICADO | Reconocimientos escritos recientes a su trabajo | — |
 | 2026-10-25 | ~~R-016~~ (superado por R-032) | VERIFICADO | ~~Los chats no contienen registro escrito de las conductas que motivan el plan~~ | — |
 | 2026-10-25 | R-032 | VERIFICADO | Los cuatro chats no contienen registro escrito de las conductas que motivan el plan | — |
@@ -58,4 +61,4 @@ Registro actualizado el 2026-10-26.
 | — | R-045 | POR VERIFICAR | Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos | — |
 | — | R-047 | POR VERIFICAR | Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica | — |
 | — | R-050 | POR VERIFICAR | Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato | — |
-| — | R-051 | POR VERIFICAR | Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella | — |
+| — | ~~R-051~~ (superado por R-055) | POR VERIFICAR | ~~Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella~~ | — |

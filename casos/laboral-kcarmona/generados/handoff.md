@@ -68,9 +68,9 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 
 ### E-010 — Respuesta sobre el bono
 
-La base defendible es que no hubo producto en el periodo [R-051], durante unas vacaciones autorizadas [R-052]: sin producto no hay pago variable, sea cual sea la calificación del bono. El mensaje no califica el bono ni menciona el viaje; indica que no se recibió producto y que el pago variable se retoma al firmarse el contrato [R-050]. Se evita escribir «no salarial»: un pago por producto se analiza como salario variable [N-031] y esa frase sería prueba en otros reclamos (aguinaldo, CCSS) [R-029, N-026]. Se responde en privado [R-048].
+Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente.
 
-> Advertencia: R-051 está POR VERIFICAR. R-050 está POR VERIFICAR. N-031 está POR VERIFICAR. N-026 está POR VERIFICAR.
+> Advertencia: R-055 está POR VERIFICAR. N-010 está POR VERIFICAR. N-031 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -128,7 +128,7 @@ La base defendible es que no hubo producto en el periodo [R-051], durante unas v
 - R-047 — Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica
 - R-050 — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato
 - N-031 — Salario: concepto, primacía de la realidad y bonos
-- R-051 — Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella
+- R-055 — Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato
 
 ## Registros reemplazados
 
@@ -137,6 +137,7 @@ La base defendible es que no hubo producto en el periodo [R-051], durante unas v
 - N-021 → N-023 (sin fecha): Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
 - R-040 → R-041 (sin fecha): La Dirección corrige R-040: la solicitud es de Kristel, no de Fiorella. Conviene tener su planteamiento por escrito.
 - R-001 → R-046 (sin fecha): R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.
+- R-051 → R-055 (sin fecha): La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.
 
 ## Reglas
 
@@ -144,7 +145,7 @@ La base defendible es que no hubo producto en el periodo [R-051], durante unas v
 - No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.
 - Estados: VERIFICADO (cotejado contra la fuente citada en verificado_el), POR VERIFICAR (afirmación sin cotejo contra fuente primaria), PENDIENTE (falta el documento o la respuesta).
 - Folio: vacío; este caso no tiene expediente certificado.
-- Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.
+- Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación; CHAT-A = fuentes/WhatsApp_Chat_-_Administrativo_.zip (exportado desde el teléfono de la Dirección).
 - Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.
 - Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona
 - Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible.
