@@ -1149,6 +1149,19 @@
       "supersede": "",
       "razon": "Confirmar el número de artículo y su redacción vigente.",
       "folio": ""
+    },
+    {
+      "id": "R-056",
+      "fecha": "2026-10-26",
+      "tipo": "hecho",
+      "titulo": "Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24",
+      "afirmacion": "Kristell respondió al Dr. Bonilla: (1) en la reunión del 22/10 preguntó cómo se les pagaría el sábado 24 y ninguno de los presentes supo responder; (2) hasta ese día (26/10) se le informa que no se requerirán videos hasta nuevo aviso, cuando ya había entregado video el sábado «como de costumbre»; (3) no se ha llegado a ningún acuerdo sobre la nueva manera de manejar los «bonos» ni se ha firmado nada; (4) se le debió informar desde el inicio, y no después de entregados podcast y video, «de un acuerdo que se viene manejando hace años».",
+      "fuente": "Texto del mensaje de WhatsApp de Kristell del 26/10/2026, transcrito por la Dirección en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Guardar captura o exportar el chat privado. Contradice R-055 sobre lo dicho el 22/10: el único registro escrito de la pausa es el mensaje de la Dirección del 26/10. Menciona que también se entregó el podcast.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1275,14 +1288,14 @@
     {
       "id": "E-010",
       "titulo": "Respuesta sobre el bono",
-      "conclusion": "Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente. Blindaje del mensaje del 26/10: (1) afirmar el pago de lo anterior al 22/10 solo con comprobante, nunca con «me parece», porque el empleador debe probar el pago [N-032]; (2) no condicionar el pago de lo ya entregado a la firma del contrato: lo que la clínica use se paga; (3) dejar por escrito que, durante la pausa, no se solicitan nuevos videos; (4) la firma es libre y con tiempo para revisar el borrador; la reunión es individual.",
+      "conclusion": "Hay dos versiones de la reunión del 22/10 [R-055, R-056], y la primera constancia escrita de la pausa es del 26/10. El empleador debe probar lo que afirma [N-032], y ella sostiene que nadie respondió su pregunta sobre el pago del sábado 24. Recomendación: pagar como de costumbre el material entregado el sábado 24, porque se entregó antes de la comunicación escrita y bajo un arreglo habitual [R-049]; la pausa rige desde el 26/10, sin solicitar nuevos videos. Si el bono es una parte relevante de su ingreso, suspenderlo sin acuerdo puede leerse como rebaja salarial [N-010, N-031]; conviene mantener el arreglo hasta firmar o lograr el acuerdo pronto. Su mensaje es un reclamo legítimo y mesurado: no tiene relevancia disciplinaria. Entregar mañana el comunicado con el marco disciplinario, al día siguiente de su reclamo, facilita una lectura de represalia.",
       "depende_de": [
         "R-055",
+        "R-056",
+        "N-032",
+        "R-049",
         "N-010",
-        "R-048",
-        "R-053",
-        "N-031",
-        "N-032"
+        "N-031"
       ]
     }
   ]

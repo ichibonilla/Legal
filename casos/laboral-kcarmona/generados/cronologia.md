@@ -40,6 +40,7 @@ Registro actualizado el 2026-10-26.
 | 2026-10-25 | R-032 | VERIFICADO | Los cuatro chats no contienen registro escrito de las conductas que motivan el plan | — |
 | 2026-10-26 | R-037 | VERIFICADO | Los cuatro chats no contienen hechos de deslealtad, falta de probidad o revelación de información atribuibles a Kristel | — |
 | 2026-10-26 | R-048 | VERIFICADO | Kristell pregunta en el grupo «Administrativo» por el depósito del bono | — |
+| 2026-10-26 | R-056 | POR VERIFICAR | Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24 | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
