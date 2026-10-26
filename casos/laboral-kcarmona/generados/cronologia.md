@@ -53,3 +53,4 @@ Registro actualizado el 2026-10-26.
 | — | R-043 | POR VERIFICAR | En una reunión insinuó que la llamaban «tonta» al explicarle las cargas sociales | — |
 | — | R-044 | POR VERIFICAR | Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien | — |
 | — | R-045 | POR VERIFICAR | Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos | — |
+| — | R-047 | POR VERIFICAR | Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica | — |

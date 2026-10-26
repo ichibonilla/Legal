@@ -13,6 +13,7 @@ escritos: títulos # y ##, párrafos, **negrita**, listas con - y 1., tablas y -
 import argparse
 import re
 import sys
+import zipfile
 from pathlib import Path
 
 from docx import Document
@@ -27,6 +28,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import registro  # noqa: E402
 
 NAVY, TINTA, GRIS, ARENA = "131237", "2F2E47", "5C6684", "D1D0CB"
+PALETA = (NAVY, TINTA, GRIS, ARENA, "FFFFFF")
+COLOR = re.compile(r'((?:w:color w:val|w:fill|a:srgbClr val|lastClr)=")([0-9A-Fa-f]{6})(")')
 TITULOS, TEXTO = "Safira March", "Georgia"
 CITA = re.compile(r"\s*\[(?:[RN]-\d{3})(?:\s*,\s*[RN]-\d{3})*\]")
 NEGRITA = re.compile(r"\*\*(.+?)\*\*")
@@ -34,6 +37,23 @@ NEGRITA = re.compile(r"\*\*(.+?)\*\*")
 
 def color(hexa):
     return RGBColor.from_string(hexa)
+
+
+def cercano(hexa):
+    rgb = [int(hexa[i:i + 2], 16) for i in (0, 2, 4)]
+    return min(PALETA, key=lambda p: sum((int(p[i:i + 2], 16) - v) ** 2 for i, v in zip((0, 2, 4), rgb)))
+
+
+def a_paleta(ruta):
+    """Lleva todo color del archivo, estilos y tema de Word incluidos, al tono más cercano de la paleta."""
+    with zipfile.ZipFile(ruta) as z:
+        partes = {n: z.read(n) for n in z.namelist()}
+    with zipfile.ZipFile(ruta, "w", zipfile.ZIP_DEFLATED) as z:
+        for n, datos in partes.items():
+            if n.endswith(".xml"):
+                texto = COLOR.sub(lambda m: m.group(1) + cercano(m.group(2)) + m.group(3), datos.decode("utf-8"))
+                datos = texto.encode("utf-8")
+            z.writestr(n, datos)
 
 
 def runs(p, texto, size=10.5, tinta=TINTA, negrita=False):
@@ -129,6 +149,8 @@ def convertir(md, salida, aviso):
     texto = re.sub(r"<!--.*?-->", "", md, flags=re.S)
     texto = CITA.sub("", texto)
     doc = Document()
+    normal = doc.styles["Normal"]
+    normal.font.name, normal.font.color.rgb = TEXTO, color(TINTA)
     sec = doc.sections[0]
     sec.page_width, sec.page_height = Inches(8.5), Inches(11)
     for m in ("left_margin", "right_margin"):
@@ -191,6 +213,7 @@ def convertir(md, salida, aviso):
             espacio(p, 6 if solo_negrita else 0, 6)
         i += 1
     doc.save(salida)
+    a_paleta(salida)
 
 
 def main():

@@ -81,7 +81,7 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (36)
+## Por verificar (37)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -119,6 +119,7 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - N-029 — Salario en especie
 - R-046 — Nombre completo y cédula según su propia declaración
 - N-030 — Cuotas obrero-patronales a partir de enero de 2026
+- R-047 — Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica
 
 ## Registros reemplazados
 

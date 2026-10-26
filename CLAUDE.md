@@ -15,6 +15,11 @@ Material confidencial. No se publica fuera del repositorio.
 - En los escritos, cada afirmación de hecho o de norma se cita como `[R-xxx]` o `[N-xxx]`.
 - Para cotejar un mensaje de chat citado en `fuente`: `python3 herramientas/chats.py ver casos/<caso>/fuentes/<chat>.zip "<fecha y hora>"`; para buscar en un chat: `chats.py buscar`.
 
+## Identidad visual
+
+- Toda carta y todo documento de Poïesis usa solo la paleta institucional: `#131237`, `#2F2E47`, `#5C6684`, `#D1D0CB` y blanco. Títulos en Safira March; texto en una tipografía sobria.
+- La versión Word de un escrito se genera con esa paleta: `python3 herramientas/escrito_docx.py casos/<caso>/escritos/<escrito>.md --caso casos/<caso>`.
+
 ## Rutina de cierre (al terminar cada sesión o cada jueves)
 
 1. Agregar los registros nuevos y marcar los superados en `registro.json`.
