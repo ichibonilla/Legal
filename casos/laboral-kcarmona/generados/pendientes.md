@@ -63,6 +63,6 @@
 - **N-032** — Carga de la prueba del pago del salario. Fuente: Código de Trabajo, art. 478 (Reforma Procesal Laboral, Ley 9343), por confirmar; Ley 8454 de Certificados, Firmas Digitales y Documentos Electrónicos. SCIJ. Confirmar el número de artículo y su redacción vigente.
 - **R-056** — Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24. Fuente: Texto del mensaje de WhatsApp de Kristell del 26/10/2026, transcrito por la Dirección en la sesión de trabajo del 26/10/2026. Guardar captura o exportar el chat privado. Contradice R-055 sobre lo dicho el 22/10: el único registro escrito de la pausa es el mensaje de la Dirección del 26/10. Menciona que también se entregó el podcast.
 
-## Sin folio (82 de 82 vigentes)
+## Sin folio (83 de 83 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

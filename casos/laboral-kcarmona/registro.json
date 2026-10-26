@@ -1162,6 +1162,19 @@
       "supersede": "",
       "razon": "Guardar captura o exportar el chat privado. Contradice R-055 sobre lo dicho el 22/10: el único registro escrito de la pausa es el mensaje de la Dirección del 26/10. Menciona que también se entregó el podcast.",
       "folio": ""
+    },
+    {
+      "id": "R-057",
+      "fecha": "2026-10-26",
+      "tipo": "hecho",
+      "titulo": "El comunicado de lineamientos se preparó antes del reclamo de Kristell por el bono",
+      "afirmacion": "La primera versión del comunicado al equipo administrativo se registró a las 10:47 a. m. del 26/10/2026 (hora de Costa Rica) y la versión final a la 1:28 p. m. La pregunta de Kristell por el bono es de las 3:26 p. m. El marco disciplinario general ya figuraba en el plan de mejora del 25/10/2026.",
+      "fuente": "Historial del repositorio: commits 0075f54 (16:47 UTC) y 5a02f61 (19:28 UTC) del 26/10/2026; R-048 (3:26 p. m.).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "Respalda que el comunicado es una política general preparada antes del reclamo. Su defensa descansa en su contenido general y su aplicación uniforme, no en la fecha de entrega.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1288,14 +1301,15 @@
     {
       "id": "E-010",
       "titulo": "Respuesta sobre el bono",
-      "conclusion": "Hay dos versiones de la reunión del 22/10 [R-055, R-056], y la primera constancia escrita de la pausa es del 26/10. El empleador debe probar lo que afirma [N-032], y ella sostiene que nadie respondió su pregunta sobre el pago del sábado 24. Recomendación: pagar como de costumbre el material entregado el sábado 24, porque se entregó antes de la comunicación escrita y bajo un arreglo habitual [R-049]; la pausa rige desde el 26/10, sin solicitar nuevos videos. Si el bono es una parte relevante de su ingreso, suspenderlo sin acuerdo puede leerse como rebaja salarial [N-010, N-031]; conviene mantener el arreglo hasta firmar o lograr el acuerdo pronto. Su mensaje es un reclamo legítimo y mesurado: no tiene relevancia disciplinaria. Entregar mañana el comunicado con el marco disciplinario, al día siguiente de su reclamo, facilita una lectura de represalia.",
+      "conclusion": "Hay dos versiones de la reunión del 22/10 [R-055, R-056] y un riesgo probatorio relevante para la clínica, sin que pueda anticiparse el resultado [N-032]. Se distinguen dos derechos: cobrar lo ya realizado y seguir recibiendo el pago en el futuro. El material del sábado 24 se paga porque se devengó conforme al arreglo vigente [R-049, R-056]. La suspensión de encargos no es inocua: si el pago era fijo, habitual o una obligación semanal asignada, suspenderlo puede ser una rebaja salarial [N-010, N-031]. Antes de modificar la remuneración: revisar pagos de 12 a 24 meses, si era monto fijo o por video, si se pagaba sin entregas y si se producía en la jornada. El mensaje a Kristell no discute lo dicho el 22/10. El comunicado se sostiene por su contenido general y por haberse preparado antes del reclamo [R-057].",
       "depende_de": [
         "R-055",
         "R-056",
         "N-032",
         "R-049",
         "N-010",
-        "N-031"
+        "N-031",
+        "R-057"
       ]
     }
   ]
