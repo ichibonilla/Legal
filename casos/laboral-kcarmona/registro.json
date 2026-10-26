@@ -1136,6 +1136,19 @@
       "supersede": "R-051",
       "razon": "La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.",
       "folio": ""
+    },
+    {
+      "id": "N-032",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Carga de la prueba del pago del salario",
+      "afirmacion": "En el proceso laboral, corresponde al empleador probar el pago de salarios y demás extremos; los mensajes y documentos electrónicos que emite son prueba en su contra si contienen dudas o condiciones.",
+      "fuente": "Código de Trabajo, art. 478 (Reforma Procesal Laboral, Ley 9343), por confirmar; Ley 8454 de Certificados, Firmas Digitales y Documentos Electrónicos. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Confirmar el número de artículo y su redacción vigente.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1262,13 +1275,14 @@
     {
       "id": "E-010",
       "titulo": "Respuesta sobre el bono",
-      "conclusion": "Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente.",
+      "conclusion": "Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente. Blindaje del mensaje del 26/10: (1) afirmar el pago de lo anterior al 22/10 solo con comprobante, nunca con «me parece», porque el empleador debe probar el pago [N-032]; (2) no condicionar el pago de lo ya entregado a la firma del contrato: lo que la clínica use se paga; (3) dejar por escrito que, durante la pausa, no se solicitan nuevos videos; (4) la firma es libre y con tiempo para revisar el borrador; la reunión es individual.",
       "depende_de": [
         "R-055",
         "N-010",
         "R-048",
         "R-053",
-        "N-031"
+        "N-031",
+        "N-032"
       ]
     }
   ]

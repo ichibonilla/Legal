@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (40)
+## POR VERIFICAR (41)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -60,7 +60,8 @@
 - **R-050** — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. No consta por escrito en los cuatro chats. Falta el documento o mensaje en que se le comunicó; la fecha del último pago; montos, periodicidad y si se reportó a la CCSS y se incluyó en el aguinaldo.
 - **N-031** — Salario: concepto, primacía de la realidad y bonos. Fuente: Código de Trabajo, arts. 162 a 164; Ley 2412; jurisprudencia de la Sala Segunda sobre bonos e incentivos, por identificar. SCIJ. Cotejar artículos e identificar una sentencia sobre bonos por productividad e incentivos habituales.
 - **R-055** — Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.
+- **N-032** — Carga de la prueba del pago del salario. Fuente: Código de Trabajo, art. 478 (Reforma Procesal Laboral, Ley 9343), por confirmar; Ley 8454 de Certificados, Firmas Digitales y Documentos Electrónicos. SCIJ. Confirmar el número de artículo y su redacción vigente.
 
-## Sin folio (80 de 80 vigentes)
+## Sin folio (81 de 81 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

@@ -68,9 +68,9 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 
 ### E-010 — Respuesta sobre el bono
 
-Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente.
+Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anunciado el 22/10 rige solo hacia adelante. Los videos entregados antes de esa fecha se pagan como se venía haciendo; retener ese pago sería el fundamento más claro para una terminación con responsabilidad patronal [N-010]. Los entregados después se pagan al firmarse el contrato y no se usan antes; si ya se publicaron, se pagan. El mensaje deja por escrito lo dicho el 22/10, en privado [R-048, R-053]. Un contrato de compra de productos con la propia trabajadora, por tareas de su puesto, se analiza como salario variable [N-031]; solo resiste como contrato aparte si el trabajo es realmente independiente. Blindaje del mensaje del 26/10: (1) afirmar el pago de lo anterior al 22/10 solo con comprobante, nunca con «me parece», porque el empleador debe probar el pago [N-032]; (2) no condicionar el pago de lo ya entregado a la firma del contrato: lo que la clínica use se paga; (3) dejar por escrito que, durante la pausa, no se solicitan nuevos videos; (4) la firma es libre y con tiempo para revisar el borrador; la reunión es individual.
 
-> Advertencia: R-055 está POR VERIFICAR. N-010 está POR VERIFICAR. N-031 está POR VERIFICAR.
+> Advertencia: R-055 está POR VERIFICAR. N-010 está POR VERIFICAR. N-031 está POR VERIFICAR. N-032 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -87,7 +87,7 @@ Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anu
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (40)
+## Por verificar (41)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -129,6 +129,7 @@ Los videos se recibieron [R-055]: no puede afirmarse lo contrario. El cambio anu
 - R-050 — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato
 - N-031 — Salario: concepto, primacía de la realidad y bonos
 - R-055 — Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato
+- N-032 — Carga de la prueba del pago del salario
 
 ## Registros reemplazados
 
