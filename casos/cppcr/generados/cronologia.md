@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-09-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Carlos F. Bonilla Cortés — Colegio de Profesionales en Psicología de Costa Rica
 
-Registro actualizado el 2026-09-26.
+Registro actualizado el 2026-10-26.
 
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@ Registro actualizado el 2026-09-26.
 | 2026-05-20 | R-006 | VERIFICADO | Quiénes votaron los acuerdos 385 y 386 | — |
 | 2026-05-20 | R-007 | VERIFICADO | Sin deliberación registrada | — |
 | 2026-05-20 | R-038 | VERIFICADO | El asesor Delgado Faith estuvo presente en la sesión del 20 de mayo | — |
+| 2026-06-10 | R-051 | POR VERIFICAR | La Fiscalía trató la retención de expedientes como una controversia contractual | — |
 | 2026-06-12 | R-008 | VERIFICADO | Gestión CBC-OEM-040-2026 | — |
 | 2026-06-17 | R-009 | VERIFICADO | Acuerdo 473: frase sin documento fuente; se niega la autoría (art. 273 LGAP) | — |
 | 2026-06-17 | R-010 | VERIFICADO | El acuerdo 473 reproduce la frase en el acta 12-06-2026 | — |
@@ -41,15 +42,28 @@ Registro actualizado el 2026-09-26.
 | 2026-08-27 | R-024 | VERIFICADO | Sentencia, considerando VI: la frase no era cita de una parte y carecía de sustento | — |
 | 2026-08-27 | R-025 | VERIFICADO | Sentencia, considerandos V y IX: la autoría es asunto de legalidad ordinaria | — |
 | 2026-08-27 | R-026 | VERIFICADO | Sentencia, considerando VII: deber de mantener solo la versión corregida | — |
+| 2026-08-27 | R-059 | VERIFICADO | Sentencia 2026-033012, considerando VIII y hecho no probado a): los expedientes clínicos, a la vía ordinaria | — |
+| 2026-08-27 | R-060 | VERIFICADO | Sentencia 2026-033012, considerando IV: el amparo no es instancia revisora de la legalidad | — |
 | 2026-08-28 | ~~R-027~~ (superado por R-035) | PENDIENTE | ~~Acuerdo JD.CPPCR-680-2026 (gestión de recusación, Exp. 02-2026)~~ | — |
 | 2026-08-29 | R-028 | VERIFICADO | Gestión de adición y aclaración de la sentencia | — |
 | 2026-09-02 | R-039 | VERIFICADO | Acuerdo JD.CPPCR-730-2026 (responde POI-LEG-2026-001): contradicción interna | — |
 | 2026-09-02 | ~~R-040~~ (superado por R-043) | POR VERIFICAR | ~~Acuerdo JD.CPPCR-731-2026: atribuye a la Fiscalía la recusación resuelta en el 680~~ | — |
 | 2026-09-02 | R-043 | VERIFICADO | Acuerdo JD.CPPCR-731-2026: da por resuelta en el 680 una recusación contra personal de la Fiscalía | — |
+| 2026-09-07 | R-047 | VERIFICADO | Causa contravencional 25-000910-1450-FC contra el Dr. Bonilla | — |
 | 2026-09-08 | R-029 | VERIFICADO | Res. SC 2026-034225: no ha lugar a la adición y aclaración | — |
 | 2026-09-16 | R-034 | VERIFICADO | Acuerdo JD.CPPCR-778-2026: toma nota de la copia de la gestión sobre el 680 y pide no remitir copias | — |
 | 2026-09-17 | R-042 | VERIFICADO | La notificación de los acuerdos 730, 731 y 732 no adjunta el 730 | — |
 | 2026-09-22 | ~~R-030~~ (superado por R-034) | PENDIENTE | ~~Acuerdo JD.CPPCR-778-2026 — PLAZO CRÍTICO~~ | — |
 | 2026-09-24 | ~~R-032~~ (superado por R-033) | POR VERIFICAR | ~~Hipótesis inicial: la frase podría venir de la denuncia de la Licda. Robles~~ | — |
 | 2026-09-24 | R-033 | VERIFICADO | La frase no es cita de ninguna parte ni del Tribunal de Honor | — |
+| 2026-09-28 | R-050 | VERIFICADO | Revocatoria y apelación ante la Asamblea General contra el Acuerdo 780 (Inadmisibilidad 05-2026) | — |
+| 2026-09-28 | R-054 | VERIFICADO | Exp. 32-2026: cinco colegiados denuncian al Dr. Bonilla; uno es el denunciado de la Inadmisibilidad 05-2026 | — |
+| 2026-10-07 | R-055 | VERIFICADO | Exp. 32-2026: recusación de la Presidenta del Tribunal y recurso contra la resolución del 05/10/2026 | — |
+| 2026-10-07 | R-056 | VERIFICADO | Exp. 02-2026: conclusiones presentadas | — |
+| 2026-10-12 | R-049 | VERIFICADO | Querella 26-000042-0335-PE pendiente de debate; el aviso forma parte de la prueba | — |
+| 2026-10-21 | R-052 | VERIFICADO | Inadmisibilidad 04-2026: observaciones dentro de la revocatoria contra el Acuerdo 779 | — |
+| 2026-10-21 | R-058 | VERIFICADO | Acceso al expediente de la Inadmisibilidad 05-2026: ordenado por la Junta y no entregado | — |
+| 2026-10-23 | R-053 | PENDIENTE | Acuerdo JD.CPPCR-867-2026 (Inadmisibilidad 06-2026) | — |
+| 2026-10-26 | R-057 | POR VERIFICAR | Trato asimétrico: se archiva la denuncia contra el Lic. Aguilar y se tramita la del Lic. Aguilar contra el Dr. Bonilla | — |
 | — | R-016 | PENDIENTE | Respuesta de fondo a OER-049 (Acuerdo 381-2025 y punto sétimo) | — |
+| — | R-048 | PENDIENTE | Resolución contravencional sobre el aviso legal | — |

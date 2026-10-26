@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-09-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Carlos F. Bonilla Cortés — Colegio de Profesionales en Psicología de Costa Rica
 
-Estado al 2026-09-26. Fuente única: `registro.json`.
+Estado al 2026-10-26. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -13,6 +13,10 @@ Estado al 2026-09-26. Fuente única: `registro.json`.
 - Sala Constitucional 26-000728-0007-CO (amparo previo, sin lugar)
 - Sala Constitucional 26-007865-0007-CO (amparo contra Ministerio de Salud)
 - Sala Constitucional 26-018306-0007-CO (acción de inconstitucionalidad, Decreto 40556-S)
+- CPPCR Exp. disciplinario 32-2026 (Tribunal de Honor; denuncia de cinco colegiados; proceso alterno)
+- CPPCR Inadmisibilidad 04-2026, 05-2026 y 06-2026 (denuncias de Grupo Poïesis por retención de expedientes)
+- Contravencional 25-000910-1450-FC (el Dr. Bonilla como imputado)
+- Querella 26-000042-0335-PE (pendiente de debate)
 
 ## Evaluaciones vigentes
 
@@ -42,16 +46,23 @@ Contra las sentencias de la Sala no cabe recurso [N-003]; la adición ya fue rec
 
 ### E-005 — Recusación resuelta por los propios recusados (Acuerdo 680)
 
-El vicio queda documentado. Seis de los siete votantes del 680 eran los recusados, y los siete estaban presentes al votarlo [R-036]. La aprobación fue en bloque, sin deliberación ni abstenciones [R-035]. Sin los recusados no había quórum, y la recusación debía pasar al superior del órgano [N-007, N-008]; falta precisar quién es ese superior [N-011]. El proyecto lo preparó el asesor legal, que también estuvo en la sesión del 20 de mayo [R-037, R-038], lo que suma el art. 230.2 [N-006]. El dato más persuasivo es interno: en esa misma sesión, un directivo salió para que se votara su propia beca [R-045]. La Junta conocía la práctica de apartarse y no la aplicó cuando se la recusaba a ella. Con notificación el 28/08 [R-035], el plazo de revocatoria ya venció. El 680 también acogió la apelación, y un ataque dirigido solo al rechazo de la recusación no tendría por qué alcanzar esa parte si es independiente [N-010]. Aun así, conviene no abrir ese frente ahora y reservarlo para el acto final del Exp. 02-2026 o para la vía contencioso-administrativa [N-009]. La contradicción del 730 [R-039] y la del 731 [R-043] refuerzan el cuadro de tramitación poco cuidadosa, pero no sostienen el vicio por sí solas.
+El vicio queda documentado. Seis de los siete votantes del 680 eran los recusados, y los siete estaban presentes al votarlo [R-036]. La aprobación fue en bloque, sin deliberación ni abstenciones [R-035]. Sin los recusados no había quórum, y la recusación debía pasar al superior del órgano [N-007, N-008]; ese superior sería la Asamblea General, según el art. 14 de la Ley 6144, pendiente de cotejo [N-025]. El proyecto lo preparó el asesor legal, que también estuvo en la sesión del 20 de mayo [R-037, R-038], lo que suma el art. 230.2 [N-006]. El dato más persuasivo es interno: en esa misma sesión, un directivo salió para que se votara su propia beca [R-045]. La Junta conocía la práctica de apartarse y no la aplicó cuando se la recusaba a ella. Con notificación el 28/08 [R-035], el plazo de revocatoria ya venció. El 680 también acogió la apelación, y un ataque dirigido solo al rechazo de la recusación no tendría por qué alcanzar esa parte si es independiente [N-010]. Aun así, conviene no abrir ese frente ahora y reservarlo para el acto final del Exp. 02-2026 o para la vía contencioso-administrativa [N-009]. La contradicción del 730 [R-039] y la del 731 [R-043] refuerzan el cuadro de tramitación poco cuidadosa, pero no sostienen el vicio por sí solas.
 
-> Advertencia: N-010 está POR VERIFICAR. N-011 está PENDIENTE.
+> Advertencia: N-010 está POR VERIFICAR. N-025 está POR VERIFICAR.
 
-## Pendientes (2)
+### E-006 — Amparo por el rechazo de las denuncias sobre expedientes y por las denuncias contra los avisos
+
+Viabilidad baja en el objeto planteado. La Sala ya resolvió dos veces que el trámite de las denuncias y la tutela administrativa de los expedientes corresponden a la vía ordinaria [R-031, R-059], y puede rechazar por el fondo la reiteración de una gestión igual o similar [N-013]. Las denuncias siguen en vía recursiva [R-050, R-052, R-053], y la corrección de lo resuelto es legalidad ordinaria salvo arbitrariedad manifiesta [R-060]. Lo nuevo, el trato asimétrico entre la denuncia archivada y la que se tramita contra el Dr. Bonilla [R-057], rinde más en la revocatoria pendiente, en la apelación ante la Asamblea General [N-025] y en el contencioso [N-026] que en un amparo. Un amparo estrecho sería viable solo ante una omisión concreta y actual: la falta de entrega del expediente que ordenó la Junta [R-058], si persiste más allá de diez días hábiles desde el 21/10/2026 [N-016]; la falta de acceso a las denuncias del Exp. 32-2026 si el trámite avanza sin darlo [R-054]; o una orden de retirar los avisos antes de una decisión firme, que sería censura previa [N-018]. La protección de las personas usuarias no depende del Colegio: la comunicación individual a cada persona, activa o pasiva, y las vías sanitaria y de protección de datos que la Sala dejó abiertas son más rápidas y menos expuestas [R-059, N-019, N-020, N-021]. Sobre los avisos, la querella sigue pendiente [R-049]; lo que diga la resolución contravencional [R-048] debe leerse antes de invocarlo.
+
+> Advertencia: R-048 está PENDIENTE. R-053 está PENDIENTE. R-057 está POR VERIFICAR. N-013 está POR VERIFICAR. N-018 está POR VERIFICAR. N-019 está POR VERIFICAR. N-020 está POR VERIFICAR. N-021 está POR VERIFICAR. N-025 está POR VERIFICAR. N-026 está POR VERIFICAR.
+
+## Pendientes (3)
 
 - R-016 — Respuesta de fondo a OER-049 (Acuerdo 381-2025 y punto sétimo)
-- N-011 — Superior de la Junta Directiva a efectos del art. 234.2
+- R-048 — Resolución contravencional sobre el aviso legal
+- R-053 — Acuerdo JD.CPPCR-867-2026 (Inadmisibilidad 06-2026)
 
-## Por verificar (9)
+## Por verificar (24)
 
 - R-001 — Acuerdo JD.CPPCR-381-2025: origen del vocabulario «acoso u hostigamiento de personas usuarias»
 - R-011 — Publicación del acta 12-06-2026 en el sitio web
@@ -62,6 +73,21 @@ El vicio queda documentado. Seis de los siete votantes del 680 eran los recusado
 - N-010 — LGAP art. 164.1: invalidez parcial
 - R-044 — Detalles formales del acta 16-08-2026 (versión corregida)
 - N-012 — Recurso contra actos de la Junta Directiva: fundamento y plazo
+- R-051 — La Fiscalía trató la retención de expedientes como una controversia contractual
+- R-057 — Trato asimétrico: se archiva la denuncia contra el Lic. Aguilar y se tramita la del Lic. Aguilar contra el Dr. Bonilla
+- N-013 — LJC art. 9: rechazo de plano y reiteración de gestiones
+- N-014 — LJC art. 35: plazo del amparo
+- N-015 — LJC art. 57: amparo contra sujetos de derecho privado
+- N-018 — Constitución art. 29: libertad de expresión sin censura previa
+- N-019 — Ley 8239: acceso de la persona usuaria a su expediente clínico
+- N-020 — Ley 8968: derecho de acceso y denuncia ante la PRODHAB
+- N-021 — Ley General de Salud art. 74: el director del establecimiento vela por el archivo de expedientes
+- N-022 — Código de Ética y Deontológico arts. 21 y 22: retención y custodia de documentos
+- N-023 — LGAP art. 292.3: el rechazo de plano tiene los recursos de la resolución final
+- N-024 — Ley 6144 arts. 40.b y 42: mediación en conflictos entre colegiados
+- N-025 — Ley 6144 arts. 14, 15.e y 23: la Asamblea General como órgano superior
+- N-026 — CPCA: conducta omisiva y medidas cautelares
+- N-027 — LJC art. 31: el amparo no exige agotar la vía administrativa
 
 ## Registros reemplazados
 
@@ -71,6 +97,7 @@ El vicio queda documentado. Seis de los siete votantes del 680 eran los recusado
 - R-040 → R-043 (2026-09-26): R-040 describía el 731 como referido al Exp. 02-2026. El cotejo muestra que trata de la Inadmisibilidad 05-2026 y precisa el alcance de la inconsistencia.
 - R-041 → R-044 (sin fecha): La corrección de la fecha consta en el acta; se retira como hallazgo. Lo relativo al oficio sigue sin cotejo.
 - N-005 → N-012 (sin fecha): N-005 atribuía al art. 44 una revocatoria general de tres días contra lo resuelto por la Junta; el 680 lo describe con un alcance más limitado.
+- N-011 → N-025 (sin fecha): N-011 dejaba abierto quién es el superior de la Junta. El recurso del 28/09/2026 transcribe el art. 14 de la Ley 6144, que señala a la Asamblea General. Falta cotejo contra el texto oficial.
 
 ## Reglas
 
