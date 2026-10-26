@@ -3,7 +3,7 @@
 
 # Pendientes y por verificar
 
-## PENDIENTE (11)
+## PENDIENTE (12)
 
 - **R-017** — Quejas de pacientes sobre el trato de Kristel. La Dirección refiere varias quejas; ninguna consta por escrito en las fuentes revisadas (R-016).
 - **R-018** — Observaciones directas de la jefatura sobre trato inadecuado a pacientes. Hechos con más de un mes desde que la jefatura los conoció sirven de contexto, no de base disciplinaria (N-006).
@@ -16,8 +16,9 @@
 - **R-025** — Verificación de protecciones especiales. Cualquiera de esas situaciones cambia el procedimiento (N-012, N-013).
 - **R-026** — Cumplimiento patronal al día. Es lo primero que revisa la defensa de una trabajadora ante cualquier medida.
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
+- **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (31)
+## POR VERIFICAR (35)
 
 - **R-001** — Nombre completo y cédula consignados en el grupo. Fuente: CHAT-G, 4/21/26 2:20:49 PM (Siggie - Poïesis Móvil I); contexto 1:56:58 PM y 2:18 PM. El mensaje existe, pero el dato se digitó desde otra línea; cotejar con la cédula y la planilla antes de usarlo en el plan.
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
@@ -45,12 +46,16 @@
 - **N-023** — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados. Fuente: Código de Trabajo, arts. 19, 71 y 81. Referencias jurisprudenciales identificadas el 26/10/2026 por fuentes secundarias: vLex (Tribunal de Trabajo, Sección II, 00347-2001), Delfino.cr (julio de 2024, cita Sala Segunda 00588-2016). Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
 - **N-024** — Art. 81 h), segunda parte: negativa manifiesta y reiterada a acatar normas claras de trabajo. Fuente: Código de Trabajo, art. 81, inciso h), redactado de memoria. SCIJ. Cotejar la redacción vigente. Encaja con el Protocolo de Atención, comunicado con claridad y aceptado por escrito (R-009), si después del plan y de amonestaciones se negara de forma manifiesta y reiterada a aplicarlo.
 - **R-039** — Puntualidad en el horario. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Descarta el inciso g) del art. 81. Salir a la hora de término es un derecho, no una falta.
-- **R-040** — Fiorella pide que se le pague el salario sin cargas sociales. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Conviene tener su solicitud por escrito. No se atribuye a Kristel sin prueba.
 - **N-025** — Art. 81 a) y c): injuria, calumnia o vías de hecho contra el patrono. Fuente: Código de Trabajo, art. 81, incisos a) y c). Jurisprudencia de la Sala Segunda por identificar. Identificar una sentencia de la Sala Segunda sobre el concepto laboral de injuria y otra sobre críticas al patrono.
 - **N-026** — Seguro social obligatorio e irrenunciable. Fuente: Constitución Política, arts. 73 y 74; Ley Constitutiva de la CCSS (arts. 3, 44 y 45); Código de Trabajo, arts. 11, 193 y 221. SCIJ. Cotejar artículos y montos de recargos.
 - **N-027** — Límites a la obtención de prueba: grabaciones y comunicaciones privadas. Fuente: Código Penal, art. 198 (captación indebida de manifestaciones verbales); Constitución Política, art. 24; Ley 7425. SCIJ. Cotejar texto y jurisprudencia sobre la grabación por un participante de la conversación.
 - **N-028** — Contrato realidad. Fuente: Código de Trabajo, art. 18. SCIJ. Cotejar.
+- **R-041** — Kristel cuestiona el pago de cargas sociales y pide no pagarlas. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. La Dirección corrige R-040: la solicitud es de Kristel, no de Fiorella. Conviene tener su planteamiento por escrito.
+- **R-043** — En una reunión insinuó que la llamaban «tonta» al explicarle las cargas sociales. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Falta la fecha y quiénes de la Dirección estaban presentes. Testigos: Angiolette y Fiorella. Es una percepción de ella sobre cómo se le habló, no una falta suya.
+- **R-044** — Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Falta la fecha y una declaración voluntaria de Angiolette. Es relevante para el deber de diligencia si se acompaña de un descenso medible en su gestión de pacientes nuevos.
+- **R-045** — Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Falta la fecha y ante quién lo dijo. Indica que anticipa un conflicto.
+- **N-029** — Salario en especie. Fuente: Código de Trabajo, art. 166; Ley Constitutiva de la CCSS. SCIJ. Cotejar el porcentaje legal y confirmar si Kristel recibe salario en especie y en qué consiste.
 
-## Sin folio (65 de 65 vigentes)
+## Sin folio (70 de 70 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

@@ -50,17 +50,23 @@ Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos qu
 
 ### E-007 — Causas del artículo 81 que mejor se alinean con la conducta descrita
 
-Inciso l), falta grave por reiteración de conductas advertidas por escrito [N-004, N-020], y su forma de lealtad cuando las expresiones llegan a pacientes o terceros [N-001]. Inciso h), segunda parte, frente al Protocolo de Atención [N-024]. Incisos a) y c) solo ante expresiones concretas, ofensivas o con imputaciones falsas contra el Dr. Bonilla o Poïesis, probadas con testigos [N-025, R-038]. La negatividad o la queja, en sí mismas, no son causa; la crítica sobre el salario tampoco. No se ajusta el inciso g): no hay problema de horario [R-039]. La prueba de lo verbal se construye con anotaciones del mismo día y declaraciones voluntarias, nunca con grabaciones ocultas [N-027].
+Inciso l), falta grave por reiteración de conductas advertidas por escrito [N-004, N-020], y su forma de lealtad cuando las expresiones llegan a pacientes o terceros [N-001]. Inciso h), segunda parte, frente al Protocolo de Atención [N-024]. Incisos a) y c) solo ante expresiones concretas, ofensivas o con imputaciones falsas contra el Dr. Bonilla o Poïesis, probadas con testigos [N-025, R-038]. La negatividad o la queja, en sí mismas, no son causa; la crítica sobre el salario tampoco. No se ajusta el inciso g): no hay problema de horario [R-039]. La prueba de lo verbal se construye con anotaciones del mismo día y declaraciones voluntarias, nunca con grabaciones ocultas [N-027]. Los hechos referidos el 26/10 refuerzan la misma ruta solo si se documentan: el comentario sobre no hacer pacientes nuevos [R-044] y las preguntas de pacientes [R-042] apuntan a diligencia y servicio (inciso l), no a injuria.
 
-> Advertencia: N-004 está POR VERIFICAR. N-020 está POR VERIFICAR. N-001 está POR VERIFICAR. N-024 está POR VERIFICAR. N-025 está POR VERIFICAR. R-038 está PENDIENTE. R-039 está POR VERIFICAR. N-027 está POR VERIFICAR.
+> Advertencia: N-004 está POR VERIFICAR. N-020 está POR VERIFICAR. N-001 está POR VERIFICAR. N-024 está POR VERIFICAR. N-025 está POR VERIFICAR. R-038 está PENDIENTE. R-039 está POR VERIFICAR. N-027 está POR VERIFICAR. R-044 está POR VERIFICAR. R-042 está PENDIENTE.
 
-### E-008 — Solicitud de Fiorella de recibir salario sin cargas sociales
+### E-008 — Solicitud de Kristel de no pagar cargas sociales
 
-No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e irrenunciable y el patrono responde por las cuotas no reportadas, con recargos [N-026]. Llamarlo «servicios profesionales» no cambia la naturaleza de la relación [N-028]. Aceptarlo daría además a la trabajadora un reclamo posterior contra la clínica. Se responde por escrito, con cortesía. No se atribuye la solicitud a Kristel sin prueba [R-040].
+No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e irrenunciable y el patrono responde por las cuotas no reportadas, con recargos [N-026]; el salario en especie también cotiza [N-029]. Llamarlo «servicios profesionales» no cambia la naturaleza de la relación [N-028]. Cuestionar las cargas no es una falta; aceptar su pedido sí daría a la trabajadora un reclamo posterior. Se responde por escrito, en privado, con cortesía [R-041].
 
-> Advertencia: N-026 está POR VERIFICAR. N-028 está POR VERIFICAR. R-040 está POR VERIFICAR.
+> Advertencia: N-026 está POR VERIFICAR. N-029 está POR VERIFICAR. N-028 está POR VERIFICAR. R-041 está POR VERIFICAR.
 
-## Pendientes (11)
+### E-009 — Anuncio de que guardará mensajes del grupo Crew
+
+Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que participó, para su defensa, no es una falta. Sí lo sería extraer datos de pacientes a dispositivos personales o revelarlos a terceros [N-022, N-015]. Medidas: una política de manejo de datos para todo el equipo; no borrar mensajes de los grupos, porque se leería como ocultamiento; y asumir que el grupo Crew será prueba, incluidos el registro informal compartido [R-031], el borrador de declaración jurada [R-034] y el cálculo del aguinaldo [R-029].
+
+> Advertencia: R-045 está POR VERIFICAR. N-022 está POR VERIFICAR. N-015 está POR VERIFICAR.
+
+## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
 - R-018 — Observaciones directas de la jefatura sobre trato inadecuado a pacientes
@@ -73,8 +79,9 @@ No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e i
 - R-025 — Verificación de protecciones especiales
 - R-026 — Cumplimiento patronal al día
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
+- R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (31)
+## Por verificar (35)
 
 - R-001 — Nombre completo y cédula consignados en el grupo
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
@@ -102,17 +109,22 @@ No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e i
 - N-023 — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados
 - N-024 — Art. 81 h), segunda parte: negativa manifiesta y reiterada a acatar normas claras de trabajo
 - R-039 — Puntualidad en el horario
-- R-040 — Fiorella pide que se le pague el salario sin cargas sociales
 - N-025 — Art. 81 a) y c): injuria, calumnia o vías de hecho contra el patrono
 - N-026 — Seguro social obligatorio e irrenunciable
 - N-027 — Límites a la obtención de prueba: grabaciones y comunicaciones privadas
 - N-028 — Contrato realidad
+- R-041 — Kristel cuestiona el pago de cargas sociales y pide no pagarlas
+- R-043 — En una reunión insinuó que la llamaban «tonta» al explicarle las cargas sociales
+- R-044 — Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien
+- R-045 — Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos
+- N-029 — Salario en especie
 
 ## Registros reemplazados
 
 - R-012 → R-027 (2026-10-25): R-012 la describía como colaboradora o posible testigo; la Dirección aclara que finalmente declinó participar (R-028). Se conserva solo lo que consta en el chat.
 - R-016 → R-032 (2026-10-25): Se agrega CHAT-C, recibido el 25/10/2026. Hallazgo negativo: en CHAT-G y CHAT-C se buscó por términos, no se leyeron todos los mensajes.
 - N-021 → N-023 (sin fecha): Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
+- R-040 → R-041 (sin fecha): La Dirección corrige R-040: la solicitud es de Kristel, no de Fiorella. Conviene tener su planteamiento por escrito.
 
 ## Reglas
 

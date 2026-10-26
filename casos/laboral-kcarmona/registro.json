@@ -901,6 +901,84 @@
       "supersede": "",
       "razon": "Cotejar.",
       "folio": ""
+    },
+    {
+      "id": "R-041",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Kristel cuestiona el pago de cargas sociales y pide no pagarlas",
+      "afirmacion": "Según la Dirección, es Kristel quien no quiere que se paguen las cargas sociales sobre su salario y cuestiona por qué deben pagarse.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "R-040",
+      "razon": "La Dirección corrige R-040: la solicitud es de Kristel, no de Fiorella. Conviene tener su planteamiento por escrito.",
+      "folio": ""
+    },
+    {
+      "id": "R-042",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Pacientes han preguntado por qué se mantiene a Kristel",
+      "afirmacion": "Según la Dirección, varios pacientes han dicho o preguntado por qué Kristel sigue trabajando en la clínica.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "PENDIENTE",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.",
+      "folio": ""
+    },
+    {
+      "id": "R-043",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "En una reunión insinuó que la llamaban «tonta» al explicarle las cargas sociales",
+      "afirmacion": "Según la Dirección, en una reunión, frente a Angiolette y Fiorella, al cuestionar por qué debían pagarse las cargas sociales, Kristel insinuó que se le estaba diciendo tonta por no comprender el salario bruto y el salario en especie.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta la fecha y quiénes de la Dirección estaban presentes. Testigos: Angiolette y Fiorella. Es una percepción de ella sobre cómo se le habló, no una falta suya.",
+      "folio": ""
+    },
+    {
+      "id": "R-044",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien",
+      "afirmacion": "Según la Dirección, Kristel comentó a Angiolette que qué importaba no hacer pacientes nuevos, pues de por sí al Dr. Bonilla le iba muy bien.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta la fecha y una declaración voluntaria de Angiolette. Es relevante para el deber de diligencia si se acompaña de un descenso medible en su gestión de pacientes nuevos.",
+      "folio": ""
+    },
+    {
+      "id": "R-045",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos",
+      "afirmacion": "Según la Dirección, Kristel dijo que guardaría mensajes del grupo de WhatsApp Crew por si llegara a necesitarlos.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta la fecha y ante quién lo dijo. Indica que anticipa un conflicto.",
+      "folio": ""
+    },
+    {
+      "id": "N-029",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Salario en especie",
+      "afirmacion": "El salario en especie forma parte del salario: se reporta a la CCSS, cotiza y cuenta para el aguinaldo, las vacaciones y la cesantía. Si no se fijó su valor, la ley lo estima en un porcentaje del salario en dinero.",
+      "fuente": "Código de Trabajo, art. 166; Ley Constitutiva de la CCSS. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar el porcentaje legal y confirmar si Kristel recibe salario en especie y en qué consiste.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -986,7 +1064,7 @@
     {
       "id": "E-007",
       "titulo": "Causas del artículo 81 que mejor se alinean con la conducta descrita",
-      "conclusion": "Inciso l), falta grave por reiteración de conductas advertidas por escrito [N-004, N-020], y su forma de lealtad cuando las expresiones llegan a pacientes o terceros [N-001]. Inciso h), segunda parte, frente al Protocolo de Atención [N-024]. Incisos a) y c) solo ante expresiones concretas, ofensivas o con imputaciones falsas contra el Dr. Bonilla o Poïesis, probadas con testigos [N-025, R-038]. La negatividad o la queja, en sí mismas, no son causa; la crítica sobre el salario tampoco. No se ajusta el inciso g): no hay problema de horario [R-039]. La prueba de lo verbal se construye con anotaciones del mismo día y declaraciones voluntarias, nunca con grabaciones ocultas [N-027].",
+      "conclusion": "Inciso l), falta grave por reiteración de conductas advertidas por escrito [N-004, N-020], y su forma de lealtad cuando las expresiones llegan a pacientes o terceros [N-001]. Inciso h), segunda parte, frente al Protocolo de Atención [N-024]. Incisos a) y c) solo ante expresiones concretas, ofensivas o con imputaciones falsas contra el Dr. Bonilla o Poïesis, probadas con testigos [N-025, R-038]. La negatividad o la queja, en sí mismas, no son causa; la crítica sobre el salario tampoco. No se ajusta el inciso g): no hay problema de horario [R-039]. La prueba de lo verbal se construye con anotaciones del mismo día y declaraciones voluntarias, nunca con grabaciones ocultas [N-027]. Los hechos referidos el 26/10 refuerzan la misma ruta solo si se documentan: el comentario sobre no hacer pacientes nuevos [R-044] y las preguntas de pacientes [R-042] apuntan a diligencia y servicio (inciso l), no a injuria.",
       "depende_de": [
         "N-004",
         "N-020",
@@ -995,17 +1073,33 @@
         "N-025",
         "R-038",
         "R-039",
-        "N-027"
+        "N-027",
+        "R-044",
+        "R-042"
       ]
     },
     {
       "id": "E-008",
-      "titulo": "Solicitud de Fiorella de recibir salario sin cargas sociales",
-      "conclusion": "No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e irrenunciable y el patrono responde por las cuotas no reportadas, con recargos [N-026]. Llamarlo «servicios profesionales» no cambia la naturaleza de la relación [N-028]. Aceptarlo daría además a la trabajadora un reclamo posterior contra la clínica. Se responde por escrito, con cortesía. No se atribuye la solicitud a Kristel sin prueba [R-040].",
+      "titulo": "Solicitud de Kristel de no pagar cargas sociales",
+      "conclusion": "No procede, aunque ella lo pida por escrito. El seguro social es obligatorio e irrenunciable y el patrono responde por las cuotas no reportadas, con recargos [N-026]; el salario en especie también cotiza [N-029]. Llamarlo «servicios profesionales» no cambia la naturaleza de la relación [N-028]. Cuestionar las cargas no es una falta; aceptar su pedido sí daría a la trabajadora un reclamo posterior. Se responde por escrito, en privado, con cortesía [R-041].",
       "depende_de": [
         "N-026",
+        "N-029",
         "N-028",
-        "R-040"
+        "R-041"
+      ]
+    },
+    {
+      "id": "E-009",
+      "titulo": "Anuncio de que guardará mensajes del grupo Crew",
+      "conclusion": "Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que participó, para su defensa, no es una falta. Sí lo sería extraer datos de pacientes a dispositivos personales o revelarlos a terceros [N-022, N-015]. Medidas: una política de manejo de datos para todo el equipo; no borrar mensajes de los grupos, porque se leería como ocultamiento; y asumir que el grupo Crew será prueba, incluidos el registro informal compartido [R-031], el borrador de declaración jurada [R-034] y el cálculo del aguinaldo [R-029].",
+      "depende_de": [
+        "R-045",
+        "N-022",
+        "N-015",
+        "R-031",
+        "R-034",
+        "R-029"
       ]
     }
   ]

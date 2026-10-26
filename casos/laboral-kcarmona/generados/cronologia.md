@@ -46,4 +46,9 @@ Registro actualizado el 2026-10-26.
 | — | R-028 | POR VERIFICAR | Declinó participar en el asunto Robles y la Dirección lo aceptó | — |
 | — | R-038 | PENDIENTE | Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras | — |
 | — | R-039 | POR VERIFICAR | Puntualidad en el horario | — |
-| — | R-040 | POR VERIFICAR | Fiorella pide que se le pague el salario sin cargas sociales | — |
+| — | ~~R-040~~ (superado por R-041) | POR VERIFICAR | ~~Fiorella pide que se le pague el salario sin cargas sociales~~ | — |
+| — | R-041 | POR VERIFICAR | Kristel cuestiona el pago de cargas sociales y pide no pagarlas | — |
+| — | R-042 | PENDIENTE | Pacientes han preguntado por qué se mantiene a Kristel | — |
+| — | R-043 | POR VERIFICAR | En una reunión insinuó que la llamaban «tonta» al explicarle las cargas sociales | — |
+| — | R-044 | POR VERIFICAR | Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien | — |
+| — | R-045 | POR VERIFICAR | Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos | — |

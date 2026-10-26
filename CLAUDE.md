@@ -13,6 +13,7 @@ Material confidencial. No se publica fuera del repositorio.
 - No se borra. Un dato corregido se registra de nuevo con `supersede` (ID reemplazado) y `razon`.
 - `folio` queda vacío hasta tener expediente certificado; ese día se completa de una sentada.
 - En los escritos, cada afirmación de hecho o de norma se cita como `[R-xxx]` o `[N-xxx]`.
+- Para cotejar un mensaje de chat citado en `fuente`: `python3 herramientas/chats.py ver casos/<caso>/fuentes/<chat>.zip "<fecha y hora>"`; para buscar en un chat: `chats.py buscar`.
 
 ## Rutina de cierre (al terminar cada sesión o cada jueves)
 
