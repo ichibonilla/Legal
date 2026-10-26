@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (37)
+## POR VERIFICAR (39)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -57,7 +57,9 @@
 - **R-046** — Nombre completo y cédula según su propia declaración. Fuente: CHAT-C, 20/4/26 1:31:25 p. m.; CHAT-G, 10/19/26 8:00:09 PM. R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.
 - **N-030** — Cuotas obrero-patronales a partir de enero de 2026. Fuente: Fuentes secundarias consultadas el 26/10/2026: AG Legal, Softland, Alegra, Deel y un PDF institucional (geologia.go.cr). Sitio de la CCSS no consultado. Confirmar con la CCSS y con la persona contadora que la planilla de Poïesis aplica estas tasas en 2026.
 - **R-047** — Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Sin rastro en los cuatro chats. Falta la fecha y un relato voluntario y firmado de Jennipher. Relevante porque se atribuye una potestad de la Dirección ante una profesional externa; por sí solo es leve, pero suma si se reitera y se documenta (inciso l).
+- **R-050** — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. No consta por escrito en los cuatro chats. Falta el documento o mensaje en que se le comunicó; la fecha del último pago; montos, periodicidad y si se reportó a la CCSS y se incluyó en el aguinaldo.
+- **N-031** — Salario: concepto, primacía de la realidad y bonos. Fuente: Código de Trabajo, arts. 162 a 164; Ley 2412; jurisprudencia de la Sala Segunda sobre bonos e incentivos, por identificar. SCIJ. Cotejar artículos e identificar una sentencia sobre bonos por productividad e incentivos habituales.
 
-## Sin folio (72 de 72 vigentes)
+## Sin folio (76 de 76 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

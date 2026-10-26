@@ -66,6 +66,12 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 
 > Advertencia: R-045 está POR VERIFICAR. N-022 está POR VERIFICAR. N-015 está POR VERIFICAR.
 
+### E-010 — Respuesta sobre el bono
+
+Un bono por producto entregado remunera trabajo: es salario variable aunque se le llame «no salarial» o «gratificación» [N-031]. Afirmarlo por escrito como no salarial sería prueba a su favor: diferencias de aguinaldo [R-029], reporte incompleto a la CCSS [N-026] y una supresión unilateral que puede fundar la terminación con responsabilidad patronal [N-010]. La posición defendible es otra: es un pago variable que se genera solo cuando el producto se entrega en las condiciones acordadas; si en el periodo no hubo producto, no hay pago; y si lo hubo, se paga. Se responde en privado, no en el grupo [R-048, R-049, R-050].
+
+> Advertencia: N-031 está POR VERIFICAR. N-026 está POR VERIFICAR. N-010 está POR VERIFICAR. R-050 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -81,7 +87,7 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (37)
+## Por verificar (39)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -120,6 +126,8 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - R-046 — Nombre completo y cédula según su propia declaración
 - N-030 — Cuotas obrero-patronales a partir de enero de 2026
 - R-047 — Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica
+- R-050 — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato
+- N-031 — Salario: concepto, primacía de la realidad y bonos
 
 ## Registros reemplazados
 
@@ -138,3 +146,4 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.
 - Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.
 - Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona
+- Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible.

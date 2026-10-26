@@ -14,7 +14,8 @@
       "Folio: vacío; este caso no tiene expediente certificado.",
       "Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación.",
       "Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.",
-      "Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona"
+      "Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona",
+      "Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible."
     ]
   },
   "registros": [
@@ -1018,6 +1019,58 @@
       "supersede": "",
       "razon": "Falta la fecha y un relato voluntario y firmado de Jennipher. Relevante porque se atribuye una potestad de la Dirección ante una profesional externa; por sí solo es leve, pero suma si se reitera y se documenta (inciso l).",
       "folio": ""
+    },
+    {
+      "id": "R-048",
+      "fecha": "2026-10-26",
+      "tipo": "hecho",
+      "titulo": "Kristell pregunta en el grupo «Administrativo» por el depósito del bono",
+      "afirmacion": "En el grupo de WhatsApp «Administrativo» (Angiolette, Dra. Silvia Salas, Fiorella Varela y Kristell), a las 3:26 p. m., Kristell escribió: «Buenas tardes, ¿Ocurrió algo con el depósito del bono?».",
+      "fuente": "fuentes/WhatsApp_Administrativo_2026-10-26_captura_bono.png (captura del 26/10/2026, marcada «Today», 3:26 PM).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "La pregunta sugiere que el bono se depositaba con regularidad y esta vez no llegó.",
+      "folio": ""
+    },
+    {
+      "id": "R-049",
+      "fecha": "2024-02-14",
+      "tipo": "hecho",
+      "titulo": "El bono está ligado a la producción de videos y se paga desde al menos 2024",
+      "afirmacion": "El 14/02/2024 la Dirección le escribió a Kristell: «Si es del caso, el bono lo podríamos colocar en otra actividad», en el contexto de los videos que ella producía. En diciembre de 2025 Fiorella indicó en el grupo Crew: «nosotras recibimos bonos». En agosto de 2026 la lista de tareas asigna «Videos Kristel».",
+      "fuente": "CHAT-M2, 2/14/24 6:55:44 PM a 7:14:31 PM; CHAT-C, 5/12/25 5:35:50 p. m. y 5/8/26 7:50:19 a. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "Los chats no muestran montos, periodicidad ni la forma de pago.",
+      "folio": ""
+    },
+    {
+      "id": "R-050",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato",
+      "afirmacion": "Según la Dirección, desde el inicio se indicó que el bono no era parte del salario, que sería por producto entregado y que no se brindaría hasta firmarse un contrato.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. No consta por escrito en los cuatro chats.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta el documento o mensaje en que se le comunicó; la fecha del último pago; montos, periodicidad y si se reportó a la CCSS y se incluyó en el aguinaldo.",
+      "folio": ""
+    },
+    {
+      "id": "N-031",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Salario: concepto, primacía de la realidad y bonos",
+      "afirmacion": "La naturaleza salarial de un pago depende de lo que retribuye, no de su nombre. Todo pago que remunera el trabajo, incluido el que se calcula por unidad de obra o producto, es salario: cotiza a la CCSS y cuenta para el aguinaldo, las vacaciones y la cesantía. Solo la gratificación ocasional y discrecional, desligada del trabajo realizado, queda fuera. Un pago habitual no puede suprimirse de forma unilateral.",
+      "fuente": "Código de Trabajo, arts. 162 a 164; Ley 2412; jurisprudencia de la Sala Segunda sobre bonos e incentivos, por identificar. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar artículos e identificar una sentencia sobre bonos por productividad e incentivos habituales.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1139,6 +1192,20 @@
         "R-031",
         "R-034",
         "R-029"
+      ]
+    },
+    {
+      "id": "E-010",
+      "titulo": "Respuesta sobre el bono",
+      "conclusion": "Un bono por producto entregado remunera trabajo: es salario variable aunque se le llame «no salarial» o «gratificación» [N-031]. Afirmarlo por escrito como no salarial sería prueba a su favor: diferencias de aguinaldo [R-029], reporte incompleto a la CCSS [N-026] y una supresión unilateral que puede fundar la terminación con responsabilidad patronal [N-010]. La posición defendible es otra: es un pago variable que se genera solo cuando el producto se entrega en las condiciones acordadas; si en el periodo no hubo producto, no hay pago; y si lo hubo, se paga. Se responde en privado, no en el grupo [R-048, R-049, R-050].",
+      "depende_de": [
+        "N-031",
+        "R-029",
+        "N-026",
+        "N-010",
+        "R-048",
+        "R-049",
+        "R-050"
       ]
     }
   ]

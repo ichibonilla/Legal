@@ -9,6 +9,7 @@ Registro actualizado el 2026-10-26.
 |---|---|---|---|---|
 | 2022-06-01 | R-004 | VERIFICADO | Presente en la operación desde al menos junio de 2022 | — |
 | 2022-12-18 | R-005 | VERIFICADO | Aumento salarial en diciembre de 2022 | — |
+| 2024-02-14 | R-049 | VERIFICADO | El bono está ligado a la producción de videos y se paga desde al menos 2024 | — |
 | 2024-10-29 | R-007 | VERIFICADO | Práctica previa: carta de mejora con entrenamiento a otra colaboradora | — |
 | 2024-11-15 | R-003 | VERIFICADO | Funciones de coordinación de recursos humanos (one on ones, reclutamiento) | — |
 | 2024-11-15 | R-006 | VERIFICADO | Kristel pidió retroalimentación directa; la Dirección respondió que no veía mal desempeño | — |
@@ -34,6 +35,7 @@ Registro actualizado el 2026-10-26.
 | 2026-10-25 | ~~R-016~~ (superado por R-032) | VERIFICADO | ~~Los chats no contienen registro escrito de las conductas que motivan el plan~~ | — |
 | 2026-10-25 | R-032 | VERIFICADO | Los cuatro chats no contienen registro escrito de las conductas que motivan el plan | — |
 | 2026-10-26 | R-037 | VERIFICADO | Los cuatro chats no contienen hechos de deslealtad, falta de probidad o revelación de información atribuibles a Kristel | — |
+| 2026-10-26 | R-048 | VERIFICADO | Kristell pregunta en el grupo «Administrativo» por el depósito del bono | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
@@ -54,3 +56,4 @@ Registro actualizado el 2026-10-26.
 | — | R-044 | POR VERIFICAR | Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien | — |
 | — | R-045 | POR VERIFICAR | Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos | — |
 | — | R-047 | POR VERIFICAR | Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica | — |
+| — | R-050 | POR VERIFICAR | Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato | — |
