@@ -1071,6 +1071,32 @@
       "supersede": "",
       "razon": "Cotejar artículos e identificar una sentencia sobre bonos por productividad e incentivos habituales.",
       "folio": ""
+    },
+    {
+      "id": "R-051",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella",
+      "afirmacion": "Según la Dirección, en el periodo Kristell no entregó videos y Fiorella no entregó el podcast; por eso no se generó el pago variable por producto. La Dirección indicó que ese pago no se brindaría hasta firmarse un contrato.",
+      "fuente": "Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Conviene un control de entregas por mes (videos y podcast) que respalde la ausencia de producto, y el borrador del contrato.",
+      "folio": ""
+    },
+    {
+      "id": "R-052",
+      "fecha": "2026-07-28",
+      "tipo": "hecho",
+      "titulo": "Vacaciones aprobadas del 29/09 al 03/10/2026",
+      "afirmacion": "Kristell comunicó vacaciones del 29 de septiembre al 3 de octubre de 2026 (Bogotá); la Dirección preguntó quién la cubría y aprobó («Juega»).",
+      "fuente": "CHAT-M2, 7/28/26 12:31:21 PM a 1:30 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "El viaje fue un periodo de vacaciones autorizado: no es una falta. Explica la falta de producto, no la reprocha.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1197,15 +1223,15 @@
     {
       "id": "E-010",
       "titulo": "Respuesta sobre el bono",
-      "conclusion": "Un bono por producto entregado remunera trabajo: es salario variable aunque se le llame «no salarial» o «gratificación» [N-031]. Afirmarlo por escrito como no salarial sería prueba a su favor: diferencias de aguinaldo [R-029], reporte incompleto a la CCSS [N-026] y una supresión unilateral que puede fundar la terminación con responsabilidad patronal [N-010]. La posición defendible es otra: es un pago variable que se genera solo cuando el producto se entrega en las condiciones acordadas; si en el periodo no hubo producto, no hay pago; y si lo hubo, se paga. Se responde en privado, no en el grupo [R-048, R-049, R-050].",
+      "conclusion": "La base defendible es que no hubo producto en el periodo [R-051], durante unas vacaciones autorizadas [R-052]: sin producto no hay pago variable, sea cual sea la calificación del bono. El mensaje no califica el bono ni menciona el viaje; indica que no se recibió producto y que el pago variable se retoma al firmarse el contrato [R-050]. Se evita escribir «no salarial»: un pago por producto se analiza como salario variable [N-031] y esa frase sería prueba en otros reclamos (aguinaldo, CCSS) [R-029, N-026]. Se responde en privado [R-048].",
       "depende_de": [
+        "R-051",
+        "R-052",
+        "R-050",
         "N-031",
         "R-029",
         "N-026",
-        "N-010",
-        "R-048",
-        "R-049",
-        "R-050"
+        "R-048"
       ]
     }
   ]

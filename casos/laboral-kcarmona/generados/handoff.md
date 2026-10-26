@@ -68,9 +68,9 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 
 ### E-010 — Respuesta sobre el bono
 
-Un bono por producto entregado remunera trabajo: es salario variable aunque se le llame «no salarial» o «gratificación» [N-031]. Afirmarlo por escrito como no salarial sería prueba a su favor: diferencias de aguinaldo [R-029], reporte incompleto a la CCSS [N-026] y una supresión unilateral que puede fundar la terminación con responsabilidad patronal [N-010]. La posición defendible es otra: es un pago variable que se genera solo cuando el producto se entrega en las condiciones acordadas; si en el periodo no hubo producto, no hay pago; y si lo hubo, se paga. Se responde en privado, no en el grupo [R-048, R-049, R-050].
+La base defendible es que no hubo producto en el periodo [R-051], durante unas vacaciones autorizadas [R-052]: sin producto no hay pago variable, sea cual sea la calificación del bono. El mensaje no califica el bono ni menciona el viaje; indica que no se recibió producto y que el pago variable se retoma al firmarse el contrato [R-050]. Se evita escribir «no salarial»: un pago por producto se analiza como salario variable [N-031] y esa frase sería prueba en otros reclamos (aguinaldo, CCSS) [R-029, N-026]. Se responde en privado [R-048].
 
-> Advertencia: N-031 está POR VERIFICAR. N-026 está POR VERIFICAR. N-010 está POR VERIFICAR. R-050 está POR VERIFICAR.
+> Advertencia: R-051 está POR VERIFICAR. R-050 está POR VERIFICAR. N-031 está POR VERIFICAR. N-026 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -87,7 +87,7 @@ Un bono por producto entregado remunera trabajo: es salario variable aunque se l
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (39)
+## Por verificar (40)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -128,6 +128,7 @@ Un bono por producto entregado remunera trabajo: es salario variable aunque se l
 - R-047 — Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica
 - R-050 — Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato
 - N-031 — Salario: concepto, primacía de la realidad y bonos
+- R-051 — Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella
 
 ## Registros reemplazados
 
