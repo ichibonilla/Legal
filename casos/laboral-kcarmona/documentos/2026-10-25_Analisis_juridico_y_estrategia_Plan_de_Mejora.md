@@ -169,6 +169,7 @@ Esta lectura no es un diagnóstico de la colaboradora ni debe aparecer en ningú
 | Paso | Cuándo | Ejecuta | Aprueba |
 |---|---|---|---|
 | 0. Verificaciones previas [R-022 a R-026], aguinaldo 2025 [R-029] y constancia sobre el asunto Robles [R-028] | Semana del 26 de octubre | Silvia, con contabilidad | Carlos |
+| 0b. Comunicado de lineamientos a todo el equipo administrativo, con acuse de recibo (`escritos/2026-10-26_Comunicado_Lineamientos_Equipo_Administrativo.md`) | Antes de la entrega del plan, no el mismo día | Silvia | Carlos |
 | 1. Documentación de hechos de los últimos 30 días, con fecha y fuente | De inmediato | Silvia | — |
 | 2. Decisión: plan solo, o plan más amonestación escrita si hay un hecho reciente, probado y relevante | Al cerrar el paso 1 | Carlos, con la abogada | Carlos |
 | 3. Cotejo del plan sin observaciones | Antes de la entrega | Silvia | Carlos |

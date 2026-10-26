@@ -105,6 +105,7 @@ def tabla(doc, filas, ancho):
     con_cabecera = any(cab)
     datos = ([cab] if con_cabecera else []) + cuerpo
     n = max(len(f) for f in datos)
+    firmas = datos[0][0].startswith("_")
     t = doc.add_table(rows=len(datos), cols=n)
     t.alignment = WD_TABLE_ALIGNMENT.CENTER
     bordes(t, con_cabecera)
@@ -119,7 +120,7 @@ def tabla(doc, filas, ancho):
                 sombrear(c, ARENA)
                 runs(p, texto, 9.5, NAVY, True)
             else:
-                etiqueta = not con_cabecera and n == 2 and j == 0
+                etiqueta = not con_cabecera and not firmas and n == 2 and j == 0
                 runs(p, texto, 9.5, GRIS if etiqueta else TINTA)
     doc.add_paragraph()
 
