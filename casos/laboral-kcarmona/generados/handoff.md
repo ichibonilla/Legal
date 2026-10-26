@@ -1,7 +1,7 @@
 <!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
-# Handoff — Grupo Poïesis — Kristel Carmona Soto: plan de mejora del desempeño
+# Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
 Estado al 2026-10-26. Fuente única: `registro.json`.
 
@@ -81,9 +81,8 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (35)
+## Por verificar (36)
 
-- R-001 — Nombre completo y cédula consignados en el grupo
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
 - N-003 — Código de Trabajo, art. 72: prohibiciones de la persona trabajadora
@@ -118,6 +117,8 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - R-044 — Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien
 - R-045 — Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos
 - N-029 — Salario en especie
+- R-046 — Nombre completo y cédula según su propia declaración
+- N-030 — Cuotas obrero-patronales a partir de enero de 2026
 
 ## Registros reemplazados
 
@@ -125,6 +126,7 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 - R-016 → R-032 (2026-10-25): Se agrega CHAT-C, recibido el 25/10/2026. Hallazgo negativo: en CHAT-G y CHAT-C se buscó por términos, no se leyeron todos los mensajes.
 - N-021 → N-023 (sin fecha): Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
 - R-040 → R-041 (sin fecha): La Dirección corrige R-040: la solicitud es de Kristel, no de Fiorella. Conviene tener su planteamiento por escrito.
+- R-001 → R-046 (sin fecha): R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.
 
 ## Reglas
 

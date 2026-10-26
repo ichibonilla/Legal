@@ -18,9 +18,8 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (35)
+## POR VERIFICAR (36)
 
-- **R-001** — Nombre completo y cédula consignados en el grupo. Fuente: CHAT-G, 4/21/26 2:20:49 PM (Siggie - Poïesis Móvil I); contexto 1:56:58 PM y 2:18 PM. El mensaje existe, pero el dato se digitó desde otra línea; cotejar con la cédula y la planilla antes de usarlo en el plan.
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
 - **N-003** — Código de Trabajo, art. 72: prohibiciones de la persona trabajadora. Fuente: Código de Trabajo, art. 72. SCIJ. Cotejar en SCIJ. Relevante porque la causal de reincidencia tras apercibimiento del art. 81 remite a estas prohibiciones.
@@ -55,7 +54,9 @@
 - **R-044** — Dijo a Angiolette que no importaba no hacer pacientes nuevos porque a Carlos Bonilla le iba muy bien. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Falta la fecha y una declaración voluntaria de Angiolette. Es relevante para el deber de diligencia si se acompaña de un descenso medible en su gestión de pacientes nuevos.
 - **R-045** — Anunció que guardaría mensajes del chat Crew por si tuviera que usarlos. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026. Falta la fecha y ante quién lo dijo. Indica que anticipa un conflicto.
 - **N-029** — Salario en especie. Fuente: Código de Trabajo, art. 166; Ley Constitutiva de la CCSS. SCIJ. Cotejar el porcentaje legal y confirmar si Kristel recibe salario en especie y en qué consiste.
+- **R-046** — Nombre completo y cédula según su propia declaración. Fuente: CHAT-C, 20/4/26 1:31:25 p. m.; CHAT-G, 10/19/26 8:00:09 PM. R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.
+- **N-030** — Cuotas obrero-patronales a partir de enero de 2026. Fuente: Fuentes secundarias consultadas el 26/10/2026: AG Legal, Softland, Alegra, Deel y un PDF institucional (geologia.go.cr). Sitio de la CCSS no consultado. Confirmar con la CCSS y con la persona contadora que la planilla de Poïesis aplica estas tasas en 2026.
 
-## Sin folio (70 de 70 vigentes)
+## Sin folio (71 de 71 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

@@ -18,13 +18,13 @@ Documento confidencial
 
 | | |
 |---|---|
-| Colaboradora | Kristel Carmona Soto [R-001] |
-| Cédula | 1-1762-0524 [R-001] |
+| Colaboradora | Kristell Carmona Soto [R-046] |
+| Cédula | 1-1762-0524 [R-046] |
 | Puesto | Asistente administrativa [R-002] |
 | Fecha | ____ de ______________ de 2026 |
 | Amonestación número | ____ |
 
-Estimada Kristel:
+Estimada Kristell:
 
 Por este medio le comunicamos una amonestación escrita por las situaciones que se describen a continuación.
 
@@ -69,7 +69,7 @@ Usted puede presentar por escrito sus observaciones dentro de los cinco días h�
 | | | |
 |---|---|---|
 | ______________________ | ______________________ | ______________________ |
-| Kristel Carmona Soto | Dra. Silvia Salas | Dr. Carlos Bonilla Cortés |
+| Kristell Carmona Soto | Dra. Silvia Salas | Dr. Carlos Bonilla Cortés |
 | Colaboradora | Jefatura inmediata | Dirección General |
 | Recibido el: __________ | | |
 

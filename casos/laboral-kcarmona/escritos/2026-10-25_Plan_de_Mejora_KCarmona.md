@@ -13,8 +13,8 @@ Documento confidencial
 
 | | |
 |---|---|
-| Colaboradora | Kristel Carmona Soto [R-001] |
-| Cédula | 1-1762-0524 [R-001] |
+| Colaboradora | Kristell Carmona Soto [R-046] |
+| Cédula | 1-1762-0524 [R-046] |
 | Puesto | Asistente administrativa [R-002] |
 | Jefatura inmediata | Dra. Silvia Salas |
 | Aprobación | Dr. Carlos Bonilla Cortés, Dirección General |
@@ -160,7 +160,7 @@ Este plan es confidencial. Lo conocen usted, la jefatura y la Dirección. Las re
 | | | |
 |---|---|---|
 | ______________________ | ______________________ | ______________________ |
-| Kristel Carmona Soto | Dra. Silvia Salas | Dr. Carlos Bonilla Cortés |
+| Kristell Carmona Soto | Dra. Silvia Salas | Dr. Carlos Bonilla Cortés |
 | Colaboradora | Jefatura inmediata | Dirección General |
 | Recibido el: __________ | | |
 

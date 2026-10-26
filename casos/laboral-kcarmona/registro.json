@@ -1,7 +1,7 @@
 {
   "caso": {
     "id": "LAB-KCS",
-    "titulo": "Grupo Poïesis — Kristel Carmona Soto: plan de mejora del desempeño",
+    "titulo": "Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño",
     "expedientes": [
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
@@ -978,6 +978,32 @@
       "verificado_el": "",
       "supersede": "",
       "razon": "Cotejar el porcentaje legal y confirmar si Kristel recibe salario en especie y en qué consiste.",
+      "folio": ""
+    },
+    {
+      "id": "R-046",
+      "fecha": "2026-04-20",
+      "tipo": "hecho",
+      "titulo": "Nombre completo y cédula según su propia declaración",
+      "afirmacion": "En la versión de la declaración jurada que ella misma completó se identifica como «KRISTELL CARMONA SOTO», cédula 1-1762-0524. Firma sus reportes de caja como «Kristell Carmona».",
+      "fuente": "CHAT-C, 20/4/26 1:31:25 p. m.; CHAT-G, 10/19/26 8:00:09 PM.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "R-001",
+      "razon": "R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.",
+      "folio": ""
+    },
+    {
+      "id": "N-030",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Cuotas obrero-patronales a partir de enero de 2026",
+      "afirmacion": "Desde el 1/01/2026 el aporte al IVM sube 0,32 puntos: obrero de 4,17 % a 4,33 %, patronal de 5,42 % a 5,58 %. Cuota obrera total 10,83 % (SEM 5,50 %, IVM 4,33 %, Banco Popular 1,00 %); cuota patronal total 26,83 %, que puede variar según la empresa (por ejemplo, el aporte al INA no aplica a empresas no agrícolas con menos de cinco personas trabajadoras). La póliza de riesgos del trabajo del INS es aparte y la paga el patrono.",
+      "fuente": "Fuentes secundarias consultadas el 26/10/2026: AG Legal, Softland, Alegra, Deel y un PDF institucional (geologia.go.cr). Sitio de la CCSS no consultado.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Confirmar con la CCSS y con la persona contadora que la planilla de Poïesis aplica estas tasas en 2026.",
       "folio": ""
     }
   ],

@@ -1,7 +1,7 @@
 <!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
-# Cronología — Grupo Poïesis — Kristel Carmona Soto: plan de mejora del desempeño
+# Cronología — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
 Registro actualizado el 2026-10-26.
 
@@ -20,7 +20,8 @@ Registro actualizado el 2026-10-26.
 | 2026-02-19 | R-009 | VERIFICADO | Protocolo de Atención Telefónica: Kristel lo confirmó como «Entendido y de acuerdo» | — |
 | 2026-04-20 | R-034 | VERIFICADO | Declaración jurada para la PRODHAB: Kristel ajustó el borrador a lo que le constaba | — |
 | 2026-04-20 | R-035 | VERIFICADO | Ella declara vínculo laboral con Poïesis desde abril de 2022 | — |
-| 2026-04-21 | R-001 | POR VERIFICAR | Nombre completo y cédula consignados en el grupo | — |
+| 2026-04-20 | R-046 | POR VERIFICAR | Nombre completo y cédula según su propia declaración | — |
+| 2026-04-21 | ~~R-001~~ (superado por R-046) | POR VERIFICAR | ~~Nombre completo y cédula consignados en el grupo~~ | — |
 | 2026-07-16 | R-010 | VERIFICADO | Kristel domina el estándar de atención que la clínica promueve | — |
 | 2026-08-21 | R-014 | VERIFICADO | Tensión laboral previa entre la Dirección y Fiorella, expuesta en el grupo | — |
 | 2026-09-03 | R-013 | VERIFICADO | Ha tenido acceso a material de litigio de la empresa | — |
