@@ -16,7 +16,7 @@
 - **R-025** — Verificación de protecciones especiales. Cualquiera de esas situaciones cambia el procedimiento (N-012, N-013).
 - **R-026** — Cumplimiento patronal al día. Es lo primero que revisa la defensa de una trabajadora ante cualquier medida.
 
-## POR VERIFICAR (24)
+## POR VERIFICAR (25)
 
 - **R-001** — Nombre completo y cédula consignados en el grupo. Fuente: CHAT-G, 4/21/26 2:20:49 PM (Siggie - Poïesis Móvil I); contexto 1:56:58 PM y 2:18 PM. El mensaje existe, pero el dato se digitó desde otra línea; cotejar con la cédula y la planilla antes de usarlo en el plan.
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
@@ -42,7 +42,8 @@
 - **N-020** — Reiteración de faltas y antecedentes disciplinarios. Fuente: Código de Trabajo, arts. 81 y 414; jurisprudencia de la Sala Segunda por identificar. Identificar al menos una sentencia de la Sala Segunda que lo sostenga antes de la decisión de despido.
 - **N-022** — Causales del artículo 81 ligadas a la confianza. Fuente: Código de Trabajo, arts. 71 y 81 (incisos a, c, d, e y l, por confirmar). SCIJ. Cotejar letras y redacción vigente.
 - **N-023** — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados. Fuente: Código de Trabajo, arts. 19, 71 y 81. Referencias jurisprudenciales identificadas el 26/10/2026 por fuentes secundarias: vLex (Tribunal de Trabajo, Sección II, 00347-2001), Delfino.cr (julio de 2024, cita Sala Segunda 00588-2016). Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
+- **N-024** — Art. 81 h), segunda parte: negativa manifiesta y reiterada a acatar normas claras de trabajo. Fuente: Código de Trabajo, art. 81, inciso h), redactado de memoria. SCIJ. Cotejar la redacción vigente. Encaja con el Protocolo de Atención, comunicado con claridad y aceptado por escrito (R-009), si después del plan y de amonestaciones se negara de forma manifiesta y reiterada a aplicarlo.
 
-## Sin folio (57 de 57 vigentes)
+## Sin folio (58 de 58 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

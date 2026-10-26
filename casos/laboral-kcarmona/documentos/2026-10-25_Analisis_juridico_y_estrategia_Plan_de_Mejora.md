@@ -78,6 +78,8 @@ Sobre los grupos de WhatsApp: un juez lee los chats completos. El grupo Crew tie
 3. Si la situación se verifica, se le entrega una amonestación escrita dentro del mes desde que se conoció [N-006]. La plantilla está en `escritos/Plantilla_Amonestacion_Escrita_KCarmona.md`.
 4. Las amonestaciones se refieren a conductas de la misma naturaleza (trato a pacientes, comunicación ante terceros, relaciones de trabajo), para que la reiteración sea clara.
 
+**Encuadre legal.** Dos incisos del artículo 81 se ajustan a este caso. El inciso l), falta grave a las obligaciones del contrato, por reiteración de faltas amonestadas [N-004, N-020]. Y el inciso h), segunda parte: la negativa manifiesta y reiterada a acatar normas que el patrono indicó con claridad para la eficacia del trabajo [N-024]. El Protocolo de Atención es una de esas normas: se comunicó por escrito y ella lo aceptó [R-009].
+
 **Umbral para valorar el despido**
 
 - Al menos una amonestación escrita previa, y preferiblemente dos, por conductas de la misma naturaleza, y una falta nueva, verificada y ocurrida o conocida dentro del último mes [N-020]; o
@@ -220,7 +222,7 @@ Criterios:
 - Confirmar nombre y cédula contra el documento de identidad [R-001].
 - Contrato, fecha de ingreso y salario [R-022]; comparación con el salario mínimo [R-023].
 - Reglamento Interior de Trabajo [R-024]; protecciones especiales [R-025]; cumplimiento patronal [R-026].
-- Cotejar en el SCIJ las normas N-001 a N-023 e identificar sentencias de la Sala Segunda sobre reiteración de faltas y sobre pérdida de confianza [N-020, N-023].
+- Cotejar en el SCIJ las normas N-001 a N-024 e identificar sentencias de la Sala Segunda sobre reiteración de faltas y sobre pérdida de confianza [N-020, N-023].
 - Informar a la abogada del asunto Robles sobre el informe de julio de 2025 y la declaración de abril de 2026 [R-033, R-034].
 - Definir los controles generales de la sección 6 y aplicarlos a todo el equipo administrativo.
 - Ejecutar el cotejo del plan hasta que no queden observaciones.

@@ -61,7 +61,7 @@ Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos qu
 - R-025 — Verificación de protecciones especiales
 - R-026 — Cumplimiento patronal al día
 
-## Por verificar (24)
+## Por verificar (25)
 
 - R-001 — Nombre completo y cédula consignados en el grupo
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
@@ -87,6 +87,7 @@ Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos qu
 - N-020 — Reiteración de faltas y antecedentes disciplinarios
 - N-022 — Causales del artículo 81 ligadas a la confianza
 - N-023 — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados
+- N-024 — Art. 81 h), segunda parte: negativa manifiesta y reiterada a acatar normas claras de trabajo
 
 ## Registros reemplazados
 
