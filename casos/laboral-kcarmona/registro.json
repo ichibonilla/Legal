@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-10-25",
+    "actualizado_el": "2026-10-26",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -693,6 +693,97 @@
       "supersede": "",
       "razon": "Identificar al menos una sentencia de la Sala Segunda que lo sostenga antes de la decisión de despido.",
       "folio": ""
+    },
+    {
+      "id": "R-033",
+      "fecha": "2025-07-01",
+      "tipo": "hecho",
+      "titulo": "Aparece como firmante, por Recursos Humanos, del informe de incumplimiento contra la Dra. Robles",
+      "afirmacion": "La Dirección compartió en el grupo un «Informe de incumplimiento administrativo y clínico por parte de la Dra. Andrea Robles Arias», fechado 1/07/2025, «De: Fiorella Varela – Dirección Administrativa / Kristell Carmona – Recursos Humanos», con registro de llamadas a pacientes del 30/06/2025.",
+      "fuente": "CHAT-G, 6/30/25 2:30:08 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "El chat muestra el texto, no si Kristel lo firmó ni si se presentó en algún expediente.",
+      "folio": ""
+    },
+    {
+      "id": "R-034",
+      "fecha": "2026-04-20",
+      "tipo": "hecho",
+      "titulo": "Declaración jurada para la PRODHAB: Kristel ajustó el borrador a lo que le constaba",
+      "afirmacion": "La jefatura compartió un borrador de declaración jurada (Exp. PRODHAB 046-02-2026-DEN) e invitó a modificarlo. Kristel preguntó si era para declarar ante un juez y señaló la frase «Lo declarado es por conocimiento directo. Ratificaré en la instancia que corresponda». Devolvió una versión que funda cada hecho «según los registros administrativos», aclara que no constituye valoración fuera de su competencia y elimina la referencia al conocimiento directo.",
+      "fuente": "CHAT-C, 20/4/26 9:03:58 a. m., 9:04:26 a. m., 9:24:03 a. m. a 9:27:39 a. m., 12:44:42 p. m., 1:31:25 p. m. y 1:36:16 p. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "No consta si la declaración se firmó, se autenticó o se presentó.",
+      "folio": ""
+    },
+    {
+      "id": "R-035",
+      "fecha": "2026-04-20",
+      "tipo": "hecho",
+      "titulo": "Ella declara vínculo laboral con Poïesis desde abril de 2022",
+      "afirmacion": "En su versión de la declaración jurada, Kristel indicó: «manteniendo vínculo laboral con Poïesis desde abril 2022».",
+      "fuente": "CHAT-C, 20/4/26 1:31:25 p. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "Es su manifestación; la fecha formal se confirma con planilla y contrato (R-022).",
+      "folio": ""
+    },
+    {
+      "id": "R-036",
+      "fecha": "2025-06-30",
+      "tipo": "hecho",
+      "titulo": "En sus funciones de confianza, los chats la muestran protegiendo los intereses de la clínica",
+      "afirmacion": "Consultó por una diferencia en un depósito de efectivo (210 000 frente a 310 000 colones; la jefatura explicó que la diferencia estaba autorizada); advirtió que una terapeuta buscaba llevarse pacientes; propuso revisar los accesos de terapeutas a calendarios ajenos; y avisó que una profesional que había cesado conservaba acceso al calendario y propuso retirarlo.",
+      "fuente": "CHAT-C, 27/9/24 7:56:14 a. m. y 7:56:54 a. m.; 18/9/24 4:26:35 p. m.; 30/6/25 11:49:38 a. m.; CHAT-G, 6/25/25 11:34:44 AM y 1/8/25 5:04:23 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-25",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "R-037",
+      "fecha": "2026-10-26",
+      "tipo": "hecho",
+      "titulo": "Los cuatro chats no contienen hechos de deslealtad, falta de probidad o revelación de información atribuibles a Kristel",
+      "afirmacion": "No se encontraron faltantes de dinero, manejo irregular de efectivo, desvío de pacientes, revelación de información a terceros, falsedad en registros ni uso indebido de accesos atribuibles a ella. Lo único cercano es que compartió en el grupo interno de la jefatura una contraseña de una cuenta institucional, práctica que el grupo usaba para coordinar accesos.",
+      "fuente": "CHAT-D, CHAT-M2, CHAT-G y CHAT-C, 2024-2026: búsqueda por términos de dinero (efectivo, faltante, sinpe, depósito, tarjeta, reembolso), datos (contraseña, acceso, drive, expediente, captura), lealtad (por fuera, se lleva, competencia), veracidad (mentir, excusa, incapacidad) y mensajes eliminados; contraseña en CHAT-C, 4/8/25 7:58:50 p. m.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-26",
+      "supersede": "",
+      "razon": "Hallazgo negativo por búsqueda de términos, no por lectura completa. Los mensajes eliminados no pueden leerse.",
+      "folio": ""
+    },
+    {
+      "id": "N-021",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "La pérdida de confianza no es una causal autónoma de despido en el sector privado",
+      "afirmacion": "El Código de Trabajo no la enumera. La jurisprudencia la admite solo como consecuencia de hechos objetivos, comprobados y atribuibles a la persona trabajadora que lesionen la buena fe; la desconfianza subjetiva no basta. En puestos de confianza, por las funciones reales y no por el nombre del cargo, una falta de menor entidad puede justificar el despido, pero siempre debe probarse.",
+      "fuente": "Código de Trabajo, arts. 19, 71 y 81; jurisprudencia de la Sala Segunda por identificar.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Identificar al menos dos sentencias de la Sala Segunda: una sobre la pérdida de confianza como consecuencia de hechos probados y otra sobre trabajadores de confianza.",
+      "folio": ""
+    },
+    {
+      "id": "N-022",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Causales del artículo 81 ligadas a la confianza",
+      "afirmacion": "Entre otras: injuria, calumnia o vías de hecho contra el patrono; delito o falta contra la propiedad en perjuicio del patrono; revelación de secretos que la persona trabajadora debe guardar (en relación con el deber de reserva del art. 71); y falta grave a las obligaciones del contrato.",
+      "fuente": "Código de Trabajo, arts. 71 y 81 (incisos a, c, d, e y l, por confirmar). SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar letras y redacción vigente.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -759,6 +850,20 @@
         "R-029",
         "N-019",
         "R-031"
+      ]
+    },
+    {
+      "id": "E-006",
+      "titulo": "Despido por pérdida de confianza",
+      "conclusion": "Hoy no es viable. No es una causal autónoma [N-021] y exige hechos objetivos que los cuatro chats no contienen [R-037]; lo que muestran apunta en sentido contrario [R-036]. El momento la expondría a una lectura de represalia: ajustó una declaración jurada a lo que le constaba [R-034] y luego declinó participar en el asunto Robles [R-028]. Además figura en documentos que la clínica podría necesitar en ese asunto [R-033, R-034]. Solo sería viable ante hechos futuros, comprobados, en funciones de confianza y encuadrados en el artículo 81 [N-022].",
+      "depende_de": [
+        "N-021",
+        "R-037",
+        "R-036",
+        "R-034",
+        "R-028",
+        "R-033",
+        "N-022"
       ]
     }
   ]

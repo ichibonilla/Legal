@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/registro.py el 2026-10-25 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Pendientes y por verificar
@@ -16,7 +16,7 @@
 - **R-025** — Verificación de protecciones especiales. Cualquiera de esas situaciones cambia el procedimiento (N-012, N-013).
 - **R-026** — Cumplimiento patronal al día. Es lo primero que revisa la defensa de una trabajadora ante cualquier medida.
 
-## POR VERIFICAR (22)
+## POR VERIFICAR (24)
 
 - **R-001** — Nombre completo y cédula consignados en el grupo. Fuente: CHAT-G, 4/21/26 2:20:49 PM (Siggie - Poïesis Móvil I); contexto 1:56:58 PM y 2:18 PM. El mensaje existe, pero el dato se digitó desde otra línea; cotejar con la cédula y la planilla antes de usarlo en el plan.
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
@@ -40,7 +40,9 @@
 - **R-028** — Declinó participar en el asunto Robles y la Dirección lo aceptó. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 25/10/2026. No consta por escrito en CHAT-D, CHAT-M2, CHAT-G ni CHAT-C. Conviene un respaldo escrito (mensaje o correo) en que conste que su decisión se aceptó sin consecuencias, con la fecha.
 - **N-019** — Base de cálculo del aguinaldo. Fuente: Ley 2412 y jurisprudencia de la Sala Segunda sobre salario variable. SCIJ. Cotejar texto y una sentencia sobre inclusión de bonos habituales.
 - **N-020** — Reiteración de faltas y antecedentes disciplinarios. Fuente: Código de Trabajo, arts. 81 y 414; jurisprudencia de la Sala Segunda por identificar. Identificar al menos una sentencia de la Sala Segunda que lo sostenga antes de la decisión de despido.
+- **N-021** — La pérdida de confianza no es una causal autónoma de despido en el sector privado. Fuente: Código de Trabajo, arts. 19, 71 y 81; jurisprudencia de la Sala Segunda por identificar. Identificar al menos dos sentencias de la Sala Segunda: una sobre la pérdida de confianza como consecuencia de hechos probados y otra sobre trabajadores de confianza.
+- **N-022** — Causales del artículo 81 ligadas a la confianza. Fuente: Código de Trabajo, arts. 71 y 81 (incisos a, c, d, e y l, por confirmar). SCIJ. Cotejar letras y redacción vigente.
 
-## Sin folio (50 de 50 vigentes)
+## Sin folio (57 de 57 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

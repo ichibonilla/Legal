@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-10-25 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristel Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-10-25. Fuente única: `registro.json`.
+Estado al 2026-10-26. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -42,6 +42,12 @@ Viable si se construye durante el plan, no al final. No alcanzar una meta numér
 
 > Advertencia: N-004 está POR VERIFICAR. N-020 está POR VERIFICAR. N-006 está POR VERIFICAR. N-005 está POR VERIFICAR. R-025 está PENDIENTE. R-026 está PENDIENTE. N-019 está POR VERIFICAR.
 
+### E-006 — Despido por pérdida de confianza
+
+Hoy no es viable. No es una causal autónoma [N-021] y exige hechos objetivos que los cuatro chats no contienen [R-037]; lo que muestran apunta en sentido contrario [R-036]. El momento la expondría a una lectura de represalia: ajustó una declaración jurada a lo que le constaba [R-034] y luego declinó participar en el asunto Robles [R-028]. Además figura en documentos que la clínica podría necesitar en ese asunto [R-033, R-034]. Solo sería viable ante hechos futuros, comprobados, en funciones de confianza y encuadrados en el artículo 81 [N-022].
+
+> Advertencia: N-021 está POR VERIFICAR. R-028 está POR VERIFICAR. N-022 está POR VERIFICAR.
+
 ## Pendientes (10)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -55,7 +61,7 @@ Viable si se construye durante el plan, no al final. No alcanzar una meta numér
 - R-025 — Verificación de protecciones especiales
 - R-026 — Cumplimiento patronal al día
 
-## Por verificar (22)
+## Por verificar (24)
 
 - R-001 — Nombre completo y cédula consignados en el grupo
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
@@ -79,6 +85,8 @@ Viable si se construye durante el plan, no al final. No alcanzar una meta numér
 - R-028 — Declinó participar en el asunto Robles y la Dirección lo aceptó
 - N-019 — Base de cálculo del aguinaldo
 - N-020 — Reiteración de faltas y antecedentes disciplinarios
+- N-021 — La pérdida de confianza no es una causal autónoma de despido en el sector privado
+- N-022 — Causales del artículo 81 ligadas a la confianza
 
 ## Registros reemplazados
 
