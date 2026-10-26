@@ -784,6 +784,19 @@
       "supersede": "",
       "razon": "Cotejar letras y redacción vigente.",
       "folio": ""
+    },
+    {
+      "id": "N-023",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados",
+      "afirmacion": "El Código de Trabajo no la enumera. La jurisprudencia la admite solo como consecuencia de hechos objetivos, comprobados y atribuibles a la persona trabajadora que lesionen la buena fe; la desconfianza subjetiva no basta. En puestos de confianza, por las funciones reales y no por el nombre del cargo, una falta de menor entidad puede justificar el despido, pero siempre debe probarse. La Sala Segunda la ha descrito como un quebranto grave del deber de lealtad (res. 00588-2016) y ha señalado que debe surgir de la certeza y la gravedad de hechos probados, no de una impresión subjetiva (sentencia de 1987, citada por el Tribunal de Trabajo, Sección II, sentencia 00347 de 18/04/2001).",
+      "fuente": "Código de Trabajo, arts. 19, 71 y 81. Referencias jurisprudenciales identificadas el 26/10/2026 por fuentes secundarias: vLex (Tribunal de Trabajo, Sección II, 00347-2001), Delfino.cr (julio de 2024, cita Sala Segunda 00588-2016).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "N-021",
+      "razon": "Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -855,9 +868,9 @@
     {
       "id": "E-006",
       "titulo": "Despido por pérdida de confianza",
-      "conclusion": "Hoy no es viable. No es una causal autónoma [N-021] y exige hechos objetivos que los cuatro chats no contienen [R-037]; lo que muestran apunta en sentido contrario [R-036]. El momento la expondría a una lectura de represalia: ajustó una declaración jurada a lo que le constaba [R-034] y luego declinó participar en el asunto Robles [R-028]. Además figura en documentos que la clínica podría necesitar en ese asunto [R-033, R-034]. Solo sería viable ante hechos futuros, comprobados, en funciones de confianza y encuadrados en el artículo 81 [N-022].",
+      "conclusion": "Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos que los cuatro chats no contienen [R-037]; lo que muestran apunta en sentido contrario [R-036]. El momento la expondría a una lectura de represalia: ajustó una declaración jurada a lo que le constaba [R-034] y luego declinó participar en el asunto Robles [R-028]. Además figura en documentos que la clínica podría necesitar en ese asunto [R-033, R-034]. Solo sería viable ante hechos futuros, comprobados, en funciones de confianza y encuadrados en el artículo 81 [N-022].",
       "depende_de": [
-        "N-021",
+        "N-023",
         "R-037",
         "R-036",
         "R-034",

@@ -40,8 +40,8 @@
 - **R-028** — Declinó participar en el asunto Robles y la Dirección lo aceptó. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 25/10/2026. No consta por escrito en CHAT-D, CHAT-M2, CHAT-G ni CHAT-C. Conviene un respaldo escrito (mensaje o correo) en que conste que su decisión se aceptó sin consecuencias, con la fecha.
 - **N-019** — Base de cálculo del aguinaldo. Fuente: Ley 2412 y jurisprudencia de la Sala Segunda sobre salario variable. SCIJ. Cotejar texto y una sentencia sobre inclusión de bonos habituales.
 - **N-020** — Reiteración de faltas y antecedentes disciplinarios. Fuente: Código de Trabajo, arts. 81 y 414; jurisprudencia de la Sala Segunda por identificar. Identificar al menos una sentencia de la Sala Segunda que lo sostenga antes de la decisión de despido.
-- **N-021** — La pérdida de confianza no es una causal autónoma de despido en el sector privado. Fuente: Código de Trabajo, arts. 19, 71 y 81; jurisprudencia de la Sala Segunda por identificar. Identificar al menos dos sentencias de la Sala Segunda: una sobre la pérdida de confianza como consecuencia de hechos probados y otra sobre trabajadores de confianza.
 - **N-022** — Causales del artículo 81 ligadas a la confianza. Fuente: Código de Trabajo, arts. 71 y 81 (incisos a, c, d, e y l, por confirmar). SCIJ. Cotejar letras y redacción vigente.
+- **N-023** — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados. Fuente: Código de Trabajo, arts. 19, 71 y 81. Referencias jurisprudenciales identificadas el 26/10/2026 por fuentes secundarias: vLex (Tribunal de Trabajo, Sección II, 00347-2001), Delfino.cr (julio de 2024, cita Sala Segunda 00588-2016). Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
 
 ## Sin folio (57 de 57 vigentes)
 

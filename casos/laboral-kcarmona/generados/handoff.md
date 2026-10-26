@@ -44,9 +44,9 @@ Viable si se construye durante el plan, no al final. No alcanzar una meta numér
 
 ### E-006 — Despido por pérdida de confianza
 
-Hoy no es viable. No es una causal autónoma [N-021] y exige hechos objetivos que los cuatro chats no contienen [R-037]; lo que muestran apunta en sentido contrario [R-036]. El momento la expondría a una lectura de represalia: ajustó una declaración jurada a lo que le constaba [R-034] y luego declinó participar en el asunto Robles [R-028]. Además figura en documentos que la clínica podría necesitar en ese asunto [R-033, R-034]. Solo sería viable ante hechos futuros, comprobados, en funciones de confianza y encuadrados en el artículo 81 [N-022].
+Hoy no es viable. No es una causal autónoma [N-023] y exige hechos objetivos que los cuatro chats no contienen [R-037]; lo que muestran apunta en sentido contrario [R-036]. El momento la expondría a una lectura de represalia: ajustó una declaración jurada a lo que le constaba [R-034] y luego declinó participar en el asunto Robles [R-028]. Además figura en documentos que la clínica podría necesitar en ese asunto [R-033, R-034]. Solo sería viable ante hechos futuros, comprobados, en funciones de confianza y encuadrados en el artículo 81 [N-022].
 
-> Advertencia: N-021 está POR VERIFICAR. R-028 está POR VERIFICAR. N-022 está POR VERIFICAR.
+> Advertencia: N-023 está POR VERIFICAR. R-028 está POR VERIFICAR. N-022 está POR VERIFICAR.
 
 ## Pendientes (10)
 
@@ -85,13 +85,14 @@ Hoy no es viable. No es una causal autónoma [N-021] y exige hechos objetivos qu
 - R-028 — Declinó participar en el asunto Robles y la Dirección lo aceptó
 - N-019 — Base de cálculo del aguinaldo
 - N-020 — Reiteración de faltas y antecedentes disciplinarios
-- N-021 — La pérdida de confianza no es una causal autónoma de despido en el sector privado
 - N-022 — Causales del artículo 81 ligadas a la confianza
+- N-023 — Pérdida de confianza: no es causal autónoma; deriva de hechos objetivos y probados
 
 ## Registros reemplazados
 
 - R-012 → R-027 (2026-10-25): R-012 la describía como colaboradora o posible testigo; la Dirección aclara que finalmente declinó participar (R-028). Se conserva solo lo que consta en el chat.
 - R-016 → R-032 (2026-10-25): Se agrega CHAT-C, recibido el 25/10/2026. Hallazgo negativo: en CHAT-G y CHAT-C se buscó por términos, no se leyeron todos los mensajes.
+- N-021 → N-023 (sin fecha): Se agregan las referencias jurisprudenciales identificadas. Falta cotejar ambas resoluciones en Nexus PJ; los sitios no fueron accesibles desde la sesión.
 
 ## Reglas
 
