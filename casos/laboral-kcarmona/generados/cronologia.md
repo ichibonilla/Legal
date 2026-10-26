@@ -35,6 +35,7 @@ Registro actualizado el 2026-10-26.
 | 2026-10-07 | R-027 | VERIFICADO | Respondió el primer cuestionario sobre el asunto Robles; no consta respuesta al segundo | — |
 | 2026-10-20 | R-015 | VERIFICADO | Funciones actuales: responsable del cierre diario de efectivo | — |
 | 2026-10-22 | R-055 | POR VERIFICAR | Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato | — |
+| 2026-10-22 | R-058 | POR VERIFICAR | Versión de la Dirección: el 22/10 se frenó todo pago hasta aclarar el contrato | — |
 | 2026-10-23 | R-011 | VERIFICADO | Reconocimientos escritos recientes a su trabajo | — |
 | 2026-10-25 | ~~R-016~~ (superado por R-032) | VERIFICADO | ~~Los chats no contienen registro escrito de las conductas que motivan el plan~~ | — |
 | 2026-10-25 | R-032 | VERIFICADO | Los cuatro chats no contienen registro escrito de las conductas que motivan el plan | — |

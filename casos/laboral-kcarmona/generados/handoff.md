@@ -68,9 +68,9 @@ Anticipa un conflicto [R-045]. Conservar mensajes de conversaciones en las que p
 
 ### E-010 — Respuesta sobre el bono
 
-Hay dos versiones de la reunión del 22/10 [R-055, R-056] y un riesgo probatorio relevante para la clínica, sin que pueda anticiparse el resultado [N-032]. Se distinguen dos derechos: cobrar lo ya realizado y seguir recibiendo el pago en el futuro. El material del sábado 24 se paga porque se devengó conforme al arreglo vigente [R-049, R-056]. La suspensión de encargos no es inocua: si el pago era fijo, habitual o una obligación semanal asignada, suspenderlo puede ser una rebaja salarial [N-010, N-031]. Antes de modificar la remuneración: revisar pagos de 12 a 24 meses, si era monto fijo o por video, si se pagaba sin entregas y si se producía en la jornada. El mensaje a Kristell no discute lo dicho el 22/10. El comunicado se sostiene por su contenido general y por haberse preparado antes del reclamo [R-057].
+Tres escenarios según lo que se dijo el 22/10 [R-055, R-058]: A) se suspendió expresamente la producción; B) solo se suspendieron los pagos; C) ambas cosas. Hoy los escritos apuntan a B: Kristell preguntó el 22 cómo se pagaría el sábado 24 y sitúa en el 26 la instrucción de no producir [R-056]. En B, la entrega del 24 siguió una práctica habitual [R-049] y se paga con la tarifa que se venía aplicando; en A o C, con prueba de testigos, puede tratarse como no solicitada, sin descartar la condición salarial consolidada [N-031, N-010]. La remuneración de un trabajo ya realizado no se fija después y a discreción del patrono: se corrige el criterio de la sesión del 26/10 que lo permitía. El pago no depende de la firma; la revisión tiene una fecha límite breve; la negativa a firmar no es falta [N-032].
 
-> Advertencia: R-055 está POR VERIFICAR. R-056 está POR VERIFICAR. N-032 está POR VERIFICAR. N-010 está POR VERIFICAR. N-031 está POR VERIFICAR.
+> Advertencia: R-055 está POR VERIFICAR. R-058 está POR VERIFICAR. R-056 está POR VERIFICAR. N-031 está POR VERIFICAR. N-010 está POR VERIFICAR. N-032 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -87,7 +87,7 @@ Hay dos versiones de la reunión del 22/10 [R-055, R-056] y un riesgo probatorio
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (42)
+## Por verificar (43)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -131,6 +131,7 @@ Hay dos versiones de la reunión del 22/10 [R-055, R-056] y un riesgo probatorio
 - R-055 — Videos recibidos; el 22/10 se indicó que el pago por producto no seguiría hasta firmar el contrato
 - N-032 — Carga de la prueba del pago del salario
 - R-056 — Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24
+- R-058 — Versión de la Dirección: el 22/10 se frenó todo pago hasta aclarar el contrato
 
 ## Registros reemplazados
 
