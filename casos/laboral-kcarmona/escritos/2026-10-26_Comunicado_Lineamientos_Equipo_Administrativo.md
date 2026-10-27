@@ -34,7 +34,7 @@ Entrega:
 | | |
 |---|---|
 | Para | Equipo administrativo de Poïesis |
-| De | Grupo Poïesis |
+| De | Dirección General · Grupo Poïesis |
 | Fecha | San José, 27 de octubre de 2026 |
 
 Estimado equipo:
@@ -105,15 +105,16 @@ Con aprecio,
 | |
 |---|
 | ______________________________ |
-| Fressy Mora Peñaranda |
-| Asesoría Legal · Grupo Poïesis |
-| Con conocimiento de Dirección General |
+| Carlos Fernando Bonilla Cortés |
+| Director General · Grupo Poïesis |
+
+Revisión jurídica: Fressy Mora Peñaranda · Asesoría Legal
 
 ---
 
 ## Constancia de recepción
 
-Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos.
+Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos laborales.
 
 | | |
 |---|---|
@@ -126,7 +127,7 @@ Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamiento
 
 ## Constancia de recepción
 
-Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos.
+Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos laborales.
 
 | | |
 |---|---|
@@ -139,7 +140,7 @@ Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamiento
 
 ## Constancia de recepción
 
-Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos.
+Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos laborales.
 
 | | |
 |---|---|
