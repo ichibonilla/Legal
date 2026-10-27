@@ -8,7 +8,7 @@ Retira las citas [R-xxx]/[N-xxx] y los comentarios <!-- -->. Antes de generar co
 el cotejo del escrito: si hay observaciones, el documento sale marcado como BORRADOR
 en el encabezado de cada página. Admite el subconjunto de Markdown que usan los
 escritos: títulos # y ##, párrafos, **negrita**, listas con - y 1., tablas y ---
-(salto de página).
+(salto de página). El título # va centrado, y también el subtítulo en negrita que lo sigue.
 """
 import argparse
 import re
@@ -19,7 +19,7 @@ from pathlib import Path
 from docx import Document
 from docx.enum.section import WD_SECTION
 from docx.enum.table import WD_TABLE_ALIGNMENT
-from docx.enum.text import WD_BREAK
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Pt, RGBColor, Inches
@@ -187,6 +187,7 @@ def convertir(md, salida, aviso):
             p = doc.add_paragraph()
             r = p.add_run(l[2:])
             r.font.name, r.font.size, r.font.color.rgb = TITULOS, Pt(24), color(NAVY)
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
             espacio(p, 0, 4)
         elif l.startswith("## "):
             p = doc.add_paragraph()
@@ -217,6 +218,8 @@ def convertir(md, salida, aviso):
             solo_negrita = l.startswith("**") and l.endswith("**") and l.count("**") == 2
             runs(p, l, 11 if solo_negrita else 10.5, NAVY if solo_negrita else TINTA)
             espacio(p, 6 if solo_negrita else 0, 6)
+            if solo_negrita and doc.paragraphs[-2].alignment == WD_ALIGN_PARAGRAPH.CENTER:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         i += 1
     doc.save(salida)
     a_paleta(salida)
