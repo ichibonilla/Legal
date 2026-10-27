@@ -1,6 +1,6 @@
 <!--
 Documento interno de la Dirección. No forma parte de los contratos ni se entrega a las proveedoras.
-Origen: valoraciones externas de los contratos marco (E-015 a E-018). Respaldo: carga de la prueba del empleador (N-036),
+Origen: valoraciones externas de los contratos marco (E-015 a E-019). Respaldo: carga de la prueba del empleador (N-036),
 contrato realidad (N-028), interpretación restrictiva de los derechos de autor (N-034).
 -->
 
@@ -24,16 +24,18 @@ Cada compra hecha con un contrato marco tiene su propio expediente, en una carpe
 - No se dan instrucciones de ejecución ni se fijan plazos fuera de los pactados en la orden.
 - La elaboración ocurre fuera de la jornada laboral. Si se graba en la clínica, el horario queda en la orden.
 
-## Cuatro hechos que se anotan
+## Antes de autorizar el pago
 
-En cada expediente se anota, con lo que se sabe en ese momento:
+La Administración verifica y anota, con documentos y no con declaraciones:
 
 1. Si el producto se elaboró fuera de la jornada laboral.
 2. Si la proveedora decidió cómo hacerlo.
 3. Si el producto formaba parte de las tareas de su puesto.
 4. Si tenía los derechos que concedió, incluidos los de música, imágenes, código o aportes de otras personas.
 
-Si el producto es de la misma clase que otros pagados antes de la firma del contrato, se anota cómo se pagaban y si alguna condición laboral cambió.
+Cuando sea posible, se guarda evidencia de cómo se hizo el producto: archivos de trabajo y versiones previas, con sus fechas de creación y modificación; el lugar y los equipos de grabación o desarrollo; y el origen de la música, las imágenes, el código o los complementos.
+
+Si el producto es de la misma clase que otros pagados antes de la firma del contrato, se anota cómo se pagaban y si alguna condición laboral cambió. Una compra no reemplaza una tarea del puesto ni un pago laboral ya reconocido.
 
 En las herramientas digitales se anota además quién concibió la herramienta, con qué recursos se desarrolló y qué información usa.
 

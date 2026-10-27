@@ -38,6 +38,8 @@ Versión 6 (27/10/2026), con la quinta valoración externa (E-018):
 - Sétima: la exclusividad no alcanza materiales de terceros.
 - Octava: seguridad de la información (expedientes, credenciales, medios, incidentes, devolución).
 - Novena: incumplimientos que no admiten corrección.
+Versión 7 (27/10/2026), con la sexta valoración externa (E-019):
+- Novena: la resolución sin plazo queda reservada a incumplimientos graves o esenciales, o de corrección imposible o inútil.
 -->
 
 # Contrato marco de adquisición y licencia de herramientas digitales
@@ -125,7 +127,9 @@ Esta obligación no impide las comunicaciones autorizadas por la ley ni la atenc
 
 ## Novena. Incumplimiento
 
-La parte que advierta un incumplimiento lo comunica por escrito, con los hechos y la obligación afectada, y concede un plazo razonable para corregirlo. Si el incumplimiento persiste, o si por su naturaleza no admite corrección, puede resolver la orden afectada y reclamar los daños que acredite, conforme a la ley.
+La parte que advierta un incumplimiento lo comunica por escrito, con los hechos y la obligación afectada, y concede un plazo razonable para corregirlo. Si el incumplimiento persiste, puede resolver la orden afectada y reclamar los daños que acredite, conforme a la ley.
+
+Cuando el incumplimiento es grave o esencial, o su corrección es imposible o inútil, la parte afectada puede resolver la orden sin conceder ese plazo.
 
 Ningún incumplimiento de este contrato, ni su terminación, tiene efectos disciplinarios en la relación laboral.
 

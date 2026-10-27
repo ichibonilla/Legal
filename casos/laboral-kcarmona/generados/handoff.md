@@ -118,6 +118,12 @@ Se adoptan: la cláusula segunda delimita el alcance del contrato a operaciones 
 
 > Advertencia: N-028 está POR VERIFICAR. N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR.
 
+### E-019 — Sexta valoración externa de los contratos marco
+
+Se adoptan: resolución sin plazo solo ante incumplimientos graves o esenciales, o de corrección imposible o inútil; verificación previa al pago con evidencia documental (archivos de trabajo, fechas, lugar y equipos, origen de materiales) y regla de que una compra no reemplaza una tarea del puesto ni un pago laboral ya reconocido. Los videos anteriores podrían estar cubiertos por la presunción de cesión al empleador [N-037]. El análisis sobre si la suspensión de producciones afecta condiciones remunerativas anteriores queda fuera de los contratos, como decisión separada de la Dirección [E-013]. Personería: criterio de la Dirección (E-016).
+
+> Advertencia: N-036 está POR VERIFICAR. N-037 está POR VERIFICAR. N-028 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -133,7 +139,7 @@ Se adoptan: la cláusula segunda delimita el alcance del contrato a operaciones 
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (47)
+## Por verificar (48)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -182,6 +188,7 @@ Se adoptan: la cláusula segunda delimita el alcance del contrato a operaciones 
 - N-034 — Interpretación restrictiva de los contratos de derechos de autor
 - N-035 — Alcance de la cesión de derechos de autor y exclusividad
 - N-036 — Carga de la prueba del empleador en materia laboral
+- N-037 — Presunción de cesión al empleador de obras creadas en el trabajo
 
 ## Registros reemplazados
 

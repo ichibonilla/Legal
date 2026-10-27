@@ -1292,6 +1292,19 @@
       "supersede": "",
       "razon": "Justifica llevar un expediente de cada compra con los contratos marco. Cotejar en el SCIJ.",
       "folio": ""
+    },
+    {
+      "id": "N-037",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Presunción de cesión al empleador de obras creadas en el trabajo",
+      "afirmacion": "Se presume que el autor asalariado cede al empleador los derechos patrimoniales sobre las obras creadas en cumplimiento de su contrato de trabajo, en la medida necesaria para las actividades habituales del empleador.",
+      "fuente": "Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, art. 16 (según la valoración externa del 27/10/2026, que afirma haberlo contrastado).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Relevante para los videos producidos antes del contrato marco: Poïesis podría usarlos en sus actividades habituales sin necesitar una licencia nueva. Precisa N-033. Cotejar en el SCIJ.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1512,6 +1525,16 @@
         "N-034",
         "N-035",
         "N-036"
+      ]
+    },
+    {
+      "id": "E-019",
+      "titulo": "Sexta valoración externa de los contratos marco",
+      "conclusion": "Se adoptan: resolución sin plazo solo ante incumplimientos graves o esenciales, o de corrección imposible o inútil; verificación previa al pago con evidencia documental (archivos de trabajo, fechas, lugar y equipos, origen de materiales) y regla de que una compra no reemplaza una tarea del puesto ni un pago laboral ya reconocido. Los videos anteriores podrían estar cubiertos por la presunción de cesión al empleador [N-037]. El análisis sobre si la suspensión de producciones afecta condiciones remunerativas anteriores queda fuera de los contratos, como decisión separada de la Dirección [E-013]. Personería: criterio de la Dirección (E-016).",
+      "depende_de": [
+        "N-036",
+        "N-037",
+        "N-028"
       ]
     }
   ]

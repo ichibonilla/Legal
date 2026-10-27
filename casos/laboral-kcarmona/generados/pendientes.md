@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (47)
+## POR VERIFICAR (48)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -67,7 +67,8 @@
 - **N-034** — Interpretación restrictiva de los contratos de derechos de autor. Fuente: Ley 6683, Ley sobre Derechos de Autor y Derechos Conexos, art. 16 (según la valoración externa del 27/10/2026). Fundamenta la cláusula sétima: derechos definidos en cada orden y regla supletoria. Cotejar en el SCIJ, hoy bloqueado desde este entorno.
 - **N-035** — Alcance de la cesión de derechos de autor y exclusividad. Fuente: Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, arts. 38 y 39 (según la valoración externa del 27/10/2026, que afirma haberlos verificado). Fundamenta la licencia exclusiva expresa de la cláusula sétima. Cotejar en el SCIJ.
 - **N-036** — Carga de la prueba del empleador en materia laboral. Fuente: Código de Trabajo, art. 478 (reforma procesal laboral, Ley 9343), según las valoraciones externas. Justifica llevar un expediente de cada compra con los contratos marco. Cotejar en el SCIJ.
+- **N-037** — Presunción de cesión al empleador de obras creadas en el trabajo. Fuente: Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, art. 16 (según la valoración externa del 27/10/2026, que afirma haberlo contrastado). Relevante para los videos producidos antes del contrato marco: Poïesis podría usarlos en sus actividades habituales sin necesitar una licencia nueva. Precisa N-033. Cotejar en el SCIJ.
 
-## Sin folio (90 de 90 vigentes)
+## Sin folio (91 de 91 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.
