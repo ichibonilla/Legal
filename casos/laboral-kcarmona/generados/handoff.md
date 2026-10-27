@@ -112,6 +112,12 @@ Se adoptan: distinguir equipos propios, programas de terceros y creaciones origi
 
 > Advertencia: N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR.
 
+### E-018 — Quinta valoración externa de los contratos marco
+
+Se adoptan: la cláusula segunda delimita el alcance del contrato a operaciones cuyo objeto y ejecución son distintos de las funciones del puesto, en lugar de afirmarlo de todas las operaciones futuras; entrega con archivos accesibles y aviso de archivo defectuoso desde la puesta a disposición; el comprobante se emite cuando lo fije la normativa tributaria, porque un contrato no puede mover el hecho generador del IVA; el plazo de pago cuenta desde la última de las dos condiciones; la exclusividad no alcanza materiales de terceros; seguridad de la información sin expedientes, credenciales ni datos sensibles; resolución sin plazo cuando el incumplimiento no admite corrección; requisitos técnicos y dependencias en las órdenes de herramientas; Contabilidad confirma el tratamiento del IVA. No se adoptan: contar el aviso de errores del comprobante desde su identificación, porque deja el plazo abierto; incluir en el contrato referencias a pagos anteriores, que ya excluye la cláusula undécima. La personería sigue el criterio de la Dirección (E-016, E-017).
+
+> Advertencia: N-028 está POR VERIFICAR. N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel

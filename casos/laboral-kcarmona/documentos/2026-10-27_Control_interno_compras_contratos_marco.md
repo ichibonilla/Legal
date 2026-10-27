@@ -1,6 +1,6 @@
 <!--
 Documento interno de la Dirección. No forma parte de los contratos ni se entrega a las proveedoras.
-Origen: valoraciones externas de los contratos marco (E-015, E-016, E-017). Respaldo: carga de la prueba del empleador (N-036),
+Origen: valoraciones externas de los contratos marco (E-015 a E-018). Respaldo: carga de la prueba del empleador (N-036),
 contrato realidad (N-028), interpretación restrictiva de los derechos de autor (N-034).
 -->
 
@@ -15,6 +15,7 @@ Cada compra hecha con un contrato marco tiene su propio expediente, en una carpe
 - Oferta de la proveedora o propuesta de Poïesis, por escrito.
 - Orden de compra firmada por ambas partes, con el modelo del anexo 1 del contrato.
 - Constancia de inscripción de la proveedora ante Hacienda (anexo 2), vigente y con una actividad acorde al producto.
+- Contabilidad confirma, antes de la primera orden de cada proveedora, el tratamiento del IVA y el momento de emisión del comprobante.
 - Si se usan instalaciones, equipos o la marca de Poïesis: la autorización que consta en la orden, con fecha, horario y recursos.
 
 ## Durante la elaboración

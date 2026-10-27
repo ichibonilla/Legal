@@ -31,6 +31,13 @@ Versión 5 (27/10/2026), con la cuarta valoración externa (E-017):
 - Sexta: exigibilidad del precio y fecha máxima de pago; comprobante con errores.
 - Sétima: alcance de la licencia (producto final; editables solo si la orden lo indica); en herramientas, límites a la
   licencia no exclusiva frente a información de Poïesis.
+Versión 6 (27/10/2026), con la quinta valoración externa (E-018):
+- Segunda: el contrato delimita su alcance (objeto y ejecución distintos de las funciones del puesto) en vez de afirmarlo.
+- Quinta: archivos técnicamente accesibles; el aviso de archivo defectuoso cuenta desde la puesta a disposición.
+- Sexta: comprobante emitido según la normativa tributaria; el plazo cuenta desde la última de las dos condiciones.
+- Sétima: la exclusividad no alcanza materiales de terceros.
+- Octava: seguridad de la información (expedientes, credenciales, medios, incidentes, devolución).
+- Novena: incumplimientos que no admiten corrección.
 -->
 
 # Contrato marco de adquisición y licencia de herramientas digitales
@@ -47,7 +54,7 @@ Este contrato establece el marco para que la Adquirente adquiera, o utilice bajo
 
 Entre las partes existe una relación laboral, que este contrato no modifica, sustituye ni extingue.
 
-Las operaciones de este contrato son distintas de las funciones del puesto. La Proveedora las ejecuta fuera de su jornada laboral y con autonomía para decidir cómo crear los productos y organizar su trabajo. La Adquirente define los requisitos del producto, pero no dirige su ejecución.
+Este contrato regula solo operaciones cuyo objeto y ejecución son distintos de las funciones del puesto. La Proveedora las ejecuta fuera de su jornada laboral y con autonomía para decidir cómo crear los productos y organizar su trabajo. La Adquirente define los requisitos del producto, pero no dirige su ejecución.
 
 La Proveedora trabaja con equipos propios o legítimamente a su disposición. Los programas, complementos y materiales de terceros que utilice siguen sujetos a los derechos de sus titulares. La Proveedora es titular de sus creaciones originales, y la Adquirente recibe solo los derechos que se conceden conforme a la cláusula sétima.
 
@@ -66,7 +73,7 @@ Antes de iniciar cada operación, las partes acuerdan por escrito una orden de c
 - el precio y si incluye el impuesto al valor agregado;
 - la fecha y el canal de entrega;
 - los derechos que se adquieren, conforme a la cláusula sétima;
-- la documentación y el soporte posterior a la entrega, si se pactan.
+- los requisitos técnicos, la compatibilidad, los programas o complementos de los que depende, y la documentación y el soporte posterior a la entrega, si se pactan.
 
 No existe un número mínimo de órdenes ni un pago periódico garantizado.
 
@@ -78,17 +85,17 @@ La Proveedora desarrolla y prueba los productos con datos ficticios. Ningún pro
 
 ## Quinta. Entrega y aceptación
 
-La entrega se hace en el correo o la carpeta digital que designe la orden, y es completa cuando comprende el archivo editable, con sus fórmulas y automatizaciones accesibles, y una guía breve de uso. El plazo de revisión corre desde que el producto completo queda disponible en ese canal, con constancia del envío. Si un archivo no se puede abrir o está incompleto, la Adquirente lo comunica dentro de los dos días hábiles siguientes, y el plazo corre desde el nuevo envío.
+La entrega se hace en el correo o la carpeta digital que designe la orden, y es completa cuando comprende el archivo editable, con sus fórmulas y automatizaciones accesibles, y una guía breve de uso, accesibles y en condiciones de abrirse. El plazo de revisión corre desde que el producto completo queda disponible en ese canal, con constancia del envío. Si un archivo no se puede abrir o falta, la Adquirente lo comunica dentro de los dos días hábiles siguientes a la puesta a disposición, y el plazo corre desde que la entrega se completa.
 
 Durante el plazo de revisión, de cinco días hábiles, la Adquirente acepta el producto o formula observaciones concretas, referidas a los criterios de la orden.
 
 Si las observaciones son subsanables, las partes acuerdan por escrito un plazo para corregirlas. Si vence el plazo de revisión sin observaciones, el producto se tiene por aceptado para efectos de pago.
 
-La aceptación no libera a la Proveedora de su responsabilidad por defectos ocultos ni por infracciones a derechos de terceros.
+La aceptación no libera a la Proveedora de su responsabilidad por defectos ocultos, por infracciones a derechos de terceros ni por otros incumplimientos que no pudieron advertirse razonablemente durante la revisión.
 
 ## Sexta. Precio, facturación y tributos
 
-El precio es el fijado en cada orden y es exigible cuando el producto está aceptado y la Adquirente ha recibido el comprobante electrónico correspondiente. La Adquirente paga en sus días de pago a proveedores, miércoles o jueves, a más tardar el jueves inmediato siguiente a la fecha en que se cumplan ambas condiciones. Si ese día es feriado, el pago se hace el día hábil siguiente.
+El precio es el fijado en cada orden. La Proveedora emite el comprobante electrónico en el momento que establezca la normativa tributaria. El precio es exigible cuando el producto está aceptado y la Adquirente ha recibido ese comprobante. La Adquirente paga en sus días de pago a proveedores, miércoles o jueves, a más tardar el jueves inmediato siguiente a la fecha en que se cumple la última de esas dos condiciones. Si ese día es feriado, el pago se hace el día hábil siguiente.
 
 Si el comprobante contiene un error, la Adquirente lo comunica dentro de los dos días hábiles siguientes a su recepción, y el plazo de pago corre desde que recibe el comprobante corregido.
 
@@ -104,7 +111,7 @@ La licencia comprende el producto final entregado. Incluye el archivo editable, 
 
 La licencia no exclusiva no autoriza a la Proveedora a divulgar, reutilizar ni incluir en productos para terceros información confidencial, datos personales, configuraciones internas ni materiales de la Adquirente.
 
-La Proveedora concede solo los derechos de los que es titular. Garantiza que los materiales de terceros incorporados, incluidos código, complementos y automatizaciones de terceros, cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones y, cuando corresponda, con la cesión o licencia de los aportes creativos de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
+La Proveedora concede solo los derechos de los que es titular. La exclusividad no alcanza los materiales de terceros, que se usan en los términos de sus licencias. Garantiza que los materiales de terceros incorporados, incluidos código, complementos y automatizaciones de terceros, cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones y, cuando corresponda, con la cesión o licencia de los aportes creativos de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
 
 La entrega del archivo no transmite derechos distintos de los pactados. La Proveedora conserva los derechos morales que la ley le reconoce como autora.
 
@@ -112,11 +119,13 @@ La entrega del archivo no transmite derechos distintos de los pactados. La Prove
 
 La información de la Adquirente a la que la Proveedora acceda por este contrato se utiliza solo para elaborar el producto y no se divulga. Los datos personales se tratan conforme a la ley de protección de datos.
 
+Ningún producto se elabora con expedientes clínicos, datos que identifiquen a pacientes, credenciales institucionales ni información sensible. La información confidencial que se entregue para una orden se guarda solo en los medios que la orden autorice, con acceso limitado, y se devuelve o se elimina al concluir la operación, salvo que la ley obligue a conservarla. Cualquier pérdida o divulgación no autorizada se comunica de inmediato a la Adquirente.
+
 Esta obligación no impide las comunicaciones autorizadas por la ley ni la atención de requerimientos de autoridad competente.
 
 ## Novena. Incumplimiento
 
-La parte que advierta un incumplimiento lo comunica por escrito, con los hechos y la obligación afectada, y concede un plazo razonable para corregirlo. Si el incumplimiento persiste, puede resolver la orden afectada y reclamar los daños que acredite, conforme a la ley.
+La parte que advierta un incumplimiento lo comunica por escrito, con los hechos y la obligación afectada, y concede un plazo razonable para corregirlo. Si el incumplimiento persiste, o si por su naturaleza no admite corrección, puede resolver la orden afectada y reclamar los daños que acredite, conforme a la ley.
 
 Ningún incumplimiento de este contrato, ni su terminación, tiene efectos disciplinarios en la relación laboral.
 
@@ -157,7 +166,7 @@ Firmamos en dos tantos de igual valor, en San José, el ____ de ______________ d
 | Producto | |
 | Terminado o por elaborar | |
 | Características y criterios de aceptación | |
-| Documentación y soporte | |
+| Requisitos técnicos, dependencias, documentación y soporte | |
 | Precio | ₡ ______ (con / sin IVA) |
 | Fecha y canal de entrega | |
 | Derechos | Cesión / licencia · modalidades · exclusividad · territorio · duración |
