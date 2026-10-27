@@ -223,6 +223,12 @@ def convertir(md, salida, aviso, confidencial=False):
             espacio(p, 6 if solo_negrita else 0, 6)
             if solo_negrita and doc.paragraphs[-2].alignment == WD_ALIGN_PARAGRAPH.CENTER:
                 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        if l.startswith("Firmamos"):
+            # La firma no queda sola en una página: viaja con la última cláusula.
+            for q in doc.paragraphs[-4:]:
+                q.paragraph_format.keep_with_next = True
+        elif l.strip() == "&nbsp;" and doc.paragraphs:
+            doc.paragraphs[-1].paragraph_format.keep_with_next = True
         if salto and l.strip() != "---":
             doc.paragraphs[-1].paragraph_format.page_break_before = True
             salto = False
