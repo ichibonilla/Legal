@@ -12,15 +12,13 @@ Por qué una adenda laboral y no un contrato de compra de productos:
   terceros, y sin supervisión más allá de aceptar el producto. Hoy no se cumplen esas condiciones.
 
 Antes de entregarla:
-- Confirmar la sociedad que tiene a Kristell en planilla. En los chats aparecen Grupo Poïesis (3-101-746424),
-  otra cédula jurídica (3-101-582680) y Égida de Salud Mental S.R.L. La adenda la firma la empleadora real (R-060, R-022).
+- Empleadora: Grupo Poïesis, 3-101-746424, confirmada por la Dirección (R-061).
 - Monto por video (cláusula quinta).
-- Versión del 27/10: se retiró la disposición transitoria. El material entregado desde el 22/10 se resuelve por separado
-  (respuesta a más tardar el 30/10), para no atar su pago a la firma (art. 11 CT, N-017). Se agregaron la no
+- Versión del 27/10: se retiró la disposición transitoria. El material del 24/10 no se incluye (E-013). Se agregaron la no
   retroactividad, la subsanación, la trazabilidad y las modalidades de cesión de derechos, tomadas de la valoración externa.
 - Acreditar las facultades de quien firma con certificación de personería del Registro Nacional.
 - Para Fiorella, el mismo texto con «episodios del podcast» en lugar de «videos».
-Respaldo: nombre y cédula (R-046), puesto (R-002), razón social (R-060), derechos de autor (N-033).
+Respaldo: nombre y cédula (R-046), puesto (R-002), razón social (R-061), derechos de autor (N-033).
 -->
 
 # Adenda al contrato de trabajo

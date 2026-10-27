@@ -84,6 +84,10 @@ La Dirección prefiere comprar productos terminados a Kristell como creadora ind
 
 > Advertencia: N-028 está POR VERIFICAR. N-031 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-013 — Alcance definido por la Dirección el 27/10/2026
+
+El bono es un pago por producción; el caso no requiere datos contables sobre él. El material del sábado 24/10 no forma parte del comunicado ni de los contratos marco y no se trata en este expediente. La parte contratante es Grupo Poïesis, 3-101-746424 [R-061].
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -155,6 +159,7 @@ La Dirección prefiere comprar productos terminados a Kristell como creadora ind
 - R-001 → R-046 (sin fecha): R-001 tomaba «Kristel» de un mensaje digitado desde otra línea. Su propio texto dice «Kristell». Falta cotejar con el documento de identidad.
 - R-051 → R-055 (sin fecha): La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.
 - R-058 → R-059 (sin fecha): Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.
+- R-060 → R-061 (2026-10-27): La Dirección resuelve la duda sobre la empleadora planteada en R-060. Las otras cédulas que aparecen en CHAT-C (3-101-582680, Égida de Salud Mental S.R.L.) no intervienen en este caso.
 
 ## Reglas
 

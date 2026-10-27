@@ -7,8 +7,8 @@ asignados, supervisados o hechos en la jornada, la relación se analizará como 
 Antes de firmar:
 - Confirmar que ella esté inscrita ante Hacienda como contribuyente (o dispuesta a inscribirse) y su situación ante la
   CCSS como trabajadora independiente. Si no lo está, no se le exige facturar de inmediato.
-- Personería de quien firma (Registro Nacional) y sociedad correcta (R-060).
-- No incluye nada sobre videos anteriores ni sobre el material del 24/10: se resuelven aparte.
+- Parte contratante: Grupo Poïesis, 3-101-746424 (R-061). Personería de quien firma según el Registro Nacional.
+- No incluye videos anteriores ni el material del 24/10 (E-013).
 - Para Fiorella, el mismo modelo con podcast.
 -->
 

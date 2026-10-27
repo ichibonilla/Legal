@@ -9,7 +9,7 @@ Registro actualizado el 2026-10-27.
 |---|---|---|---|---|
 | 2022-06-01 | R-004 | VERIFICADO | Presente en la operación desde al menos junio de 2022 | — |
 | 2022-12-18 | R-005 | VERIFICADO | Aumento salarial en diciembre de 2022 | — |
-| 2023-03-13 | R-060 | VERIFICADO | Razón social y cédula jurídica de la clínica | — |
+| 2023-03-13 | ~~R-060~~ (superado por R-061) | VERIFICADO | ~~Razón social y cédula jurídica de la clínica~~ | — |
 | 2024-02-14 | R-049 | VERIFICADO | El bono está ligado a la producción de videos y se paga desde al menos 2024 | — |
 | 2024-10-29 | R-007 | VERIFICADO | Práctica previa: carta de mejora con entrenamiento a otra colaboradora | — |
 | 2024-11-15 | R-003 | VERIFICADO | Funciones de coordinación de recursos humanos (one on ones, reclutamiento) | — |
@@ -45,6 +45,7 @@ Registro actualizado el 2026-10-27.
 | 2026-10-26 | R-048 | VERIFICADO | Kristell pregunta en el grupo «Administrativo» por el depósito del bono | — |
 | 2026-10-26 | R-056 | POR VERIFICAR | Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24 | — |
 | 2026-10-26 | R-057 | VERIFICADO | El comunicado de lineamientos se preparó antes del reclamo de Kristell por el bono | — |
+| 2026-10-27 | R-061 | VERIFICADO | Empleadora y parte contratante: Grupo Poïesis, 3-101-746424 | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

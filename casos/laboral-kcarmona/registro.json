@@ -1227,6 +1227,19 @@
       "supersede": "",
       "razon": "Identificar el artículo aplicable a obras creadas bajo relación laboral o por encargo.",
       "folio": ""
+    },
+    {
+      "id": "R-061",
+      "fecha": "2026-10-27",
+      "tipo": "hecho",
+      "titulo": "Empleadora y parte contratante: Grupo Poïesis, 3-101-746424",
+      "afirmacion": "La Dirección confirma que la sociedad empleadora y la que firma los contratos marco es Grupo Poïesis (registralmente, Grupo Poiesis Clínica Integral de Psicología y Psicoanálisis Sociedad Anónima), cédula jurídica 3-101-746424. Representante: Carlos Fernando Bonilla Cortés, Presidente.",
+      "fuente": "Confirmación de la Dirección, 27/10/2026; razón social y representación según R-060.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-27",
+      "supersede": "R-060",
+      "razon": "La Dirección resuelve la duda sobre la empleadora planteada en R-060. Las otras cédulas que aparecen en CHAT-C (3-101-582680, Égida de Salud Mental S.R.L.) no intervienen en este caso.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1383,6 +1396,14 @@
         "N-028",
         "N-031",
         "N-017"
+      ]
+    },
+    {
+      "id": "E-013",
+      "titulo": "Alcance definido por la Dirección el 27/10/2026",
+      "conclusion": "El bono es un pago por producción; el caso no requiere datos contables sobre él. El material del sábado 24/10 no forma parte del comunicado ni de los contratos marco y no se trata en este expediente. La parte contratante es Grupo Poïesis, 3-101-746424 [R-061].",
+      "depende_de": [
+        "R-061"
       ]
     }
   ]
