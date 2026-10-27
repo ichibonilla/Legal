@@ -24,8 +24,8 @@ Entrega:
 - 27/10: incorporados de la valoración externa: sanción no automática y sin exigir amonestación previa en toda falta grave;
   reserva salarial sin impedir hablar del propio salario; «neutral» → «veraz y profesional»; no represalias;
   emergencias; incidentes de datos; no modificación de condiciones; constancias individuales.
-- 27/10, Dirección: sin la palabra «Confidencial» en el encabezado, sin constancias de recepción y sin firma
-  personal. Se entrega en PDF.
+- 27/10, Dirección: sin la palabra «Confidencial» en el encabezado, sin constancias de recepción y sin bloque
+  de firma al final (el remitente consta en el encabezado: Dirección General). Se entrega en PDF.
 -->
 
 # Lineamientos del Equipo Administrativo
@@ -103,8 +103,3 @@ Este comunicado no modifica salarios, jornadas, funciones ni otras condiciones d
 
 Gracias por el cuidado con que cada persona sostiene su trabajo. Quedamos a disposición para conversar sobre cualquiera de estos puntos.
 
-Con aprecio,
-
-Dirección General · Grupo Poïesis
-
-Revisión jurídica: Fressy Mora Peñaranda · Asesoría Legal
