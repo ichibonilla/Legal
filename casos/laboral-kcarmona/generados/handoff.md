@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-27 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-10-26. Fuente única: `registro.json`.
+Estado al 2026-10-27. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -87,7 +87,7 @@ Posición de Poïesis: el 22/10 se suspendieron las nuevas producciones y sus pa
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (43)
+## Por verificar (44)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -132,6 +132,7 @@ Posición de Poïesis: el 22/10 se suspendieron las nuevas producciones y sus pa
 - N-032 — Carga de la prueba del pago del salario
 - R-056 — Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24
 - R-059 — Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos
+- N-033 — Derechos de autor sobre obras por encargo o bajo relación laboral
 
 ## Registros reemplazados
 

@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/registro.py el 2026-10-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-27 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Pendientes y por verificar
@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (43)
+## POR VERIFICAR (44)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -63,7 +63,8 @@
 - **N-032** — Carga de la prueba del pago del salario. Fuente: Código de Trabajo, art. 478 (Reforma Procesal Laboral, Ley 9343), por confirmar; Ley 8454 de Certificados, Firmas Digitales y Documentos Electrónicos. SCIJ. Confirmar el número de artículo y su redacción vigente.
 - **R-056** — Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24. Fuente: Texto del mensaje de WhatsApp de Kristell del 26/10/2026, transcrito por la Dirección en la sesión de trabajo del 26/10/2026. Guardar captura o exportar el chat privado. Contradice R-055 sobre lo dicho el 22/10: el único registro escrito de la pausa es el mensaje de la Dirección del 26/10. Menciona que también se entregó el podcast.
 - **R-059** — Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026 y en la valoración externa de la misma fecha. Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.
+- **N-033** — Derechos de autor sobre obras por encargo o bajo relación laboral. Fuente: Ley 6683 de Derechos de Autor y Derechos Conexos. SCIJ. Identificar el artículo aplicable a obras creadas bajo relación laboral o por encargo.
 
-## Sin folio (84 de 84 vigentes)
+## Sin folio (86 de 86 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-10-26",
+    "actualizado_el": "2026-10-27",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1200,6 +1200,32 @@
       "verificado_el": "",
       "supersede": "R-058",
       "razon": "Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.",
+      "folio": ""
+    },
+    {
+      "id": "R-060",
+      "fecha": "2023-03-13",
+      "tipo": "hecho",
+      "titulo": "Razón social y cédula jurídica de la clínica",
+      "afirmacion": "Los datos de facturación de la clínica son «Grupo Poïesis, S.A.», cédula jurídica 3-101-746424; los documentos registrales la nombran «Grupo Poiesis Clínica Integral de Psicología y Psicoanálisis Sociedad Anónima». En julio de 2025 figuran Carlos Fernando Bonilla Cortés como Presidente y Silvia Elena Salas Murillo como Secretaria.",
+      "fuente": "CHAT-G, 3/13/23 10:05:38 AM, 11/7/22 10:06:38 AM y 9/30/25 3:00:48 PM; CHAT-M2, 7/31/25 6:18:01 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-27",
+      "supersede": "",
+      "razon": "Consta en los chats. En CHAT-C aparecen también otra cédula jurídica (3-101-582680) y Égida de Salud Mental S.R.L.: confirmar con la planilla cuál es la empleadora de Kristell (R-022) y las facultades de representación en el Registro Nacional.",
+      "folio": ""
+    },
+    {
+      "id": "N-033",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Derechos de autor sobre obras por encargo o bajo relación laboral",
+      "afirmacion": "Los derechos patrimoniales de una obra creada por encargo o en el marco de una relación laboral pueden pertenecer a quien la encarga, según la ley y lo pactado; los derechos morales del autor son irrenunciables.",
+      "fuente": "Ley 6683 de Derechos de Autor y Derechos Conexos. SCIJ.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Identificar el artículo aplicable a obras creadas bajo relación laboral o por encargo.",
       "folio": ""
     }
   ],

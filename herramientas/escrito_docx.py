@@ -206,6 +206,12 @@ def convertir(md, salida, aviso):
             p = doc.add_paragraph(style="List Number")
             runs(p, re.sub(r"^\d+\. ", "", l))
             espacio(p, 0, 3)
+        elif l.startswith("*") and l.endswith("*") and not l.startswith("**"):
+            p = doc.add_paragraph()
+            runs(p, l.strip("*"), 10, GRIS)
+            for r in p.runs:
+                r.italic = True
+            espacio(p, 0, 8)
         else:
             p = doc.add_paragraph()
             solo_negrita = l.startswith("**") and l.endswith("**") and l.count("**") == 2
