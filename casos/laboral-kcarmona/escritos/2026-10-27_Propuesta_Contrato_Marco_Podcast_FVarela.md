@@ -3,9 +3,9 @@ PROPUESTA DE CONTRATO MARCO CIVIL PARA FIORELLA VARELA (PODCAST). Se entrega par
 Mismo modelo que el de Kristell (E-012). Condición decisiva: la independencia debe existir en los hechos (art. 18 CT).
 Antes de firmar:
 - Verificar nombre y cédula contra su documento de identidad: en CHAT-G, 4/21/26 2:21 PM, consta «Fiorella Maria Varela Monge 118670233».
-- Confirmar su puesto y la sociedad que la tiene en planilla; su inscripción ante Hacienda y su situación ante la CCSS como independiente.
-- Personería de quien firma.
-- No incluye nada sobre episodios anteriores: se resuelven aparte.
+- Confirmar su puesto; su inscripción ante Hacienda y su situación ante la CCSS como independiente.
+- Parte contratante: Grupo Poïesis, 3-101-746424 (R-061). Personería de quien firma según el Registro Nacional.
+- No incluye episodios anteriores (E-013).
 -->
 
 # Contrato marco de adquisición y licencia de episodios de podcast
