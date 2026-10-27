@@ -55,21 +55,21 @@ En lo esencial:
 - Ante una duda, se verifica y se confirma; es preferible confirmar un dato que comunicar información incorrecta.
 - No se piden detalles clínicos; el motivo de consulta se recoge de forma general.
 - Ante una persona en crisis o con señales de riesgo, se comunica de inmediato al equipo clínico y se acompaña a la persona mientras tanto. Si hay peligro inmediato, se activan los servicios de emergencia.
-- Ninguna persona queda sin respuesta, y ningún número se bloquea sin autorización de la Dirección.
+- Ninguna persona queda sin respuesta. Los contactos no se bloquean ni se restringen de forma arbitraria: cualquier medida de ese tipo responde a un motivo legítimo, como amenazas, acoso o fraude, se documenta y se comunica a la Dirección.
 - Frente a pacientes y a psicólogas y psicólogos que prestan servicios profesionales a la clínica, no se comentan asuntos internos, opiniones sobre la clínica ni situaciones del equipo.
 - Cada conversación se cierra con el nombre de la persona, una invitación a volver a escribir y un deseo de bienestar, y se registra en el sistema.
 
 ## 2. Comunicación y convivencia
 
-- Las referencias a las compañeras y compañeros, a las jefaturas, a la Dirección y a la clínica se expresan con respeto, también en su ausencia.
-- Las decisiones sobre la incorporación y la permanencia de colaboradores y profesionales corresponden a la Dirección.
+- Las relaciones entre compañeras, compañeros, jefaturas, Dirección y profesionales se desarrollan con respeto, también en ausencia de las personas y aun cuando existan diferencias de criterio. Las observaciones y los desacuerdos se expresan de manera profesional, sin perjuicio del derecho a reclamar o acudir a las autoridades competentes.
+- Las decisiones sobre la incorporación, la organización y la continuidad de las relaciones laborales y profesionales corresponden a las personas u órganos facultados, conforme a los contratos y a la ley.
 - Las inquietudes y los desacuerdos tienen un canal: la conversación directa con la jefatura o con la Dirección. Toda inquietud planteada por esa vía es bienvenida y recibe respuesta.
 - La información que se da a visitantes y proveedores sobre la clínica es veraz, profesional y respeta la confidencialidad.
 - Nada de lo anterior limita el derecho de cada persona a plantear sus reclamos ante las instancias que la ley establece. Toda persona puede solicitar asesoramiento y acudir a las autoridades competentes, sin represalias por el ejercicio legítimo de sus derechos.
 
 ## 3. Confidencialidad
 
-- La información de pacientes y la información confidencial de la clínica (expedientes, agendas, datos de contacto, finanzas y documentos legales) se utiliza solo para fines de trabajo. No se copia, reenvía ni almacena fuera de los canales institucionales.
+- La información de pacientes y la información confidencial de la clínica (expedientes, agendas, datos de contacto, finanzas y documentos legales) se utiliza solo para fines de trabajo. No se copia, reenvía ni almacena fuera de los canales institucionales, salvo comunicaciones autorizadas por la ley o requerimientos de autoridad competente.
 - La información salarial que administra Poïesis se trata con reserva. Esto no impide que cada persona hable de sus propias condiciones laborales.
 - Cualquier pérdida o divulgación accidental de información se comunica de inmediato a la jefatura.
 - Cada persona puede solicitar copia de su propia información laboral: contrato, colillas de pago y expediente.
@@ -86,13 +86,17 @@ Para que todas las personas cuenten con la misma información sobre las cargas s
 - La clínica aporta la cuota patronal, que es mayor.
 - La póliza de riesgos del trabajo del INS la paga la clínica en su totalidad.
 
-## 5. Un marco claro
+Las consultas sobre la colilla, las deducciones y demás aspectos individuales del salario se atienden directamente y en privado.
 
-En Poïesis, conforme al Código de Trabajo, los incumplimientos se atienden de forma objetiva, documentada y proporcional. Antes de cualquier medida se esclarecen los hechos y se escucha a la persona. Según el caso, puede tratarse de una conversación, una amonestación escrita u otra medida legalmente procedente. Cada situación se valora según su naturaleza, gravedad, circunstancias y antecedentes. La terminación del contrato sin responsabilidad patronal procede únicamente cuando existe una causa legal debidamente acreditada y se cumplen los requisitos aplicables.
+## 5. Responsabilidad y cumplimiento
 
-Ninguna sanción es automática. Ejercer derechos laborales, presentar un reclamo o no aceptar una modificación contractual no constituyen faltas.
+El cumplimiento responsable de nuestras funciones y protocolos sostiene la calidad de la atención y el bienestar del equipo.
 
-Lo compartimos por transparencia, para que todas las personas conozcan el marco con la misma claridad. Nuestro interés es que no sea necesario aplicarlo, y confiamos en que así será.
+Cuando surjan dificultades o posibles incumplimientos, cada situación se valora de manera objetiva, documentada y proporcional, según su naturaleza, gravedad, circunstancias y antecedentes. Se escucha la versión de la persona y, cuando corresponda, se aplican medidas correctivas o disciplinarias conforme a la legislación laboral. La terminación del contrato sin responsabilidad patronal procede únicamente cuando existe una causa legal debidamente acreditada y se cumplen los requisitos aplicables.
+
+Ninguna sanción es automática. Ejercer derechos laborales, presentar un reclamo o no aceptar una modificación contractual no constituyen, por sí mismos, faltas.
+
+Lo compartimos por transparencia, para que todas las personas conozcan el marco con la misma claridad. Nuestro interés es prevenir dificultades y resolverlas a tiempo, con diálogo y respeto mutuo.
 
 Este comunicado no modifica salarios, jornadas, funciones ni otras condiciones del contrato de trabajo.
 
