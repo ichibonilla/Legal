@@ -52,7 +52,7 @@ En lo esencial:
 - Un trato cálido y sereno, en persona, por teléfono y por escrito, con cada paciente por igual.
 - Saludo institucional con el nombre propio. Se escucha el mensaje completo y se valida brevemente antes de informar.
 - Respuestas completas y sin prisa visible. Cuando una solicitud no se puede atender, se ofrece una alternativa concreta: otro horario, otra sede o la verificación del dato con un plazo de respuesta.
-- Ante una duda, se verifica y se confirma; no se improvisa.
+- Ante una duda, se verifica y se confirma; es preferible confirmar un dato que comunicar información incorrecta.
 - No se piden detalles clínicos; el motivo de consulta se recoge de forma general.
 - Ante una persona en crisis o con señales de riesgo, se comunica de inmediato al equipo clínico y se acompaña a la persona mientras tanto. Si hay peligro inmediato, se activan los servicios de emergencia.
 - Ninguna persona queda sin respuesta, y ningún número se bloquea sin autorización de la Dirección.
@@ -65,7 +65,7 @@ En lo esencial:
 - Las decisiones sobre la incorporación y la permanencia de colaboradores y profesionales corresponden a la Dirección.
 - Las inquietudes y los desacuerdos tienen un canal: la conversación directa con la jefatura o con la Dirección. Toda inquietud planteada por esa vía es bienvenida y recibe respuesta.
 - La información que se da a visitantes y proveedores sobre la clínica es veraz, profesional y respeta la confidencialidad.
-- Nada de lo anterior limita el derecho de cada persona a plantear sus reclamos ante las instancias que la ley establece. Nadie será objeto de represalias por ejercer de buena fe sus derechos.
+- Nada de lo anterior limita el derecho de cada persona a plantear sus reclamos ante las instancias que la ley establece. Toda persona puede solicitar asesoramiento y acudir a las autoridades competentes, sin represalias por el ejercicio legítimo de sus derechos.
 
 ## 3. Confidencialidad
 
@@ -88,7 +88,7 @@ Para que todas las personas cuenten con la misma información sobre las cargas s
 
 ## 5. Un marco claro
 
-En Poïesis, conforme al Código de Trabajo, los incumplimientos se atienden de forma objetiva, documentada y proporcional. Antes de cualquier medida se esclarecen los hechos y se escucha a la persona. Según el caso, puede tratarse de una conversación, una amonestación escrita u otra medida legalmente procedente. Una falta grave, o la reiteración de faltas ya advertidas, puede justificar la terminación del contrato sin responsabilidad patronal, siempre que se cumplan los requisitos legales.
+En Poïesis, conforme al Código de Trabajo, los incumplimientos se atienden de forma objetiva, documentada y proporcional. Antes de cualquier medida se esclarecen los hechos y se escucha a la persona. Según el caso, puede tratarse de una conversación, una amonestación escrita u otra medida legalmente procedente. Cada situación se valora según su naturaleza, gravedad, circunstancias y antecedentes. La terminación del contrato sin responsabilidad patronal procede únicamente cuando existe una causa legal debidamente acreditada y se cumplen los requisitos aplicables.
 
 Ninguna sanción es automática. Ejercer derechos laborales, presentar un reclamo o no aceptar una modificación contractual no constituyen faltas.
 
@@ -107,6 +107,7 @@ Con aprecio,
 | ______________________________ |
 | Fressy Mora Peñaranda |
 | Asesoría Legal · Grupo Poïesis |
+| Con conocimiento de Dirección General |
 
 ---
 
