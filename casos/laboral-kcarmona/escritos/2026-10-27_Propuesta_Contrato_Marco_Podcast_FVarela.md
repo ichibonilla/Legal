@@ -25,6 +25,11 @@ Versión 4 (27/10/2026), con las decisiones de la Dirección y la tercera valora
 - Renovación automática anual; pagos en el día de pago a proveedores (miércoles o jueves).
 - Constancia de inscripción ante Hacienda como anexo 2. No se exige certificación de personería.
 - Plazo de aceptación desde la puesta a disposición efectiva; aportes creativos y licencias de terceros.
+Versión 5 (27/10/2026), con la cuarta valoración externa (E-017):
+- Segunda: equipos, programas de terceros y creaciones originales, cada uno con su titular.
+- Sexta: exigibilidad del precio y fecha máxima de pago; comprobante con errores.
+- Sétima: alcance de la licencia (producto final; editables solo si la orden lo indica); en herramientas, límites a la
+  licencia no exclusiva frente a información de Poïesis.
 -->
 
 # Contrato marco de adquisición y licencia de episodios de podcast
@@ -43,7 +48,7 @@ Entre las partes existe una relación laboral, que este contrato no modifica, su
 
 Las operaciones de este contrato son distintas de las funciones del puesto. La Proveedora las ejecuta fuera de su jornada laboral y con autonomía para decidir cómo crear los productos y organizar su trabajo. La Adquirente define los requisitos del producto, pero no dirige su ejecución.
 
-Los equipos, programas y demás herramientas de trabajo son de la Proveedora, y los productos le pertenecen como autora y titular, salvo los derechos que conceda a la Adquirente conforme a la cláusula sétima.
+La Proveedora trabaja con equipos propios o legítimamente a su disposición. Los programas, complementos y materiales de terceros que utilice siguen sujetos a los derechos de sus titulares. La Proveedora es titular de sus creaciones originales, y la Adquirente recibe solo los derechos que se conceden conforme a la cláusula sétima.
 
 La Proveedora puede ofrecer sus productos a terceros, salvo la exclusividad que se pacte para un producto determinado. Cualquiera de las partes puede proponer, aceptar o rechazar una operación, sin consecuencia alguna en la relación laboral.
 
@@ -84,7 +89,9 @@ La aceptación no libera a la Proveedora de su responsabilidad por defectos ocul
 
 ## Sexta. Precio, facturación y tributos
 
-El precio es el fijado en cada orden. La Proveedora emite el comprobante electrónico correspondiente. La Adquirente paga a sus proveedores los miércoles o jueves, y cada pago se hace en el primero de esos días posterior a la aceptación del producto y a la recepción del comprobante.
+El precio es el fijado en cada orden y es exigible cuando el producto está aceptado y la Adquirente ha recibido el comprobante electrónico correspondiente. La Adquirente paga en sus días de pago a proveedores, miércoles o jueves, a más tardar el jueves inmediato siguiente a la fecha en que se cumplan ambas condiciones. Si ese día es feriado, el pago se hace el día hábil siguiente.
+
+Si el comprobante contiene un error, la Adquirente lo comunica dentro de los dos días hábiles siguientes a su recepción, y el plazo de pago corre desde que recibe el comprobante corregido.
 
 Cada parte cumple las obligaciones tributarias y de seguridad social que le correspondan por ley.
 
@@ -94,7 +101,7 @@ Cada orden identifica el producto e indica si la Proveedora concede una licencia
 
 Salvo que la orden disponga otra cosa, la Proveedora concede a la Adquirente una licencia exclusiva, de alcance mundial y por todo el plazo de protección legal, para reproducir, editar, adaptar, distribuir, comunicar públicamente y poner a disposición el episodio, incluidos fragmentos, subtítulos y otros formatos derivados, en su sitio web, redes sociales, plataformas audiovisuales y demás medios digitales, así como en sus campañas institucionales y en su publicidad.
 
-La orden puede ampliar, limitar o precisar los derechos concedidos.
+La licencia comprende el producto final entregado. Los guiones, las grabaciones originales y los archivos editables se incluyen solo si la orden lo indica. La orden puede ampliar, limitar o precisar los derechos concedidos.
 
 La Proveedora concede solo los derechos de los que es titular. Garantiza que los materiales de terceros incorporados cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones y, cuando corresponda, con la cesión o licencia de los aportes creativos de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
 

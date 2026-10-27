@@ -1,6 +1,6 @@
 <!--
 Documento interno de la Dirección. No forma parte de los contratos ni se entrega a las proveedoras.
-Origen: valoraciones externas de los contratos marco (E-015, E-016). Respaldo: carga de la prueba del empleador (N-036),
+Origen: valoraciones externas de los contratos marco (E-015, E-016, E-017). Respaldo: carga de la prueba del empleador (N-036),
 contrato realidad (N-028), interpretación restrictiva de los derechos de autor (N-034).
 -->
 
@@ -13,7 +13,8 @@ Cada compra hecha con un contrato marco tiene su propio expediente, en una carpe
 ## Antes de la compra
 
 - Oferta de la proveedora o propuesta de Poïesis, por escrito.
-- Orden de compra firmada por ambas partes, con el modelo del anexo del contrato.
+- Orden de compra firmada por ambas partes, con el modelo del anexo 1 del contrato.
+- Constancia de inscripción de la proveedora ante Hacienda (anexo 2), vigente y con una actividad acorde al producto.
 - Si se usan instalaciones, equipos o la marca de Poïesis: la autorización que consta en la orden, con fecha, horario y recursos.
 
 ## Durante la elaboración
@@ -31,6 +32,8 @@ En cada expediente se anota, con lo que se sabe en ese momento:
 3. Si el producto formaba parte de las tareas de su puesto.
 4. Si tenía los derechos que concedió, incluidos los de música, imágenes, código o aportes de otras personas.
 
+Si el producto es de la misma clase que otros pagados antes de la firma del contrato, se anota cómo se pagaban y si alguna condición laboral cambió.
+
 En las herramientas digitales se anota además quién concibió la herramienta, con qué recursos se desarrolló y qué información usa.
 
 ## Entrega y pago
@@ -38,7 +41,7 @@ En las herramientas digitales se anota además quién concibió la herramienta, 
 - El envío registrado en el canal designado: fecha de entrega y archivos recibidos.
 - Las autorizaciones de participantes y las licencias de materiales de terceros.
 - La aceptación o las observaciones, dentro de los cinco días hábiles.
-- El pago, en el día de pago a proveedores (miércoles o jueves) siguiente a la aceptación y al comprobante.
+- El pago, en el día de pago a proveedores, miércoles o jueves, a más tardar el jueves siguiente a la aceptación y al comprobante.
 - El comprobante electrónico de la proveedora y el comprobante de pago.
 
 ## Responsables

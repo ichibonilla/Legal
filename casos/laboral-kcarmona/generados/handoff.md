@@ -106,6 +106,12 @@ Decisiones de la Dirección: no se exige certificación de personería; la const
 
 > Advertencia: N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR. N-028 está POR VERIFICAR.
 
+### E-017 — Cuarta valoración externa de los contratos marco
+
+Se adoptan: distinguir equipos propios, programas de terceros y creaciones originales; precio exigible con aceptación y comprobante, pago en día de proveedores con fecha máxima el jueves siguiente y regla para comprobantes con error; la licencia cubre el producto final y los editables solo si la orden lo indica (videos y podcast) o forman parte del producto (herramientas); la licencia no exclusiva de las herramientas no permite usar información de Poïesis con terceros; el control interno verifica la constancia tributaria y anota cómo se pagaban productos similares antes del contrato. Se mantiene la decisión de la Dirección de no exigir certificación de personería: la presidencia del Dr. Bonilla consta en R-061. Se mantienen los dos días de pago fijados por la Dirección, con una fecha máxima que despeja la ambigüedad.
+
+> Advertencia: N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
