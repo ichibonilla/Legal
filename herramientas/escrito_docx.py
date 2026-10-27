@@ -195,6 +195,7 @@ def convertir(md, salida, aviso, confidencial=False):
             r = p.add_run(l[3:])
             r.font.name, r.font.size, r.font.color.rgb = TITULOS, Pt(14), color(NAVY)
             espacio(p, 14, 6)
+            p.paragraph_format.keep_with_next = True
             borde_inferior(p)
         elif l.strip() == "---":
             doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)

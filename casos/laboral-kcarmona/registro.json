@@ -1240,6 +1240,32 @@
       "supersede": "R-060",
       "razon": "La Dirección resuelve la duda sobre la empleadora planteada en R-060. Las otras cédulas que aparecen en CHAT-C (3-101-582680, Égida de Salud Mental S.R.L.) no intervienen en este caso.",
       "folio": ""
+    },
+    {
+      "id": "R-062",
+      "fecha": "2026-07-28",
+      "tipo": "hecho",
+      "titulo": "Las hojas de cálculo forman parte del trabajo ordinario de Angiolette",
+      "afirmacion": "En el grupo de la jefatura con el equipo administrativo, la Dra. Silvia Salas le pide a Angiolette una hoja de cálculo completa como tarea de trabajo, y Kristell se refiere a «el excel de Angie» como herramienta del equipo.",
+      "fuente": "CHAT-C, 30/5/26 11:36:53 am y 28/7/26 5:33:25 pm.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-27",
+      "supersede": "",
+      "razon": "Relevante para el contrato marco de herramientas digitales: lo que prepara en su trabajo queda excluido de forma expresa (art. 18 CT, N-028).",
+      "folio": ""
+    },
+    {
+      "id": "N-034",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Interpretación restrictiva de los contratos de derechos de autor",
+      "afirmacion": "Los contratos sobre derechos de autor se interpretan restrictivamente: no se entienden transmitidos derechos ni modalidades de explotación que no se pacten de forma expresa.",
+      "fuente": "Ley 6683, Ley sobre Derechos de Autor y Derechos Conexos, art. 16 (según la valoración externa del 27/10/2026).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Fundamenta la cláusula sétima: derechos definidos en cada orden y regla supletoria. Cotejar en el SCIJ, hoy bloqueado desde este entorno.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1404,6 +1430,17 @@
       "conclusion": "El bono es un pago por producción; el caso no requiere datos contables sobre él. El material del sábado 24/10 no forma parte del comunicado ni de los contratos marco y no se trata en este expediente. La parte contratante es Grupo Poïesis, 3-101-746424 [R-061].",
       "depende_de": [
         "R-061"
+      ]
+    },
+    {
+      "id": "E-014",
+      "titulo": "Valoración externa de los tres contratos marco",
+      "conclusion": "Se adoptan: reconocer la relación laboral sin declarar cuáles fueron las funciones pasadas; orden escrita previa a cada operación, con producto terminado o por elaborar, criterios de aceptación e IVA; autorizaciones concretas de instalaciones y participantes; garantía por vicios ocultos y por derechos de terceros; derechos definidos en cada orden con una regla supletoria [N-034]; retirar «por separado de la planilla»; no renuncia y acceso a la jurisdicción laboral [N-017]. No se adoptan las fórmulas que condicionan el contrato a que la operación sea «verdaderamente independiente» ni la previsión de tratamiento laboral, porque siembran en el propio texto la duda que el contrato busca despejar; la naturaleza la definen los hechos [N-028]. Angiolette: el objeto pasa a herramientas digitales, con exclusión expresa de las hojas de cálculo de su trabajo ordinario [R-062].",
+      "depende_de": [
+        "N-034",
+        "N-017",
+        "N-028",
+        "R-062"
       ]
     }
   ]

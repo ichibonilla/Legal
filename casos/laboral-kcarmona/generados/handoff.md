@@ -88,6 +88,12 @@ La Dirección prefiere comprar productos terminados a Kristell como creadora ind
 
 El bono es un pago por producción; el caso no requiere datos contables sobre él. El material del sábado 24/10 no forma parte del comunicado ni de los contratos marco y no se trata en este expediente. La parte contratante es Grupo Poïesis, 3-101-746424 [R-061].
 
+### E-014 — Valoración externa de los tres contratos marco
+
+Se adoptan: reconocer la relación laboral sin declarar cuáles fueron las funciones pasadas; orden escrita previa a cada operación, con producto terminado o por elaborar, criterios de aceptación e IVA; autorizaciones concretas de instalaciones y participantes; garantía por vicios ocultos y por derechos de terceros; derechos definidos en cada orden con una regla supletoria [N-034]; retirar «por separado de la planilla»; no renuncia y acceso a la jurisdicción laboral [N-017]. No se adoptan las fórmulas que condicionan el contrato a que la operación sea «verdaderamente independiente» ni la previsión de tratamiento laboral, porque siembran en el propio texto la duda que el contrato busca despejar; la naturaleza la definen los hechos [N-028]. Angiolette: el objeto pasa a herramientas digitales, con exclusión expresa de las hojas de cálculo de su trabajo ordinario [R-062].
+
+> Advertencia: N-034 está POR VERIFICAR. N-017 está POR VERIFICAR. N-028 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -103,7 +109,7 @@ El bono es un pago por producción; el caso no requiere datos contables sobre é
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (44)
+## Por verificar (45)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -149,6 +155,7 @@ El bono es un pago por producción; el caso no requiere datos contables sobre é
 - R-056 — Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24
 - R-059 — Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos
 - N-033 — Derechos de autor sobre obras por encargo o bajo relación laboral
+- N-034 — Interpretación restrictiva de los contratos de derechos de autor
 
 ## Registros reemplazados
 

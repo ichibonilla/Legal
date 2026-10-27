@@ -28,6 +28,7 @@ Registro actualizado el 2026-10-27.
 | 2026-04-21 | ~~R-001~~ (superado por R-046) | POR VERIFICAR | ~~Nombre completo y cédula consignados en el grupo~~ | — |
 | 2026-07-16 | R-010 | VERIFICADO | Kristel domina el estándar de atención que la clínica promueve | — |
 | 2026-07-28 | R-052 | VERIFICADO | Vacaciones aprobadas del 29/09 al 03/10/2026 | — |
+| 2026-07-28 | R-062 | VERIFICADO | Las hojas de cálculo forman parte del trabajo ordinario de Angiolette | — |
 | 2026-08-21 | R-014 | VERIFICADO | Tensión laboral previa entre la Dirección y Fiorella, expuesta en el grupo | — |
 | 2026-09-03 | R-013 | VERIFICADO | Ha tenido acceso a material de litigio de la empresa | — |
 | 2026-09-04 | R-030 | VERIFICADO | Horario administrativo de Kristel desde el 7/09/2026 | — |
