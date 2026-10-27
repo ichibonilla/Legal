@@ -18,7 +18,7 @@ Material confidencial. No se publica fuera del repositorio.
 ## Identidad visual
 
 - Toda carta y todo documento de Poïesis usa solo la paleta institucional: `#131237`, `#2F2E47`, `#5C6684`, `#D1D0CB` y blanco. Títulos en Safira March; texto en una tipografía sobria.
-- La versión Word de un escrito se genera con esa paleta: `python3 herramientas/escrito_docx.py casos/<caso>/escritos/<escrito>.md --caso casos/<caso>`.
+- La versión Word de un escrito se genera con esa paleta: `python3 herramientas/escrito_docx.py casos/<caso>/escritos/<escrito>.md --caso casos/<caso>` (`--pdf` para la versión PDF). El encabezado dice solo «Grupo Poïesis»; `--confidencial` lo marca como confidencial cuando el documento es interno.
 
 ## Rutina de cierre (al terminar cada sesión o cada jueves)
 

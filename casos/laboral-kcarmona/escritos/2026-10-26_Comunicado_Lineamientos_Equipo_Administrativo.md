@@ -18,13 +18,14 @@ Ajustes de la revisión jurídica sobre esa versión:
 - Sección 4: «obligatorias por ley», única mención de la obligatoriedad tras retirar el párrafo correspondiente.
 
 Entrega:
-- En la reunión, a todo el equipo administrativo a la vez. Lectura breve, copia impresa para cada persona y acuse
-  de recibo. El mismo día, copia por correo individual.
+- En la reunión, a todo el equipo administrativo a la vez, con lectura breve. El mismo día, copia en PDF a cada persona.
 - En la reunión no se tratan casos individuales.
 - No es el mismo día de la entrega del plan de mejora.
 - 27/10: incorporados de la valoración externa: sanción no automática y sin exigir amonestación previa en toda falta grave;
   reserva salarial sin impedir hablar del propio salario; «neutral» → «veraz y profesional»; no represalias;
   emergencias; incidentes de datos; no modificación de condiciones; constancias individuales.
+- 27/10, Dirección: sin la palabra «Confidencial» en el encabezado, sin constancias de recepción y sin firma
+  personal. Se entrega en PDF.
 -->
 
 # Lineamientos del Equipo Administrativo
@@ -104,51 +105,6 @@ Gracias por el cuidado con que cada persona sostiene su trabajo. Quedamos a disp
 
 Con aprecio,
 
-&nbsp;
-
-| |
-|---|
-| ______________________________ |
-| Carlos Fernando Bonilla Cortés |
-| Director General · Grupo Poïesis |
+Dirección General · Grupo Poïesis
 
 Revisión jurídica: Fressy Mora Peñaranda · Asesoría Legal
-
----
-
-## Constancia de recepción
-
-Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos laborales.
-
-| | |
-|---|---|
-| Nombre completo | Kristell Carmona Soto |
-| Cédula | |
-| Fecha de recepción | |
-| Firma | |
-
----
-
-## Constancia de recepción
-
-Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos laborales.
-
-| | |
-|---|---|
-| Nombre completo | Fiorella Varela Monge |
-| Cédula | |
-| Fecha de recepción | |
-| Firma | |
-
----
-
-## Constancia de recepción
-
-Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos laborales.
-
-| | |
-|---|---|
-| Nombre completo | Angiolette Alcázar Mata |
-| Cédula | |
-| Fecha de recepción | |
-| Firma | |

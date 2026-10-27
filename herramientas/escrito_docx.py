@@ -2,7 +2,7 @@
 """Versión imprimible (.docx) de un escrito en Markdown, con la identidad de Poïesis.
 
 Uso:
-  python3 herramientas/escrito_docx.py ESCRITO.md --caso casos/<caso> [--salida RUTA.docx]
+  python3 herramientas/escrito_docx.py ESCRITO.md --caso casos/<caso> [--salida RUTA.docx] [--pdf] [--confidencial]
 
 Retira las citas [R-xxx]/[N-xxx] y los comentarios <!-- -->. Antes de generar corre
 el cotejo del escrito: si hay observaciones, el documento sale marcado como BORRADOR
@@ -12,6 +12,7 @@ escritos: títulos # y ##, párrafos, **negrita**, listas con - y 1., tablas y -
 """
 import argparse
 import re
+import subprocess
 import sys
 import zipfile
 from pathlib import Path
@@ -145,7 +146,7 @@ def tabla(doc, filas, ancho):
     doc.add_paragraph()
 
 
-def convertir(md, salida, aviso):
+def convertir(md, salida, aviso, confidencial=False):
     texto = re.sub(r"<!--.*?-->", "", md, flags=re.S)
     texto = CITA.sub("", texto)
     doc = Document()
@@ -159,7 +160,7 @@ def convertir(md, salida, aviso):
     ancho = 8.5 - 2.2
 
     cab = sec.header.paragraphs[0]
-    runs(cab, "Grupo Poïesis · Confidencial", 8.5, GRIS)
+    runs(cab, "Grupo Poïesis · Confidencial" if confidencial else "Grupo Poïesis", 8.5, GRIS)
     if aviso:
         cab.add_run("    ")
         runs(cab, aviso, 8.5, NAVY, True)
@@ -230,13 +231,19 @@ def main():
     ap.add_argument("escrito")
     ap.add_argument("--caso", required=True)
     ap.add_argument("--salida")
+    ap.add_argument("--confidencial", action="store_true", help="marca «Confidencial» en el encabezado")
+    ap.add_argument("--pdf", action="store_true", help="genera también la versión PDF")
     a = ap.parse_args()
     _, problemas = registro.cotejo(registro.cargar(a.caso), a.escrito)
     aviso = (f"BORRADOR · No entregar: el cotejo tiene {len(problemas)} observaciones"
              if problemas else "")
     salida = a.salida or str(Path(a.escrito).with_suffix(".docx"))
-    convertir(Path(a.escrito).read_text(encoding="utf-8"), salida, aviso)
+    convertir(Path(a.escrito).read_text(encoding="utf-8"), salida, aviso, a.confidencial)
     print(f"Generado {salida}" + (f" ({aviso})." if aviso else " (cotejo sin observaciones)."))
+    if a.pdf:
+        subprocess.run(["soffice", "--headless", "--convert-to", "pdf", "--outdir", str(Path(salida).parent), salida],
+                       check=True, capture_output=True)
+        print(f"Generado {Path(salida).with_suffix('.pdf')}")
     return 0
 
 
