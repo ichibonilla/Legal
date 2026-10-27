@@ -78,6 +78,12 @@ Un contrato civil con la propia trabajadora es posible solo si la operación es 
 
 > Advertencia: N-028 está POR VERIFICAR. N-031 está POR VERIFICAR. R-056 está POR VERIFICAR. N-033 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-012 — Modelo elegido por la Dirección: contrato marco civil de adquisición
+
+La Dirección prefiere comprar productos terminados a Kristell como creadora independiente. Es jurídicamente posible si la independencia existe en los hechos: fuera de la jornada, con medios propios, con autonomía, con libertad para rechazar y para trabajar con terceros, y con un precio por orden de compra [N-028]. Si los videos siguen asignados, supervisados o hechos en la jornada, la relación se analizará como laboral pese al contrato [N-031]. Grabar en la clínica o con sus profesionales debilita la independencia; se mitiga coordinando fuera de su horario y con consentimiento de cada participante. El contrato no califica los pagos anteriores ni regula el material del 24/10 [N-017].
+
+> Advertencia: N-028 está POR VERIFICAR. N-031 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
