@@ -1305,6 +1305,32 @@
       "supersede": "",
       "razon": "Relevante para los videos producidos antes del contrato marco: Poïesis podría usarlos en sus actividades habituales sin necesitar una licencia nueva. Precisa N-033. Cotejar en el SCIJ.",
       "folio": ""
+    },
+    {
+      "id": "R-063",
+      "fecha": "2022-08-24",
+      "tipo": "hecho",
+      "titulo": "Primera asignación escrita de tiempo para videos",
+      "afirmacion": "La Dirección pidió en el grupo de asistentes que Kris presentara sus horarios y su agenda diaria e incluyeran «una hora a la semana para generación de videos».",
+      "fuente": "CHAT-G, 8/24/22 7:48:51 AM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-27",
+      "supersede": "",
+      "razon": "Antecedente más antiguo de los videos como parte de la agenda de trabajo. Kristell figura en el grupo desde el 1/7/2022 (CHAT-G, 7/1/22 4:03:10 PM).",
+      "folio": ""
+    },
+    {
+      "id": "R-064",
+      "fecha": "2023-10-06",
+      "tipo": "hecho",
+      "titulo": "Kristell graba y edita videos para la clínica",
+      "afirmacion": "Kristell informa a la Dirección que ese día grabaron un video y que lo está editando; días antes la Dirección había indicado que «la idea es diseñar el video a priori».",
+      "fuente": "CHAT-M2, 10/4/23 10:37:07 AM y 10/6/23 6:06:01 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-27",
+      "supersede": "",
+      "razon": "Primera constancia escrita de Kristell produciendo videos. La primera mención escrita del bono es del 14/2/2024 y ya lo da por existente (R-049); su fecha de inicio no consta en los chats.",
+      "folio": ""
     }
   ],
   "evaluaciones": [

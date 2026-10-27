@@ -8,8 +8,10 @@ Registro actualizado el 2026-10-27.
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
 | 2022-06-01 | R-004 | VERIFICADO | Presente en la operación desde al menos junio de 2022 | — |
+| 2022-08-24 | R-063 | VERIFICADO | Primera asignación escrita de tiempo para videos | — |
 | 2022-12-18 | R-005 | VERIFICADO | Aumento salarial en diciembre de 2022 | — |
 | 2023-03-13 | ~~R-060~~ (superado por R-061) | VERIFICADO | ~~Razón social y cédula jurídica de la clínica~~ | — |
+| 2023-10-06 | R-064 | VERIFICADO | Kristell graba y edita videos para la clínica | — |
 | 2024-02-14 | R-049 | VERIFICADO | El bono está ligado a la producción de videos y se paga desde al menos 2024 | — |
 | 2024-10-29 | R-007 | VERIFICADO | Práctica previa: carta de mejora con entrenamiento a otra colaboradora | — |
 | 2024-11-15 | R-003 | VERIFICADO | Funciones de coordinación de recursos humanos (one on ones, reclutamiento) | — |
