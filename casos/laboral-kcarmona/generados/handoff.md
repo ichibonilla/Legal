@@ -124,6 +124,12 @@ Se adoptan: resolución sin plazo solo ante incumplimientos graves o esenciales,
 
 > Advertencia: N-036 está POR VERIFICAR. N-037 está POR VERIFICAR. N-028 está POR VERIFICAR.
 
+### E-020 — Productos anteriores al contrato marco
+
+Los videos anteriores ya pagados con el bono no requieren un instrumento nuevo: Poïesis ya los usa y, si se confirma la presunción de cesión al empleador, conserva los derechos necesarios para sus actividades habituales [N-037]. Comprarlos ahora mediante factura significaría pagar dos veces y documentar como obras independientes trabajos asignados como tarea [R-049]. Solo queda abierto el video entregado el sábado 24/10 [R-056, R-059]: se resuelve con un acuerdo breve y propio (identificación, precio, licencia, fecha de pago y cláusula de no renuncia), sin usar el contrato marco y sin pronunciarse sobre la naturaleza de los pagos anteriores [N-017]. Fiorella no entregó podcast [R-055]: no hay nada que regularizar. El inventario de obras anteriores solo es necesario si Poïesis quiere darles usos fuera de sus actividades habituales.
+
+> Advertencia: N-037 está POR VERIFICAR. R-055 está POR VERIFICAR. R-056 está POR VERIFICAR. R-059 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
