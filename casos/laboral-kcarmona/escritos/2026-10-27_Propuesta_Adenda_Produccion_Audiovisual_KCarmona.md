@@ -14,9 +14,11 @@ Por qué una adenda laboral y no un contrato de compra de productos:
 Antes de entregarla:
 - Confirmar la sociedad que tiene a Kristell en planilla. En los chats aparecen Grupo Poïesis (3-101-746424),
   otra cédula jurídica (3-101-582680) y Égida de Salud Mental S.R.L. La adenda la firma la empleadora real (R-060, R-022).
-- Monto por video (cláusula quinta) y criterio de la disposición transitoria (cláusula undécima). Lo más seguro es la
-  tarifa que se venía pagando: un monto menor pactado para trabajo ya entregado puede impugnarse como renuncia de
-  derechos (art. 11 CT, N-017).
+- Monto por video (cláusula quinta).
+- Versión del 27/10: se retiró la disposición transitoria. El material entregado desde el 22/10 se resuelve por separado
+  (respuesta a más tardar el 30/10), para no atar su pago a la firma (art. 11 CT, N-017). Se agregaron la no
+  retroactividad, la subsanación, la trazabilidad y las modalidades de cesión de derechos, tomadas de la valoración externa.
+- Acreditar las facultades de quien firma con certificación de personería del Registro Nacional.
 - Para Fiorella, el mismo texto con «episodios del podcast» en lugar de «videos».
 Respaldo: nombre y cédula (R-046), puesto (R-002), razón social (R-060), derechos de autor (N-033).
 -->
@@ -33,6 +35,8 @@ Entre nosotros, **GRUPO POÏESIS CLÍNICA INTEGRAL DE PSICOLOGÍA Y PSICOANÁLIS
 
 Esta adenda regula la producción de videos institucionales por parte de la Trabajadora y el incentivo variable que se paga por cada video aprobado.
 
+Se aplica a los encargos posteriores a su firma. No modifica ni sustituye obligaciones generadas antes de ella.
+
 ## Segunda. Producción por encargo
 
 La producción se realiza únicamente por encargo escrito de la Dirección General o de la jefatura inmediata, por correo o mensaje institucional, con indicación del tema, el formato, la duración aproximada y la fecha de entrega.
@@ -47,7 +51,9 @@ La producción se realiza dentro de la jornada ordinaria. No se autoriza tiempo 
 
 ## Cuarta. Entrega y aprobación
 
-El video se entrega por el canal institucional indicado en el encargo. La jefatura lo aprueba, o solicita ajustes por escrito, dentro de los tres días hábiles siguientes a la entrega. Los ajustes se solicitan una sola vez. Si no hay respuesta en ese plazo, el video se tiene por aprobado.
+El video se entrega por el canal institucional indicado en el encargo. La jefatura lo aprueba, o solicita ajustes por escrito, dentro de los tres días hábiles siguientes a la entrega. Los ajustes se solicitan una sola vez y se realizan en el plazo que se acuerde por escrito. Si no hay respuesta en el plazo de revisión, el video se tiene por aprobado.
+
+Cada encargo, entrega, aprobación y pago queda registrado por escrito en el canal institucional.
 
 ## Quinta. Incentivo
 
@@ -59,7 +65,9 @@ El incentivo se paga en la planilla del periodo siguiente a la aprobación, con 
 
 ## Sétima. Derechos sobre los videos
 
-Los videos se producen por encargo de Poïesis. Los derechos patrimoniales de autor pertenecen a Poïesis, que podrá usarlos, editarlos y difundirlos por cualquier medio. La Trabajadora conserva los derechos morales que la ley le reconoce como autora.
+Los videos se producen por encargo de Poïesis. Los derechos patrimoniales de autor, en sus modalidades de reproducción, distribución, comunicación pública y transformación, pertenecen a Poïesis en forma exclusiva, sin límite de territorio y por todo el plazo de protección legal. La Trabajadora conserva los derechos morales que la ley le reconoce como autora.
+
+La Trabajadora utiliza en los videos solo música, imágenes u otros materiales de terceros con licencia o de uso libre, e informa su origen al entregar el video.
 
 ## Octava. Personas y confidencialidad
 
@@ -73,11 +81,7 @@ Poïesis facilita el equipo y las herramientas necesarias para la producción.
 
 Esta adenda rige desde su firma, por plazo indefinido. Cualquiera de las partes puede darla por terminada con un aviso escrito de quince días naturales. La terminación no afecta los incentivos ya devengados por videos aprobados ni ninguna otra condición de la relación laboral.
 
-## Undécima. Disposición transitoria
-
-Los videos entregados entre el 22 de octubre de 2026 y la firma de esta adenda se pagan conforme a ________________________________________.
-
-## Duodécima. Voluntariedad
+## Undécima. Voluntariedad
 
 La Trabajadora firma esta adenda de forma libre y voluntaria, después de haber contado con el tiempo necesario para revisarla y consultarla. Su eventual negativa a firmarla no tiene consecuencia alguna en su relación laboral. Las demás condiciones de su contrato de trabajo se mantienen sin cambios.
 

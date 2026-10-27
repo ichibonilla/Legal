@@ -72,6 +72,12 @@ Posición de Poïesis: el 22/10 se suspendieron las nuevas producciones y sus pa
 
 > Advertencia: R-059 está POR VERIFICAR. R-056 está POR VERIFICAR. N-031 está POR VERIFICAR. N-010 está POR VERIFICAR. N-032 está POR VERIFICAR.
 
+### E-011 — Contrato civil de adquisición de productos frente a adenda laboral
+
+Un contrato civil con la propia trabajadora es posible solo si la operación es realmente independiente; un foro civil no impide que un juzgado laboral examine la realidad [N-028, N-031]. En el caso de Kristell, los videos son una tarea asignada, con profesionales y en instalaciones de la clínica, y se entregaban de forma habitual [R-049, R-056]: la verificación previa de independencia que propone la valoración externa documentaría lo contrario. La vía recomendada es la adenda laboral, que reúne los controles útiles de la valoración externa (aceptación con plazo, subsanación, trazabilidad, cesión de derechos con modalidades, no retroactividad, datos y no represalias) [N-033]. El contrato civil queda para proveedores externos reales. El material entregado desde el 22/10 se resuelve por separado, y no hay finiquitos ni declaraciones sobre el pasado [N-017].
+
+> Advertencia: N-028 está POR VERIFICAR. N-031 está POR VERIFICAR. R-056 está POR VERIFICAR. N-033 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
