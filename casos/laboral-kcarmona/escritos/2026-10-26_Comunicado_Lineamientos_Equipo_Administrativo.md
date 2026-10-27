@@ -22,6 +22,9 @@ Entrega:
   de recibo. El mismo día, copia por correo individual.
 - En la reunión no se tratan casos individuales.
 - No es el mismo día de la entrega del plan de mejora.
+- 27/10: incorporados de la valoración externa: sanción no automática y sin exigir amonestación previa en toda falta grave;
+  reserva salarial sin impedir hablar del propio salario; «neutral» → «veraz y profesional»; no represalias;
+  emergencias; incidentes de datos; no modificación de condiciones; constancias individuales.
 -->
 
 # Lineamientos del Equipo Administrativo
@@ -51,7 +54,7 @@ En lo esencial:
 - Respuestas completas y sin prisa visible. Cuando una solicitud no se puede atender, se ofrece una alternativa concreta: otro horario, otra sede o la verificación del dato con un plazo de respuesta.
 - Ante una duda, se verifica y se confirma; no se improvisa.
 - No se piden detalles clínicos; el motivo de consulta se recoge de forma general.
-- Ante una persona en crisis o con señales de riesgo, se comunica de inmediato al equipo clínico y se acompaña a la persona mientras tanto.
+- Ante una persona en crisis o con señales de riesgo, se comunica de inmediato al equipo clínico y se acompaña a la persona mientras tanto. Si hay peligro inmediato, se activan los servicios de emergencia.
 - Ninguna persona queda sin respuesta, y ningún número se bloquea sin autorización de la Dirección.
 - Frente a pacientes y a psicólogas y psicólogos que prestan servicios profesionales a la clínica, no se comentan asuntos internos, opiniones sobre la clínica ni situaciones del equipo.
 - Cada conversación se cierra con el nombre de la persona, una invitación a volver a escribir y un deseo de bienestar, y se registra en el sistema.
@@ -61,13 +64,14 @@ En lo esencial:
 - Las referencias a las compañeras y compañeros, a las jefaturas, a la Dirección y a la clínica se expresan con respeto, también en su ausencia.
 - Las decisiones sobre la incorporación y la permanencia de colaboradores y profesionales corresponden a la Dirección.
 - Las inquietudes y los desacuerdos tienen un canal: la conversación directa con la jefatura o con la Dirección. Toda inquietud planteada por esa vía es bienvenida y recibe respuesta.
-- Frente a visitantes y proveedores, la comunicación sobre la clínica y su equipo es neutral y respetuosa.
-- Nada de lo anterior limita el derecho de cada persona a plantear sus reclamos ante las instancias que la ley establece.
+- La información que se da a visitantes y proveedores sobre la clínica es veraz, profesional y respeta la confidencialidad.
+- Nada de lo anterior limita el derecho de cada persona a plantear sus reclamos ante las instancias que la ley establece. Nadie será objeto de represalias por ejercer de buena fe sus derechos.
 
 ## 3. Confidencialidad
 
 - La información de pacientes y la información confidencial de la clínica (expedientes, agendas, datos de contacto, finanzas y documentos legales) se utiliza solo para fines de trabajo. No se copia, reenvía ni almacena fuera de los canales institucionales.
-- La información salarial de cada persona es confidencial y se conversa en privado.
+- La información salarial que administra Poïesis se trata con reserva. Esto no impide que cada persona hable de sus propias condiciones laborales.
+- Cualquier pérdida o divulgación accidental de información se comunica de inmediato a la jefatura.
 - Cada persona puede solicitar copia de su propia información laboral: contrato, colillas de pago y expediente.
 
 ## 4. Salario y cargas sociales
@@ -84,9 +88,13 @@ Para que todas las personas cuenten con la misma información sobre las cargas s
 
 ## 5. Un marco claro
 
-En Poïesis, conforme al Código de Trabajo, los incumplimientos se atienden de forma gradual y proporcional. Cada situación se conversa primero con la persona, y su versión se escucha. Si corresponde, se aplica una amonestación escrita. Cuando una falta es grave, o se repite después de haber sido advertida por escrito, la ley permite la terminación del contrato sin responsabilidad patronal.
+En Poïesis, conforme al Código de Trabajo, los incumplimientos se atienden de forma objetiva, documentada y proporcional. Antes de cualquier medida se esclarecen los hechos y se escucha a la persona. Según el caso, puede tratarse de una conversación, una amonestación escrita u otra medida legalmente procedente. Una falta grave, o la reiteración de faltas ya advertidas, puede justificar la terminación del contrato sin responsabilidad patronal, siempre que se cumplan los requisitos legales.
+
+Ninguna sanción es automática. Ejercer derechos laborales, presentar un reclamo o no aceptar una modificación contractual no constituyen faltas.
 
 Lo compartimos por transparencia, para que todas las personas conozcan el marco con la misma claridad. Nuestro interés es que no sea necesario aplicarlo, y confiamos en que así será.
+
+Este comunicado no modifica salarios, jornadas, funciones ni otras condiciones del contrato de trabajo.
 
 Gracias por el cuidado con que cada persona sostiene su trabajo. Quedamos a disposición para conversar sobre cualquiera de estos puntos.
 
@@ -102,13 +110,39 @@ Con aprecio,
 
 ---
 
-## Acuse de recibo
+## Constancia de recepción
 
-Mi firma indica que recibí y leí este comunicado.
+Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos.
 
-| Nombre | Cédula | Firma | Fecha |
-|---|---|---|---|
-| Kristell Carmona Soto | | | |
-| Fiorella Varela Monge | | | |
-| Angiolette Alcázar Mata | | | |
-| | | | |
+| | |
+|---|---|
+| Nombre completo | Kristell Carmona Soto |
+| Cédula | |
+| Fecha de recepción | |
+| Firma | |
+
+---
+
+## Constancia de recepción
+
+Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos.
+
+| | |
+|---|---|
+| Nombre completo | Fiorella Varela Monge |
+| Cédula | |
+| Fecha de recepción | |
+| Firma | |
+
+---
+
+## Constancia de recepción
+
+Mediante mi firma, dejo constancia de haber recibido el comunicado «Lineamientos del Equipo Administrativo», con fecha 27 de octubre de 2026. Esta constancia acredita únicamente la recepción. No implica aceptación de modificaciones contractuales ni renuncia a derechos.
+
+| | |
+|---|---|
+| Nombre completo | Angiolette Alcázar Mata |
+| Cédula | |
+| Fecha de recepción | |
+| Firma | |
