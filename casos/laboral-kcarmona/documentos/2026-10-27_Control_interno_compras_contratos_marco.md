@@ -1,6 +1,6 @@
 <!--
 Documento interno de la Dirección. No forma parte de los contratos ni se entrega a las proveedoras.
-Origen: segunda valoración externa de los contratos marco (E-015). Respaldo: carga de la prueba del empleador (N-036),
+Origen: valoraciones externas de los contratos marco (E-015, E-016). Respaldo: carga de la prueba del empleador (N-036),
 contrato realidad (N-028), interpretación restrictiva de los derechos de autor (N-034).
 -->
 
@@ -18,15 +18,27 @@ Cada compra hecha con un contrato marco tiene su propio expediente, en una carpe
 
 ## Durante la elaboración
 
-- Las comunicaciones sobre el producto van por el correo o la carpeta designados en la orden, no por los grupos de trabajo.
-- No se dan instrucciones de ejecución ni se asignan plazos fuera de los pactados en la orden.
+- Las comunicaciones de la compra se hacen en el canal de la orden, porque forman parte de una relación comercial.
+- No se dan instrucciones de ejecución ni se fijan plazos fuera de los pactados en la orden.
 - La elaboración ocurre fuera de la jornada laboral. Si se graba en la clínica, el horario queda en la orden.
+
+## Cuatro hechos que se anotan
+
+En cada expediente se anota, con lo que se sabe en ese momento:
+
+1. Si el producto se elaboró fuera de la jornada laboral.
+2. Si la proveedora decidió cómo hacerlo.
+3. Si el producto formaba parte de las tareas de su puesto.
+4. Si tenía los derechos que concedió, incluidos los de música, imágenes, código o aportes de otras personas.
+
+En las herramientas digitales se anota además quién concibió la herramienta, con qué recursos se desarrolló y qué información usa.
 
 ## Entrega y pago
 
 - El envío registrado en el canal designado: fecha de entrega y archivos recibidos.
 - Las autorizaciones de participantes y las licencias de materiales de terceros.
 - La aceptación o las observaciones, dentro de los cinco días hábiles.
+- El pago, en el día de pago a proveedores (miércoles o jueves) siguiente a la aceptación y al comprobante.
 - El comprobante electrónico de la proveedora y el comprobante de pago.
 
 ## Responsables
@@ -42,3 +54,4 @@ Cada compra hecha con un contrato marco tiene su propio expediente, en una carpe
 - Pagar por esta vía un producto que formó parte de una tarea asignada en el puesto.
 - Tramitar estas compras en la planilla o mezclar sus mensajes con los de la jornada.
 - Recurrir a declaraciones de independencia que no describan cómo se hizo el trabajo.
+- Cambiar de canal solo para aparentar autonomía: el canal comercial se usa porque la operación es comercial.

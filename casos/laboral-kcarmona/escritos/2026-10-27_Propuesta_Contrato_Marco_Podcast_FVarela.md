@@ -20,7 +20,11 @@ Versión 3 (27/10/2026), con la segunda valoración externa (E-015):
 - Quinta: el plazo corre desde el envío registrado en el canal designado en la orden.
 - Angiolette: no se adquieren productos elaborados como tarea asignada en su puesto.
 - Control interno de cada compra, fuera del contrato: documentos/2026-10-27_Control_interno_compras_contratos_marco.md.
-Antes de firmar: personería de quien firma (Registro Nacional); inscripción de la Proveedora ante Hacienda.
+Versión 4 (27/10/2026), con las decisiones de la Dirección y la tercera valoración externa (E-016):
+- Los productos y las herramientas de trabajo son de la Proveedora; Poïesis recibe licencia, o cesión si se pacta.
+- Renovación automática anual; pagos en el día de pago a proveedores (miércoles o jueves).
+- Constancia de inscripción ante Hacienda como anexo 2. No se exige certificación de personería.
+- Plazo de aceptación desde la puesta a disposición efectiva; aportes creativos y licencias de terceros.
 -->
 
 # Contrato marco de adquisición y licencia de episodios de podcast
@@ -37,11 +41,15 @@ Este contrato establece el marco para que la Adquirente adquiera, o utilice bajo
 
 Entre las partes existe una relación laboral, que este contrato no modifica, sustituye ni extingue.
 
-Las operaciones de este contrato son distintas de las funciones del puesto. La Proveedora las ejecuta fuera de su jornada laboral, con sus propios medios y con autonomía para decidir cómo crear los productos y organizar su trabajo. La Adquirente define los requisitos del producto, pero no dirige su ejecución.
+Las operaciones de este contrato son distintas de las funciones del puesto. La Proveedora las ejecuta fuera de su jornada laboral y con autonomía para decidir cómo crear los productos y organizar su trabajo. La Adquirente define los requisitos del producto, pero no dirige su ejecución.
+
+Los equipos, programas y demás herramientas de trabajo son de la Proveedora, y los productos le pertenecen como autora y titular, salvo los derechos que conceda a la Adquirente conforme a la cláusula sétima.
 
 La Proveedora puede ofrecer sus productos a terceros, salvo la exclusividad que se pacte para un producto determinado. Cualquiera de las partes puede proponer, aceptar o rechazar una operación, sin consecuencia alguna en la relación laboral.
 
 ## Tercera. Órdenes de compra
+
+La constancia de inscripción de la Proveedora ante el Ministerio de Hacienda forma parte de este contrato como anexo 2.
 
 Antes de iniciar cada operación, las partes acuerdan por escrito una orden de compra, a partir de una oferta de la Proveedora o de una propuesta de la Adquirente. La orden indica:
 
@@ -60,13 +68,15 @@ Si un episodio requiere grabar en instalaciones de la Adquirente, o usar sus equ
 
 La Proveedora organiza la grabación y la edición. Cuando el episodio se publica con la marca de la Adquirente, los temas y las personas invitadas se acuerdan en la orden, y la Adquirente revisa el contenido antes de publicarlo.
 
-Cada persona invitada participa de forma voluntaria y con autorización escrita para el uso de su voz, su imagen y su intervención. La Proveedora gestiona esas autorizaciones y las entrega con el episodio.
+Cada persona invitada participa de forma voluntaria y con autorización escrita para el uso de su voz, su imagen y su intervención, y cede o licencia sus aportes creativos cuando los haya. La Proveedora gestiona esas autorizaciones y las entrega con el episodio.
 
 Ningún paciente participa en los episodios, no se mencionan casos identificables y no se utiliza información clínica.
 
 ## Quinta. Entrega y aceptación
 
-La entrega se hace en el correo o la carpeta digital que designe la orden, y es completa cuando comprende el archivo final, la música y demás materiales con su licencia, y las autorizaciones pactados. Desde la fecha de envío registrada en ese canal, la Adquirente dispone de cinco días hábiles para aceptar el producto o formular observaciones concretas, referidas a los criterios de la orden.
+La entrega se hace en el correo o la carpeta digital que designe la orden, y es completa cuando comprende el archivo final, la música y demás materiales con su licencia, y las autorizaciones pactados. El plazo de revisión corre desde que el producto completo queda disponible en ese canal, con constancia del envío. Si un archivo no se puede abrir o está incompleto, la Adquirente lo comunica dentro de los dos días hábiles siguientes, y el plazo corre desde el nuevo envío.
+
+Durante el plazo de revisión, de cinco días hábiles, la Adquirente acepta el producto o formula observaciones concretas, referidas a los criterios de la orden.
 
 Si las observaciones son subsanables, las partes acuerdan por escrito un plazo para corregirlas. Si vence el plazo de revisión sin observaciones, el producto se tiene por aceptado para efectos de pago.
 
@@ -74,19 +84,19 @@ La aceptación no libera a la Proveedora de su responsabilidad por defectos ocul
 
 ## Sexta. Precio, facturación y tributos
 
-El precio es el fijado en cada orden. La Proveedora emite el comprobante electrónico correspondiente, y la Adquirente paga dentro de los ocho días naturales siguientes a la aceptación y a la recepción del comprobante.
+El precio es el fijado en cada orden. La Proveedora emite el comprobante electrónico correspondiente. La Adquirente paga a sus proveedores los miércoles o jueves, y cada pago se hace en el primero de esos días posterior a la aceptación del producto y a la recepción del comprobante.
 
 Cada parte cumple las obligaciones tributarias y de seguridad social que le correspondan por ley.
 
 ## Sétima. Derechos sobre los productos
 
-Cada orden identifica el producto e indica si la Adquirente adquiere los derechos patrimoniales o una licencia de uso. Si la Adquirente requiere ser titular de esos derechos, la orden lo pacta como cesión expresa.
+Cada orden identifica el producto e indica si la Proveedora concede una licencia de uso o cede los derechos patrimoniales. La cesión solo existe si la orden la pacta de forma expresa.
 
 Salvo que la orden disponga otra cosa, la Proveedora concede a la Adquirente una licencia exclusiva, de alcance mundial y por todo el plazo de protección legal, para reproducir, editar, adaptar, distribuir, comunicar públicamente y poner a disposición el episodio, incluidos fragmentos, subtítulos y otros formatos derivados, en su sitio web, redes sociales, plataformas audiovisuales y demás medios digitales, así como en sus campañas institucionales y en su publicidad.
 
 La orden puede ampliar, limitar o precisar los derechos concedidos.
 
-La Proveedora garantiza que tiene derechos suficientes para conceder lo pactado, que los materiales de terceros incorporados cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
+La Proveedora concede solo los derechos de los que es titular. Garantiza que los materiales de terceros incorporados cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones y, cuando corresponda, con la cesión o licencia de los aportes creativos de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
 
 La entrega del archivo no transmite derechos distintos de los pactados. La Proveedora conserva los derechos morales que la ley le reconoce como autora.
 
@@ -104,7 +114,7 @@ Ningún incumplimiento de este contrato, ni su terminación, tiene efectos disci
 
 ## Décima. Vigencia y terminación
 
-Este contrato rige por un año desde su firma y se prorroga por periodos iguales, salvo aviso escrito de cualquiera de las partes con quince días naturales de anticipación. Las órdenes aceptadas antes del aviso se cumplen en sus términos.
+Este contrato rige por un año desde su firma y se renueva automáticamente por periodos iguales, salvo que una de las partes comunique por escrito lo contrario con quince días naturales de anticipación. Las órdenes aceptadas antes del aviso se cumplen en sus términos.
 
 ## Undécima. Alcance temporal
 
@@ -130,7 +140,7 @@ Firmamos en dos tantos de igual valor, en San José, el ____ de ______________ d
 
 ---
 
-## Anexo. Modelo de orden de compra
+## Anexo 1. Modelo de orden de compra
 
 | | |
 |---|---|
@@ -146,3 +156,17 @@ Firmamos en dos tantos de igual valor, en San José, el ____ de ______________ d
 | Uso de instalaciones o recursos | No / Sí: fecha, horario y recursos |
 | Aceptación de la Proveedora | Nombre, firma y fecha |
 | Aceptación de la Adquirente | Nombre, firma y fecha |
+
+---
+
+## Anexo 2. Inscripción tributaria de la Proveedora
+
+Se adjunta la constancia de inscripción de la Proveedora en el Registro Único Tributario del Ministerio de Hacienda.
+
+| | |
+|---|---|
+| Nombre | Fiorella María Varela Monge |
+| Cédula | 1-1867-0233 |
+| Actividad económica inscrita | |
+| Régimen | |
+| Fecha de la constancia | |

@@ -20,7 +20,7 @@ from pathlib import Path
 from docx import Document
 from docx.enum.section import WD_SECTION
 from docx.enum.table import WD_TABLE_ALIGNMENT
-from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Pt, RGBColor, Inches
@@ -172,6 +172,7 @@ def convertir(md, salida, aviso, confidencial=False):
 
     lineas = texto.splitlines()
     i = 0
+    salto = False
     while i < len(lineas):
         l = lineas[i].rstrip()
         if not l.strip():
@@ -198,7 +199,7 @@ def convertir(md, salida, aviso, confidencial=False):
             p.paragraph_format.keep_with_next = True
             borde_inferior(p)
         elif l.strip() == "---":
-            doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
+            salto = True
         elif l.strip() == "&nbsp;":
             doc.add_paragraph()
         elif l.startswith("- "):
@@ -222,6 +223,9 @@ def convertir(md, salida, aviso, confidencial=False):
             espacio(p, 6 if solo_negrita else 0, 6)
             if solo_negrita and doc.paragraphs[-2].alignment == WD_ALIGN_PARAGRAPH.CENTER:
                 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        if salto and l.strip() != "---":
+            doc.paragraphs[-1].paragraph_format.page_break_before = True
+            salto = False
         i += 1
     doc.save(salida)
     a_paleta(salida)

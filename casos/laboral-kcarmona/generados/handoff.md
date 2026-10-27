@@ -100,6 +100,12 @@ Se adopta: licencia supletoria exclusiva, mundial y por el plazo legal, con usos
 
 > Advertencia: N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR. N-028 está POR VERIFICAR.
 
+### E-016 — Decisiones de la Dirección y tercera valoración externa de los contratos marco
+
+Decisiones de la Dirección: no se exige certificación de personería; la constancia de inscripción ante Hacienda se agrega como anexo 2; los productos y las herramientas de trabajo son de las proveedoras; renovación automática anual salvo aviso; pagos en el día de pago a proveedores, miércoles o jueves. En consecuencia, Poïesis recibe licencia y solo es titular si la orden pacta una cesión expresa; para las herramientas de Angiolette la licencia supletoria es no exclusiva, porque son suyas y puede ofrecerlas a terceros [N-034, N-035]. Se adoptan de la valoración: plazo de revisión desde la puesta a disposición efectiva, con aviso de archivo ilegible en dos días hábiles; cesión o licencia de aportes creativos de participantes; licencias de código y complementos de terceros; cuatro hechos anotados en cada expediente [N-036, N-028].
+
+> Advertencia: N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR. N-028 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
