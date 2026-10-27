@@ -9,6 +9,7 @@ Registro actualizado el 2026-10-27.
 |---|---|---|---|---|
 | 2022-06-01 | R-004 | VERIFICADO | Presente en la operación desde al menos junio de 2022 | — |
 | 2022-08-24 | R-063 | VERIFICADO | Primera asignación escrita de tiempo para videos | — |
+| 2022-09-03 | R-065 | VERIFICADO | En 2022 los videos semanales los elaboraba Fiorella | — |
 | 2022-12-18 | R-005 | VERIFICADO | Aumento salarial en diciembre de 2022 | — |
 | 2023-03-13 | ~~R-060~~ (superado por R-061) | VERIFICADO | ~~Razón social y cédula jurídica de la clínica~~ | — |
 | 2023-10-06 | R-064 | VERIFICADO | Kristell graba y edita videos para la clínica | — |
