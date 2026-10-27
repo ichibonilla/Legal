@@ -1266,6 +1266,32 @@
       "supersede": "",
       "razon": "Fundamenta la cláusula sétima: derechos definidos en cada orden y regla supletoria. Cotejar en el SCIJ, hoy bloqueado desde este entorno.",
       "folio": ""
+    },
+    {
+      "id": "N-035",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Alcance de la cesión de derechos de autor y exclusividad",
+      "afirmacion": "La cesión de derechos patrimoniales se limita a los derechos y modalidades pactados, y no confiere exclusividad salvo disposición expresa en contrario.",
+      "fuente": "Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, arts. 38 y 39 (según la valoración externa del 27/10/2026, que afirma haberlos verificado).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Fundamenta la licencia exclusiva expresa de la cláusula sétima. Cotejar en el SCIJ.",
+      "folio": ""
+    },
+    {
+      "id": "N-036",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Carga de la prueba del empleador en materia laboral",
+      "afirmacion": "En el proceso laboral corresponde al empleador demostrar, entre otros hechos, las características del puesto, la naturaleza de las labores, la jornada y el pago de salarios e incentivos.",
+      "fuente": "Código de Trabajo, art. 478 (reforma procesal laboral, Ley 9343), según las valoraciones externas.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Justifica llevar un expediente de cada compra con los contratos marco. Cotejar en el SCIJ.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1439,6 +1465,18 @@
       "depende_de": [
         "N-034",
         "N-017",
+        "N-028",
+        "R-062"
+      ]
+    },
+    {
+      "id": "E-015",
+      "titulo": "Segunda valoración externa de los contratos marco",
+      "conclusion": "Se adopta: licencia supletoria exclusiva, mundial y por el plazo legal, con usos enumerados según el producto, en lugar de «fines institucionales» [N-034, N-035]; la titularidad exige cesión expresa en la orden. El plazo de aceptación corre desde el envío registrado en el canal designado; no se hace depender de un acuse de Poïesis, porque el plazo quedaría en manos de una sola parte. Angiolette: no se compran productos elaborados como tarea del puesto [R-062]. La trazabilidad se resuelve con un control interno fuera del contrato, que es lo que permite sostener la carga probatoria del empleador [N-036, N-028]. Pendiente: personería certificada, cédula de Angiolette e inscripción tributaria de las proveedoras.",
+      "depende_de": [
+        "N-034",
+        "N-035",
+        "N-036",
         "N-028",
         "R-062"
       ]

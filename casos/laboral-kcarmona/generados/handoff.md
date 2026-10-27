@@ -94,6 +94,12 @@ Se adoptan: reconocer la relación laboral sin declarar cuáles fueron las funci
 
 > Advertencia: N-034 está POR VERIFICAR. N-017 está POR VERIFICAR. N-028 está POR VERIFICAR.
 
+### E-015 — Segunda valoración externa de los contratos marco
+
+Se adopta: licencia supletoria exclusiva, mundial y por el plazo legal, con usos enumerados según el producto, en lugar de «fines institucionales» [N-034, N-035]; la titularidad exige cesión expresa en la orden. El plazo de aceptación corre desde el envío registrado en el canal designado; no se hace depender de un acuse de Poïesis, porque el plazo quedaría en manos de una sola parte. Angiolette: no se compran productos elaborados como tarea del puesto [R-062]. La trazabilidad se resuelve con un control interno fuera del contrato, que es lo que permite sostener la carga probatoria del empleador [N-036, N-028]. Pendiente: personería certificada, cédula de Angiolette e inscripción tributaria de las proveedoras.
+
+> Advertencia: N-034 está POR VERIFICAR. N-035 está POR VERIFICAR. N-036 está POR VERIFICAR. N-028 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -109,7 +115,7 @@ Se adoptan: reconocer la relación laboral sin declarar cuáles fueron las funci
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (45)
+## Por verificar (47)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -156,6 +162,8 @@ Se adoptan: reconocer la relación laboral sin declarar cuáles fueron las funci
 - R-059 — Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos
 - N-033 — Derechos de autor sobre obras por encargo o bajo relación laboral
 - N-034 — Interpretación restrictiva de los contratos de derechos de autor
+- N-035 — Alcance de la cesión de derechos de autor y exclusividad
+- N-036 — Carga de la prueba del empleador en materia laboral
 
 ## Registros reemplazados
 

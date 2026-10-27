@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (45)
+## POR VERIFICAR (47)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -65,7 +65,9 @@
 - **R-059** — Versión de la Dirección: el 22/10 se suspendieron las nuevas producciones audiovisuales y sus pagos. Fuente: Manifestación del Dr. Carlos Bonilla Cortés en la sesión de trabajo del 26/10/2026 y en la valoración externa de la misma fecha. Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.
 - **N-033** — Derechos de autor sobre obras por encargo o bajo relación laboral. Fuente: Ley 6683 de Derechos de Autor y Derechos Conexos. SCIJ. Identificar el artículo aplicable a obras creadas bajo relación laboral o por encargo.
 - **N-034** — Interpretación restrictiva de los contratos de derechos de autor. Fuente: Ley 6683, Ley sobre Derechos de Autor y Derechos Conexos, art. 16 (según la valoración externa del 27/10/2026). Fundamenta la cláusula sétima: derechos definidos en cada orden y regla supletoria. Cotejar en el SCIJ, hoy bloqueado desde este entorno.
+- **N-035** — Alcance de la cesión de derechos de autor y exclusividad. Fuente: Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, arts. 38 y 39 (según la valoración externa del 27/10/2026, que afirma haberlos verificado). Fundamenta la licencia exclusiva expresa de la cláusula sétima. Cotejar en el SCIJ.
+- **N-036** — Carga de la prueba del empleador en materia laboral. Fuente: Código de Trabajo, art. 478 (reforma procesal laboral, Ley 9343), según las valoraciones externas. Justifica llevar un expediente de cada compra con los contratos marco. Cotejar en el SCIJ.
 
-## Sin folio (88 de 88 vigentes)
+## Sin folio (90 de 90 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

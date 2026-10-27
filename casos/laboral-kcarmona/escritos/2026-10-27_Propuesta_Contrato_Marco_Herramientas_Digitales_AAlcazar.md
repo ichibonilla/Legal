@@ -16,6 +16,11 @@ Versión 2 (27/10/2026), con la valoración externa de los tres contratos (E-014
 No se adoptan del dictamen: «operaciones verdaderamente independientes» ni «si la naturaleza es laboral se dará el
 tratamiento correspondiente», porque introducen en el propio contrato una duda sobre su naturaleza; ni la obligación de
 Poïesis de verificar la autonomía en cada operación.
+Versión 3 (27/10/2026), con la segunda valoración externa (E-015):
+- Sétima: licencia supletoria con usos concretos en lugar de «fines institucionales» (N-034, N-035).
+- Quinta: el plazo corre desde el envío registrado en el canal designado en la orden.
+- Angiolette: no se adquieren productos elaborados como tarea asignada en su puesto.
+- Control interno de cada compra, fuera del contrato: documentos/2026-10-27_Control_interno_compras_contratos_marco.md.
 Antes de firmar: personería de quien firma (Registro Nacional); inscripción de la Proveedora ante Hacienda.
 -->
 
@@ -35,7 +40,7 @@ Entre las partes existe una relación laboral, que este contrato no modifica, su
 
 Las operaciones de este contrato son distintas de las funciones del puesto. La Proveedora las ejecuta fuera de su jornada laboral, con sus propios medios y con autonomía para decidir cómo crear los productos y organizar su trabajo. La Adquirente define los requisitos del producto, pero no dirige su ejecución.
 
-No forman parte de este contrato las hojas de cálculo, los registros ni los reportes que la Proveedora prepara o actualiza como parte de su trabajo, aunque para ello use productos adquiridos mediante este contrato.
+No forman parte de este contrato las hojas de cálculo, los registros ni los reportes que la Proveedora prepara o actualiza como parte de su trabajo, aunque para ello use productos adquiridos mediante este contrato. Tampoco se adquieren por esta vía productos elaborados como parte de una tarea asignada en su puesto.
 
 La Proveedora puede ofrecer sus productos a terceros, salvo la exclusividad que se pacte para un producto determinado. Cualquiera de las partes puede proponer, aceptar o rechazar una operación, sin consecuencia alguna en la relación laboral.
 
@@ -60,7 +65,7 @@ La Proveedora desarrolla y prueba los productos con datos ficticios. Ningún pro
 
 ## Quinta. Entrega y aceptación
 
-La entrega es completa cuando la Adquirente recibe, por el canal indicado en la orden, el archivo editable, con sus fórmulas y automatizaciones accesibles, y una guía breve de uso. Desde ese momento dispone de cinco días hábiles para aceptar el producto o formular observaciones concretas, referidas a los criterios de la orden.
+La entrega se hace en el correo o la carpeta digital que designe la orden, y es completa cuando comprende el archivo editable, con sus fórmulas y automatizaciones accesibles, y una guía breve de uso. Desde la fecha de envío registrada en ese canal, la Adquirente dispone de cinco días hábiles para aceptar el producto o formular observaciones concretas, referidas a los criterios de la orden.
 
 Si las observaciones son subsanables, las partes acuerdan por escrito un plazo para corregirlas. Si vence el plazo de revisión sin observaciones, el producto se tiene por aceptado para efectos de pago.
 
@@ -74,9 +79,11 @@ Cada parte cumple las obligaciones tributarias y de seguridad social que le corr
 
 ## Sétima. Derechos sobre los productos
 
-Cada orden indica si la Adquirente adquiere los derechos patrimoniales del producto o una licencia de uso, y precisa las modalidades de utilización (reproducción, distribución, comunicación pública y transformación, incluidas la modificación y la adaptación de fórmulas y automatizaciones), la exclusividad, el territorio y la duración.
+Cada orden identifica el producto e indica si la Adquirente adquiere los derechos patrimoniales o una licencia de uso. Si la Adquirente requiere ser titular de esos derechos, la orden lo pacta como cesión expresa.
 
-Si la orden no precisa alguno de esos elementos, se entiende concedida a la Adquirente una licencia exclusiva para sus fines institucionales, en cualquier medio y territorio, por todo el plazo de protección legal.
+Salvo que la orden disponga otra cosa, la Proveedora concede a la Adquirente una licencia exclusiva, de alcance mundial y por todo el plazo de protección legal, para reproducir, instalar, usar, modificar y adaptar el producto, incluidas sus fórmulas y automatizaciones, en las operaciones de Grupo Poïesis y de sus sedes.
+
+La orden puede ampliar, limitar o precisar los derechos concedidos.
 
 La Proveedora garantiza que tiene derechos suficientes para conceder lo pactado, que los materiales de terceros incorporados cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
 
