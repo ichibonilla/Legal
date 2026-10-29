@@ -71,6 +71,6 @@
 - **R-066** — Lectura del contrato marco con Kristell (versión 7). Fuente: Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 03:04 a 28:42. La fecha de la reunión no consta en el audio (se recibió el 29/10/2026). Transcripción automática: cotejar cada pasaje contra el audio antes de citarlo.
 - **R-067** — Expresiones de la Dirección en la lectura que requieren cuidado. Fuente: Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 00:40 a 02:05, 20:35 a 22:31 y 27:57 a 28:05. El audio puede ser ofrecido como prueba por cualquiera de las partes. Cotejar quién habla en cada pasaje.
 
-## Sin folio (96 de 96 vigentes)
+## Sin folio (97 de 97 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

@@ -50,6 +50,7 @@ Registro actualizado el 2026-10-29.
 | 2026-10-26 | R-056 | POR VERIFICAR | Respuesta de Kristell sobre el bono: su versión de la reunión del 22/10 y la entrega del sábado 24 | — |
 | 2026-10-26 | R-057 | VERIFICADO | El comunicado de lineamientos se preparó antes del reclamo de Kristell por el bono | — |
 | 2026-10-27 | R-061 | VERIFICADO | Empleadora y parte contratante: Grupo Poïesis, 3-101-746424 | — |
+| 2026-10-29 | R-068 | VERIFICADO | Tarifa del contrato marco de Kristell | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

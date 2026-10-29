@@ -1370,6 +1370,19 @@
       "supersede": "",
       "razon": "El audio puede ser ofrecido como prueba por cualquiera de las partes. Cotejar quién habla en cada pasaje.",
       "folio": ""
+    },
+    {
+      "id": "R-068",
+      "fecha": "2026-10-29",
+      "tipo": "hecho",
+      "titulo": "Tarifa del contrato marco de Kristell",
+      "afirmacion": "La Dirección confirma la tarifa: ₡20 000 por video, con un máximo de seis videos por mes.",
+      "fuente": "Confirmación de la Dirección, 29/10/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-29",
+      "supersede": "",
+      "razon": "Resuelve la diferencia entre ₡25 000 y ₡20 000 mencionada en la lectura (R-066). Coincide con el anexo 3 de la versión 8.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
