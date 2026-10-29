@@ -74,6 +74,6 @@
 - **R-069** — Reunión con Angiolette: propósito declarado del contrato de servicios. Fuente: Audio fuentes/AUDIO_Reunion_contrato_Angiolette_recibido_2026-10-29.m4a (25:55), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_reunion_Angiolette.md, 00:01 a 02:49, 08:59 a 18:05. Cotejar contra el audio quién dice cada frase. El audio no tiene fecha (se recibió el 29/10/2026). Es la prueba más relevante del caso sobre la finalidad de los contratos de servicios.
 - **R-070** — Reunión con Angiolette: otras afirmaciones. Fuente: Audio fuentes/AUDIO_Reunion_contrato_Angiolette_recibido_2026-10-29.m4a (25:55), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_reunion_Angiolette.md, 04:27 a 05:20, 13:03 a 13:12, 19:57 a 24:12 y 25:12 a 25:36. El salario de ₡405 710 coincide con el mínimo TOSCG (N-038); ver E-022. No existe norma que prohíba a una persona trabajadora hablar de su propio salario, y hacerlo no es causa de despido.
 
-## Sin folio (101 de 101 vigentes)
+## Sin folio (102 de 102 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

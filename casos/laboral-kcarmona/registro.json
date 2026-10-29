@@ -1435,6 +1435,19 @@
       "supersede": "",
       "razon": "El salario de ₡405 710 coincide con el mínimo TOSCG (N-038); ver E-022. No existe norma que prohíba a una persona trabajadora hablar de su propio salario, y hacerlo no es causa de despido.",
       "folio": ""
+    },
+    {
+      "id": "R-071",
+      "fecha": "2026-10-29",
+      "tipo": "hecho",
+      "titulo": "Angiolette no hace contabilidad",
+      "afirmacion": "La Dirección aclara que Angiolette no hace ni hará tareas de contabilidad, porque no está calificada para ello. En la reunión, el cuadro de cobros para Contabilidad se mencionó y se descartó como «algo muy laboral».",
+      "fuente": "Aclaración de la Dirección, 29/10/2026; audio de la reunión, 08:59 a 09:12.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-29",
+      "supersede": "",
+      "razon": "Corrige la lectura de E-023, que atribuyó a Angiolette el cuadro de cobros. Su horario y su jornada no constan en el expediente.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1716,6 +1729,17 @@
         "N-028",
         "N-031",
         "N-038"
+      ]
+    },
+    {
+      "id": "E-024",
+      "titulo": "Corrección sobre la categoría salarial de Angiolette",
+      "conclusion": "Se retira lo dicho en E-023 sobre la categoría de Angiolette: no hace contabilidad [R-071], y llenar hojas de cálculo con datos [R-062] no basta para ubicarla en la categoría calificada. Con la información disponible, el TOSCG (₡405 710,70) puede ser la categoría correcta para su puesto [N-038, N-039]; la clasificación depende de sus funciones reales. La conclusión sobre el servicio de mensajes de fin de semana se mantiene, pero la alternativa concreta depende de su horario y su día de descanso, que no constan.",
+      "depende_de": [
+        "R-071",
+        "R-062",
+        "N-038",
+        "N-039"
       ]
     }
   ]

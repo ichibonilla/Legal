@@ -148,6 +148,12 @@ Lo acordado en la reunión no es un contrato civil: es la misma función del pue
 
 > Advertencia: R-069 está POR VERIFICAR. R-070 está POR VERIFICAR. N-026 está POR VERIFICAR. N-028 está POR VERIFICAR. N-031 está POR VERIFICAR.
 
+### E-024 — Corrección sobre la categoría salarial de Angiolette
+
+Se retira lo dicho en E-023 sobre la categoría de Angiolette: no hace contabilidad [R-071], y llenar hojas de cálculo con datos [R-062] no basta para ubicarla en la categoría calificada. Con la información disponible, el TOSCG (₡405 710,70) puede ser la categoría correcta para su puesto [N-038, N-039]; la clasificación depende de sus funciones reales. La conclusión sobre el servicio de mensajes de fin de semana se mantiene, pero la alternativa concreta depende de su horario y su día de descanso, que no constan.
+
+> Advertencia: N-039 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
