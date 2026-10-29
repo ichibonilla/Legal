@@ -142,6 +142,12 @@ Con las funciones que constan (agenda, expedientes, consentimientos, correos, ar
 
 > Advertencia: N-039 está POR VERIFICAR. R-023 está PENDIENTE.
 
+### E-023 — Contrato de servicios dominicales para Angiolette: no viable
+
+Lo acordado en la reunión no es un contrato civil: es la misma función del puesto (atender mensajes de pacientes) en días de descanso, con un pago calculado para completar un salario neto y declarado expresamente como forma de no pagarlo como salario ni cotizar sobre él [R-069, N-028, N-031]. Un juez o la CCSS lo calificarían como salario por trabajo en día de descanso, con diferencias salariales, cuotas no reportadas, recargos y posible responsabilidad por evasión de cuotas [N-026]. No se redacta. Alternativas lícitas: ajustar el salario base (para ₡500 000 netos, un bruto de alrededor de ₡560 700); o reorganizar la jornada por escrito para incluir la cobertura del domingo con otro día libre, o pagarla como trabajo en día de descanso conforme al Código de Trabajo. El audio compromete también el propósito declarado de los demás contratos marco: solo son defendibles si compran productos reales, a precio de mercado, no calibrados para completar un salario. El salario de ₡405 710 corresponde al TOSCG; si sus funciones son calificadas (hojas de cálculo, cuadro de checkouts para contabilidad) [R-062], el mínimo sería TOCG [E-022].
+
+> Advertencia: R-069 está POR VERIFICAR. R-070 está POR VERIFICAR. N-026 está POR VERIFICAR. N-028 está POR VERIFICAR. N-031 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -157,7 +163,7 @@ Con las funciones que constan (agenda, expedientes, consentimientos, correos, ar
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (51)
+## Por verificar (53)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -210,6 +216,8 @@ Con las funciones que constan (agenda, expedientes, consentimientos, correos, ar
 - R-066 — Lectura del contrato marco con Kristell (versión 7)
 - R-067 — Expresiones de la Dirección en la lectura que requieren cuidado
 - N-039 — Clasificación ocupacional y salario por título
+- R-069 — Reunión con Angiolette: propósito declarado del contrato de servicios
+- R-070 — Reunión con Angiolette: otras afirmaciones
 
 ## Registros reemplazados
 

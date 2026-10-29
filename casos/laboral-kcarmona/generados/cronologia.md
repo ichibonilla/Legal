@@ -75,3 +75,5 @@ Registro actualizado el 2026-10-29.
 | — | ~~R-051~~ (superado por R-055) | POR VERIFICAR | ~~Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella~~ | — |
 | — | R-066 | POR VERIFICAR | Lectura del contrato marco con Kristell (versión 7) | — |
 | — | R-067 | POR VERIFICAR | Expresiones de la Dirección en la lectura que requieren cuidado | — |
+| — | R-069 | POR VERIFICAR | Reunión con Angiolette: propósito declarado del contrato de servicios | — |
+| — | R-070 | POR VERIFICAR | Reunión con Angiolette: otras afirmaciones | — |

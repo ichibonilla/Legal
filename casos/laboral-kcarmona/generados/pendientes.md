@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (51)
+## POR VERIFICAR (53)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -71,7 +71,9 @@
 - **R-066** — Lectura del contrato marco con Kristell (versión 7). Fuente: Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 03:04 a 28:42. La fecha de la reunión no consta en el audio (se recibió el 29/10/2026). Transcripción automática: cotejar cada pasaje contra el audio antes de citarlo.
 - **R-067** — Expresiones de la Dirección en la lectura que requieren cuidado. Fuente: Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 00:40 a 02:05, 20:35 a 22:31 y 27:57 a 28:05. El audio puede ser ofrecido como prueba por cualquiera de las partes. Cotejar quién habla en cada pasaje.
 - **N-039** — Clasificación ocupacional y salario por título. Fuente: Criterio del MTSS sobre perfiles ocupacionales y salarios mínimos (por cotejar). Necesario para cerrar R-023. La clasificación oficial la da el Departamento de Salarios Mínimos.
+- **R-069** — Reunión con Angiolette: propósito declarado del contrato de servicios. Fuente: Audio fuentes/AUDIO_Reunion_contrato_Angiolette_recibido_2026-10-29.m4a (25:55), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_reunion_Angiolette.md, 00:01 a 02:49, 08:59 a 18:05. Cotejar contra el audio quién dice cada frase. El audio no tiene fecha (se recibió el 29/10/2026). Es la prueba más relevante del caso sobre la finalidad de los contratos de servicios.
+- **R-070** — Reunión con Angiolette: otras afirmaciones. Fuente: Audio fuentes/AUDIO_Reunion_contrato_Angiolette_recibido_2026-10-29.m4a (25:55), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_reunion_Angiolette.md, 04:27 a 05:20, 13:03 a 13:12, 19:57 a 24:12 y 25:12 a 25:36. El salario de ₡405 710 coincide con el mínimo TOSCG (N-038); ver E-022. No existe norma que prohíba a una persona trabajadora hablar de su propio salario, y hacerlo no es causa de despido.
 
-## Sin folio (99 de 99 vigentes)
+## Sin folio (101 de 101 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.
