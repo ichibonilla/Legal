@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-10-27 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-29 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Registro actualizado el 2026-10-27.
+Registro actualizado el 2026-10-29.
 
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
@@ -72,3 +72,5 @@ Registro actualizado el 2026-10-27.
 | — | R-047 | POR VERIFICAR | Dijo a una psicóloga externa que las administrativas deciden quién se queda y quién se va de la clínica | — |
 | — | R-050 | POR VERIFICAR | Posición de la Dirección: bono no salarial, por producto y sujeto a la firma de un contrato | — |
 | — | ~~R-051~~ (superado por R-055) | POR VERIFICAR | ~~Sin producto entregado en el periodo: ni videos de Kristell ni podcast de Fiorella~~ | — |
+| — | R-066 | POR VERIFICAR | Lectura del contrato marco con Kristell (versión 7) | — |
+| — | R-067 | POR VERIFICAR | Expresiones de la Dirección en la lectura que requieren cuidado | — |

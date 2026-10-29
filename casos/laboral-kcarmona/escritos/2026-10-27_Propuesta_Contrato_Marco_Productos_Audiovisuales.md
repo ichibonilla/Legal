@@ -38,11 +38,17 @@ Versión 6 (27/10/2026), con la quinta valoración externa (E-018):
 - Novena: incumplimientos que no admiten corrección.
 Versión 7 (27/10/2026), con la sexta valoración externa (E-019):
 - Novena: la resolución sin plazo queda reservada a incumplimientos graves o esenciales, o de corrección imposible o inútil.
+Versión 8 (29/10/2026), versión para firma, con lo señalado en la lectura con la Proveedora (R-066, E-021):
+- Plazo escrito para revisar y firmar; precio y máximo mensual en el anexo 3, fijos durante el primer año.
+- Una orden puede agrupar varios productos y se factura con un solo comprobante.
+- Terminación en cualquier momento, sin penalidad; independencia frente al fin de la relación laboral.
+- Programas y licencias de la Adquirente solo con autorización en la orden.
+- Crédito de autoría de la Proveedora.
 -->
 
 # Contrato marco de adquisición y licencia de productos audiovisuales
 
-*Propuesta para revisión, entregada el 27 de octubre de 2026. No se solicita su firma en esta fecha.*
+*Propuesta entregada el ____ de ______________ de 2026. La Proveedora puede revisarla y consultarla con quien desee antes de firmar. La propuesta se mantiene vigente durante quince días hábiles desde su entrega.*
 
 Entre nosotros, **GRUPO POÏESIS CLÍNICA INTEGRAL DE PSICOLOGÍA Y PSICOANÁLISIS SOCIEDAD ANÓNIMA**, cédula jurídica 3-101-746424, representada por Carlos Fernando Bonilla Cortés, con facultades suficientes para este acto, en adelante «la Adquirente»; y **KRISTELL CARMONA SOTO**, cédula de identidad 1-1762-0524, actuando por cuenta propia como creadora audiovisual independiente, en adelante «la Proveedora», convenimos el siguiente contrato marco:
 
@@ -73,11 +79,13 @@ Antes de iniciar cada operación, las partes acuerdan por escrito una orden de c
 - los derechos que se adquieren, conforme a la cláusula sétima;
 - las personas que participan y las autorizaciones requeridas.
 
-No existe un número mínimo de órdenes ni un pago periódico garantizado.
+Una orden puede comprender uno o varios productos. El precio de cada producto es el del anexo 3, salvo que la orden fije otro de común acuerdo.
+
+No existe un número mínimo de órdenes ni un pago periódico garantizado. El máximo mensual del anexo 3 es una previsión de compra, no un compromiso.
 
 ## Cuarta. Instalaciones, participantes y datos
 
-Si un producto requiere grabar en instalaciones de la Adquirente, o usar sus equipos o su marca, la autorización consta por escrito en la orden, con fecha, horario y recursos, fuera de la jornada laboral de la Proveedora.
+Si un producto requiere grabar en instalaciones de la Adquirente, o usar sus equipos, programas, licencias o su marca, la autorización consta por escrito en la orden, con fecha, horario y recursos, fuera de la jornada laboral de la Proveedora.
 
 Cada persona que participa lo hace de forma voluntaria y con autorización escrita para el uso de su imagen, su voz y su intervención, y cede o licencia sus aportes creativos cuando los haya. La Proveedora gestiona esas autorizaciones y las entrega con el producto.
 
@@ -99,7 +107,7 @@ El precio es el fijado en cada orden. La Proveedora emite el comprobante electr�
 
 Si el comprobante contiene un error, la Adquirente lo comunica dentro de los dos días hábiles siguientes a su recepción, y el plazo de pago corre desde que recibe el comprobante corregido.
 
-Cada parte cumple las obligaciones tributarias y de seguridad social que le correspondan por ley.
+La Proveedora puede emitir un solo comprobante por orden, aunque la orden comprenda varios productos. Cada parte cumple las obligaciones tributarias y de seguridad social que le correspondan por ley.
 
 ## Sétima. Derechos sobre los productos
 
@@ -111,7 +119,7 @@ La licencia comprende el producto final entregado. Los guiones, las grabaciones 
 
 La Proveedora concede solo los derechos de los que es titular. La exclusividad no alcanza los materiales de terceros, que se usan en los términos de sus licencias. Garantiza que los materiales de terceros incorporados cuentan con licencia o son de uso libre, y que cuenta con las autorizaciones y, cuando corresponda, con la cesión o licencia de los aportes creativos de quienes colaboraron en el producto. Al entregar, informa el origen de esos materiales y cualquier restricción de uso.
 
-La entrega del archivo no transmite derechos distintos de los pactados. La Proveedora conserva los derechos morales que la ley le reconoce como autora.
+La entrega del archivo no transmite derechos distintos de los pactados. La Proveedora conserva los derechos morales que la ley le reconoce como autora. Puede identificar su autoría en cada producto con un crédito o una marca discreta, junto al logotipo de la Adquirente, en la forma que indique la orden.
 
 ## Octava. Confidencialidad y datos personales
 
@@ -131,7 +139,11 @@ Ningún incumplimiento de este contrato, ni su terminación, tiene efectos disci
 
 ## Décima. Vigencia y terminación
 
-Este contrato rige por un año desde su firma y se renueva automáticamente por periodos iguales, salvo que una de las partes comunique por escrito lo contrario con quince días naturales de anticipación. Las órdenes aceptadas antes del aviso se cumplen en sus términos.
+Este contrato rige por un año desde su firma y se renueva automáticamente por periodos iguales, salvo que una de las partes comunique por escrito lo contrario con quince días naturales de anticipación.
+
+Cualquiera de las partes puede darlo por terminado en cualquier momento, con aviso escrito de quince días naturales, sin penalidad ni indemnización. Las órdenes aceptadas antes del aviso se cumplen en sus términos.
+
+La terminación de la relación laboral, por cualquier causa, no termina este contrato, y la terminación de este contrato no afecta la relación laboral.
 
 ## Undécima. Alcance temporal
 
@@ -187,3 +199,15 @@ Se adjunta la constancia de inscripción de la Proveedora en el Registro Único 
 | Actividad económica inscrita | |
 | Régimen | |
 | Fecha de la constancia | |
+
+---
+
+## Anexo 3. Tarifas
+
+| | |
+|---|---|
+| Producto | Video o cápsula audiovisual |
+| Precio por producto | ₡20 000 (más IVA, si corresponde) |
+| Máximo de productos por mes | 6 |
+
+Las tarifas rigen durante el primer año de vigencia del contrato. Cualquier cambio se acuerda por escrito. El máximo mensual es una previsión de compra de la Adquirente: no obliga a ninguna de las partes a ofrecer, elaborar ni adquirir un número determinado de productos.

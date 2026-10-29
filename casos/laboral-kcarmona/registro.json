@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-10-27",
+    "actualizado_el": "2026-10-29",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1344,6 +1344,32 @@
       "supersede": "",
       "razon": "Precisa R-063: la asignación de 2022 no prueba que Kristell produjera videos ese año. La primera constancia de Kristell produciendo un video es del 6/10/2023 (R-064).",
       "folio": ""
+    },
+    {
+      "id": "R-066",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Lectura del contrato marco con Kristell (versión 7)",
+      "afirmacion": "La Dirección leyó a Kristell el borrador del contrato marco sin entregárselo por ser borrador. Kristell preguntó por el precio por video, el mínimo y el máximo de videos, si debe facturar cada semana, cuánto tiempo tiene para firmar, si queda obligada un año o con multa si deja de trabajar en Poïesis, si puede hacer videos para terceros y si puede poner su marca en los videos. La Dirección respondió que puede trabajar para terceros, que no hay multa, que puede firmar cuando quiera, que la marca de autoría le parece bien y mencionó como posibilidad un tope de seis videos a ₡20 000 cada uno. También se mencionó que la licencia de CapCut está a nombre del Dr. Bonilla.",
+      "fuente": "Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 03:04 a 28:42.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "La fecha de la reunión no consta en el audio (se recibió el 29/10/2026). Transcripción automática: cotejar cada pasaje contra el audio antes de citarlo.",
+      "folio": ""
+    },
+    {
+      "id": "R-067",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Expresiones de la Dirección en la lectura que requieren cuidado",
+      "afirmacion": "Al inicio, la Dirección le dijo a Kristell que si no quisiera estar en Poïesis y quisiera irse «con algo», podrían verlo; hizo un comentario en broma sobre «acosar» a una persona ajena a la reunión; ante la pregunta de Kristell sobre qué pasaría si dejara de trabajar en Poïesis, dijo que eso le «alza una alerta» y que tuviera cuidado con las implicaciones de lo que decía, y luego aclaró que quien quiera quedarse se queda. Hacia el final, una persona dijo que no le metieran «el churruco con el asunto de la laboralidad» si es por contrato.",
+      "fuente": "Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 00:40 a 02:05, 20:35 a 22:31 y 27:57 a 28:05.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "El audio puede ser ofrecido como prueba por cualquiera de las partes. Cotejar quién habla en cada pasaje.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1586,6 +1612,19 @@
         "R-055",
         "R-056",
         "R-059",
+        "N-017"
+      ]
+    },
+    {
+      "id": "E-021",
+      "titulo": "Valoración de la lectura del contrato marco y versión para firma",
+      "conclusion": "La lectura muestra el principal riesgo del modelo: ambas partes hablaron de videos semanales, depósito con cada video y facturas semanales, es decir, de la misma dinámica anterior [R-049, R-064, N-028]. La defensa real no está en el texto, sino en romper esa dinámica: órdenes que agrupan productos, un solo comprobante por orden, precio y máximo mensual fijos en un anexo, programas propios o autorizados en la orden (la licencia de CapCut a nombre del Dr. Bonilla es un indicio de medios ajenos) y ninguna consecuencia por no entregar fuera de la orden afectada. Versión 8: plazo escrito de quince días hábiles para revisar; anexo 3 con ₡20 000 por video y máximo de seis por mes (pendiente de confirmar por la Dirección); terminación en cualquier momento sin penalidad; el fin de la relación laboral no termina el contrato; crédito de autoría. Las expresiones de R-067 no anulan el contrato, pero podrían usarse para alegar presión para renunciar o un ambiente hostil; conviene no repetirlas y que las conversaciones sobre la relación laboral se tengan por separado de la propuesta comercial.",
+      "depende_de": [
+        "R-066",
+        "R-067",
+        "R-049",
+        "R-064",
+        "N-028",
         "N-017"
       ]
     }

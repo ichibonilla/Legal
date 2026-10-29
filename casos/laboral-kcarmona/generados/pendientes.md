@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/registro.py el 2026-10-27 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-29 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Pendientes y por verificar
@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (48)
+## POR VERIFICAR (50)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -68,7 +68,9 @@
 - **N-035** — Alcance de la cesión de derechos de autor y exclusividad. Fuente: Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, arts. 38 y 39 (según la valoración externa del 27/10/2026, que afirma haberlos verificado). Fundamenta la licencia exclusiva expresa de la cláusula sétima. Cotejar en el SCIJ.
 - **N-036** — Carga de la prueba del empleador en materia laboral. Fuente: Código de Trabajo, art. 478 (reforma procesal laboral, Ley 9343), según las valoraciones externas. Justifica llevar un expediente de cada compra con los contratos marco. Cotejar en el SCIJ.
 - **N-037** — Presunción de cesión al empleador de obras creadas en el trabajo. Fuente: Reglamento a la Ley sobre Derechos de Autor y Derechos Conexos, art. 16 (según la valoración externa del 27/10/2026, que afirma haberlo contrastado). Relevante para los videos producidos antes del contrato marco: Poïesis podría usarlos en sus actividades habituales sin necesitar una licencia nueva. Precisa N-033. Cotejar en el SCIJ.
+- **R-066** — Lectura del contrato marco con Kristell (versión 7). Fuente: Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 03:04 a 28:42. La fecha de la reunión no consta en el audio (se recibió el 29/10/2026). Transcripción automática: cotejar cada pasaje contra el audio antes de citarlo.
+- **R-067** — Expresiones de la Dirección en la lectura que requieren cuidado. Fuente: Audio fuentes/AUDIO_Lectura_contrato_KCarmona_recibido_2026-10-29.m4a (28:44), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_lectura_contrato.md, 00:40 a 02:05, 20:35 a 22:31 y 27:57 a 28:05. El audio puede ser ofrecido como prueba por cualquiera de las partes. Cotejar quién habla en cada pasaje.
 
-## Sin folio (94 de 94 vigentes)
+## Sin folio (96 de 96 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

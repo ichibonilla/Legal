@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-10-27 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-10-29 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-10-27. Fuente única: `registro.json`.
+Estado al 2026-10-29. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -130,6 +130,12 @@ Los videos anteriores ya pagados con el bono no requieren un instrumento nuevo: 
 
 > Advertencia: N-037 está POR VERIFICAR. R-055 está POR VERIFICAR. R-056 está POR VERIFICAR. R-059 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-021 — Valoración de la lectura del contrato marco y versión para firma
+
+La lectura muestra el principal riesgo del modelo: ambas partes hablaron de videos semanales, depósito con cada video y facturas semanales, es decir, de la misma dinámica anterior [R-049, R-064, N-028]. La defensa real no está en el texto, sino en romper esa dinámica: órdenes que agrupan productos, un solo comprobante por orden, precio y máximo mensual fijos en un anexo, programas propios o autorizados en la orden (la licencia de CapCut a nombre del Dr. Bonilla es un indicio de medios ajenos) y ninguna consecuencia por no entregar fuera de la orden afectada. Versión 8: plazo escrito de quince días hábiles para revisar; anexo 3 con ₡20 000 por video y máximo de seis por mes (pendiente de confirmar por la Dirección); terminación en cualquier momento sin penalidad; el fin de la relación laboral no termina el contrato; crédito de autoría. Las expresiones de R-067 no anulan el contrato, pero podrían usarse para alegar presión para renunciar o un ambiente hostil; conviene no repetirlas y que las conversaciones sobre la relación laboral se tengan por separado de la propuesta comercial.
+
+> Advertencia: R-066 está POR VERIFICAR. R-067 está POR VERIFICAR. N-028 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -145,7 +151,7 @@ Los videos anteriores ya pagados con el bono no requieren un instrumento nuevo: 
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (48)
+## Por verificar (50)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -195,6 +201,8 @@ Los videos anteriores ya pagados con el bono no requieren un instrumento nuevo: 
 - N-035 — Alcance de la cesión de derechos de autor y exclusividad
 - N-036 — Carga de la prueba del empleador en materia laboral
 - N-037 — Presunción de cesión al empleador de obras creadas en el trabajo
+- R-066 — Lectura del contrato marco con Kristell (versión 7)
+- R-067 — Expresiones de la Dirección en la lectura que requieren cuidado
 
 ## Registros reemplazados
 
