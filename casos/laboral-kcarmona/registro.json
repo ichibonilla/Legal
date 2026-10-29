@@ -1409,6 +1409,32 @@
       "supersede": "",
       "razon": "Necesario para cerrar R-023. La clasificación oficial la da el Departamento de Salarios Mínimos.",
       "folio": ""
+    },
+    {
+      "id": "R-069",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Reunión con Angiolette: propósito declarado del contrato de servicios",
+      "afirmacion": "La Dirección explicó que, tras subir los salarios al mínimo de ₡405 710, buscaba la forma de que el equipo recibiera ₡500 000 netos sin pagarlo como salario, porque el salario bruto necesario (alrededor de ₡565 000) y sus cargas serían muy costosos; que la idea de «vender productos y facturar» permite además presentar gastos. Se acordó como servicio la atención de mensajes de pacientes los domingos (y, según Angiolette, los sábados por la tarde hasta las 8 p. m.), desde su casa, facturado aparte, con un monto que complete los ₡500 000 netos, y se mencionó pagar por horas, por paciente o por conversación atendida. Angiolette propuso empezar el domingo siguiente. Se dijo que debía quedar «100 % fuera de la laboralidad».",
+      "fuente": "Audio fuentes/AUDIO_Reunion_contrato_Angiolette_recibido_2026-10-29.m4a (25:55), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_reunion_Angiolette.md, 00:01 a 02:49, 08:59 a 18:05.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cotejar contra el audio quién dice cada frase. El audio no tiene fecha (se recibió el 29/10/2026). Es la prueba más relevante del caso sobre la finalidad de los contratos de servicios.",
+      "folio": ""
+    },
+    {
+      "id": "R-070",
+      "fecha": "",
+      "tipo": "hecho",
+      "titulo": "Reunión con Angiolette: otras afirmaciones",
+      "afirmacion": "Se dijo que el salario reportado a la CCSS es de ₡405 710; que Fiorella habría dicho que no firmará y se irá; que «los temas salariales y de contratos no se hablan entre personas de la empresa, por ley» y que eso sería justa causa. Se leyó una versión anterior de los lineamientos (con «neutral», bloqueo solo con autorización de la Dirección y el párrafo de amonestación y terminación).",
+      "fuente": "Audio fuentes/AUDIO_Reunion_contrato_Angiolette_recibido_2026-10-29.m4a (25:55), transcripción automática en documentos/2026-10-29_Transcripcion_automatica_reunion_Angiolette.md, 04:27 a 05:20, 13:03 a 13:12, 19:57 a 24:12 y 25:12 a 25:36.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "El salario de ₡405 710 coincide con el mínimo TOSCG (N-038); ver E-022. No existe norma que prohíba a una persona trabajadora hablar de su propio salario, y hacerlo no es causa de despido.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1676,6 +1702,21 @@
         "N-038",
         "N-039",
         "R-023"
+      ]
+    },
+    {
+      "id": "E-023",
+      "titulo": "Contrato de servicios dominicales para Angiolette: no viable",
+      "conclusion": "Lo acordado en la reunión no es un contrato civil: es la misma función del puesto (atender mensajes de pacientes) en días de descanso, con un pago calculado para completar un salario neto y declarado expresamente como forma de no pagarlo como salario ni cotizar sobre él [R-069, N-028, N-031]. Un juez o la CCSS lo calificarían como salario por trabajo en día de descanso, con diferencias salariales, cuotas no reportadas, recargos y posible responsabilidad por evasión de cuotas [N-026]. No se redacta. Alternativas lícitas: ajustar el salario base (para ₡500 000 netos, un bruto de alrededor de ₡560 700); o reorganizar la jornada por escrito para incluir la cobertura del domingo con otro día libre, o pagarla como trabajo en día de descanso conforme al Código de Trabajo. El audio compromete también el propósito declarado de los demás contratos marco: solo son defendibles si compran productos reales, a precio de mercado, no calibrados para completar un salario. El salario de ₡405 710 corresponde al TOSCG; si sus funciones son calificadas (hojas de cálculo, cuadro de checkouts para contabilidad) [R-062], el mínimo sería TOCG [E-022].",
+      "depende_de": [
+        "R-069",
+        "R-070",
+        "R-062",
+        "N-026",
+        "N-028",
+        "N-031",
+        "N-038",
+        "E-022"
       ]
     }
   ]
