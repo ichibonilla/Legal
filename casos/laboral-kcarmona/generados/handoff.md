@@ -136,6 +136,12 @@ La lectura muestra el principal riesgo del modelo: ambas partes hablaron de vide
 
 > Advertencia: R-066 está POR VERIFICAR. R-067 está POR VERIFICAR. N-028 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-022 — Salario mínimo aplicable a las asistentes administrativas
+
+Con las funciones que constan (agenda, expedientes, consentimientos, correos, archivo) [R-002], el puesto de asistente administrativa corresponde, en principio, a Trabajador en Ocupación Calificada Genérico (TOCG), ₡419 755,80 mensuales [N-038, N-039]. Sube a Ocupación Especializada (TOEG), ₡487 335,00, si en los hechos coordina o supervisa a otras personas o asume funciones de mayor responsabilidad; consta que Kristell calendarizó reuniones individuales y coordinó una campaña (CHAT-D, 11/15/24 9:04 AM). Los mínimos por título no se aplican salvo que el puesto exija el título. Por prudencia, conviene verificar que el salario base de cada una supere el TOEG y pedir al MTSS la clasificación por escrito. El bono no debe usarse para alcanzar el mínimo.
+
+> Advertencia: N-039 está POR VERIFICAR. R-023 está PENDIENTE.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -151,7 +157,7 @@ La lectura muestra el principal riesgo del modelo: ambas partes hablaron de vide
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (50)
+## Por verificar (51)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -203,6 +209,7 @@ La lectura muestra el principal riesgo del modelo: ambas partes hablaron de vide
 - N-037 — Presunción de cesión al empleador de obras creadas en el trabajo
 - R-066 — Lectura del contrato marco con Kristell (versión 7)
 - R-067 — Expresiones de la Dirección en la lectura que requieren cuidado
+- N-039 — Clasificación ocupacional y salario por título
 
 ## Registros reemplazados
 

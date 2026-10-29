@@ -1383,6 +1383,32 @@
       "supersede": "",
       "razon": "Resuelve la diferencia entre ₡25 000 y ₡20 000 mencionada en la lectura (R-066). Coincide con el anexo 3 de la versión 8.",
       "folio": ""
+    },
+    {
+      "id": "N-038",
+      "fecha": "2026-01-01",
+      "tipo": "norma",
+      "titulo": "Salarios mínimos 2026, sector privado",
+      "afirmacion": "Decreto 45303-MTSS (La Gaceta 229, alcance 156, 5/12/2025), rige desde el 1/1/2026. Mínimos mensuales genéricos: TONCG ₡373 092,30; TOSCG ₡405 710,70; TOCG ₡419 755,80; TOEG ₡487 335,00. Por grado académico: TMED ₡496 838,17; TEdS ₡542 096,58; DES ₡585 484,58; Bachiller ₡664 078,07; Licenciado ₡796 921,00. TONC, TOSC, TOC, TOE y TES son montos por jornada diaria.",
+      "fuente": "fuentes/MTSS_salarios_minimos_2026_captura_2026-10-29.webp (lista del Departamento de Salarios Mínimos, mtss.go.cr).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-10-29",
+      "supersede": "",
+      "razon": "Cotejado contra la captura de la lista oficial. La lista advierte que circulan versiones alteradas y sugiere confirmar en el Departamento de Salarios Mínimos.",
+      "folio": ""
+    },
+    {
+      "id": "N-039",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Clasificación ocupacional y salario por título",
+      "afirmacion": "El salario mínimo se determina por las funciones reales del puesto según los perfiles ocupacionales del MTSS, no por el nombre del cargo. Los mínimos por grado académico se aplican cuando el puesto exige ese título y la persona lo tiene.",
+      "fuente": "Criterio del MTSS sobre perfiles ocupacionales y salarios mínimos (por cotejar).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Necesario para cerrar R-023. La clasificación oficial la da el Departamento de Salarios Mínimos.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1639,6 +1665,17 @@
         "R-064",
         "N-028",
         "N-017"
+      ]
+    },
+    {
+      "id": "E-022",
+      "titulo": "Salario mínimo aplicable a las asistentes administrativas",
+      "conclusion": "Con las funciones que constan (agenda, expedientes, consentimientos, correos, archivo) [R-002], el puesto de asistente administrativa corresponde, en principio, a Trabajador en Ocupación Calificada Genérico (TOCG), ₡419 755,80 mensuales [N-038, N-039]. Sube a Ocupación Especializada (TOEG), ₡487 335,00, si en los hechos coordina o supervisa a otras personas o asume funciones de mayor responsabilidad; consta que Kristell calendarizó reuniones individuales y coordinó una campaña (CHAT-D, 11/15/24 9:04 AM). Los mínimos por título no se aplican salvo que el puesto exija el título. Por prudencia, conviene verificar que el salario base de cada una supere el TOEG y pedir al MTSS la clasificación por escrito. El bono no debe usarse para alcanzar el mínimo.",
+      "depende_de": [
+        "R-002",
+        "N-038",
+        "N-039",
+        "R-023"
       ]
     }
   ]
