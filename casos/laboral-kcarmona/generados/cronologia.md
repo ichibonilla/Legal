@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-10-29 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-03 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Registro actualizado el 2026-10-29.
+Registro actualizado el 2026-11-03.
 
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@ Registro actualizado el 2026-10-29.
 | 2026-10-27 | R-061 | VERIFICADO | Empleadora y parte contratante: Grupo Poïesis, 3-101-746424 | — |
 | 2026-10-29 | R-068 | VERIFICADO | Tarifa del contrato marco de Kristell | — |
 | 2026-10-29 | R-071 | VERIFICADO | Angiolette no hace contabilidad | — |
+| 2026-11-03 | R-072 | VERIFICADO | Jornada de Angiolette | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

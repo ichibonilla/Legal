@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-10-29",
+    "actualizado_el": "2026-11-03",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1447,6 +1447,19 @@
       "verificado_el": "2026-10-29",
       "supersede": "",
       "razon": "Corrige la lectura de E-023, que atribuyó a Angiolette el cuadro de cobros. Su horario y su jornada no constan en el expediente.",
+      "folio": ""
+    },
+    {
+      "id": "R-072",
+      "fecha": "2026-11-03",
+      "tipo": "hecho",
+      "titulo": "Jornada de Angiolette",
+      "afirmacion": "La Dirección indica que Angiolette trabaja de lunes a viernes, de 8:00 a. m. a 5:00 p. m.",
+      "fuente": "Indicación de la Dirección, 3/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-03",
+      "supersede": "",
+      "razon": "Los sábados y domingos quedan fuera de su jornada ordinaria; la atención de mensajes en esos días sería tiempo extraordinario (sábado) o trabajo en día de descanso (domingo), salvo que se modifique la jornada por escrito.",
       "folio": ""
     }
   ],

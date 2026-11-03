@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-10-29 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-03 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-10-29. Fuente única: `registro.json`.
+Estado al 2026-11-03. Fuente única: `registro.json`.
 
 ## Expedientes
 
