@@ -11,6 +11,7 @@ escritos: títulos # y ##, párrafos, **negrita**, listas con - y 1., tablas y -
 (salto de página). El título # va centrado, y también el subtítulo en negrita que lo sigue.
 """
 import argparse
+import signal
 import re
 import subprocess
 import sys
@@ -238,6 +239,7 @@ def convertir(md, salida, aviso, confidencial=False):
 
 
 def main():
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("escrito")
     ap.add_argument("--caso", required=True)

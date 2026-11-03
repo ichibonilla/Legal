@@ -154,6 +154,18 @@ Se retira lo dicho en E-023 sobre la categoría de Angiolette: no hace contabili
 
 > Advertencia: N-039 está POR VERIFICAR.
 
+### E-025 — Contrato de teletrabajo de fin de semana para Angiolette
+
+Sábado de 2:00 a 8:00 p. m. como tiempo extraordinario (hora más 50 %) y domingo de seis horas como día de descanso trabajado (pago doble), por planilla, con registro de horas y por teletrabajo con el teléfono institucional [R-072, N-016, N-040, N-041]. Al salario actual suma unos ₡153 832 brutos al mes; el neto total se acerca a ₡500 000. Es temporal (hasta el 31/1/2027) porque trabajar siete días seguidos no puede ser permanente; antes de esa fecha se define un esquema con un día completo de descanso. Incluye el pago del domingo 1/11, ya laborado [R-074].
+
+> Advertencia: N-016 está POR VERIFICAR. N-040 está POR VERIFICAR. N-041 está POR VERIFICAR.
+
+### E-026 — Salida de Kristell y Fiorella
+
+El preaviso es de un mes, no de dos [N-007]: lo debe quien renuncia, y Poïesis puede dispensarlo. La renuncia no genera cesantía, pero el riesgo real es un reclamo por despido indirecto: Kristell sostiene que el bono era parte regular de su ingreso y que su suspensión le redujo lo que recibe [R-073, N-031, N-043]. Por eso conviene un acuerdo de terminación por mutuo consentimiento, con todos los derechos de ley, una suma acordada que resuelva expresamente la diferencia sobre el bono, entrega ordenada de información, confidencialidad recíproca y ratificación ante el Ministerio de Trabajo [N-044, N-017]. La propuesta de la asesoría (₡500 000 hasta la salida, por planilla, y cesantía sobre esa base) es la que mejor cierra el riesgo. Cesantía estimada de Kristell: unos 98 días de salario promedio. Para Fiorella falta su fecha de ingreso.
+
+> Advertencia: R-073 está POR VERIFICAR. N-007 está POR VERIFICAR. N-031 está POR VERIFICAR. N-043 está POR VERIFICAR. N-044 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -169,7 +181,7 @@ Se retira lo dicho en E-023 sobre la categoría de Angiolette: no hace contabili
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (53)
+## Por verificar (58)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -224,6 +236,11 @@ Se retira lo dicho en E-023 sobre la categoría de Angiolette: no hace contabili
 - N-039 — Clasificación ocupacional y salario por título
 - R-069 — Reunión con Angiolette: propósito declarado del contrato de servicios
 - R-070 — Reunión con Angiolette: otras afirmaciones
+- R-073 — Kristell rechaza el contrato marco y plantea su salida con cesantía negociada
+- N-040 — Descanso semanal
+- N-041 — Teletrabajo
+- N-043 — Despido indirecto
+- N-044 — Terminación por mutuo consentimiento y conciliación administrativa
 
 ## Registros reemplazados
 
@@ -246,3 +263,4 @@ Se retira lo dicho en E-023 sobre la categoría de Angiolette: no hace contabili
 - Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.
 - Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona
 - Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible.
+- CHAT-DIR = fuentes/CHAT-DIR_Direccion_y_asesoria_2026-11-02.txt (extracto transcrito por la Dirección).

@@ -52,6 +52,8 @@ Registro actualizado el 2026-11-03.
 | 2026-10-27 | R-061 | VERIFICADO | Empleadora y parte contratante: Grupo Poïesis, 3-101-746424 | — |
 | 2026-10-29 | R-068 | VERIFICADO | Tarifa del contrato marco de Kristell | — |
 | 2026-10-29 | R-071 | VERIFICADO | Angiolette no hace contabilidad | — |
+| 2026-11-02 | R-073 | POR VERIFICAR | Kristell rechaza el contrato marco y plantea su salida con cesantía negociada | — |
+| 2026-11-02 | R-074 | VERIFICADO | Dirección y asesoría: salida de Kristell y Fiorella | — |
 | 2026-11-03 | R-072 | VERIFICADO | Jornada de Angiolette | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |

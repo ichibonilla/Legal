@@ -15,7 +15,8 @@
       "Fuentes de chat: CHAT-D = fuentes/WhatsApp_Chat_-_Kristell_Carmona_.zip; CHAT-M2 = fuentes/WhatsApp_Chat_-_Kristell_-_Poi_esis__Movil_II_.zip; CHAT-G = fuentes/WhatsApp_Chat_-__Assist_with_Love_.zip; CHAT-C = fuentes/WhatsApp_Chat_-_Crew_Poi_esis.zip (grupo de la jefatura con el equipo administrativo; fechas en formato día/mes/año). Se cita fecha y hora exactas del mensaje tal como aparecen en la exportación; CHAT-A = fuentes/WhatsApp_Chat_-_Administrativo_.zip (exportado desde el teléfono de la Dirección).",
       "Pacientes: solo con código interno. Ningún nombre ni dato clínico en este registro ni en los escritos.",
       "Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona",
-      "Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible."
+      "Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible.",
+      "CHAT-DIR = fuentes/CHAT-DIR_Direccion_y_asesoria_2026-11-02.txt (extracto transcrito por la Dirección)."
     ]
   },
   "registros": [
@@ -1461,6 +1462,84 @@
       "supersede": "",
       "razon": "Los sábados y domingos quedan fuera de su jornada ordinaria; la atención de mensajes en esos días sería tiempo extraordinario (sábado) o trabajo en día de descanso (domingo), salvo que se modifique la jornada por escrito.",
       "folio": ""
+    },
+    {
+      "id": "R-073",
+      "fecha": "2026-11-02",
+      "tipo": "hecho",
+      "titulo": "Kristell rechaza el contrato marco y plantea su salida con cesantía negociada",
+      "afirmacion": "Kristell explicó que no firmará el contrato marco porque, con ₡20 000 por video y un máximo de seis al mes, recibiría unos ₡452 000 netos al mes, menos que los cerca de ₡125 000 semanales que recibía con el bono hasta dos semanas antes; afirmó que el bono se pagaba aun en semanas sin video, lo que la Dirección negó. La Dirección dijo que el salario se deja en ₡405 000 y que el contrato de videos «ayuda al salario». Kristell y Fiorella quieren irse en buenos términos, alrededor del 12 de diciembre, y pidieron reunirse para negociar la cesantía antes de presentar la renuncia, con preaviso y por escrito. La Dirección comentó que no le conviene que trabajen el preaviso por el manejo de datos sensibles.",
+      "fuente": "Audio fuentes/AUDIO_Kristell_rechazo_contrato_y_cesantia_recibido_2026-11-03.m4a (23:33), transcripción en documentos/2026-11-03_Transcripcion_automatica_Kristell_rechazo_y_cesantia.md, 00:23 a 07:10, 07:58 a 09:15, 13:42 a 15:24 y 17:34 a 18:20.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Grabado con permiso de Kristell (R-074). Cotejar cada pasaje contra el audio.",
+      "folio": ""
+    },
+    {
+      "id": "R-074",
+      "fecha": "2026-11-02",
+      "tipo": "hecho",
+      "titulo": "Dirección y asesoría: salida de Kristell y Fiorella",
+      "afirmacion": "La Dirección informó que Kristell no firmará el contrato, que ella y Fiorella se irían alrededor del 12 de diciembre, que prometió a Kristell negociar la cesantía y que grabó la conversación con su permiso; sostuvo que el preaviso de Kristell es de dos meses. La asesoría legal respondió que el preaviso es de un mes y propuso pagar ₡500 000 hasta la salida y la cesantía sobre esa base, contra una carta de renuncia y un acuerdo de confidencialidad. Angiolette atendió mensajes el domingo 1/11.",
+      "fuente": "CHAT-DIR, 2/11/26 8:03:43 AM a 7:05:40 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-03",
+      "supersede": "",
+      "razon": "Extracto transcrito por la Dirección.",
+      "folio": ""
+    },
+    {
+      "id": "N-040",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Descanso semanal",
+      "afirmacion": "Toda persona trabajadora tiene derecho a un día completo de descanso después de cada semana o de cada seis días de trabajo continuo; si labora ese día, se le paga doble.",
+      "fuente": "Código de Trabajo, art. 152.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Base del pago del domingo y de la vigencia temporal del contrato de teletrabajo de Angiolette.",
+      "folio": ""
+    },
+    {
+      "id": "N-041",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Teletrabajo",
+      "afirmacion": "El teletrabajo es voluntario, se pacta por escrito, define horario, equipo y costos, y respeta el derecho a la desconexión.",
+      "fuente": "Ley para regular el teletrabajo, Ley 9738, y su reglamento.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Base de la cláusula quinta del contrato de teletrabajo de Angiolette.",
+      "folio": ""
+    },
+    {
+      "id": "N-043",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Despido indirecto",
+      "afirmacion": "La persona trabajadora puede dar por terminado el contrato con responsabilidad patronal, con derecho a preaviso y cesantía, cuando el patrono rebaja unilateralmente su salario o modifica en su perjuicio condiciones esenciales.",
+      "fuente": "Código de Trabajo, art. 83.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Riesgo principal ante la suspensión del bono si se califica como salario (N-031).",
+      "folio": ""
+    },
+    {
+      "id": "N-044",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Terminación por mutuo consentimiento y conciliación administrativa",
+      "afirmacion": "El contrato de trabajo puede terminar por mutuo consentimiento sin responsabilidad para las partes, sin perjuicio de los derechos ya adquiridos; los acuerdos conciliatorios ante el Ministerio de Trabajo dan mayor certeza a lo pactado.",
+      "fuente": "Código de Trabajo, art. 86 y normas sobre conciliación administrativa del MTSS.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Base del acuerdo de terminación de Kristell y Fiorella.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1753,6 +1832,33 @@
         "R-062",
         "N-038",
         "N-039"
+      ]
+    },
+    {
+      "id": "E-025",
+      "titulo": "Contrato de teletrabajo de fin de semana para Angiolette",
+      "conclusion": "Sábado de 2:00 a 8:00 p. m. como tiempo extraordinario (hora más 50 %) y domingo de seis horas como día de descanso trabajado (pago doble), por planilla, con registro de horas y por teletrabajo con el teléfono institucional [R-072, N-016, N-040, N-041]. Al salario actual suma unos ₡153 832 brutos al mes; el neto total se acerca a ₡500 000. Es temporal (hasta el 31/1/2027) porque trabajar siete días seguidos no puede ser permanente; antes de esa fecha se define un esquema con un día completo de descanso. Incluye el pago del domingo 1/11, ya laborado [R-074].",
+      "depende_de": [
+        "R-072",
+        "R-074",
+        "N-016",
+        "N-040",
+        "N-041"
+      ]
+    },
+    {
+      "id": "E-026",
+      "titulo": "Salida de Kristell y Fiorella",
+      "conclusion": "El preaviso es de un mes, no de dos [N-007]: lo debe quien renuncia, y Poïesis puede dispensarlo. La renuncia no genera cesantía, pero el riesgo real es un reclamo por despido indirecto: Kristell sostiene que el bono era parte regular de su ingreso y que su suspensión le redujo lo que recibe [R-073, N-031, N-043]. Por eso conviene un acuerdo de terminación por mutuo consentimiento, con todos los derechos de ley, una suma acordada que resuelva expresamente la diferencia sobre el bono, entrega ordenada de información, confidencialidad recíproca y ratificación ante el Ministerio de Trabajo [N-044, N-017]. La propuesta de la asesoría (₡500 000 hasta la salida, por planilla, y cesantía sobre esa base) es la que mejor cierra el riesgo. Cesantía estimada de Kristell: unos 98 días de salario promedio. Para Fiorella falta su fecha de ingreso.",
+      "depende_de": [
+        "R-073",
+        "R-074",
+        "N-007",
+        "N-031",
+        "N-043",
+        "N-044",
+        "N-017",
+        "R-035"
       ]
     }
   ]
