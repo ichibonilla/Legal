@@ -1,80 +1,71 @@
 <!--
-ADENDA LABORAL TEMPORAL. Atención de mensajes los fines de semana, por teletrabajo (R-069, R-072, E-023, E-025).
-Sustituye la idea de un contrato de servicios dominicales, que no es viable (E-023).
+ACUERDO DE ATENCIÓN DE FIN DE SEMANA CON PAGO POR CITA AGENDADA (versión 2, 5/11/2026; E-025, E-028).
+Sustituye la versión 1 (horario fijo del sábado y el domingo, pagado como tiempo extraordinario).
 
-Antes de firmar:
-- Confirmar los apellidos y la cédula: el audio dice «Alpízar»; el comunicado y el contrato marco, «Alcázar Mata».
-- Fijar el horario del domingo (seis horas).
-- Confirmar si atiende con el teléfono institucional (cláusula quinta).
-- Contabilidad incluye en la planilla las horas ya laboradas desde el 1/11/2026 (cláusula novena).
-Cálculo con el salario de ₡405 710,70: hora ordinaria ₡1 690,46 (salario / 30 / 8). Sábado: 6 h × 1,5 = ₡15 214,15.
-Domingo: 6 h × 2 = ₡20 285,53. Semana: ₡35 499,69. Mes (52/12 semanas): ₡153 831,97. Bruto total ≈ ₡559 542,67;
-neto aproximado ₡498 944 con la cuota obrera de 10,83 %. Contabilidad confirma porcentajes y montos.
-Normas: jornada extraordinaria (N-016), descanso semanal (N-040), teletrabajo (N-041), irrenunciabilidad (N-017).
-La hora de 7:00 a 8:00 p. m. del sábado es nocturna; se paga como extraordinaria igual que las demás.
-Siete días seguidos de trabajo no pueden ser el esquema permanente: por eso la adenda es temporal (cláusula séptima).
+Pedido de la Dirección (5/11/2026): sin horario, que ella conteste cuando lo considere oportuno, pago por paciente
+agendado, como servicio profesional. Se adopta todo lo anterior, salvo la forma de servicio profesional: es la misma
+función del puesto, con el teléfono y el protocolo institucionales, para el mismo patrono, y los audios declaran que la
+finalidad es evitar la laboralidad (R-069, E-023). Se diseña como comisión por resultado dentro de la relación laboral,
+que la ley admite como forma de salario (N-047).
+
+Defensas que incorpora:
+- Sin horario ni disponibilidad obligatoria; no atender no tiene consecuencia (cláusula segunda).
+- Pago por resultado, solo cuando hay citas (tercera).
+- Garantía mínima: si en un mes la comisión no cubre el valor de las horas dedicadas, con recargos, se paga la diferencia.
+  Cierra el reclamo por jornada extraordinaria y el límite de 48 horas (cuarta; N-016, N-040).
+- Por planilla, con cargas: nada que observar en una revisión de la CCSS (N-026).
+- Las citas agendadas dentro de su jornada ordinaria no generan comisión: no se paga dos veces la misma tarea (sétima).
+Antes de firmar: monto o porcentaje por cita; si se exige asistencia a la primera cita; apellidos y cédula
+(«Alpízar» o «Alcázar Mata»); confirmar el teléfono institucional.
 -->
 
-# Contrato de teletrabajo de fin de semana
+# Acuerdo de atención de fin de semana
 
-**Adenda al contrato de trabajo · Atención de mensajes los sábados y domingos**
+**Adenda al contrato de trabajo · Pago por cita agendada**
 
-Entre nosotros, **GRUPO POÏESIS CLÍNICA INTEGRAL DE PSICOLOGÍA Y PSICOANÁLISIS SOCIEDAD ANÓNIMA**, cédula jurídica 3-101-746424, representada por Carlos Fernando Bonilla Cortés, en adelante «Poïesis»; y **ANGIOLETTE ______________________**, cédula de identidad ______________, asistente administrativa de Poïesis, en adelante «la Trabajadora», convenimos el siguiente contrato, que se incorpora como adenda a la relación laboral vigente.
+Entre nosotros, **GRUPO POÏESIS CLÍNICA INTEGRAL DE PSICOLOGÍA Y PSICOANÁLISIS SOCIEDAD ANÓNIMA**, cédula jurídica 3-101-746424, representada por Carlos Fernando Bonilla Cortés, en adelante «Poïesis»; y **ANGIOLETTE ______________________**, cédula de identidad ______________, asistente administrativa de Poïesis, en adelante «la Trabajadora», convenimos el siguiente acuerdo, que se incorpora como adenda a la relación laboral vigente.
 
 ## Primera. Objeto
 
-La Trabajadora atiende los mensajes de pacientes y la agenda por los canales institucionales:
+Durante los fines de semana, la Trabajadora puede atender los mensajes de las personas interesadas en los servicios de Poïesis y agendar sus citas, por los canales institucionales.
 
-- los sábados, de 2:00 p. m. a 8:00 p. m.;
-- los domingos, durante seis horas, de ______ a ______.
+## Segunda. Sin horario ni disponibilidad obligatoria
 
-Su jornada ordinaria se mantiene de lunes a viernes, de 8:00 a. m. a 5:00 p. m.
+La Trabajadora no tiene horario ni obligación de estar disponible los fines de semana. Decide si atiende, cuándo y durante cuánto tiempo. No atender no tiene consecuencia alguna en su relación laboral, y Poïesis no le asigna metas.
 
-## Segunda. Naturaleza
+## Tercera. Pago por cita agendada
 
-Esta labor forma parte de la relación laboral. Las horas del sábado son tiempo extraordinario y las del domingo son trabajo en el día de descanso semanal.
+Por cada paciente nuevo que la Trabajadora agende durante el fin de semana y que asista a su primera cita, Poïesis le paga **₡______________**.
 
-## Tercera. Remuneración
+El pago se hace en la planilla del mes siguiente, con las cargas sociales, y cuenta para el aguinaldo y las vacaciones.
 
-Poïesis paga estas horas en la planilla, con las cargas sociales y su efecto en el aguinaldo y las vacaciones:
+## Cuarta. Garantía mínima
 
-| | Horas | Pago por hora | Por semana |
-|---|---|---|---|
-| Sábado | 6 | ₡2 535,69 (hora ordinaria más 50 %) | ₡15 214,15 |
-| Domingo | 6 | ₡3 380,92 (pago doble) | ₡20 285,53 |
-| **Total** | **12** | | **₡35 499,69** |
+Si en un mes el monto del pago por citas es menor que el valor de las horas que la Trabajadora efectivamente dedicó a esta atención, calculado con los recargos de ley, Poïesis le paga la diferencia.
 
-Los montos se calculan sobre el salario vigente y se ajustan cuando este cambie.
+## Quinta. Registro
 
-## Cuarta. Registro de horas
+Las fechas y horas que registran los canales institucionales sirven como constancia de la atención; la Trabajadora no necesita marcar entrada ni salida. Poïesis lleva un resumen mensual de las citas agendadas y lo comparte con la Trabajadora antes de cada pago.
 
-La Trabajadora registra el inicio y el final de cada turno en el medio que Poïesis indique. Poïesis paga las horas efectivamente laboradas. Fuera de estos horarios no se le exige disponibilidad ni respuesta.
+## Sexta. Teletrabajo y datos
 
-## Quinta. Teletrabajo
+La Trabajadora atiende desde su domicilio, de forma voluntaria, con el teléfono institucional que Poïesis le asigna, y Poïesis asume el costo de la línea. La información de pacientes se maneja solo en los canales institucionales y no se guarda en dispositivos personales.
 
-La Trabajadora presta este servicio desde su domicilio, de forma voluntaria, con el teléfono institucional que Poïesis le asigna. La información de pacientes se maneja solo en los canales institucionales y no se guarda en dispositivos personales.
+## Sétima. Jornada ordinaria
 
-Poïesis asume los costos de la línea institucional. Fuera del horario pactado, la Trabajadora tiene derecho a desconectarse.
+La jornada ordinaria de la Trabajadora es la que establece el rol de turnos rotativos del equipo administrativo, y este acuerdo no la modifica. Las citas que agende dentro de su jornada ordinaria forman parte de sus funciones y no generan el pago de la cláusula tercera.
 
-## Sexta. Límites
+## Octava. Vigencia y terminación
 
-La Trabajadora no labora más horas de las pactadas sin autorización escrita previa de la jefatura. Las horas adicionales autorizadas se pagan con las mismas reglas.
+Este acuerdo rige desde su firma hasta el 31 de enero de 2027 y puede prorrogarse por escrito. Cualquiera de las partes puede darlo por terminado con aviso escrito de ocho días naturales, sin otro efecto en la relación laboral.
 
-## Sétima. Vigencia
+## Novena. Atención ya brindada
 
-Este contrato rige desde su firma hasta el 31 de enero de 2027, mientras se completa el equipo administrativo. Antes de esa fecha, las partes definen por escrito un esquema permanente que incluya un día completo de descanso semanal.
-
-## Octava. Voluntariedad y terminación
-
-La Trabajadora firma de forma libre y voluntaria, y su negativa no tiene consecuencia alguna en su relación laboral. Cualquiera de las partes puede dar por terminado este contrato con aviso escrito de ocho días naturales; en ese caso, la Trabajadora vuelve a su jornada ordinaria sin otro cambio.
-
-## Novena. Horas ya laboradas
-
-Las horas que la Trabajadora haya laborado en estas tareas desde el 1 de noviembre de 2026 se pagan conforme a este contrato en la planilla siguiente a su firma.
+Las citas que la Trabajadora haya agendado en fines de semana desde el 1 de noviembre de 2026 se pagan conforme a este acuerdo en la planilla siguiente a su firma.
 
 ## Décima. Demás condiciones
 
-Este contrato es una adenda al contrato de trabajo. Las demás condiciones de la relación laboral se mantienen sin cambios.
+Las demás condiciones de la relación laboral se mantienen sin cambios.
 
 Firmamos en dos tantos de igual valor, en San José, el ____ de noviembre de 2026.
 

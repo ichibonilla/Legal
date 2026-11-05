@@ -1579,6 +1579,32 @@
       "supersede": "",
       "razon": "Riesgo de usar una amenaza de despido por justa causa sin sustento como elemento de negociación.",
       "folio": ""
+    },
+    {
+      "id": "R-076",
+      "fecha": "2026-11-05",
+      "tipo": "hecho",
+      "titulo": "Pedido de la Dirección sobre el fin de semana de Angiolette",
+      "afirmacion": "La Dirección y la asesoría piden que la atención de fin de semana de Angiolette sea un servicio profesional, sin horario, en el que ella conteste cuando lo considere oportuno, pagado por paciente agendado, «para que no se vea dentro de la laboralidad»; indican que el horario de lunes a viernes del equipo administrativo es rotativo entre dos personas.",
+      "fuente": "Texto de la conversación de la Dirección pegado el 5/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-05",
+      "supersede": "",
+      "razon": "Precisa R-072: la jornada entre semana es rotativa.",
+      "folio": ""
+    },
+    {
+      "id": "N-047",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Salario por comisión o por unidad de obra",
+      "afirmacion": "El salario puede pactarse por unidad de tiempo, por unidad de obra, por comisión o por participación; en cualquier forma es salario, cotiza a la CCSS y cuenta para aguinaldo y vacaciones, sin perjuicio del salario mínimo y de los límites de jornada.",
+      "fuente": "Código de Trabajo, arts. 162 a 164.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Base del pago por cita agendada de Angiolette.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1914,6 +1940,19 @@
         "N-045",
         "N-046",
         "N-015"
+      ]
+    },
+    {
+      "id": "E-028",
+      "titulo": "Atención de fin de semana de Angiolette: pago por cita dentro de la relación laboral",
+      "conclusion": "El pedido se cumple en lo esencial: sin horario, voluntario, cuando ella lo considere oportuno, y pago por paciente agendado [R-076]. No se formaliza como servicio profesional porque es la misma función del puesto, con el teléfono y el protocolo institucionales, y los audios declaran la finalidad de evitar la laboralidad [R-069, N-028]: el contrato no resistiría una revisión de la CCSS ni un reclamo. Se diseña como comisión por cita, por planilla [N-047], con garantía mínima que cubre el valor de las horas dedicadas con recargos (cierra el reclamo por jornada y el límite de 48 horas) [N-016], sin marcar horario y con el registro de los canales como constancia. Su jornada ordinaria queda referida al rol rotativo. Las horas extra y las comisiones cuentan para el aguinaldo.",
+      "depende_de": [
+        "R-076",
+        "R-069",
+        "N-028",
+        "N-047",
+        "N-016",
+        "N-026"
       ]
     }
   ]

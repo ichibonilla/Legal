@@ -56,6 +56,7 @@ Registro actualizado el 2026-11-05.
 | 2026-11-02 | R-074 | VERIFICADO | Dirección y asesoría: salida de Kristell y Fiorella | — |
 | 2026-11-03 | R-072 | VERIFICADO | Jornada de Angiolette | — |
 | 2026-11-05 | R-075 | VERIFICADO | Reunión de estrategia de la Dirección y la asesoría sobre la salida | — |
+| 2026-11-05 | R-076 | VERIFICADO | Pedido de la Dirección sobre el fin de semana de Angiolette | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

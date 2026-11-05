@@ -172,6 +172,12 @@ Correcto: reunión individual, presencial y grabada con consentimiento; que ella
 
 > Advertencia: N-007 está POR VERIFICAR. N-017 está POR VERIFICAR. N-023 está POR VERIFICAR. N-026 está POR VERIFICAR. N-044 está POR VERIFICAR. N-045 está POR VERIFICAR. N-046 está POR VERIFICAR. N-015 está POR VERIFICAR.
 
+### E-028 — Atención de fin de semana de Angiolette: pago por cita dentro de la relación laboral
+
+El pedido se cumple en lo esencial: sin horario, voluntario, cuando ella lo considere oportuno, y pago por paciente agendado [R-076]. No se formaliza como servicio profesional porque es la misma función del puesto, con el teléfono y el protocolo institucionales, y los audios declaran la finalidad de evitar la laboralidad [R-069, N-028]: el contrato no resistiría una revisión de la CCSS ni un reclamo. Se diseña como comisión por cita, por planilla [N-047], con garantía mínima que cubre el valor de las horas dedicadas con recargos (cierra el reclamo por jornada y el límite de 48 horas) [N-016], sin marcar horario y con el registro de los canales como constancia. Su jornada ordinaria queda referida al rol rotativo. Las horas extra y las comisiones cuentan para el aguinaldo.
+
+> Advertencia: R-069 está POR VERIFICAR. N-028 está POR VERIFICAR. N-047 está POR VERIFICAR. N-016 está POR VERIFICAR. N-026 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -187,7 +193,7 @@ Correcto: reunión individual, presencial y grabada con consentimiento; que ella
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (60)
+## Por verificar (61)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -249,6 +255,7 @@ Correcto: reunión individual, presencial y grabada con consentimiento; que ella
 - N-044 — Terminación por mutuo consentimiento y conciliación administrativa
 - N-045 — Información no divulgada y libertad de trabajo
 - N-046 — Vicios del consentimiento
+- N-047 — Salario por comisión o por unidad de obra
 
 ## Registros reemplazados
 

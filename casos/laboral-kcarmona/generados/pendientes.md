@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (60)
+## POR VERIFICAR (61)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -80,7 +80,8 @@
 - **N-044** — Terminación por mutuo consentimiento y conciliación administrativa. Fuente: Código de Trabajo, art. 86 y normas sobre conciliación administrativa del MTSS. Base del acuerdo de terminación de Kristell y Fiorella.
 - **N-045** — Información no divulgada y libertad de trabajo. Fuente: Ley de Información No Divulgada, Ley 7975; Constitución Política, art. 56 (libertad de trabajo). Delimita el alcance útil de la cláusula de confidencialidad del acuerdo de salida.
 - **N-046** — Vicios del consentimiento. Fuente: Código Civil, arts. 1015 y siguientes (vicios del consentimiento). Riesgo de usar una amenaza de despido por justa causa sin sustento como elemento de negociación.
+- **N-047** — Salario por comisión o por unidad de obra. Fuente: Código de Trabajo, arts. 162 a 164. Base del pago por cita agendada de Angiolette.
 
-## Sin folio (112 de 112 vigentes)
+## Sin folio (114 de 114 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.
