@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-11-03",
+    "actualizado_el": "2026-11-05",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1540,6 +1540,45 @@
       "supersede": "",
       "razon": "Base del acuerdo de terminación de Kristell y Fiorella.",
       "folio": ""
+    },
+    {
+      "id": "R-075",
+      "fecha": "2026-11-05",
+      "tipo": "hecho",
+      "titulo": "Reunión de estrategia de la Dirección y la asesoría sobre la salida",
+      "afirmacion": "Se acordó reunirse en forma individual, presencial y con grabación consentida, empezando por Kristell, para que ella proponga cuánto y cuándo; se estimó para Kristell una cesantía cercana a ₡1 400 000 y, sumando un mes de preaviso, ₡1 900 000 más aguinaldo, con una contrapropuesta posible de la mitad. Se planteó un acuerdo de confidencialidad sobre el modelo de gestión de Poïesis; se mencionó la posibilidad de un despido por pérdida de confianza como elemento de negociación; se expresó preocupación por una revisión de la CCSS derivada del caso Robles.",
+      "fuente": "fuentes/REUNION_Direccion_asesoria_2026-11-05_texto.txt",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-05",
+      "supersede": "",
+      "razon": "Resumen del texto pegado por la Dirección.",
+      "folio": ""
+    },
+    {
+      "id": "N-045",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Información no divulgada y libertad de trabajo",
+      "afirmacion": "Se protege como secreto la información que no es de conocimiento general, tiene valor por ser secreta y se guarda con medidas razonables; el conocimiento general y la experiencia que una persona adquiere en su trabajo no son secreto y no pueden impedirle trabajar ni emprender. Las restricciones de competencia posteriores al contrato solo se sostienen si son limitadas en tiempo, territorio y objeto, y razonables.",
+      "fuente": "Ley de Información No Divulgada, Ley 7975; Constitución Política, art. 56 (libertad de trabajo).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Delimita el alcance útil de la cláusula de confidencialidad del acuerdo de salida.",
+      "folio": ""
+    },
+    {
+      "id": "N-046",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Vicios del consentimiento",
+      "afirmacion": "Un acuerdo firmado bajo intimidación o amenaza de un mal injusto puede anularse.",
+      "fuente": "Código Civil, arts. 1015 y siguientes (vicios del consentimiento).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Riesgo de usar una amenaza de despido por justa causa sin sustento como elemento de negociación.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1859,6 +1898,22 @@
         "N-044",
         "N-017",
         "R-035"
+      ]
+    },
+    {
+      "id": "E-027",
+      "titulo": "Valoración de la reunión de estrategia del 5/11/2026",
+      "conclusion": "Correcto: reunión individual, presencial y grabada con consentimiento; que ellas propongan primero; pagar aguinaldo y vacaciones aparte, porque no son negociables [N-017]. A corregir: (1) si renuncian o hay mutuo acuerdo, Poïesis no debe preaviso: el preaviso lo deben ellas y Poïesis puede dispensarlo, por lo que los ₡500 000 del cálculo de ₡1 900 000 no corresponden [N-007]; (2) hoy no hay justa causa: la pérdida de confianza no es causal autónoma, no hay faltas documentadas y cuestionar el bono es un derecho; despedir ahora se leería como represalia, y usarlo como amenaza para negociar puede anular el acuerdo [N-023, N-046]; (3) la confidencialidad útil protege datos de pacientes, listas, precios, documentos y protocolos internos, con devolución y cláusula penal; no puede impedirles trabajar ni abrir un consultorio [N-045, N-015]; (4) el acuerdo debe constar por escrito y ratificarse ante el MTSS, porque es lo que da certeza [N-044]; (5) los pagos que resten se hacen por planilla, en vista de la posible revisión de la CCSS [N-026]; (6) no presionar a Fiorella para que renuncie: una renuncia presionada puede leerse como despido.",
+      "depende_de": [
+        "R-075",
+        "N-007",
+        "N-017",
+        "N-023",
+        "N-026",
+        "N-044",
+        "N-045",
+        "N-046",
+        "N-015"
       ]
     }
   ]

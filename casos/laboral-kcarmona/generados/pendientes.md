@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/registro.py el 2026-11-03 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-05 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Pendientes y por verificar
@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (58)
+## POR VERIFICAR (60)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -78,7 +78,9 @@
 - **N-041** — Teletrabajo. Fuente: Ley para regular el teletrabajo, Ley 9738, y su reglamento. Base de la cláusula quinta del contrato de teletrabajo de Angiolette.
 - **N-043** — Despido indirecto. Fuente: Código de Trabajo, art. 83. Riesgo principal ante la suspensión del bono si se califica como salario (N-031).
 - **N-044** — Terminación por mutuo consentimiento y conciliación administrativa. Fuente: Código de Trabajo, art. 86 y normas sobre conciliación administrativa del MTSS. Base del acuerdo de terminación de Kristell y Fiorella.
+- **N-045** — Información no divulgada y libertad de trabajo. Fuente: Ley de Información No Divulgada, Ley 7975; Constitución Política, art. 56 (libertad de trabajo). Delimita el alcance útil de la cláusula de confidencialidad del acuerdo de salida.
+- **N-046** — Vicios del consentimiento. Fuente: Código Civil, arts. 1015 y siguientes (vicios del consentimiento). Riesgo de usar una amenaza de despido por justa causa sin sustento como elemento de negociación.
 
-## Sin folio (109 de 109 vigentes)
+## Sin folio (112 de 112 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

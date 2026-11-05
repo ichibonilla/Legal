@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-11-03 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-05 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-11-03. Fuente única: `registro.json`.
+Estado al 2026-11-05. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -166,6 +166,12 @@ El preaviso es de un mes, no de dos [N-007]: lo debe quien renuncia, y Poïesis 
 
 > Advertencia: R-073 está POR VERIFICAR. N-007 está POR VERIFICAR. N-031 está POR VERIFICAR. N-043 está POR VERIFICAR. N-044 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-027 — Valoración de la reunión de estrategia del 5/11/2026
+
+Correcto: reunión individual, presencial y grabada con consentimiento; que ellas propongan primero; pagar aguinaldo y vacaciones aparte, porque no son negociables [N-017]. A corregir: (1) si renuncian o hay mutuo acuerdo, Poïesis no debe preaviso: el preaviso lo deben ellas y Poïesis puede dispensarlo, por lo que los ₡500 000 del cálculo de ₡1 900 000 no corresponden [N-007]; (2) hoy no hay justa causa: la pérdida de confianza no es causal autónoma, no hay faltas documentadas y cuestionar el bono es un derecho; despedir ahora se leería como represalia, y usarlo como amenaza para negociar puede anular el acuerdo [N-023, N-046]; (3) la confidencialidad útil protege datos de pacientes, listas, precios, documentos y protocolos internos, con devolución y cláusula penal; no puede impedirles trabajar ni abrir un consultorio [N-045, N-015]; (4) el acuerdo debe constar por escrito y ratificarse ante el MTSS, porque es lo que da certeza [N-044]; (5) los pagos que resten se hacen por planilla, en vista de la posible revisión de la CCSS [N-026]; (6) no presionar a Fiorella para que renuncie: una renuncia presionada puede leerse como despido.
+
+> Advertencia: N-007 está POR VERIFICAR. N-017 está POR VERIFICAR. N-023 está POR VERIFICAR. N-026 está POR VERIFICAR. N-044 está POR VERIFICAR. N-045 está POR VERIFICAR. N-046 está POR VERIFICAR. N-015 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -181,7 +187,7 @@ El preaviso es de un mes, no de dos [N-007]: lo debe quien renuncia, y Poïesis 
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (58)
+## Por verificar (60)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -241,6 +247,8 @@ El preaviso es de un mes, no de dos [N-007]: lo debe quien renuncia, y Poïesis 
 - N-041 — Teletrabajo
 - N-043 — Despido indirecto
 - N-044 — Terminación por mutuo consentimiento y conciliación administrativa
+- N-045 — Información no divulgada y libertad de trabajo
+- N-046 — Vicios del consentimiento
 
 ## Registros reemplazados
 
