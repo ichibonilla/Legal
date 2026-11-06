@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-11-05 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-06 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-11-05. Fuente única: `registro.json`.
+Estado al 2026-11-06. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -178,6 +178,12 @@ El pedido se cumple en lo esencial: sin horario, voluntario, cuando ella lo cons
 
 > Advertencia: R-069 está POR VERIFICAR. N-028 está POR VERIFICAR. N-047 está POR VERIFICAR. N-016 está POR VERIFICAR. N-026 está POR VERIFICAR.
 
+### E-029 — Valoración externa del acuerdo de fin de semana de Angiolette
+
+Se acepta la corrección principal: la garantía mínima reduce diferencias de pago, pero no elimina reclamos ni subsana los límites de jornada, el máximo diario ni el descanso semanal [N-048, N-040]; la afirmación en contrario se retira. Se adoptan: registro sencillo de intervalos y tareas, con los mensajes como respaldo; incentivo por cita nueva agendada y confirmada, con reglas de duplicados y cancelaciones; el tiempo trabajado se paga aunque no haya citas; la terminación se refiere solo a la modalidad adicional; la revisión de la CCSS es una posibilidad, no un hecho confirmado. Si la cobertura de fines de semana es permanente, la solución de fondo es redistribuir la jornada en el rol rotativo con un día de descanso, o contratar a una persona a tiempo parcial para los fines de semana; la salida de Kristell y Fiorella abre esa posibilidad. En los mensajes escritos no conviene describir la finalidad de evitar la laboralidad. El acuerdo se ajusta después del criterio de la asesoría.
+
+> Advertencia: N-048 está POR VERIFICAR. N-040 está POR VERIFICAR. N-047 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -193,7 +199,7 @@ El pedido se cumple en lo esencial: sin horario, voluntario, cuando ella lo cons
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (61)
+## Por verificar (62)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -256,6 +262,7 @@ El pedido se cumple en lo esencial: sin horario, voluntario, cuando ella lo cons
 - N-045 — Información no divulgada y libertad de trabajo
 - N-046 — Vicios del consentimiento
 - N-047 — Salario por comisión o por unidad de obra
+- N-048 — Límites de la jornada extraordinaria y registro
 
 ## Registros reemplazados
 

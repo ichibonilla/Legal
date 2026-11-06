@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-11-05",
+    "actualizado_el": "2026-11-06",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1605,6 +1605,19 @@
       "supersede": "",
       "razon": "Base del pago por cita agendada de Angiolette.",
       "folio": ""
+    },
+    {
+      "id": "N-048",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Límites de la jornada extraordinaria y registro",
+      "afirmacion": "Hay tiempo extraordinario cuando se exceden los límites legales o la jornada pactada; la suma de jornada ordinaria y extraordinaria no puede pasar de doce horas diarias, salvo excepciones; la jornada extraordinaria responde a necesidades excepcionales, y lo pagado por ella se consigna por separado en la planilla.",
+      "fuente": "Código de Trabajo, arts. 139, 140 y 144; criterio DAJ-AE-020-12 del MTSS (citados por la valoración externa del 6/11/2026).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Precisa N-016. La garantía económica no subsana una jornada o un descanso mal organizados.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1953,6 +1966,17 @@
         "N-047",
         "N-016",
         "N-026"
+      ]
+    },
+    {
+      "id": "E-029",
+      "titulo": "Valoración externa del acuerdo de fin de semana de Angiolette",
+      "conclusion": "Se acepta la corrección principal: la garantía mínima reduce diferencias de pago, pero no elimina reclamos ni subsana los límites de jornada, el máximo diario ni el descanso semanal [N-048, N-040]; la afirmación en contrario se retira. Se adoptan: registro sencillo de intervalos y tareas, con los mensajes como respaldo; incentivo por cita nueva agendada y confirmada, con reglas de duplicados y cancelaciones; el tiempo trabajado se paga aunque no haya citas; la terminación se refiere solo a la modalidad adicional; la revisión de la CCSS es una posibilidad, no un hecho confirmado. Si la cobertura de fines de semana es permanente, la solución de fondo es redistribuir la jornada en el rol rotativo con un día de descanso, o contratar a una persona a tiempo parcial para los fines de semana; la salida de Kristell y Fiorella abre esa posibilidad. En los mensajes escritos no conviene describir la finalidad de evitar la laboralidad. El acuerdo se ajusta después del criterio de la asesoría.",
+      "depende_de": [
+        "N-048",
+        "N-040",
+        "N-047",
+        "R-076"
       ]
     }
   ]
