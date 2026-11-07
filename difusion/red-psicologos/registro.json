@@ -3,10 +3,9 @@
     "nombre": "Red Psicólogos en Costa Rica",
     "enlace": "https://chat.whatsapp.com/HSvcABcfUG198dGHikqyMo",
     "frecuencia_dias": 3,
-    "hora": "07:30",
     "inicio": "2026-11-10",
     "actualizado_el": "2026-11-07",
-    "cierre": "🤝 Si conoce colegas a quienes pueda interesarles, este es el enlace de la *Red Psicólogos en Costa Rica*:",
+    "cierre": "🤝 Para compartir con colegas, el enlace de la *Red Psicólogos en Costa Rica*:",
     "excluir": [
       "Poïesis",
       "Poiesis",
@@ -14,11 +13,33 @@
     ],
     "reglas": [
       "Canal: grupo de WhatsApp de profesionales en psicología. La firma es solo la Red; no se menciona a ninguna institución.",
-      "Una pieza cada tres días, preparada con 30 días de antelación.",
-      "Cuerpo de unas 90 palabras, con emojis discretos, cita APA y DOI, y el enlace del grupo al final.",
-      "Solo evidencia de alto grado que se siga sosteniendo: metaanálisis, revisiones sistemáticas y revisiones de alto impacto. De vez en cuando, hallazgos que matizan o cuestionan el enfoque psicodinámico.",
+      "Una pieza cada tres días, preparada con 30 días de antelación, entre las 8:00 y las 23:00.",
+      "Horario en prueba: cinco franjas (8:00, 11:00, 14:00, 18:00 y 21:30), cada una dos veces y en días distintos. Con las métricas de cada pieza se eligen las mejores franjas y se reserva una de cada cuatro publicaciones para seguir probando.",
+      "Cada pieza es un solo mensaje: la tarjeta con el texto como descripción, de 1024 caracteres como máximo, para que la cita y el enlace viajen juntos cuando se reenvía.",
+      "Título de 60 caracteres como máximo; hallazgo principal en negrita; cuerpo de unas 80 a 90 palabras; cierre con una pregunta abierta a los colegas; cita APA con DOI; enlace del grupo al final.",
+      "Fuentes internacionales de alto grado de evidencia que se sigan sosteniendo (metaanálisis, revisiones sistemáticas, grandes bases de datos), de Estados Unidos, México, Argentina, Europa y Asia. Cada lote incluye al menos una de América Latina y una de Asia cuando exista evidencia de ese nivel.",
+      "De vez en cuando, hallazgos que matizan o cuestionan el enfoque psicodinámico.",
       "Cada cifra de una pieza debe constar en los hallazgos del estudio citado; si no consta, no se publica.",
       "Tarjeta visual en la paleta, sin logotipo ni marca institucional."
+    ],
+    "ventana_horaria": [
+      "08:00",
+      "23:00"
+    ],
+    "franjas": [
+      "08:00",
+      "11:00",
+      "14:00",
+      "18:00",
+      "21:30"
+    ],
+    "limite_caracteres": 1024,
+    "regiones": [
+      "Estados Unidos",
+      "México",
+      "Argentina",
+      "Europa",
+      "Asia"
     ]
   },
   "estudios": [
@@ -26,9 +47,14 @@
       "id": "S-001",
       "referencia_corta": "Shedler (2010), American Psychologist",
       "cita": "Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. _American Psychologist_, 65(2), 98–109.",
+      "cita_breve": "Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. _American Psychologist_, 65(2), 98–109.",
       "doi": "10.1037/a0018378",
       "pmid": "20141265",
       "diseno": "Revisión de la evidencia empírica",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos"
+      ],
       "hallazgos": [
         "La evidencia empírica respalda la eficacia de la terapia psicodinámica.",
         "Sus tamaños del efecto son comparables a los de terapias promovidas como empíricamente validadas.",
@@ -46,9 +72,16 @@
       "id": "S-002",
       "referencia_corta": "Flückiger et al. (2018), Psychotherapy",
       "cita": "Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis. _Psychotherapy_, 55(4), 316–340.",
+      "cita_breve": "Flückiger, C., et al. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis. _Psychotherapy_, 55(4), 316–340.",
       "doi": "10.1037/pst0000172",
       "pmid": "29792475",
       "diseno": "Metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Suiza",
+        "Estados Unidos",
+        "Canadá"
+      ],
       "hallazgos": [
         "295 estudios independientes, más de 30 000 pacientes, publicados entre 1978 y 2017.",
         "Asociación alianza-resultado en psicoterapia presencial: r = .278 (IC 95 % [.256, .299]; d = .579).",
@@ -66,9 +99,14 @@
       "id": "S-003",
       "referencia_corta": "Steinert et al. (2017), Am J Psychiatry",
       "cita": "Steinert, C., Munder, T., Rabung, S., Hoyer, J., & Leichsenring, F. (2017). Psychodynamic therapy: As efficacious as other empirically supported treatments? A meta-analysis testing equivalence of outcomes. _American Journal of Psychiatry_, 174(10), 943–953.",
+      "cita_breve": "Steinert, C., et al. (2017). Psychodynamic therapy: As efficacious as other empirically supported treatments? _American Journal of Psychiatry_, 174(10), 943–953.",
       "doi": "10.1176/appi.ajp.2017.17010057",
       "pmid": "28541091",
       "diseno": "Metaanálisis de equivalencia",
+      "region": "Europa",
+      "paises": [
+        "Alemania"
+      ],
       "hallazgos": [
         "Primer metaanálisis que prueba formalmente la equivalencia de la terapia psicodinámica frente a tratamientos de eficacia establecida.",
         "Síntomas objetivo al finalizar: g = −0,153 (IC 90 % −0,227 a −0,079), dentro de los márgenes de equivalencia.",
@@ -86,9 +124,14 @@
       "id": "S-004",
       "referencia_corta": "Hayes et al. (2018), Psychotherapy",
       "cita": "Hayes, J. A., Gelso, C. J., Goldberg, S., & Kivlighan, D. M. (2018). Countertransference management and effective psychotherapy: Meta-analytic findings. _Psychotherapy_, 55(4), 496–507.",
+      "cita_breve": "Hayes, J. A., et al. (2018). Countertransference management and effective psychotherapy: Meta-analytic findings. _Psychotherapy_, 55(4), 496–507.",
       "doi": "10.1037/pst0000189",
       "pmid": "30335461",
       "diseno": "Tres metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos"
+      ],
       "hallazgos": [
         "Reacciones contratransferenciales y resultado: r = −.16 (k = 14, N = 973), inversa y modesta.",
         "Factores de manejo atenúan las reacciones: r = −.27 (k = 13, N = 1065).",
@@ -106,9 +149,15 @@
       "id": "S-005",
       "referencia_corta": "Smit et al. (2012), Clin Psychol Rev",
       "cita": "Smit, Y., Huibers, M. J. H., Ioannidis, J. P. A., van Dyck, R., van Tilburg, W., & Arntz, A. (2012). The effectiveness of long-term psychoanalytic psychotherapy: A meta-analysis of randomized controlled trials. _Clinical Psychology Review_, 32(2), 81–92.",
+      "cita_breve": "Smit, Y., et al. (2012). The effectiveness of long-term psychoanalytic psychotherapy. _Clinical Psychology Review_, 32(2), 81–92.",
       "doi": "10.1016/j.cpr.2011.11.003",
       "pmid": "22227111",
       "diseno": "Metaanálisis de ensayos aleatorizados",
+      "region": "Europa",
+      "paises": [
+        "Países Bajos",
+        "Estados Unidos"
+      ],
       "hallazgos": [
         "La evidencia de eficacia de la psicoterapia psicoanalítica de largo plazo es limitada y, en el mejor de los casos, contradictoria.",
         "Superior a controles sin componente psicoterapéutico especializado; no superior a otras psicoterapias especializadas."
@@ -124,9 +173,16 @@
       "id": "S-006",
       "referencia_corta": "Keefe et al. (2014), Clin Psychol Rev",
       "cita": "Keefe, J. R., McCarthy, K. S., Dinger, U., Zilcha-Mano, S., & Barber, J. P. (2014). A meta-analytic review of psychodynamic therapies for anxiety disorders. _Clinical Psychology Review_, 34(4), 309–323.",
+      "cita_breve": "Keefe, J. R., et al. (2014). A meta-analytic review of psychodynamic therapies for anxiety disorders. _Clinical Psychology Review_, 34(4), 309–323.",
       "doi": "10.1016/j.cpr.2014.03.004",
       "pmid": "24786897",
       "diseno": "Metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "Alemania",
+        "Israel"
+      ],
       "hallazgos": [
         "14 ensayos aleatorizados, 1073 pacientes.",
         "Más eficaz que las condiciones control: g = 0,64.",
@@ -143,9 +199,14 @@
       "id": "S-007",
       "referencia_corta": "Eubanks et al. (2018), Psychotherapy",
       "cita": "Eubanks, C. F., Muran, J. C., & Safran, J. D. (2018). Alliance rupture repair: A meta-analysis. _Psychotherapy_, 55(4), 508–519.",
+      "cita_breve": "Eubanks, C. F., Muran, J. C., & Safran, J. D. (2018). Alliance rupture repair: A meta-analysis. _Psychotherapy_, 55(4), 508–519.",
       "doi": "10.1037/pst0000185",
       "pmid": "30335462",
       "diseno": "Dos metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos"
+      ],
       "hallazgos": [
         "Ruptura: debilitamiento de la alianza por desacuerdo en metas, falta de colaboración en tareas o tensión en el vínculo.",
         "Reparación de rupturas y resultado: r = .29, d = .62 (11 estudios, 1314 pacientes), efecto moderado.",
@@ -162,9 +223,16 @@
       "id": "S-008",
       "referencia_corta": "Driessen et al. (2015), Clin Psychol Rev",
       "cita": "Driessen, E., Hegelmaier, L. M., Abbass, A. A., Barber, J. P., Dekker, J. J. M., Van, H. L., Jansma, E. P., & Cuijpers, P. (2015). The efficacy of short-term psychodynamic psychotherapy for depression: A meta-analysis update. _Clinical Psychology Review_, 42, 1–15.",
+      "cita_breve": "Driessen, E., et al. (2015). The efficacy of short-term psychodynamic psychotherapy for depression: A meta-analysis update. _Clinical Psychology Review_, 42, 1–15.",
       "doi": "10.1016/j.cpr.2015.07.004",
       "pmid": "26281018",
       "diseno": "Metaanálisis (actualización)",
+      "region": "Europa",
+      "paises": [
+        "Países Bajos",
+        "Canadá",
+        "Estados Unidos"
+      ],
       "hallazgos": [
         "Más eficaz que el control al finalizar en depresión, psicopatología general y calidad de vida: d = 0,49 a 0,69.",
         "Sin diferencias significativas frente a otras psicoterapias.",
@@ -181,9 +249,16 @@
       "id": "S-009",
       "referencia_corta": "Elliott et al. (2018), Psychotherapy",
       "cita": "Elliott, R., Bohart, A. C., Watson, J. C., & Murphy, D. (2018). Therapist empathy and client outcome: An updated meta-analysis. _Psychotherapy_, 55(4), 399–410.",
+      "cita_breve": "Elliott, R., et al. (2018). Therapist empathy and client outcome: An updated meta-analysis. _Psychotherapy_, 55(4), 399–410.",
       "doi": "10.1037/pst0000175",
       "pmid": "30335453",
       "diseno": "Metaanálisis (actualización)",
+      "region": "Europa",
+      "paises": [
+        "Reino Unido",
+        "Estados Unidos",
+        "Canadá"
+      ],
       "hallazgos": [
         "82 muestras independientes, 6138 consultantes: r = .28 (IC 95 % [.23, .33]; d = .58).",
         "La relación se sostiene en distintas orientaciones teóricas y motivos de consulta, con heterogeneidad considerable.",
@@ -200,9 +275,16 @@
       "id": "S-010",
       "referencia_corta": "Cristea et al. (2017), JAMA Psychiatry",
       "cita": "Cristea, I. A., Gentili, C., Cotet, C. D., Palomba, D., Barbui, C., & Cuijpers, P. (2017). Efficacy of psychotherapies for borderline personality disorder: A systematic review and meta-analysis. _JAMA Psychiatry_, 74(4), 319–328.",
+      "cita_breve": "Cristea, I. A., et al. (2017). Efficacy of psychotherapies for borderline personality disorder. _JAMA Psychiatry_, 74(4), 319–328.",
       "doi": "10.1001/jamapsychiatry.2016.4287",
       "pmid": "28249086",
       "diseno": "Revisión sistemática y metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Italia",
+        "Rumanía",
+        "Países Bajos"
+      ],
       "hallazgos": [
         "33 ensayos aleatorizados, 2256 participantes.",
         "Las psicoterapias, en particular la dialéctico-conductual y los enfoques psicodinámicos, son eficaces para síntomas límite y problemas asociados.",
@@ -220,9 +302,17 @@
       "id": "S-011",
       "referencia_corta": "Leichsenring et al. (2013), Psychodyn Psychiatry",
       "cita": "Leichsenring, F., Abbass, A., Luyten, P., Hilsenroth, M., & Rabung, S. (2013). The emerging evidence for long-term psychodynamic therapy. _Psychodynamic Psychiatry_, 41(3), 361–384.",
+      "cita_breve": "Leichsenring, F., et al. (2013). The emerging evidence for long-term psychodynamic therapy. _Psychodynamic Psychiatry_, 41(3), 361–384.",
       "doi": "10.1521/pdps.2013.41.3.361",
       "pmid": "24001160",
       "diseno": "Revisión",
+      "region": "Europa",
+      "paises": [
+        "Alemania",
+        "Canadá",
+        "Bélgica",
+        "Estados Unidos"
+      ],
       "hallazgos": [
         "Evidencia creciente de ensayos aleatorizados para la terapia psicodinámica breve y la de largo plazo; la de largo plazo ha sido cuestionada.",
         "Para muchos pacientes con trastornos complejos, incluidos crónicos y de personalidad, la psicoterapia breve no es suficiente.",
@@ -234,12 +324,91 @@
       "supersede": "",
       "razon": "",
       "folio": ""
+    },
+    {
+      "id": "S-012",
+      "referencia_corta": "Furukawa et al. (2014), Acta Psychiatr Scand",
+      "cita": "Furukawa, T. A., Noma, H., Caldwell, D. M., Honyashiki, M., Shinohara, K., Imai, H., Chen, P., Hunot, V., & Churchill, R. (2014). Waiting list may be a nocebo condition in psychotherapy trials: A contribution from network meta-analysis. _Acta Psychiatrica Scandinavica_, 130(3), 181–192.",
+      "cita_breve": "Furukawa, T. A., et al. (2014). Waiting list may be a nocebo condition in psychotherapy trials. _Acta Psychiatrica Scandinavica_, 130(3), 181–192.",
+      "doi": "10.1111/acps.12275",
+      "pmid": "24697518",
+      "diseno": "Metaanálisis en red",
+      "region": "Asia",
+      "paises": [
+        "Japón",
+        "Reino Unido"
+      ],
+      "hallazgos": [
+        "Metaanálisis en red de terapia cognitivo-conductual para la depresión en adultos: 49 ensayos aleatorizados, 2730 participantes.",
+        "Compara lista de espera, sin tratamiento, placebo farmacológico y TCC.",
+        "Respuesta sin tratamiento frente a lista de espera: OR = 2,9 (IC 95 % 1,3 a 5,7).",
+        "Los autores concluyen que puede haber diferencias importantes entre las condiciones control usadas en psicoterapia; la calidad de la evidencia es limitada y el hallazgo, exploratorio."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/24697518 (resumen); research-information.bris.ac.uk",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-013",
+      "referencia_corta": "Benjet et al. (2016), Psychological Medicine",
+      "cita": "Benjet, C., Bromet, E., Karam, E. G., Kessler, R. C., McLaughlin, K. A., Ruscio, A. M., … Koenen, K. C. (2016). The epidemiology of traumatic event exposure worldwide: Results from the World Mental Health Survey Consortium. _Psychological Medicine_, 46(2), 327–343.",
+      "cita_breve": "Benjet, C., et al. (2016). The epidemiology of traumatic event exposure worldwide. _Psychological Medicine_, 46(2), 327–343.",
+      "doi": "10.1017/S0033291715001981",
+      "pmid": "26511595",
+      "diseno": "Encuestas poblacionales de 24 países (Consorcio de Encuestas Mundiales de Salud Mental)",
+      "region": "México",
+      "paises": [
+        "México",
+        "Estados Unidos",
+        "consorcio de 24 países"
+      ],
+      "hallazgos": [
+        "Encuestas de población general en 24 países, 68 894 adultos de seis continentes, 29 tipos de eventos traumáticos.",
+        "Cinco tipos de evento, entre ellos presenciar una muerte o lesión grave y la muerte inesperada de un ser querido, concentraron más de la mitad de las exposiciones.",
+        "La exposición varió según el país, las características sociodemográficas y la historia previa de eventos traumáticos.",
+        "La exposición a violencia interpersonal tuvo la asociación más fuerte con eventos traumáticos posteriores.",
+        "Estar casado fue el factor protector más consistente."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/26511595 (resumen); autora principal en el Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, México",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-014",
+      "referencia_corta": "Flückiger, Gómez Penedo et al. (2022)",
+      "cita": "Metaanálisis multinivel longitudinal sobre la eficacia a largo plazo de psicoterapias de buena fe para el trastorno de ansiedad generalizada, con coautoría de J. M. Gómez Penedo (UBA y CONICET). Cita completa por confirmar.",
+      "cita_breve": "",
+      "doi": "",
+      "pmid": "",
+      "diseno": "Metaanálisis multinivel longitudinal",
+      "region": "Argentina",
+      "paises": [
+        "Suiza",
+        "Argentina",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "23 estudios, 54 tamaños del efecto repetidos; sin diferencias significativas entre psicoterapias de buena fe en los resultados primarios (dato de fuente secundaria)."
+      ],
+      "fuente": "ri.conicet.gov.ar (registro)",
+      "estado": "PENDIENTE",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Candidato para América Latina. Falta confirmar la cita completa y el DOI, y buscar además una fuente de alto grado con autoría principal argentina.",
+      "folio": ""
     }
   ],
   "piezas": [
     {
       "id": "P-001",
       "fecha": "2026-11-10",
+      "hora": "07:30",
       "titulo": "¿Qué tan eficaz es la psicoterapia psicodinámica?",
       "cuerpo": "Shedler (2010) revisó la evidencia empírica sobre la psicoterapia psicodinámica. Sus tamaños del efecto resultaron comparables a los de tratamientos que suelen presentarse como empíricamente validados.\n\nEl hallazgo más llamativo es temporal: los pacientes no solo mantienen lo logrado, sino que parecen seguir mejorando después de concluido el tratamiento.\n\n💡 _Para la práctica:_ el artículo sugiere, además, que parte de la eficacia de otros enfoques podría deberse a que terapeutas expertos utilizan técnicas centrales de la práctica psicodinámica. Una invitación a leer la técnica más allá de las etiquetas de escuela.",
       "estudios": [
@@ -258,6 +427,7 @@
     {
       "id": "P-002",
       "fecha": "2026-11-13",
+      "hora": "07:30",
       "titulo": "La alianza terapéutica, uno de los predictores más sólidos",
       "cuerpo": "Flückiger y colaboradores (2018) integraron 295 estudios independientes, con más de 30 000 pacientes, publicados entre 1978 y 2017. La asociación entre alianza terapéutica y resultado fue r = 0,278 en la psicoterapia presencial, y prácticamente igual en la psicoterapia por internet (r = 0,275).\n\nLos autores concluyen que la relación positiva entre alianza y resultado es robusta.\n\n💡 _Para la práctica:_ el acuerdo sobre metas y tareas y el vínculo afectivo no son un telón de fondo del tratamiento; se asocian de manera consistente con lo que el paciente logra, también en la atención en línea.",
       "estudios": [
@@ -276,6 +446,7 @@
     {
       "id": "P-003",
       "fecha": "2026-11-16",
+      "hora": "07:30",
       "titulo": "Psicodinámica frente a otros tratamientos establecidos",
       "cuerpo": "Steinert y colaboradores (2017) realizaron el primer metaanálisis que puso a prueba formalmente la equivalencia entre la psicoterapia psicodinámica y tratamientos de eficacia establecida.\n\nEn los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar y g = −0,049 en el seguimiento) y quedó dentro de los márgenes de equivalencia. La conclusión de los autores: los resultados son equivalentes.\n\n💡 _Para la práctica:_ el estudio recibió críticas metodológicas en la misma revista, y los autores respondieron. Leer ambos textos permite valorar la evidencia con criterio propio.",
       "estudios": [
@@ -294,6 +465,7 @@
     {
       "id": "P-004",
       "fecha": "2026-11-19",
+      "hora": "07:30",
       "titulo": "Contratransferencia: lo que muestran los datos",
       "cuerpo": "Hayes, Gelso, Goldberg y Kivlighan (2018) presentaron tres metaanálisis. Las reacciones contratransferenciales se asociaron de forma inversa y modesta con el resultado (r = −0,16; 14 estudios). Los factores de manejo atenuaron esas reacciones (r = −0,27; 13 estudios). Y un manejo exitoso se relacionó con mejores resultados (r = 0,39; 9 estudios). En los tres análisis hubo heterogeneidad significativa.\n\n💡 _Para la práctica:_ la contratransferencia no es en sí misma el problema; lo decisivo parece ser lo que el terapeuta hace con ella, una idea con larga tradición en la clínica psicoanalítica.",
       "estudios": [
@@ -312,6 +484,7 @@
     {
       "id": "P-005",
       "fecha": "2026-11-22",
+      "hora": "07:30",
       "titulo": "Una lectura crítica: el tratamiento psicoanalítico de largo plazo",
       "cuerpo": "No toda la evidencia apunta en la misma dirección. Smit y colaboradores (2012) concluyeron que la evidencia sobre la psicoterapia psicoanalítica de largo plazo es limitada y, en el mejor de los casos, contradictoria: superó a controles sin psicoterapia especializada, pero no a otras psicoterapias especializadas.\n\nLeichsenring y colaboradores (2013) responden que, para muchos pacientes con trastornos complejos, crónicos o de personalidad, la terapia breve no es suficiente, y piden más investigación.\n\n💡 _Para la práctica:_ conocer ambos lados del debate fortalece la argumentación clínica.",
       "estudios": [
@@ -331,6 +504,7 @@
     {
       "id": "P-006",
       "fecha": "2026-11-25",
+      "hora": "07:30",
       "titulo": "Psicoterapia psicodinámica y trastornos de ansiedad",
       "cuerpo": "Keefe y colaboradores (2014) reunieron 14 ensayos aleatorizados, con 1073 pacientes, sobre la terapia psicodinámica en trastornos de ansiedad.\n\nLa terapia psicodinámica fue significativamente más eficaz que las condiciones control (g = 0,64) y tan eficaz como los otros tratamientos activos con los que se comparó.\n\n💡 _Para la práctica:_ el resultado amplía las opciones con respaldo empírico para la ansiedad. Metaanálisis posteriores han examinado cuadros específicos, como la ansiedad social, lo que permite afinar la indicación según el diagnóstico y la persona.",
       "estudios": [
@@ -349,6 +523,7 @@
     {
       "id": "P-007",
       "fecha": "2026-11-28",
+      "hora": "07:30",
       "titulo": "Rupturas y reparación de la alianza",
       "cuerpo": "Eubanks, Muran y Safran (2018) definen la ruptura como un debilitamiento de la alianza: desacuerdo sobre las metas, falta de colaboración en las tareas o tensión en el vínculo emocional.\n\nEn 11 estudios con 1314 pacientes, la reparación de las rupturas se asoció con mejores resultados (r = 0,29; d = 0,62), un efecto moderado.\n\n💡 _Para la práctica:_ una ruptura no es necesariamente un fracaso del tratamiento. Reconocerla y trabajarla en sesión puede convertirse en parte del proceso, algo cercano a lo que la clínica psicoanalítica piensa desde la transferencia.",
       "estudios": [
@@ -367,6 +542,7 @@
     {
       "id": "P-008",
       "fecha": "2026-12-01",
+      "hora": "07:30",
       "titulo": "Psicoterapia psicodinámica breve para la depresión",
       "cuerpo": "Driessen y colaboradores (2015) actualizaron su metaanálisis sobre la psicoterapia psicodinámica breve en adultos con depresión. Al finalizar, fue significativamente más eficaz que las condiciones control en depresión, psicopatología general y calidad de vida (d = 0,49 a 0,69). Frente a otras psicoterapias no hubo diferencias significativas.\n\nLos autores encuentran indicios claros de eficacia y señalan que faltan estudios de alta calidad sobre el seguimiento y la comparación con antidepresivos.\n\n💡 _Para la práctica:_ una opción con respaldo empírico y con preguntas todavía abiertas.",
       "estudios": [
@@ -385,6 +561,7 @@
     {
       "id": "P-009",
       "fecha": "2026-12-04",
+      "hora": "07:30",
       "titulo": "La empatía del terapeuta y el resultado",
       "cuerpo": "Elliott, Bohart, Watson y Murphy (2018) reunieron 82 muestras independientes y 6138 consultantes. La correlación entre empatía y resultado fue r = 0,28 (d = 0,58), una asociación moderada que se sostuvo en distintas orientaciones teóricas y motivos de consulta, con heterogeneidad considerable.\n\nUn matiz relevante: la empatía percibida por el consultante, por observadores o por el propio terapeuta predijo mejor el resultado que las medidas de precisión empática.\n\n💡 _Para la práctica:_ importa comprender, y también que el otro se sienta comprendido.",
       "estudios": [
@@ -403,6 +580,7 @@
     {
       "id": "P-010",
       "fecha": "2026-12-07",
+      "hora": "07:30",
       "titulo": "Trastorno límite de la personalidad: eficacia con matices",
       "cuerpo": "Cristea y colaboradores (2017) analizaron 33 ensayos aleatorizados con 2256 participantes. Las psicoterapias, en particular la dialéctico-conductual y los enfoques psicodinámicos, fueron eficaces sobre los síntomas límite y problemas asociados; fueron los únicos tipos de terapia más eficaces que los controles.\n\nLos autores advierten que los efectos son pequeños, están inflados por el riesgo de sesgo y el sesgo de publicación, y son inestables en el seguimiento.\n\n💡 _Para la práctica:_ resultados alentadores, que piden prudencia al comunicarlos.",
       "estudios": [
@@ -417,6 +595,197 @@
       "verificado_el": "2026-11-07",
       "supersede": "",
       "razon": ""
+    },
+    {
+      "id": "P-011",
+      "fecha": "2026-11-10",
+      "hora": "08:00",
+      "titulo": "¿La mejoría continúa al terminar la terapia?",
+      "cuerpo": "Shedler (2010) revisó la evidencia empírica sobre la psicoterapia psicodinámica. Sus tamaños del efecto resultaron *comparables a los de tratamientos presentados como empíricamente validados*.\n\nEl hallazgo más llamativo es temporal: *los pacientes mantienen lo logrado y parecen seguir mejorando después de concluido el tratamiento*.\n\n💡 _Para la práctica:_ el artículo sugiere que parte de la eficacia de otros enfoques podría deberse a técnicas centrales de la práctica psicodinámica.\n\n¿Lo han observado en sus seguimientos?",
+      "estudios": [
+        "S-001"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión de la evidencia",
+        "cifra": "Comparable",
+        "frase": "Eficacia similar a la de tratamientos validados, y una mejoría que continúa al terminar."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-001",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-012",
+      "fecha": "2026-11-13",
+      "hora": "11:00",
+      "titulo": "La alianza terapéutica en 295 estudios",
+      "cuerpo": "Flückiger y colaboradores (2018) integraron 295 estudios independientes, con más de 30 000 pacientes. *La asociación entre alianza y resultado fue r = 0,278 en la psicoterapia presencial*, y prácticamente igual en la atención por internet (r = 0,275).\n\nLos autores concluyen que esta relación es robusta.\n\n💡 _Para la práctica:_ el acuerdo sobre metas y tareas, y el vínculo afectivo, *se asocian de manera consistente con lo que el paciente logra*, también en línea.\n\n¿Cómo cuidan la alianza en la atención virtual?",
+      "estudios": [
+        "S-002"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 295 estudios",
+        "cifra": "r = 0,278",
+        "frase": "Alianza terapéutica y resultado, en más de 30 000 pacientes."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-002",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-013",
+      "fecha": "2026-11-16",
+      "hora": "14:00",
+      "titulo": "¿Tan eficaz como otros tratamientos establecidos?",
+      "cuerpo": "Steinert y colaboradores (2017) realizaron el primer metaanálisis que puso a prueba formalmente la equivalencia entre la psicoterapia psicodinámica y tratamientos de eficacia establecida.\n\nEn los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar y −0,049 en el seguimiento) y *quedó dentro de los márgenes de equivalencia*.\n\n💡 _Para la práctica:_ el estudio recibió críticas metodológicas en la misma revista, y los autores respondieron. Leer ambos textos permite formarse un criterio propio.\n\n¿Qué tipo de evidencia les resulta más convincente?",
+      "estudios": [
+        "S-003"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis de equivalencia",
+        "cifra": "g = −0,15",
+        "frase": "Resultados equivalentes a los de tratamientos de eficacia establecida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-003",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-014",
+      "fecha": "2026-11-19",
+      "hora": "18:00",
+      "titulo": "Contratransferencia: lo que muestran los datos",
+      "cuerpo": "Hayes y colaboradores (2018) presentaron tres metaanálisis. Las reacciones contratransferenciales se asociaron de forma inversa y modesta con el resultado (r = −0,16). Los factores de manejo atenuaron esas reacciones (r = −0,27). Y *un manejo exitoso se relacionó con mejores resultados* (r = 0,39). En los tres hubo heterogeneidad significativa.\n\n💡 _Para la práctica:_ *lo decisivo no parece ser la contratransferencia en sí, sino lo que el terapeuta hace con ella*.\n\n¿Qué les ayuda más a trabajarla: la supervisión, el análisis personal u otra vía?",
+      "estudios": [
+        "S-004"
+      ],
+      "tarjeta": {
+        "rotulo": "Tres metaanálisis",
+        "cifra": "r = 0,39",
+        "frase": "Un manejo exitoso de la contratransferencia se asocia con mejores resultados."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-004",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-015",
+      "fecha": "2026-11-22",
+      "hora": "21:30",
+      "titulo": "Tratamientos largos: debate abierto",
+      "cuerpo": "Para Smit y colaboradores (2012), *la evidencia de la psicoterapia psicoanalítica de largo plazo es limitada y, en el mejor de los casos, contradictoria*. Frente a otras psicoterapias especializadas, no mostró ventaja.\n\nLeichsenring y colaboradores (2013) replican: *para muchos pacientes con trastornos complejos, crónicos o de personalidad, la terapia breve no basta*.\n\n💡 _Para la práctica:_ conocer ambos lados fortalece el criterio.\n\n¿Cómo deciden cuánto dura un tratamiento?",
+      "estudios": [
+        "S-005",
+        "S-011"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · lectura crítica",
+        "cifra": "Debate",
+        "frase": "Tratamiento de largo plazo: evidencia limitada y discutida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-005",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-016",
+      "fecha": "2026-11-25",
+      "hora": "11:00",
+      "titulo": "¿Esperar también tiene efectos?",
+      "cuerpo": "Desde la Universidad de Kioto, Furukawa y colaboradores (2014) realizaron un metaanálisis en red de 49 ensayos de terapia cognitivo-conductual para la depresión, con 2730 participantes.\n\n*Quienes no recibieron tratamiento tuvieron mejor respuesta que quienes estaban en lista de espera* (OR = 2,9). La espera podría actuar como nocebo e inflar la eficacia aparente de las terapias. Los autores lo presentan como un hallazgo exploratorio.\n\n💡 _Para la práctica:_ al leer un ensayo, *el grupo control importa tanto como el tratamiento*.\n\n¿Qué es lo primero que miran al evaluar un ensayo?",
+      "estudios": [
+        "S-012"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis en red · Japón",
+        "cifra": "OR = 2,9",
+        "frase": "La lista de espera puede inflar la eficacia aparente de una terapia."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-006",
+      "razon": "Nueva versión y cambio de fuente: el lote incorpora un estudio de Asia. S-006 (Keefe et al., 2014) queda disponible para el lote siguiente."
+    },
+    {
+      "id": "P-017",
+      "fecha": "2026-11-28",
+      "hora": "14:00",
+      "titulo": "Cuando la alianza se rompe",
+      "cuerpo": "Eubanks, Muran y Safran (2018) definen la ruptura como un debilitamiento de la alianza: desacuerdo sobre las metas, falta de colaboración en las tareas o tensión en el vínculo.\n\nEn 11 estudios con 1314 pacientes, *la reparación de las rupturas se asoció con mejores resultados* (r = 0,29; d = 0,62), un efecto moderado.\n\n💡 _Para la práctica:_ *una ruptura no es necesariamente un fracaso*. Reconocerla y trabajarla en sesión puede volverse parte del proceso.\n\n¿Cómo la detectan en su consulta?",
+      "estudios": [
+        "S-007"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 11 estudios",
+        "cifra": "r = 0,29",
+        "frase": "Reparar las rupturas de la alianza se asocia con mejores resultados."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-007",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-018",
+      "fecha": "2026-12-01",
+      "hora": "18:00",
+      "titulo": "El trauma, más frecuente de lo que parece",
+      "cuerpo": "Corina Benjet, del Instituto Nacional de Psiquiatría de México, y colaboradores (2016) analizaron encuestas de 24 países, con 68 894 adultos de seis continentes y 29 tipos de eventos traumáticos.\n\n*Cinco tipos de evento concentraron más de la mitad de las exposiciones*, entre ellos presenciar una muerte o lesión grave y la muerte inesperada de un ser querido. *La violencia interpersonal fue la más asociada con eventos traumáticos posteriores*.\n\n💡 _Para la práctica:_ la historia de trauma ofrece contexto, aun cuando no es el motivo de consulta.\n\n¿La exploran en la primera entrevista?",
+      "estudios": [
+        "S-013"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuestas en 24 países",
+        "cifra": "68 894",
+        "frase": "Adultos de seis continentes: el trauma es una experiencia frecuente."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-008",
+      "razon": "Nueva versión y cambio de fuente: el lote incorpora un estudio de México. S-008 (Driessen et al., 2015) queda disponible para el lote siguiente."
+    },
+    {
+      "id": "P-019",
+      "fecha": "2026-12-04",
+      "hora": "21:30",
+      "titulo": "Empatía: comprender y que el otro lo sienta",
+      "cuerpo": "Elliott y colaboradores (2018) reunieron 82 muestras y 6138 consultantes. *La correlación entre empatía y resultado fue r = 0,28*, una asociación moderada que se sostuvo en distintas orientaciones teóricas y motivos de consulta, con heterogeneidad considerable.\n\nUn matiz relevante: *la empatía percibida por el consultante, por observadores o por el terapeuta predijo mejor el resultado que la precisión empática*.\n\n💡 _Para la práctica:_ importa comprender, y también que el otro se sienta comprendido.\n\n¿Qué señales les indican que un paciente se siente comprendido?",
+      "estudios": [
+        "S-009"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 82 muestras",
+        "cifra": "r = 0,28",
+        "frase": "Empatía del terapeuta y resultado, en distintas orientaciones teóricas."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-009",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-020",
+      "fecha": "2026-12-07",
+      "hora": "08:00",
+      "titulo": "Trastorno límite: eficacia con matices",
+      "cuerpo": "Cristea y colaboradores (2017) analizaron 33 ensayos aleatorizados con 2256 participantes. *La terapia dialéctico-conductual y los enfoques psicodinámicos fueron los únicos tipos de terapia más eficaces que los controles*.\n\nLos autores advierten que *los efectos son pequeños*, están inflados por el riesgo de sesgo y el sesgo de publicación, y son inestables en el seguimiento.\n\n💡 _Para la práctica:_ resultados alentadores, que piden prudencia al comunicarlos.\n\n¿Qué les ha resultado más útil con estos pacientes?",
+      "estudios": [
+        "S-010"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión sistemática · 33 ensayos",
+        "cifra": "Con matices",
+        "frase": "Dialéctico-conductual y psicodinámica: eficaces, con efectos pequeños."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-010",
+      "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
     }
   ]
 }

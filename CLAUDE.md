@@ -34,12 +34,10 @@ Material confidencial. No se publica fuera del repositorio.
 
 ## Difusión: Red Psicólogos en Costa Rica
 
-Mismo método, aplicado al calendario del grupo de WhatsApp. No es material de caso: son piezas para publicar en el grupo.
+Mismo método, aplicado al calendario del grupo de WhatsApp. No es material de caso: son piezas para publicar en el grupo. El procedimiento completo (fuentes, redacción, engagement, formato de WhatsApp y horarios) está en la skill `red-psicologos` (`.claude/skills/red-psicologos/SKILL.md`).
 
-- `difusion/red-psicologos/registro.json` es la fuente única: `estudios` (S-xxx, fuente científica y hallazgos cotejados) y `piezas` (P-xxx, mensaje, fecha y estudios que cita). Mismos estados y mismos campos `verificado_el`, `supersede` y `razon`; no se borra.
+- `difusion/red-psicologos/registro.json` es la fuente única: `estudios` (S-xxx, fuente, región y hallazgos cotejados) y `piezas` (P-xxx, mensaje, fecha, hora, estudios y métricas). Mismos estados y mismos campos `verificado_el`, `supersede` y `razon`; no se borra.
 - `folio` en un estudio es la página o tabla del texto completo donde consta la cifra; queda vacío mientras el cotejo se haya hecho solo contra el resumen.
-- Una pieza cada tres días, preparada con 30 días de antelación; unas 90 palabras, emojis discretos, cita APA con DOI y el enlace del grupo al final. Firma solo la Red; no se menciona a ninguna institución.
 - Toda cifra de una pieza debe constar en los `hallazgos` del estudio que cita.
-- `generados/` (lote para copiar, piezas en `.txt`, tarjetas en la paleta sin logotipo, calendario, pendientes, handoff) se regenera: `python3 herramientas/difusion.py cerrar`.
-- Antes de publicar: `python3 herramientas/difusion.py cotejo` (próximos 30 días; `--estricto` exige folio). Si devuelve observaciones, la pieza no sale hasta resolverlas o retirar la cita.
+- `python3 herramientas/difusion.py cerrar` regenera `generados/`; `cotejo` revisa los próximos 30 días antes de publicar (`--estricto` exige folio); `metricas` registra los resultados de cada pieza y `horarios` resume las franjas.
 - La rutina de cierre de cada jueves incluye este registro.
