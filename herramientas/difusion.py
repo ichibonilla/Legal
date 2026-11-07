@@ -167,6 +167,12 @@ def ensamblar(pieza, d):
     return "\n\n".join(bloques) + "\n"
 
 
+def enlace_whatsapp(texto):
+    """Enlace que abre WhatsApp con el texto ya escrito; se elige el grupo y se envía."""
+    from urllib.parse import quote
+    return "https://wa.me/?text=" + quote(texto, safe="")
+
+
 def formato_whatsapp(texto):
     """Errores de formato que WhatsApp no interpretaría como se espera."""
     obs = []
@@ -427,6 +433,7 @@ def escribir_lote(d, out, desde, nombre, cab):
         lineas.append(f"---\n\n## {r['fecha']} · {r['hora']} · {r['id']}\n")
         lineas.append(f"{len(texto)} caracteres · {palabras(cuerpo(r))} palabras en el cuerpo.\n")
         lineas.append("> Antes de publicar: " + " ".join(obs) + "\n" if obs else "> Lista para publicar.\n")
+        lineas.append(f"[Abrir en WhatsApp con el texto listo]({enlace_whatsapp(texto)})\n")
         lineas.append("```\n" + texto + "```\n")
     (out / nombre).write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
@@ -447,6 +454,18 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
 
     for r in vig:
         (piezas_dir / f"{r['fecha']}_{r['id']}.txt").write_text(ensamblar(r, d), encoding="utf-8")
+
+    # Enlaces para enviar por WhatsApp, en orden de publicación
+    lineas = [cab, f"# Envío por WhatsApp — {p['nombre']}\n",
+              "Cada enlace abre WhatsApp con el texto de la pieza ya escrito: se elige el grupo, se adjunta la "
+              "tarjeta del día (`generados/tarjetas/`) si se desea y se envía. WhatsApp no permite que un sistema "
+              "externo publique por sí solo en un grupo creado desde una cuenta personal.\n",
+              "| Fecha | Hora | Pieza | Título | Enviar |", "|---|---|---|---|---|"]
+    for r in vig:
+        if r["fecha"] >= hoy.isoformat():
+            lineas.append(f"| {r['fecha']} | {r['hora']} | {r['id']} | {r['titulo'].replace('|', '/')} | "
+                          f"[Abrir en WhatsApp]({enlace_whatsapp(ensamblar(r, d))}) |")
+    (out / "whatsapp.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
     # Lote de los próximos 30 días y lotes con fecha de inicio (lote_AAAA-MM-DD.md)
     escribir_lote(d, out, hoy, "lote.md", cab)
@@ -549,7 +568,7 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
                    for r in sup]
     (out / "handoff.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
-    archivos = ["lote.md", "calendario.md", "horarios.md", "cobertura.md", "pendientes.md", "handoff.md",
+    archivos = ["lote.md", "whatsapp.md", "calendario.md", "horarios.md", "cobertura.md", "pendientes.md", "handoff.md",
                 f"piezas/ ({len(vig)})"]
     if con_tarjetas:
         t_dir = out / "tarjetas"
