@@ -3,17 +3,16 @@
 
 # Pendientes y por verificar
 
-## PENDIENTE (1)
+## PENDIENTE (0)
 
-- **S-014** — Flückiger, Gómez Penedo et al. (2022). Candidato para América Latina. Falta confirmar la cita completa y el DOI, y buscar además una fuente de alto grado con autoría principal argentina.
 
 ## POR VERIFICAR (1)
 
-- **S-004** — Hayes et al. (2018), Psychotherapy. La cifra r = .39 (k = 9, N = 392) solo se confirmó en una fuente secundaria; cotejar contra el resumen o el texto completo antes del 2026-11-19.
+- **P-021** — ¿A qué edad comienzan los trastornos mentales?. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación.
 
 ## Publicadas sin métricas (0)
 
 
-## Sin folio (14 de 14 estudios vigentes)
+## Sin folio (15 de 15 estudios vigentes)
 
 Cotejados contra el resumen publicado. El folio (página o tabla del texto completo) se completa al leer el artículo; `cotejo --estricto` lo exige.

@@ -133,16 +133,16 @@
         "Estados Unidos"
       ],
       "hallazgos": [
-        "Reacciones contratransferenciales y resultado: r = −.16 (k = 14, N = 973), inversa y modesta.",
-        "Factores de manejo atenúan las reacciones: r = −.27 (k = 13, N = 1065).",
-        "Manejo exitoso y mejor resultado: r = .39 (k = 9, N = 392).",
+        "Reacciones contratransferenciales y resultado: r = −.16 (p = .02; IC 95 % [−.30, −.03]; d = −0.33; k = 14, N = 973), inversa y modesta.",
+        "Factores de manejo atenúan las reacciones: r = −.27 (d = −.55; k = 13, N = 1065).",
+        "Manejo exitoso y mejor resultado: r = .39 (p = .001; IC 95 % [.17, .60]; d = 0.84; k = 9, N = 392).",
         "Heterogeneidad significativa en los tres análisis."
       ],
-      "fuente": "https://pubmed.ncbi.nlm.nih.gov/30335461 y BVS mdl-30335461 (resumen)",
-      "estado": "POR VERIFICAR",
-      "verificado_el": "",
+      "fuente": "Texto del artículo (copia en hewittlab.sites.olt.ubc.ca/files/2020/04/Hayes-2018.pdf); registro https://pubmed.ncbi.nlm.nih.gov/30335461",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
       "supersede": "",
-      "razon": "La cifra r = .39 (k = 9, N = 392) solo se confirmó en una fuente secundaria; cotejar contra el resumen o el texto completo antes del 2026-11-19.",
+      "razon": "Cifra r = .39 (k = 9, N = 392) confirmada el 2026-11-07 contra el texto del artículo; antes constaba solo en una fuente secundaria.",
       "folio": ""
     },
     {
@@ -401,6 +401,58 @@
       "verificado_el": "",
       "supersede": "",
       "razon": "Candidato para América Latina. Falta confirmar la cita completa y el DOI, y buscar además una fuente de alto grado con autoría principal argentina.",
+      "folio": ""
+    },
+    {
+      "id": "S-015",
+      "referencia_corta": "Cía, Stagnaro et al. (2018), Soc Psychiatry Psychiatr Epidemiol",
+      "cita": "Cía, A., Stagnaro, J. C., et al. (2018). Lifetime prevalence and age-of-onset of mental disorders in adults from the Argentinean Study of Mental Health Epidemiology. _Social Psychiatry and Psychiatric Epidemiology_, 53(4), 341–350.",
+      "cita_breve": "Cía, A., et al. (2018). Lifetime prevalence and age-of-onset of mental disorders in adults from the Argentinean Study of Mental Health Epidemiology. _Social Psychiatry and Psychiatric Epidemiology_, 53(4), 341–350.",
+      "doi": "10.1007/s00127-018-1492-3",
+      "pmid": "29459988",
+      "diseno": "Encuesta epidemiológica en hogares, muestreo probabilístico por conglomerados (WMH-CIDI de la OMS)",
+      "region": "Argentina",
+      "paises": [
+        "Argentina"
+      ],
+      "hallazgos": [
+        "Encuesta en hogares a 3927 adultos de zonas urbanas de Argentina, con la entrevista diagnóstica WMH-CIDI.",
+        "Prevalencia de vida de cualquier trastorno mental: 29,1 %; riesgo proyectado a los 75 años: 37,1 %.",
+        "Edad mediana de inicio de cualquier trastorno: 20 años.",
+        "Trastornos con mayor prevalencia de vida: depresión mayor (8,7 %), abuso de alcohol (8,1 %) y fobia específica (6,8 %)."
+      ],
+      "fuente": "Resumen en ri.conicet.gov.ar/handle/11336/99344; DOI y PMID según el registro de GHDx",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-016",
+      "referencia_corta": "Flückiger et al. (2022), J Consult Clin Psychol",
+      "cita": "Flückiger, C., Carratta, K., Del Re, A. C., Probst, G., Vîslă, A., Gómez Penedo, J. M., & Wampold, B. E. (2022). The relative efficacy of bona fide cognitive behavioral therapy and applied relaxation for generalized anxiety disorder at follow-up: A longitudinal multilevel meta-analysis. _Journal of Consulting and Clinical Psychology_, 90(4), 339–352.",
+      "cita_breve": "Flückiger, C., et al. (2022). The relative efficacy of bona fide CBT and applied relaxation for generalized anxiety disorder at follow-up. _Journal of Consulting and Clinical Psychology_, 90(4), 339–352.",
+      "doi": "10.1037/ccp0000717",
+      "pmid": "35311299",
+      "diseno": "Metaanálisis multinivel longitudinal",
+      "region": "Europa",
+      "paises": [
+        "Suiza",
+        "Argentina",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "54 tamaños del efecto repetidos, anidados en 23 estudios, desde el final del tratamiento hasta el seguimiento.",
+        "Sin diferencias significativas entre psicoterapias de buena fe en los resultados primarios; algunas en los secundarios (depresión).",
+        "Relajación aplicada frente a TCC sin relajación aplicada: diferencias de eficacia relativa insignificantes en cada momento de evaluación.",
+        "Pequeñas ventajas de la TCC integrativa aumentada frente a la TCC bien establecida."
+      ],
+      "fuente": "Resumen (registro ri.conicet.gov.ar/handle/11336/200247; PMID 35311299 según BVS)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "S-014",
+      "razon": "Cita completa y DOI confirmados. La región pasa a Europa: el primer autor está en Suiza y la autoría argentina es una coautoría (J. M. Gómez Penedo, UBA y CONICET). La fuente con autoría principal argentina es S-015.",
       "folio": ""
     }
   ],
@@ -786,6 +838,25 @@
       "verificado_el": "2026-11-07",
       "supersede": "P-010",
       "razon": "Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba."
+    },
+    {
+      "id": "P-021",
+      "fecha": "2026-12-10",
+      "hora": "11:00",
+      "titulo": "¿A qué edad comienzan los trastornos mentales?",
+      "cuerpo": "Cía, Stagnaro y colaboradores (2018) encuestaron a 3927 adultos de zonas urbanas de Argentina, con la entrevista diagnóstica de la OMS.\n\n*El 29,1 % había presentado algún trastorno mental a lo largo de la vida*, y el riesgo proyectado a los 75 años, al 37,1 %. *La edad mediana de inicio fue de 20 años*. Los más frecuentes: depresión mayor (8,7 %), abuso de alcohol (8,1 %) y fobia específica (6,8 %).\n\n💡 _Para la práctica:_ la adolescencia y la juventud son una ventana clave para la detección temprana.\n\n¿A qué edad llegan sus pacientes a la primera consulta?",
+      "estudios": [
+        "S-015"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio epidemiológico · Argentina",
+        "cifra": "29,1 %",
+        "frase": "Adultos con algún trastorno mental a lo largo de la vida; edad mediana de inicio, 20 años."
+      },
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación."
     }
   ]
 }

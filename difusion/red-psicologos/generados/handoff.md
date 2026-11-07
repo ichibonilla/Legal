@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2026-12-07. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2026-12-10. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
 
 ## Horario
 
@@ -36,7 +36,7 @@ Todavía no hay métricas registradas.
 - **S-001** — VERIFICADO — Estados Unidos — Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. _American Psychologist_, 65(2), 98–109. https://doi.org/10.1037/a0018378
 - **S-002** — VERIFICADO — Europa — Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis. _Psychotherapy_, 55(4), 316–340. https://doi.org/10.1037/pst0000172
 - **S-003** — VERIFICADO — Europa — Steinert, C., Munder, T., Rabung, S., Hoyer, J., & Leichsenring, F. (2017). Psychodynamic therapy: As efficacious as other empirically supported treatments? A meta-analysis testing equivalence of outcomes. _American Journal of Psychiatry_, 174(10), 943–953. https://doi.org/10.1176/appi.ajp.2017.17010057
-- **S-004** — POR VERIFICAR — Estados Unidos — Hayes, J. A., Gelso, C. J., Goldberg, S., & Kivlighan, D. M. (2018). Countertransference management and effective psychotherapy: Meta-analytic findings. _Psychotherapy_, 55(4), 496–507. https://doi.org/10.1037/pst0000189
+- **S-004** — VERIFICADO — Estados Unidos — Hayes, J. A., Gelso, C. J., Goldberg, S., & Kivlighan, D. M. (2018). Countertransference management and effective psychotherapy: Meta-analytic findings. _Psychotherapy_, 55(4), 496–507. https://doi.org/10.1037/pst0000189
 - **S-005** — VERIFICADO — Europa — Smit, Y., Huibers, M. J. H., Ioannidis, J. P. A., van Dyck, R., van Tilburg, W., & Arntz, A. (2012). The effectiveness of long-term psychoanalytic psychotherapy: A meta-analysis of randomized controlled trials. _Clinical Psychology Review_, 32(2), 81–92. https://doi.org/10.1016/j.cpr.2011.11.003
 - **S-006** — VERIFICADO — Estados Unidos — Keefe, J. R., McCarthy, K. S., Dinger, U., Zilcha-Mano, S., & Barber, J. P. (2014). A meta-analytic review of psychodynamic therapies for anxiety disorders. _Clinical Psychology Review_, 34(4), 309–323. https://doi.org/10.1016/j.cpr.2014.03.004
 - **S-007** — VERIFICADO — Estados Unidos — Eubanks, C. F., Muran, J. C., & Safran, J. D. (2018). Alliance rupture repair: A meta-analysis. _Psychotherapy_, 55(4), 508–519. https://doi.org/10.1037/pst0000185
@@ -46,10 +46,13 @@ Todavía no hay métricas registradas.
 - **S-011** — VERIFICADO — Europa — Leichsenring, F., Abbass, A., Luyten, P., Hilsenroth, M., & Rabung, S. (2013). The emerging evidence for long-term psychodynamic therapy. _Psychodynamic Psychiatry_, 41(3), 361–384. https://doi.org/10.1521/pdps.2013.41.3.361
 - **S-012** — VERIFICADO — Asia — Furukawa, T. A., Noma, H., Caldwell, D. M., Honyashiki, M., Shinohara, K., Imai, H., Chen, P., Hunot, V., & Churchill, R. (2014). Waiting list may be a nocebo condition in psychotherapy trials: A contribution from network meta-analysis. _Acta Psychiatrica Scandinavica_, 130(3), 181–192. https://doi.org/10.1111/acps.12275
 - **S-013** — VERIFICADO — México — Benjet, C., Bromet, E., Karam, E. G., Kessler, R. C., McLaughlin, K. A., Ruscio, A. M., … Koenen, K. C. (2016). The epidemiology of traumatic event exposure worldwide: Results from the World Mental Health Survey Consortium. _Psychological Medicine_, 46(2), 327–343. https://doi.org/10.1017/S0033291715001981
-- **S-014** — PENDIENTE — Argentina — Metaanálisis multinivel longitudinal sobre la eficacia a largo plazo de psicoterapias de buena fe para el trastorno de ansiedad generalizada, con coautoría de J. M. Gómez Penedo (UBA y CONICET). Cita completa por confirmar.
+- **S-014** (superado por S-016) — PENDIENTE — Argentina — Metaanálisis multinivel longitudinal sobre la eficacia a largo plazo de psicoterapias de buena fe para el trastorno de ansiedad generalizada, con coautoría de J. M. Gómez Penedo (UBA y CONICET). Cita completa por confirmar.
+- **S-015** — VERIFICADO — Argentina — Cía, A., Stagnaro, J. C., et al. (2018). Lifetime prevalence and age-of-onset of mental disorders in adults from the Argentinean Study of Mental Health Epidemiology. _Social Psychiatry and Psychiatric Epidemiology_, 53(4), 341–350. https://doi.org/10.1007/s00127-018-1492-3
+- **S-016** — VERIFICADO — Europa — Flückiger, C., Carratta, K., Del Re, A. C., Probst, G., Vîslă, A., Gómez Penedo, J. M., & Wampold, B. E. (2022). The relative efficacy of bona fide cognitive behavioral therapy and applied relaxation for generalized anxiety disorder at follow-up: A longitudinal multilevel meta-analysis. _Journal of Consulting and Clinical Psychology_, 90(4), 339–352. https://doi.org/10.1037/ccp0000717
 
 ## Registros reemplazados
 
+- S-014 → S-016 (2026-11-07): Cita completa y DOI confirmados. La región pasa a Europa: el primer autor está en Suiza y la autoría argentina es una coautoría (J. M. Gómez Penedo, UBA y CONICET). La fuente con autoría principal argentina es S-015.
 - P-001 → P-011 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.
 - P-002 → P-012 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.
 - P-003 → P-013 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.

@@ -88,7 +88,7 @@ En los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar
 
 927 caracteres · 82 palabras en el cuerpo.
 
-> Antes de publicar: S-004: POR VERIFICAR. La cifra r = .39 (k = 9, N = 392) solo se confirmó en una fuente secundaria; cotejar contra el resumen o el texto completo antes del 2026-11-19.
+> Lista para publicar.
 
 ```
 📊 *Contratransferencia: lo que muestran los datos*

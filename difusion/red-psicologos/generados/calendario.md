@@ -27,3 +27,4 @@ Registro actualizado el 2026-11-07. Frecuencia: cada 3 días. Franjas en prueba:
 | 2026-12-04 | 21:30 | P-019 | VERIFICADO | Empatía: comprender y que el otro lo sienta | S-009 (Europa) | — |
 | 2026-12-07 | 07:30 | ~~P-010~~ (superada por P-020) | VERIFICADO | Trastorno límite de la personalidad: eficacia con matices | S-010 (Europa) | — |
 | 2026-12-07 | 08:00 | P-020 | VERIFICADO | Trastorno límite: eficacia con matices | S-010 (Europa) | — |
+| 2026-12-10 | 11:00 | P-021 | POR VERIFICAR | ¿A qué edad comienzan los trastornos mentales? | S-015 (Argentina) | — |
