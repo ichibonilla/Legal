@@ -12,7 +12,9 @@ La fuente única es `difusion/red-psicologos/registro.json`. Todo lo demás se g
 ## 1. Fuentes
 
 - Solo evidencia de alto grado que se siga sosteniendo: metaanálisis, metaanálisis en red, revisiones sistemáticas (Cochrane incluidas), grandes bases de datos y consorcios internacionales, y revisiones de alto impacto.
-- Origen internacional, en las regiones admitidas por el registro: Estados Unidos, México, Argentina, Europa y Asia. Cada lote incluye al menos una fuente de América Latina y una de Asia cuando exista evidencia de ese nivel; si no existe, se deja constancia en el registro como PENDIENTE, sin rebajar el estándar.
+- Origen: cualquier país con investigación de alto grado. La referencia son los 38 miembros de la OCDE, y la puerta está abierta a todo país con metaanálisis, revisiones sistemáticas o grandes bases de datos (encuestas nacionales, consorcios multinacionales). Lo que decide es el nivel de evidencia, no el país.
+- Cada estudio registra `tipo_evidencia` (metaanálisis, revisión sistemática, grandes bases de datos o revisión de alto impacto), `region` y `paises`; el primer país de `paises` es el de la afiliación del primer autor.
+- Diversidad en cada lote: al menos una fuente de América Latina y una de Asia cuando exista evidencia de ese nivel, y ningún país con más de la mitad de los primeros autores. `generados/cobertura.md` muestra los países de la OCDE cubiertos y los que faltan; los lotes siguientes priorizan los que faltan, sin rebajar el estándar. Si no existe evidencia de ese nivel, se deja constancia en el registro como PENDIENTE.
 - Campos clínicos: psicoterapia en general, psicoanálisis y psicodinámica como eje, y de vez en cuando hallazgos que matizan o cuestionan el enfoque psicodinámico. Eso le da credibilidad al grupo frente a colegas de otras orientaciones.
 - Antes de usar un estudio, revisar si fue superado por una actualización o si recibió críticas publicadas. Si las recibió, la pieza las menciona.
 
@@ -107,7 +109,7 @@ Revisar estas reglas en el Centro de ayuda de WhatsApp (sección «Cómo dar for
 
 ## 7. Flujo de cada lote
 
-1. Revisar `generados/handoff.md` y `generados/horarios.md`: cobertura, pendientes y mejores franjas.
+1. Revisar `generados/handoff.md`, `generados/horarios.md` y `generados/cobertura.md`: cobertura de fechas, pendientes, mejores franjas y países que faltan.
 2. Elegir de 10 a 11 estudios para los 30 días siguientes, con variedad de temas, formatos y regiones. Cotejarlos y registrarlos como `S-xxx`.
 3. Redactar las piezas `P-xxx` con fecha, hora, título, cuerpo, estudios y tarjeta (`rotulo`, `cifra`, `frase`).
 4. `python3 herramientas/difusion.py cerrar`, para validar y regenerar el lote, las piezas, las tarjetas, el calendario, los horarios, los pendientes y el handoff. Para un lote que empieza en otra fecha: `cerrar --desde AAAA-MM-DD`, que escribe `generados/lote_AAAA-MM-DD.md` y lo mantiene al día en cada cierre.

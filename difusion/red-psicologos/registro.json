@@ -17,7 +17,7 @@
       "Horario en prueba: cinco franjas (8:00, 11:00, 14:00, 18:00 y 21:30), cada una dos veces y en días distintos. Con las métricas de cada pieza se eligen las mejores franjas y se reserva una de cada cuatro publicaciones para seguir probando.",
       "Cada pieza es un solo mensaje: la tarjeta con el texto como descripción, de 1024 caracteres como máximo, para que la cita y el enlace viajen juntos cuando se reenvía.",
       "Título de 60 caracteres como máximo; hallazgo principal en negrita; cuerpo de unas 80 a 90 palabras; cierre con una pregunta abierta a los colegas; cita APA con DOI; enlace del grupo al final.",
-      "Fuentes internacionales de alto grado de evidencia que se sigan sosteniendo (metaanálisis, revisiones sistemáticas, grandes bases de datos), de Estados Unidos, México, Argentina, Europa y Asia. Cada lote incluye al menos una de América Latina y una de Asia cuando exista evidencia de ese nivel.",
+      "Fuentes de cualquier país, con referencia en los 38 miembros de la OCDE y abiertas a todo país con investigación de alto grado: metaanálisis, revisiones sistemáticas o grandes bases de datos (encuestas nacionales y consorcios multinacionales). Lo que decide es el nivel de evidencia, no el país. Cada lote incluye al menos una fuente de América Latina y una de Asia cuando exista evidencia de ese nivel, y ningún país concentra más de la mitad de los primeros autores.",
       "De vez en cuando, hallazgos que matizan o cuestionan el enfoque psicodinámico.",
       "Cada cifra de una pieza debe constar en los hallazgos del estudio citado; si no consta, no se publica.",
       "Tarjeta visual en la paleta, sin logotipo ni marca institucional."
@@ -36,10 +36,60 @@
     "limite_caracteres": 1024,
     "regiones": [
       "Estados Unidos",
+      "Canadá",
       "México",
       "Argentina",
+      "América Latina",
       "Europa",
-      "Asia"
+      "Asia",
+      "Oceanía",
+      "África"
+    ],
+    "tipos_evidencia": [
+      "metaanálisis",
+      "revisión sistemática",
+      "grandes bases de datos",
+      "revisión de alto impacto"
+    ],
+    "ocde": [
+      "Alemania",
+      "Australia",
+      "Austria",
+      "Bélgica",
+      "Canadá",
+      "Chile",
+      "Colombia",
+      "Corea del Sur",
+      "Costa Rica",
+      "Dinamarca",
+      "Eslovaquia",
+      "Eslovenia",
+      "España",
+      "Estados Unidos",
+      "Estonia",
+      "Finlandia",
+      "Francia",
+      "Grecia",
+      "Hungría",
+      "Irlanda",
+      "Islandia",
+      "Israel",
+      "Italia",
+      "Japón",
+      "Letonia",
+      "Lituania",
+      "Luxemburgo",
+      "México",
+      "Noruega",
+      "Nueva Zelanda",
+      "Países Bajos",
+      "Polonia",
+      "Portugal",
+      "Reino Unido",
+      "República Checa",
+      "Suecia",
+      "Suiza",
+      "Turquía"
     ]
   },
   "estudios": [
@@ -51,6 +101,7 @@
       "doi": "10.1037/a0018378",
       "pmid": "20141265",
       "diseno": "Revisión de la evidencia empírica",
+      "tipo_evidencia": "revisión de alto impacto",
       "region": "Estados Unidos",
       "paises": [
         "Estados Unidos"
@@ -76,6 +127,7 @@
       "doi": "10.1037/pst0000172",
       "pmid": "29792475",
       "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Suiza",
@@ -103,6 +155,7 @@
       "doi": "10.1176/appi.ajp.2017.17010057",
       "pmid": "28541091",
       "diseno": "Metaanálisis de equivalencia",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Alemania"
@@ -128,6 +181,7 @@
       "doi": "10.1037/pst0000189",
       "pmid": "30335461",
       "diseno": "Tres metaanálisis",
+      "tipo_evidencia": "metaanálisis",
       "region": "Estados Unidos",
       "paises": [
         "Estados Unidos"
@@ -153,6 +207,7 @@
       "doi": "10.1016/j.cpr.2011.11.003",
       "pmid": "22227111",
       "diseno": "Metaanálisis de ensayos aleatorizados",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Países Bajos",
@@ -177,6 +232,7 @@
       "doi": "10.1016/j.cpr.2014.03.004",
       "pmid": "24786897",
       "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
       "region": "Estados Unidos",
       "paises": [
         "Estados Unidos",
@@ -203,6 +259,7 @@
       "doi": "10.1037/pst0000185",
       "pmid": "30335462",
       "diseno": "Dos metaanálisis",
+      "tipo_evidencia": "metaanálisis",
       "region": "Estados Unidos",
       "paises": [
         "Estados Unidos"
@@ -227,6 +284,7 @@
       "doi": "10.1016/j.cpr.2015.07.004",
       "pmid": "26281018",
       "diseno": "Metaanálisis (actualización)",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Países Bajos",
@@ -253,6 +311,7 @@
       "doi": "10.1037/pst0000175",
       "pmid": "30335453",
       "diseno": "Metaanálisis (actualización)",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Reino Unido",
@@ -279,6 +338,7 @@
       "doi": "10.1001/jamapsychiatry.2016.4287",
       "pmid": "28249086",
       "diseno": "Revisión sistemática y metaanálisis",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Italia",
@@ -306,6 +366,7 @@
       "doi": "10.1521/pdps.2013.41.3.361",
       "pmid": "24001160",
       "diseno": "Revisión",
+      "tipo_evidencia": "revisión de alto impacto",
       "region": "Europa",
       "paises": [
         "Alemania",
@@ -333,6 +394,7 @@
       "doi": "10.1111/acps.12275",
       "pmid": "24697518",
       "diseno": "Metaanálisis en red",
+      "tipo_evidencia": "metaanálisis",
       "region": "Asia",
       "paises": [
         "Japón",
@@ -359,6 +421,7 @@
       "doi": "10.1017/S0033291715001981",
       "pmid": "26511595",
       "diseno": "Encuestas poblacionales de 24 países (Consorcio de Encuestas Mundiales de Salud Mental)",
+      "tipo_evidencia": "grandes bases de datos",
       "region": "México",
       "paises": [
         "México",
@@ -387,6 +450,7 @@
       "doi": "",
       "pmid": "",
       "diseno": "Metaanálisis multinivel longitudinal",
+      "tipo_evidencia": "metaanálisis",
       "region": "Argentina",
       "paises": [
         "Suiza",
@@ -411,6 +475,7 @@
       "doi": "10.1007/s00127-018-1492-3",
       "pmid": "29459988",
       "diseno": "Encuesta epidemiológica en hogares, muestreo probabilístico por conglomerados (WMH-CIDI de la OMS)",
+      "tipo_evidencia": "grandes bases de datos",
       "region": "Argentina",
       "paises": [
         "Argentina"
@@ -436,6 +501,7 @@
       "doi": "10.1037/ccp0000717",
       "pmid": "35311299",
       "diseno": "Metaanálisis multinivel longitudinal",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Suiza",
@@ -463,6 +529,7 @@
       "doi": "10.1016/S2215-0366(15)00155-8",
       "pmid": "26303562",
       "diseno": "Revisión sistemática con criterios actualizados",
+      "tipo_evidencia": "revisión sistemática",
       "region": "Europa",
       "paises": [
         "Alemania",
@@ -491,6 +558,7 @@
       "doi": "10.1037/a0028226",
       "pmid": "22506792",
       "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
       "region": "Estados Unidos",
       "paises": [
         "Estados Unidos"
@@ -515,6 +583,7 @@
       "doi": "10.4088/JCP.08m04967blu",
       "pmid": "",
       "diseno": "Encuestas Mundiales de Salud Mental de la OMS (2001-2007)",
+      "tipo_evidencia": "grandes bases de datos",
       "region": "México",
       "paises": [
         "México",
@@ -542,6 +611,7 @@
       "doi": "10.1192/bjp.bp.109.066001",
       "pmid": "20194536",
       "diseno": "Metaanálisis de sesgo de publicación",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Países Bajos",
@@ -568,6 +638,7 @@
       "doi": "10.1016/j.cpr.2018.08.004",
       "pmid": "30442478",
       "diseno": "Revisión sistemática",
+      "tipo_evidencia": "revisión sistemática",
       "region": "Europa",
       "paises": [
         "Reino Unido"
@@ -592,6 +663,7 @@
       "doi": "10.1016/S2215-0366(21)00077-8",
       "pmid": "",
       "diseno": "Metaanálisis en red de componentes con datos individuales",
+      "tipo_evidencia": "metaanálisis",
       "region": "Asia",
       "paises": [
         "Japón",
@@ -621,6 +693,7 @@
       "doi": "10.1002/wps.20089",
       "pmid": "24497254",
       "diseno": "Metaanálisis de ensayos aleatorizados",
+      "tipo_evidencia": "metaanálisis",
       "region": "Europa",
       "paises": [
         "Países Bajos",

@@ -12,7 +12,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 - Horario en prueba: cinco franjas (8:00, 11:00, 14:00, 18:00 y 21:30), cada una dos veces y en días distintos. Con las métricas de cada pieza se eligen las mejores franjas y se reserva una de cada cuatro publicaciones para seguir probando.
 - Cada pieza es un solo mensaje: la tarjeta con el texto como descripción, de 1024 caracteres como máximo, para que la cita y el enlace viajen juntos cuando se reenvía.
 - Título de 60 caracteres como máximo; hallazgo principal en negrita; cuerpo de unas 80 a 90 palabras; cierre con una pregunta abierta a los colegas; cita APA con DOI; enlace del grupo al final.
-- Fuentes internacionales de alto grado de evidencia que se sigan sosteniendo (metaanálisis, revisiones sistemáticas, grandes bases de datos), de Estados Unidos, México, Argentina, Europa y Asia. Cada lote incluye al menos una de América Latina y una de Asia cuando exista evidencia de ese nivel.
+- Fuentes de cualquier país, con referencia en los 38 miembros de la OCDE y abiertas a todo país con investigación de alto grado: metaanálisis, revisiones sistemáticas o grandes bases de datos (encuestas nacionales y consorcios multinacionales). Lo que decide es el nivel de evidencia, no el país. Cada lote incluye al menos una fuente de América Latina y una de Asia cuando exista evidencia de ese nivel, y ningún país concentra más de la mitad de los primeros autores.
 - De vez en cuando, hallazgos que matizan o cuestionan el enfoque psicodinámico.
 - Cada cifra de una pieza debe constar en los hallazgos del estudio citado; si no consta, no se publica.
 - Tarjeta visual en la paleta, sin logotipo ni marca institucional.

@@ -33,7 +33,7 @@ from pathlib import Path
 
 ESTADOS = ("VERIFICADO", "POR VERIFICAR", "PENDIENTE")
 COMUNES = ("id", "estado", "verificado_el", "supersede", "razon")
-CAMPOS_ESTUDIO = COMUNES + ("cita", "cita_breve", "doi", "pmid", "diseno", "region", "paises",
+CAMPOS_ESTUDIO = COMUNES + ("cita", "cita_breve", "doi", "pmid", "diseno", "tipo_evidencia", "region", "paises",
                             "hallazgos", "fuente", "folio")
 CAMPOS_PIEZA = COMUNES + ("fecha", "hora", "titulo", "estudios", "tarjeta")
 SECCIONES = ("gancho", "introduccion", "desarrollo", "conclusion")
@@ -88,7 +88,7 @@ def validar(d):
     errores = []
     p = d["proyecto"]
     for c in ("nombre", "enlace", "cierre", "frecuencia_dias", "franjas", "ventana_horaria",
-              "limite_caracteres", "regiones", "actualizado_el", "excluir"):
+              "limite_caracteres", "regiones", "tipos_evidencia", "ocde", "actualizado_el", "excluir"):
         if c not in p:
             errores.append(f"proyecto: falta el campo «{c}».")
     for grupo, campos in (("estudios", CAMPOS_ESTUDIO), ("piezas", CAMPOS_PIEZA)):
@@ -121,6 +121,10 @@ def validar(d):
     for e in d.get("estudios", []):
         if e.get("region") not in p.get("regiones", []):
             errores.append(f"{e['id']}: región «{e.get('region')}» fuera de las admitidas.")
+        if e.get("tipo_evidencia") not in p.get("tipos_evidencia", []):
+            errores.append(f"{e['id']}: tipo de evidencia «{e.get('tipo_evidencia')}» fuera de los admitidos.")
+        if not e.get("paises"):
+            errores.append(f"{e['id']}: sin países de afiliación.")
     ids_est = {r["id"] for r in d.get("estudios", [])}
     ini, fin = p.get("ventana_horaria", ["00:00", "23:59"])
     for r in d.get("piezas", []):
@@ -239,16 +243,45 @@ def ventana(d, desde, dias):
             if desde.isoformat() <= r["fecha"] <= hasta.isoformat()]
 
 
+def pais_principal(e):
+    """País de la afiliación del primer autor (el primero de `paises`)."""
+    return e["paises"][0] if e.get("paises") else "—"
+
+
 def diversidad(d, piezas):
-    """Regiones representadas en un conjunto de piezas y avisos de las que faltan."""
+    """Regiones de un conjunto de piezas y avisos de diversidad geográfica."""
     est = {r["id"]: r for r in d["estudios"]}
-    regiones = sorted({est[s]["region"] for r in piezas for s in r["estudios"] if s in est})
+    usados = [est[s] for r in piezas for s in r["estudios"] if s in est]
+    regiones = sorted({e["region"] for e in usados})
     avisos = []
-    if not {"México", "Argentina"} & set(regiones):
-        avisos.append("ningún estudio de México o Argentina")
+    if not {"México", "Argentina", "América Latina"} & set(regiones):
+        avisos.append("ningún estudio de América Latina")
     if "Asia" not in regiones:
         avisos.append("ningún estudio de Asia")
+    if len(usados) >= 4:
+        conteo = {}
+        for e in usados:
+            conteo[pais_principal(e)] = conteo.get(pais_principal(e), 0) + 1
+        pais, n = max(conteo.items(), key=lambda x: x[1])
+        if n > len(usados) / 2:
+            avisos.append(f"{n} de {len(usados)} fuentes con primer autor en {pais}")
     return regiones, avisos
+
+
+def cobertura(d):
+    """Países con estudios vigentes, separados entre miembros de la OCDE y el resto."""
+    sup = superados(d["estudios"])
+    por_pais = {}
+    for e in d["estudios"]:
+        if e["id"] in sup:
+            continue
+        for pais in e["paises"]:
+            if not pais.startswith("consorcio"):
+                por_pais.setdefault(pais, []).append(e)
+    ocde = d["proyecto"]["ocde"]
+    return ({c: por_pais[c] for c in ocde if c in por_pais},
+            {c: v for c, v in sorted(por_pais.items()) if c not in ocde},
+            [c for c in ocde if c not in por_pais])
 
 
 # ---------------------------------------------------------------- horarios
@@ -451,6 +484,22 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
     lineas.append("\n" + recomendacion(res))
     (out / "horarios.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
+    # Cobertura por país
+    en_ocde, fuera, faltan = cobertura(d)
+    lineas = [cab, f"# Cobertura por país — {p['nombre']}\n",
+              "Países de afiliación de los autores de los estudios vigentes. Los datos de consorcios "
+              "multinacionales no se desglosan por país.\n",
+              f"## OCDE: {len(en_ocde)} de {len(p['ocde'])} países\n",
+              "| País | Estudios | Como primer autor |", "|---|---|---|"]
+    for c, es in sorted(en_ocde.items(), key=lambda x: -len(x[1])):
+        primeros = sum(1 for e in es if pais_principal(e) == c)
+        lineas.append(f"| {c} | {', '.join(e['id'] for e in es)} | {primeros} |")
+    lineas.append(f"\n## Fuera de la OCDE ({len(fuera)})\n")
+    lineas += [f"- {c}: {', '.join(e['id'] for e in es)}" for c, es in fuera.items()]
+    lineas.append(f"\n## Miembros de la OCDE sin estudios ({len(faltan)})\n")
+    lineas.append(", ".join(faltan) + ".")
+    (out / "cobertura.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
+
     # Pendientes
     ev = vigentes(d["estudios"])
     lineas = [cab, "# Pendientes y por verificar\n"]
@@ -496,7 +545,7 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
                    for r in sup]
     (out / "handoff.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
-    archivos = ["lote.md", "calendario.md", "horarios.md", "pendientes.md", "handoff.md",
+    archivos = ["lote.md", "calendario.md", "horarios.md", "cobertura.md", "pendientes.md", "handoff.md",
                 f"piezas/ ({len(vig)})"]
     if con_tarjetas:
         t_dir = out / "tarjetas"
@@ -596,7 +645,7 @@ def main():
             print(f"Aviso: la programación no cubre los próximos 30 días (hasta {objetivo}).")
         _, avisos = diversidad(d, ventana(d, date.today(), 30))
         if avisos:
-            print(f"Aviso de regiones en los próximos 30 días: {'; '.join(avisos)}.")
+            print(f"Aviso de diversidad en los próximos 30 días: {'; '.join(avisos)}.")
     return 0
 
 
