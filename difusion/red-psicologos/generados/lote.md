@@ -9,20 +9,22 @@ Regiones de las fuentes: Asia, Estados Unidos, Europa, México.
 
 ---
 
-## 2026-11-10 · 08:00 · P-011
+## 2026-11-10 · 08:00 · P-023
 
-857 caracteres · 73 palabras en el cuerpo.
+881 caracteres · 68 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
-📊 *¿La mejoría continúa al terminar la terapia?*
+¿Y si la terapia siguiera haciendo efecto después de la última sesión?
 
-Shedler (2010) revisó la evidencia empírica sobre la psicoterapia psicodinámica. Sus tamaños del efecto resultaron *comparables a los de tratamientos presentados como empíricamente validados*.
+📊 *Psicoterapia psicodinámica: lo que dice la evidencia*
 
-El hallazgo más llamativo es temporal: *los pacientes mantienen lo logrado y parecen seguir mejorando después de concluido el tratamiento*.
+Jonathan Shedler (2010) revisó la evidencia empírica sobre la eficacia de la psicoterapia psicodinámica.
 
-💡 _Para la práctica:_ el artículo sugiere que parte de la eficacia de otros enfoques podría deberse a técnicas centrales de la práctica psicodinámica.
+Sus tamaños del efecto resultaron *comparables a los de tratamientos presentados como empíricamente validados*. Y algo más: *los pacientes mantienen lo logrado y parecen seguir mejorando después de terminar el tratamiento*.
+
+💡 Lo que se pone en marcha en una psicoterapia no siempre se detiene cuando terminan las sesiones.
 
 ¿Lo han observado en sus seguimientos?
 
@@ -34,20 +36,22 @@ El hallazgo más llamativo es temporal: *los pacientes mantienen lo logrado y pa
 
 ---
 
-## 2026-11-13 · 11:00 · P-012
+## 2026-11-13 · 11:00 · P-024
 
-865 caracteres · 80 palabras en el cuerpo.
+935 caracteres · 77 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
-📊 *La alianza terapéutica en 295 estudios*
+295 estudios y más de 30 000 pacientes apuntan en la misma dirección: el vínculo importa.
 
-Flückiger y colaboradores (2018) integraron 295 estudios independientes, con más de 30 000 pacientes. *La asociación entre alianza y resultado fue r = 0,278 en la psicoterapia presencial*, y prácticamente igual en la atención por internet (r = 0,275).
+📊 *La alianza terapéutica, bajo la lupa*
 
-Los autores concluyen que esta relación es robusta.
+Flückiger y colaboradores (2018) los reunieron en un metaanálisis, con estudios publicados entre 1978 y 2017.
 
-💡 _Para la práctica:_ el acuerdo sobre metas y tareas, y el vínculo afectivo, *se asocian de manera consistente con lo que el paciente logra*, también en línea.
+*La asociación entre alianza y resultado fue r = 0,278 en la psicoterapia presencial*, y prácticamente igual en la atención por internet (r = 0,275). Los autores la describen como una relación robusta.
+
+💡 El acuerdo sobre metas y tareas, y el vínculo afectivo, acompañan de manera consistente lo que el paciente logra, también en línea.
 
 ¿Cómo cuidan la alianza en la atención virtual?
 
@@ -59,20 +63,22 @@ Los autores concluyen que esta relación es robusta.
 
 ---
 
-## 2026-11-16 · 14:00 · P-013
+## 2026-11-16 · 14:00 · P-025
 
-973 caracteres · 81 palabras en el cuerpo.
+1012 caracteres · 73 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
-📊 *¿Tan eficaz como otros tratamientos establecidos?*
+¿Está la psicodinámica a la altura de los tratamientos establecidos? Un metaanálisis lo puso a prueba.
 
-Steinert y colaboradores (2017) realizaron el primer metaanálisis que puso a prueba formalmente la equivalencia entre la psicoterapia psicodinámica y tratamientos de eficacia establecida.
+📊 *Psicodinámica: la prueba de equivalencia*
 
-En los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar y −0,049 en el seguimiento) y *quedó dentro de los márgenes de equivalencia*.
+Steinert y colaboradores (2017) realizaron el primer metaanálisis que probó formalmente su equivalencia frente a tratamientos de eficacia establecida.
 
-💡 _Para la práctica:_ el estudio recibió críticas metodológicas en la misma revista, y los autores respondieron. Leer ambos textos permite formarse un criterio propio.
+En los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar y −0,049 en el seguimiento) y *quedó dentro de los márgenes de equivalencia*. El estudio recibió críticas metodológicas, y los autores respondieron.
+
+💡 Leer el estudio junto con sus críticas permite formarse un criterio propio.
 
 ¿Qué tipo de evidencia les resulta más convincente?
 
@@ -84,18 +90,22 @@ En los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar
 
 ---
 
-## 2026-11-19 · 18:00 · P-014
+## 2026-11-19 · 18:00 · P-026
 
-927 caracteres · 82 palabras en el cuerpo.
+1005 caracteres · 80 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
+Sentir la contratransferencia es parte del trabajo. Los datos señalan qué marca la diferencia.
+
 📊 *Contratransferencia: lo que muestran los datos*
 
-Hayes y colaboradores (2018) presentaron tres metaanálisis. Las reacciones contratransferenciales se asociaron de forma inversa y modesta con el resultado (r = −0,16). Los factores de manejo atenuaron esas reacciones (r = −0,27). Y *un manejo exitoso se relacionó con mejores resultados* (r = 0,39). En los tres hubo heterogeneidad significativa.
+Hayes y colaboradores (2018) presentaron tres metaanálisis sobre el tema.
 
-💡 _Para la práctica:_ *lo decisivo no parece ser la contratransferencia en sí, sino lo que el terapeuta hace con ella*.
+Las reacciones contratransferenciales se asociaron de forma inversa y modesta con el resultado (r = −0,16), y los factores de manejo las atenuaron (r = −0,27). En cambio, *un manejo exitoso se relacionó con mejores resultados* (r = 0,39). Hubo heterogeneidad significativa.
+
+💡 *Lo decisivo no parece ser la contratransferencia en sí, sino lo que el terapeuta hace con ella.*
 
 ¿Qué les ayuda más a trabajarla: la supervisión, el análisis personal u otra vía?
 
@@ -107,20 +117,22 @@ Hayes y colaboradores (2018) presentaron tres metaanálisis. Las reacciones cont
 
 ---
 
-## 2026-11-22 · 21:30 · P-015
+## 2026-11-22 · 21:30 · P-027
 
-1016 caracteres · 67 palabras en el cuerpo.
+1022 caracteres · 58 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
-📊 *Tratamientos largos: debate abierto*
+¿Conviene un tratamiento largo? La evidencia no da una sola respuesta.
 
-Para Smit y colaboradores (2012), *la evidencia de la psicoterapia psicoanalítica de largo plazo es limitada y, en el mejor de los casos, contradictoria*. Frente a otras psicoterapias especializadas, no mostró ventaja.
+📊 *Tratamientos largos: un debate*
 
-Leichsenring y colaboradores (2013) replican: *para muchos pacientes con trastornos complejos, crónicos o de personalidad, la terapia breve no basta*.
+Smit y colaboradores (2012) analizaron ensayos de psicoterapia psicoanalítica de largo plazo.
 
-💡 _Para la práctica:_ conocer ambos lados fortalece el criterio.
+Para ellos, *la evidencia es limitada y, en el mejor de los casos, contradictoria*. Leichsenring y colaboradores (2013) replican: *para muchos pacientes con trastornos complejos, crónicos o de personalidad, la terapia breve no basta*.
+
+💡 Conocer ambos lados fortalece el criterio.
 
 ¿Cómo deciden cuánto dura un tratamiento?
 
@@ -134,22 +146,24 @@ Leichsenring, F., et al. (2013). The emerging evidence for long-term psychodynam
 
 ---
 
-## 2026-11-25 · 11:00 · P-016
+## 2026-11-25 · 11:00 · P-028
 
-948 caracteres · 89 palabras en el cuerpo.
+1008 caracteres · 85 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
-📊 *¿Esperar también tiene efectos?*
+Esperar a ser atendido podría no ser neutral. Un estudio desde Japón lo sugiere.
 
-Desde la Universidad de Kioto, Furukawa y colaboradores (2014) realizaron un metaanálisis en red de 49 ensayos de terapia cognitivo-conductual para la depresión, con 2730 participantes.
+📊 *La lista de espera, ¿un control neutral?*
 
-*Quienes no recibieron tratamiento tuvieron mejor respuesta que quienes estaban en lista de espera* (OR = 2,9). La espera podría actuar como nocebo e inflar la eficacia aparente de las terapias. Los autores lo presentan como un hallazgo exploratorio.
+Furukawa y colaboradores (2014), de la Universidad de Kioto, hicieron un metaanálisis en red de 49 ensayos de terapia cognitivo-conductual para la depresión, con 2730 participantes.
 
-💡 _Para la práctica:_ al leer un ensayo, *el grupo control importa tanto como el tratamiento*.
+*Quienes no recibieron tratamiento respondieron mejor que quienes estaban en lista de espera* (OR = 2,9). La espera podría actuar como nocebo e inflar la eficacia aparente de las terapias. Los autores lo presentan como un hallazgo exploratorio.
 
-¿Qué es lo primero que miran al evaluar un ensayo?
+💡 Al leer un ensayo, el grupo control importa tanto como el tratamiento.
+
+¿Qué es lo primero que miran al evaluar un estudio?
 
 📚 *Fuente:* Furukawa, T. A., et al. (2014). Waiting list may be a nocebo condition in psychotherapy trials. _Acta Psychiatrica Scandinavica_, 130(3), 181–192. https://doi.org/10.1111/acps.12275
 
@@ -159,20 +173,22 @@ Desde la Universidad de Kioto, Furukawa y colaboradores (2014) realizaron un met
 
 ---
 
-## 2026-11-28 · 14:00 · P-017
+## 2026-11-28 · 14:00 · P-029
 
-833 caracteres · 78 palabras en el cuerpo.
+878 caracteres · 69 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
+Muchas alianzas se tensan en algún momento. Lo que ocurre después parece marcar la diferencia.
+
 📊 *Cuando la alianza se rompe*
 
-Eubanks, Muran y Safran (2018) definen la ruptura como un debilitamiento de la alianza: desacuerdo sobre las metas, falta de colaboración en las tareas o tensión en el vínculo.
+Eubanks, Muran y Safran (2018) estudiaron las rupturas: desacuerdos sobre las metas, falta de colaboración en las tareas o tensión en el vínculo.
 
 En 11 estudios con 1314 pacientes, *la reparación de las rupturas se asoció con mejores resultados* (r = 0,29; d = 0,62), un efecto moderado.
 
-💡 _Para la práctica:_ *una ruptura no es necesariamente un fracaso*. Reconocerla y trabajarla en sesión puede volverse parte del proceso.
+💡 *Una ruptura no es necesariamente un fracaso.* Reconocerla y trabajarla en sesión puede volverse parte del proceso.
 
 ¿Cómo la detectan en su consulta?
 
@@ -184,20 +200,22 @@ En 11 estudios con 1314 pacientes, *la reparación de las rupturas se asoció co
 
 ---
 
-## 2026-12-01 · 18:00 · P-018
+## 2026-12-01 · 18:00 · P-030
 
-947 caracteres · 92 palabras en el cuerpo.
+996 caracteres · 80 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
+68 894 adultos en 24 países respondieron una pregunta difícil: qué experiencias traumáticas habían vivido.
+
 📊 *El trauma, más frecuente de lo que parece*
 
-Corina Benjet, del Instituto Nacional de Psiquiatría de México, y colaboradores (2016) analizaron encuestas de 24 países, con 68 894 adultos de seis continentes y 29 tipos de eventos traumáticos.
+Corina Benjet, del Instituto Nacional de Psiquiatría de México, y colaboradores (2016) analizaron encuestas de seis continentes sobre 29 tipos de eventos traumáticos.
 
-*Cinco tipos de evento concentraron más de la mitad de las exposiciones*, entre ellos presenciar una muerte o lesión grave y la muerte inesperada de un ser querido. *La violencia interpersonal fue la más asociada con eventos traumáticos posteriores*.
+*Cinco tipos concentraron más de la mitad de las exposiciones*, entre ellos presenciar una muerte o lesión grave y la muerte inesperada de un ser querido. *La violencia interpersonal fue la más asociada con eventos traumáticos posteriores.*
 
-💡 _Para la práctica:_ la historia de trauma ofrece contexto, aun cuando no es el motivo de consulta.
+💡 La historia de trauma ofrece contexto, aun cuando no es el motivo de consulta.
 
 ¿La exploran en la primera entrevista?
 
@@ -209,20 +227,22 @@ Corina Benjet, del Instituto Nacional de Psiquiatría de México, y colaboradore
 
 ---
 
-## 2026-12-04 · 21:30 · P-019
+## 2026-12-04 · 21:30 · P-031
 
-921 caracteres · 82 palabras en el cuerpo.
+945 caracteres · 77 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
-📊 *Empatía: comprender y que el otro lo sienta*
+Comprender al paciente importa. Que se sienta comprendido, quizá todavía más.
 
-Elliott y colaboradores (2018) reunieron 82 muestras y 6138 consultantes. *La correlación entre empatía y resultado fue r = 0,28*, una asociación moderada que se sostuvo en distintas orientaciones teóricas y motivos de consulta, con heterogeneidad considerable.
+📊 *Empatía y resultado terapéutico*
 
-Un matiz relevante: *la empatía percibida por el consultante, por observadores o por el terapeuta predijo mejor el resultado que la precisión empática*.
+Elliott y colaboradores (2018) reunieron 82 muestras y 6138 consultantes, en distintas orientaciones teóricas.
 
-💡 _Para la práctica:_ importa comprender, y también que el otro se sienta comprendido.
+*La correlación entre empatía y resultado fue r = 0,28*, una asociación moderada, con heterogeneidad considerable. Además, *la empatía percibida por el consultante, por observadores o por el terapeuta predijo mejor el resultado que la precisión empática*.
+
+💡 La empatía se juega en la experiencia del otro, no solo en lo que el terapeuta comprende.
 
 ¿Qué señales les indican que un paciente se siente comprendido?
 
@@ -234,20 +254,22 @@ Un matiz relevante: *la empatía percibida por el consultante, por observadores 
 
 ---
 
-## 2026-12-07 · 08:00 · P-020
+## 2026-12-07 · 08:00 · P-032
 
-883 caracteres · 74 palabras en el cuerpo.
+934 caracteres · 72 palabras en el cuerpo.
 
 > Lista para publicar.
 
 ```
+Algunas psicoterapias ayudan. La pregunta honesta es cuánto.
+
 📊 *Trastorno límite: eficacia con matices*
 
-Cristea y colaboradores (2017) analizaron 33 ensayos aleatorizados con 2256 participantes. *La terapia dialéctico-conductual y los enfoques psicodinámicos fueron los únicos tipos de terapia más eficaces que los controles*.
+Cristea y colaboradores (2017) analizaron 33 ensayos aleatorizados con 2256 participantes con trastorno límite de la personalidad.
 
-Los autores advierten que *los efectos son pequeños*, están inflados por el riesgo de sesgo y el sesgo de publicación, y son inestables en el seguimiento.
+*La terapia dialéctico-conductual y los enfoques psicodinámicos fueron los únicos tipos de terapia más eficaces que los controles.* Pero *los efectos son pequeños*, inflados por el riesgo de sesgo y el sesgo de publicación, e inestables en el seguimiento.
 
-💡 _Para la práctica:_ resultados alentadores, que piden prudencia al comunicarlos.
+💡 Resultados alentadores, que piden prudencia al comunicarlos.
 
 ¿Qué les ha resultado más útil con estos pacientes?
 

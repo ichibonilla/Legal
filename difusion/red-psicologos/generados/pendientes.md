@@ -6,9 +6,8 @@
 ## PENDIENTE (0)
 
 
-## POR VERIFICAR (1)
+## POR VERIFICAR (0)
 
-- **P-022** — Salud mental: una historia que empieza temprano. Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación.
 
 ## Publicadas sin métricas (0)
 

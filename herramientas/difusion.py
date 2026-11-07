@@ -41,7 +41,7 @@ GANCHO_MAX = 110      # lo que se alcanza a leer en la vista previa de la notifi
 CAMPOS_METRICAS = ("miembros", "leidos", "reacciones", "respuestas", "nuevos")
 FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 HORA = re.compile(r"^\d{2}:\d{2}$")
-PALABRAS = (65, 100)   # cuerpo de unas 80 a 90 palabras; menos si cita dos fuentes
+PALABRAS = (65, 100)   # cuerpo de unas 75 a 90 palabras; 10 menos por cada fuente adicional
 TITULO_MAX = 60        # lo que se alcanza a leer en la notificación
 
 PALETA = {"fondo": "#131237", "medio": "#2F2E47", "acento": "#5C6684",
@@ -203,8 +203,9 @@ def problemas_pieza(pieza, d, estricto=False):
         if estricto and not e.get("folio"):
             obs.append(f"{s}: sin folio (página o tabla del texto completo).")
     n = palabras(cuerpo(pieza))
-    if not PALABRAS[0] <= n <= PALABRAS[1]:
-        obs.append(f"cuerpo de {n} palabras (margen {PALABRAS[0]}–{PALABRAS[1]}).")
+    minimo = PALABRAS[0] - 10 * (len(pieza["estudios"]) - 1)  # dos fuentes dejan menos espacio
+    if not minimo <= n <= PALABRAS[1]:
+        obs.append(f"cuerpo de {n} palabras (margen {minimo}–{PALABRAS[1]}).")
     if len(pieza["titulo"]) > TITULO_MAX:
         obs.append(f"título de {len(pieza['titulo'])} caracteres; la notificación muestra unos {TITULO_MAX}.")
     if pieza.get("secciones"):

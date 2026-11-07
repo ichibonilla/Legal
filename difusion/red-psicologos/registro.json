@@ -877,10 +877,251 @@
         "cifra": "29,1 %",
         "frase": "Adultos con algún trastorno mental a lo largo de la vida; edad mediana de inicio, 20 años."
       },
-      "estado": "POR VERIFICAR",
-      "verificado_el": "",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
       "supersede": "P-021",
-      "razon": "Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación."
+      "razon": "Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Aprobada el 2026-11-07."
+    },
+    {
+      "id": "P-023",
+      "fecha": "2026-11-10",
+      "hora": "08:00",
+      "titulo": "Psicoterapia psicodinámica: lo que dice la evidencia",
+      "secciones": {
+        "gancho": "¿Y si la terapia siguiera haciendo efecto después de la última sesión?",
+        "introduccion": "Jonathan Shedler (2010) revisó la evidencia empírica sobre la eficacia de la psicoterapia psicodinámica.",
+        "desarrollo": "Sus tamaños del efecto resultaron *comparables a los de tratamientos presentados como empíricamente validados*. Y algo más: *los pacientes mantienen lo logrado y parecen seguir mejorando después de terminar el tratamiento*.",
+        "conclusion": "💡 Lo que se pone en marcha en una psicoterapia no siempre se detiene cuando terminan las sesiones.\n\n¿Lo han observado en sus seguimientos?"
+      },
+      "estudios": [
+        "S-001"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión de la evidencia",
+        "cifra": "Comparable",
+        "frase": "Eficacia similar a la de tratamientos validados, y una mejoría que continúa al terminar."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-011",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-024",
+      "fecha": "2026-11-13",
+      "hora": "11:00",
+      "titulo": "La alianza terapéutica, bajo la lupa",
+      "secciones": {
+        "gancho": "295 estudios y más de 30 000 pacientes apuntan en la misma dirección: el vínculo importa.",
+        "introduccion": "Flückiger y colaboradores (2018) los reunieron en un metaanálisis, con estudios publicados entre 1978 y 2017.",
+        "desarrollo": "*La asociación entre alianza y resultado fue r = 0,278 en la psicoterapia presencial*, y prácticamente igual en la atención por internet (r = 0,275). Los autores la describen como una relación robusta.",
+        "conclusion": "💡 El acuerdo sobre metas y tareas, y el vínculo afectivo, acompañan de manera consistente lo que el paciente logra, también en línea.\n\n¿Cómo cuidan la alianza en la atención virtual?"
+      },
+      "estudios": [
+        "S-002"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 295 estudios",
+        "cifra": "r = 0,278",
+        "frase": "Alianza terapéutica y resultado, en más de 30 000 pacientes."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-012",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-025",
+      "fecha": "2026-11-16",
+      "hora": "14:00",
+      "titulo": "Psicodinámica: la prueba de equivalencia",
+      "secciones": {
+        "gancho": "¿Está la psicodinámica a la altura de los tratamientos establecidos? Un metaanálisis lo puso a prueba.",
+        "introduccion": "Steinert y colaboradores (2017) realizaron el primer metaanálisis que probó formalmente su equivalencia frente a tratamientos de eficacia establecida.",
+        "desarrollo": "En los síntomas objetivo, la diferencia fue pequeña (g = −0,153 al finalizar y −0,049 en el seguimiento) y *quedó dentro de los márgenes de equivalencia*. El estudio recibió críticas metodológicas, y los autores respondieron.",
+        "conclusion": "💡 Leer el estudio junto con sus críticas permite formarse un criterio propio.\n\n¿Qué tipo de evidencia les resulta más convincente?"
+      },
+      "estudios": [
+        "S-003"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis de equivalencia",
+        "cifra": "g = −0,15",
+        "frase": "Resultados equivalentes a los de tratamientos de eficacia establecida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-013",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-026",
+      "fecha": "2026-11-19",
+      "hora": "18:00",
+      "titulo": "Contratransferencia: lo que muestran los datos",
+      "secciones": {
+        "gancho": "Sentir la contratransferencia es parte del trabajo. Los datos señalan qué marca la diferencia.",
+        "introduccion": "Hayes y colaboradores (2018) presentaron tres metaanálisis sobre el tema.",
+        "desarrollo": "Las reacciones contratransferenciales se asociaron de forma inversa y modesta con el resultado (r = −0,16), y los factores de manejo las atenuaron (r = −0,27). En cambio, *un manejo exitoso se relacionó con mejores resultados* (r = 0,39). Hubo heterogeneidad significativa.",
+        "conclusion": "💡 *Lo decisivo no parece ser la contratransferencia en sí, sino lo que el terapeuta hace con ella.*\n\n¿Qué les ayuda más a trabajarla: la supervisión, el análisis personal u otra vía?"
+      },
+      "estudios": [
+        "S-004"
+      ],
+      "tarjeta": {
+        "rotulo": "Tres metaanálisis",
+        "cifra": "r = 0,39",
+        "frase": "Un manejo exitoso de la contratransferencia se asocia con mejores resultados."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-014",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-027",
+      "fecha": "2026-11-22",
+      "hora": "21:30",
+      "titulo": "Tratamientos largos: un debate",
+      "secciones": {
+        "gancho": "¿Conviene un tratamiento largo? La evidencia no da una sola respuesta.",
+        "introduccion": "Smit y colaboradores (2012) analizaron ensayos de psicoterapia psicoanalítica de largo plazo.",
+        "desarrollo": "Para ellos, *la evidencia es limitada y, en el mejor de los casos, contradictoria*. Leichsenring y colaboradores (2013) replican: *para muchos pacientes con trastornos complejos, crónicos o de personalidad, la terapia breve no basta*.",
+        "conclusion": "💡 Conocer ambos lados fortalece el criterio.\n\n¿Cómo deciden cuánto dura un tratamiento?"
+      },
+      "estudios": [
+        "S-005",
+        "S-011"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · lectura crítica",
+        "cifra": "Debate",
+        "frase": "Tratamiento de largo plazo: evidencia limitada y discutida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-015",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-028",
+      "fecha": "2026-11-25",
+      "hora": "11:00",
+      "titulo": "La lista de espera, ¿un control neutral?",
+      "secciones": {
+        "gancho": "Esperar a ser atendido podría no ser neutral. Un estudio desde Japón lo sugiere.",
+        "introduccion": "Furukawa y colaboradores (2014), de la Universidad de Kioto, hicieron un metaanálisis en red de 49 ensayos de terapia cognitivo-conductual para la depresión, con 2730 participantes.",
+        "desarrollo": "*Quienes no recibieron tratamiento respondieron mejor que quienes estaban en lista de espera* (OR = 2,9). La espera podría actuar como nocebo e inflar la eficacia aparente de las terapias. Los autores lo presentan como un hallazgo exploratorio.",
+        "conclusion": "💡 Al leer un ensayo, el grupo control importa tanto como el tratamiento.\n\n¿Qué es lo primero que miran al evaluar un estudio?"
+      },
+      "estudios": [
+        "S-012"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis en red · Japón",
+        "cifra": "OR = 2,9",
+        "frase": "La lista de espera puede inflar la eficacia aparente de una terapia."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-016",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-029",
+      "fecha": "2026-11-28",
+      "hora": "14:00",
+      "titulo": "Cuando la alianza se rompe",
+      "secciones": {
+        "gancho": "Muchas alianzas se tensan en algún momento. Lo que ocurre después parece marcar la diferencia.",
+        "introduccion": "Eubanks, Muran y Safran (2018) estudiaron las rupturas: desacuerdos sobre las metas, falta de colaboración en las tareas o tensión en el vínculo.",
+        "desarrollo": "En 11 estudios con 1314 pacientes, *la reparación de las rupturas se asoció con mejores resultados* (r = 0,29; d = 0,62), un efecto moderado.",
+        "conclusion": "💡 *Una ruptura no es necesariamente un fracaso.* Reconocerla y trabajarla en sesión puede volverse parte del proceso.\n\n¿Cómo la detectan en su consulta?"
+      },
+      "estudios": [
+        "S-007"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 11 estudios",
+        "cifra": "r = 0,29",
+        "frase": "Reparar las rupturas de la alianza se asocia con mejores resultados."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-017",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-030",
+      "fecha": "2026-12-01",
+      "hora": "18:00",
+      "titulo": "El trauma, más frecuente de lo que parece",
+      "secciones": {
+        "gancho": "68 894 adultos en 24 países respondieron una pregunta difícil: qué experiencias traumáticas habían vivido.",
+        "introduccion": "Corina Benjet, del Instituto Nacional de Psiquiatría de México, y colaboradores (2016) analizaron encuestas de seis continentes sobre 29 tipos de eventos traumáticos.",
+        "desarrollo": "*Cinco tipos concentraron más de la mitad de las exposiciones*, entre ellos presenciar una muerte o lesión grave y la muerte inesperada de un ser querido. *La violencia interpersonal fue la más asociada con eventos traumáticos posteriores.*",
+        "conclusion": "💡 La historia de trauma ofrece contexto, aun cuando no es el motivo de consulta.\n\n¿La exploran en la primera entrevista?"
+      },
+      "estudios": [
+        "S-013"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuestas en 24 países",
+        "cifra": "68 894",
+        "frase": "Adultos de seis continentes: el trauma es una experiencia frecuente."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-018",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-031",
+      "fecha": "2026-12-04",
+      "hora": "21:30",
+      "titulo": "Empatía y resultado terapéutico",
+      "secciones": {
+        "gancho": "Comprender al paciente importa. Que se sienta comprendido, quizá todavía más.",
+        "introduccion": "Elliott y colaboradores (2018) reunieron 82 muestras y 6138 consultantes, en distintas orientaciones teóricas.",
+        "desarrollo": "*La correlación entre empatía y resultado fue r = 0,28*, una asociación moderada, con heterogeneidad considerable. Además, *la empatía percibida por el consultante, por observadores o por el terapeuta predijo mejor el resultado que la precisión empática*.",
+        "conclusion": "💡 La empatía se juega en la experiencia del otro, no solo en lo que el terapeuta comprende.\n\n¿Qué señales les indican que un paciente se siente comprendido?"
+      },
+      "estudios": [
+        "S-009"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 82 muestras",
+        "cifra": "r = 0,28",
+        "frase": "Empatía del terapeuta y resultado, en distintas orientaciones teóricas."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-019",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
+    },
+    {
+      "id": "P-032",
+      "fecha": "2026-12-07",
+      "hora": "08:00",
+      "titulo": "Trastorno límite: eficacia con matices",
+      "secciones": {
+        "gancho": "Algunas psicoterapias ayudan. La pregunta honesta es cuánto.",
+        "introduccion": "Cristea y colaboradores (2017) analizaron 33 ensayos aleatorizados con 2256 participantes con trastorno límite de la personalidad.",
+        "desarrollo": "*La terapia dialéctico-conductual y los enfoques psicodinámicos fueron los únicos tipos de terapia más eficaces que los controles.* Pero *los efectos son pequeños*, inflados por el riesgo de sesgo y el sesgo de publicación, e inestables en el seguimiento.",
+        "conclusion": "💡 Resultados alentadores, que piden prudencia al comunicarlos.\n\n¿Qué les ha resultado más útil con estos pacientes?"
+      },
+      "estudios": [
+        "S-010"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión sistemática · 33 ensayos",
+        "cifra": "Con matices",
+        "frase": "Dialéctico-conductual y psicodinámica: eficaces, con efectos pequeños."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "P-020",
+      "razon": "Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión."
     }
   ]
 }

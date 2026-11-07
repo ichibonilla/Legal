@@ -27,9 +27,9 @@ Todavía no hay métricas registradas.
 
 ## Próximas publicaciones
 
-- 2026-11-10 08:00 — P-011: ¿La mejoría continúa al terminar la terapia?
-- 2026-11-13 11:00 — P-012: La alianza terapéutica en 295 estudios
-- 2026-11-16 14:00 — P-013: ¿Tan eficaz como otros tratamientos establecidos?
+- 2026-11-10 08:00 — P-023: Psicoterapia psicodinámica: lo que dice la evidencia
+- 2026-11-13 11:00 — P-024: La alianza terapéutica, bajo la lupa
+- 2026-11-16 14:00 — P-025: Psicodinámica: la prueba de equivalencia
 
 ## Estudios del registro
 
@@ -63,4 +63,14 @@ Todavía no hay métricas registradas.
 - P-008 → P-018 (2026-11-07): Nueva versión y cambio de fuente: el lote incorpora un estudio de México. S-008 (Driessen et al., 2015) queda disponible para el lote siguiente.
 - P-009 → P-019 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.
 - P-010 → P-020 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.
-- P-021 → P-022 (sin fecha): Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación.
+- P-021 → P-022 (2026-11-07): Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Aprobada el 2026-11-07.
+- P-011 → P-023 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-012 → P-024 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-013 → P-025 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-014 → P-026 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-015 → P-027 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-016 → P-028 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-017 → P-029 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-018 → P-030 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-019 → P-031 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
+- P-020 → P-032 (2026-11-07): Nueva versión con estructura narrativa: gancho, título, introducción, desarrollo y conclusión.
