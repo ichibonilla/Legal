@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2027-02-10. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2027-03-12. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
 
 ## Horario
 
@@ -65,8 +65,18 @@ Todavía no hay métricas registradas.
 - **S-030** — VERIFICADO — Asia — Park, H., et al. (2024). Effects of mindfulness-based interventions on depressive symptoms in patients with major depressive disorder: A meta-analysis of randomized controlled trials. _Journal of the Korean Society of Biological Psychiatry_, 31(1), 7–14. https://doi.org/10.22857/kjbp.2024.31.1.002
 - **S-031** — VERIFICADO — Europa — de Jong, K., Conijn, J. M., Gallagher, R. A. V., Reshetnikova, A. S., Heij, M., & Lutz, M. C. (2021). Using progress feedback to improve outcomes and reduce drop-out, treatment duration, and deterioration: A multilevel meta-analysis. _Clinical Psychology Review_, 85, 102002. https://doi.org/10.1016/j.cpr.2021.102002
 - **S-032** — VERIFICADO — Europa — Storebø, O. J., Stoffers-Winterling, J. M., Völlm, B. A., et al. (2020). Psychological therapies for people with borderline personality disorder. _Cochrane Database of Systematic Reviews_, 2020(5), CD012955. https://doi.org/10.1002/14651858.CD012955.pub2
-- **S-033** — PENDIENTE — Europa — Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768.
+- **S-033** — VERIFICADO — Europa — Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768. https://doi.org/10.1037/bul0000015
 - **S-034** — PENDIENTE — América Latina — Gómez-Restrepo, C., et al. (2016). Trastornos depresivos y de ansiedad y factores asociados en la población adulta colombiana, Encuesta Nacional de Salud Mental 2015. _Revista Colombiana de Psiquiatría_, 45(S1), 58–67. https://doi.org/10.1016/j.rcp.2016.04.009
+- **S-035** — VERIFICADO — Europa — Leichsenring, F., Abbass, A., Heim, N., et al. (2023). The status of psychodynamic psychotherapy as an empirically supported treatment for common mental disorders: An umbrella review based on updated criteria. _World Psychiatry_, 22(2), 286–304. https://doi.org/10.1002/wps.21104
+- **S-036** — VERIFICADO — América Latina — Vicente, B., Kohn, R., Rioseco, P., Saldivia, S., Levav, I., & Torres, S. (2006). Lifetime and 12-month prevalence of DSM-III-R disorders in the Chile Psychiatric Prevalence Study. _American Journal of Psychiatry_, 163(8), 1362–1370. https://doi.org/10.1176/ajp.2006.163.8.1362
+- **S-037** — VERIFICADO — Estados Unidos — Levy, K. N., Kivity, Y., Johnson, B. N., & Gooch, C. V. (2018). Adult attachment as a predictor and moderator of psychotherapy outcome: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1996–2013. https://doi.org/10.1002/jclp.22685
+- **S-038** — VERIFICADO — Asia — Huang, Y., Wang, Y., Wang, H., et al. (2019). Prevalence of mental disorders in China: A cross-sectional epidemiological study. _The Lancet Psychiatry_, 6(3), 211–224. https://doi.org/10.1016/S2215-0366(18)30511-X
+- **S-039** — VERIFICADO — Estados Unidos — Weisz, J. R., Kuppens, S., Ng, M. Y., et al. (2017). What five decades of research tells us about the effects of youth psychological therapy: A multilevel meta-analysis and implications for science and practice. _American Psychologist_, 72(2), 79–117. https://doi.org/10.1037/a0040360
+- **S-040** — VERIFICADO — Estados Unidos — Caspi, A., Houts, R. M., Ambler, A., et al. (2020). Longitudinal assessment of mental health disorders and comorbidities across 4 decades among participants in the Dunedin birth cohort study. _JAMA Network Open_, 3(4), e203221. https://doi.org/10.1001/jamanetworkopen.2020.3221
+- **S-041** — VERIFICADO — Europa — Harrer, M., Miguel, C., Cuijpers, P., et al. (2025). Effectiveness of psychotherapy: Synthesis of a «meta-analytic research domain» across world regions and 12 mental health problems. _Psychological Bulletin_, 151(5), 600–667. https://doi.org/10.1037/bul0000465
+- **S-042** — VERIFICADO — Estados Unidos — Swift, J. K., Callahan, J. L., Cooper, M., & Parkin, S. R. (2018). The impact of accommodating client preference in psychotherapy: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1924–1937. https://doi.org/10.1002/jclp.22680
+- **S-043** — VERIFICADO — Europa — Cuijpers, P., Karyotaki, E., Reijnders, M., & Ebert, D. D. (2019). Was Eysenck right after all? A reassessment of the effects of psychotherapy for adult depression. _Epidemiology and Psychiatric Sciences_, 28(1), 21–30. https://doi.org/10.1017/S2045796018000057
+- **S-044** — VERIFICADO — Estados Unidos — Kessler, R. C., Aguilar-Gaxiola, S., Alonso, J., et al. (2017). Trauma and PTSD in the WHO World Mental Health Surveys. _European Journal of Psychotraumatology_, 8(sup5), 1353383. https://doi.org/10.1080/20008198.2017.1353383
 
 ## Registros reemplazados
 

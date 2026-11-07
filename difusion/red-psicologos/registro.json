@@ -95,12 +95,12 @@
       {
         "pais": "Chile",
         "fecha": "2026-11-07",
-        "nota": "No se localizó un metaanálisis o una gran base de datos con primer autor chileno; buscar en PubMed por afiliación (Pontificia Universidad Católica de Chile, Universidad de Chile) y en SciELO Chile."
+        "nota": "Resuelta el 2026-11-07 con S-036 (Vicente et al., 2006, estudio nacional de prevalencia). Sigue abierta la búsqueda de un metaanálisis con primer autor chileno."
       },
       {
         "pais": "Costa Rica",
         "fecha": "2026-11-07",
-        "nota": "No se localizó un metaanálisis costarricense. Candidatos de gran base de datos: CRELES (Centro Centroamericano de Población, unos 8000 adultos mayores) y la Encuesta Actualidades de la UCR; verificar cifras en publicaciones arbitradas."
+        "nota": "No se localizó un metaanálisis costarricense. Candidato de gran base de datos: «Depresión en el adulto», Revista Clínica de la Escuela de Medicina UCR-HSJD, 5(4), 2015, con datos de CRELES; la cifra de prevalencia (18,1 %) aparece solo en un extracto y falta cotejarla con el texto completo."
       },
       {
         "pais": "Colombia",
@@ -976,7 +976,7 @@
       "referencia_corta": "Johnsen y Friborg (2015), Psychological Bulletin",
       "cita": "Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768.",
       "cita_breve": "Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768.",
-      "doi": "",
+      "doi": "10.1037/bul0000015",
       "pmid": "25961373",
       "diseno": "Metaanálisis con metarregresión",
       "tipo_evidencia": "metaanálisis",
@@ -985,13 +985,19 @@
         "Noruega"
       ],
       "hallazgos": [
-        "Las metarregresiones indicaron que los efectos de la TCC en la depresión unipolar disminuyeron de forma lineal y sostenida desde su introducción (BDI, HRSD y tasas de remisión)."
+        "Las metarregresiones indicaron que los efectos de la TCC en la depresión unipolar disminuyeron de forma lineal y sostenida desde su introducción (BDI, HRSD y tasas de remisión).",
+        "Recibió reanálisis críticos de Cristea et al. (2017) y de Ljótsson et al. (2017); los autores respondieron en 2017 defendiendo sus conclusiones.",
+        "Recibió reanálisis críticos de Cristea et al. (2017) y de Ljótsson et al. (2017); los autores respondieron en 2017 defendiendo sus conclusiones.",
+        "Recibió reanálisis críticos de Cristea et al. (2017) y de Ljótsson et al. (2017); los autores respondieron en 2017 defendiendo sus conclusiones.",
+        "Recibió reanálisis críticos de Cristea et al. (2017) y de Ljótsson et al. (2017); los autores respondieron en 2017 defendiendo sus conclusiones.",
+        "Recibió reanálisis críticos de Cristea et al. (2017) y de Ljótsson et al. (2017); los autores respondieron en 2017 defendiendo sus conclusiones.",
+        "Recibió reanálisis críticos de Cristea et al. (2017) y de Ljótsson et al. (2017); los autores respondieron en 2017 defendiendo sus conclusiones."
       ],
       "fuente": "https://pubmed.ncbi.nlm.nih.gov/25961373 (resumen); PDF en uit.no",
-      "estado": "PENDIENTE",
-      "verificado_el": "",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
       "supersede": "",
-      "razon": "Falta confirmar el DOI. La pieza del 20/1 cita el reanálisis de Cristea et al. (S-026), que sí está verificado.",
+      "razon": "DOI confirmado el 2026-11-07 (dx.doi.org/10.1037/bul0000015 en la literatura que lo cita y en munin.uit.no). Fue cuestionado por Cristea et al. (2017; S-026) y por Ljótsson et al. (2017); los autores respondieron en 2017.",
       "folio": ""
     },
     {
@@ -1015,6 +1021,278 @@
       "verificado_el": "",
       "supersede": "",
       "razon": "Faltan las cifras de prevalencia en adultos; están en el texto completo (Redalyc), que no se pudo leer en esta sesión.",
+      "folio": ""
+    },
+    {
+      "id": "S-035",
+      "referencia_corta": "Leichsenring et al. (2023), World Psychiatry",
+      "cita": "Leichsenring, F., Abbass, A., Heim, N., et al. (2023). The status of psychodynamic psychotherapy as an empirically supported treatment for common mental disorders: An umbrella review based on updated criteria. _World Psychiatry_, 22(2), 286–304.",
+      "cita_breve": "Leichsenring, F., et al. (2023). The status of psychodynamic psychotherapy as an empirically supported treatment for common mental disorders. _World Psychiatry_, 22(2), 286–304.",
+      "doi": "10.1002/wps.21104",
+      "pmid": "37159376",
+      "diseno": "Revisión paraguas preregistrada, con GRADE",
+      "tipo_evidencia": "revisión sistemática",
+      "region": "Europa",
+      "paises": [
+        "Alemania",
+        "Canadá"
+      ],
+      "hallazgos": [
+        "Revisión preregistrada de metaanálisis de ensayos aleatorizados, con criterios actualizados y el sistema GRADE.",
+        "Evidencia de calidad alta en trastornos depresivos y de síntomas somáticos, y moderada en ansiedad y trastornos de personalidad: la terapia psicodinámica supera a condiciones control inactivas y activas.",
+        "Evidencia de calidad moderada de que es tan eficaz como otras terapias activas en estos cuadros.",
+        "Las limitaciones (riesgo de sesgo, imprecisión) son comparables a las de otras psicoterapias basadas en la evidencia.",
+        "Los autores proponen una recomendación fuerte para estos trastornos."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/37159376 y UCL Discovery (resumen)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-036",
+      "referencia_corta": "Vicente et al. (2006), Am J Psychiatry",
+      "cita": "Vicente, B., Kohn, R., Rioseco, P., Saldivia, S., Levav, I., & Torres, S. (2006). Lifetime and 12-month prevalence of DSM-III-R disorders in the Chile Psychiatric Prevalence Study. _American Journal of Psychiatry_, 163(8), 1362–1370.",
+      "cita_breve": "Vicente, B., et al. (2006). Lifetime and 12-month prevalence of DSM-III-R disorders in the Chile Psychiatric Prevalence Study. _American Journal of Psychiatry_, 163(8), 1362–1370.",
+      "doi": "10.1176/ajp.2006.163.8.1362",
+      "pmid": "",
+      "diseno": "Estudio nacional de prevalencia (CIDI)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "América Latina",
+      "paises": [
+        "Chile",
+        "Estados Unidos",
+        "Israel"
+      ],
+      "hallazgos": [
+        "Muestra aleatoria estratificada de 2978 personas de 15 años o más en cuatro provincias, representativa de la población del país; entrevista CIDI.",
+        "Prevalencia de vida de algún trastorno: 31,5 %; en los últimos 12 meses: 22,2 %.",
+        "Trastornos de vida más frecuentes: agorafobia (11,1 %), fobia social (10,2 %), fobia simple (9,8 %), depresión mayor (9,2 %) y dependencia del alcohol (6,4 %).",
+        "Entre quienes tenían un diagnóstico en 12 meses, el 30,1 % tenía un segundo trastorno.",
+        "Las tasas se parecen a las de otros estudios de América Latina y de hispanohablantes en Norteamérica; la comorbilidad y los trastornos por alcohol fueron menos frecuentes que en Norteamérica."
+      ],
+      "fuente": "Resumen en ajp.psychiatryonline.org e investigadores.anid.cl",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-037",
+      "referencia_corta": "Levy et al. (2018), J Clin Psychol",
+      "cita": "Levy, K. N., Kivity, Y., Johnson, B. N., & Gooch, C. V. (2018). Adult attachment as a predictor and moderator of psychotherapy outcome: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1996–2013.",
+      "cita_breve": "Levy, K. N., et al. (2018). Adult attachment as a predictor and moderator of psychotherapy outcome: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1996–2013.",
+      "doi": "10.1002/jclp.22685",
+      "pmid": "30238450",
+      "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "Israel"
+      ],
+      "hallazgos": [
+        "36 estudios con 3158 pacientes.",
+        "Los pacientes con apego seguro antes del tratamiento tienen mejores resultados que los de apego inseguro.",
+        "Las mejoras en la seguridad del apego durante la terapia pueden coincidir con mejores resultados.",
+        "Análisis preliminares: quienes tienen baja seguridad de apego podrían obtener mejores resultados con terapias centradas en las interacciones interpersonales y las relaciones cercanas."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/30238450 (resumen); cris.biu.ac.il",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-038",
+      "referencia_corta": "Huang et al. (2019), Lancet Psychiatry",
+      "cita": "Huang, Y., Wang, Y., Wang, H., et al. (2019). Prevalence of mental disorders in China: A cross-sectional epidemiological study. _The Lancet Psychiatry_, 6(3), 211–224.",
+      "cita_breve": "Huang, Y., et al. (2019). Prevalence of mental disorders in China: A cross-sectional epidemiological study. _The Lancet Psychiatry_, 6(3), 211–224.",
+      "doi": "10.1016/S2215-0366(18)30511-X",
+      "pmid": "",
+      "diseno": "Encuesta nacional representativa (China Mental Health Survey)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Asia",
+      "paises": [
+        "China"
+      ],
+      "hallazgos": [
+        "Muestra probabilística por conglomerados de adultos en 157 puntos de vigilancia de 31 provincias; CIDI, SCID e instrumentos para demencia (2013-2015).",
+        "Los trastornos de ansiedad fueron la categoría más frecuente: prevalencia de vida ponderada de 7,6 % (IC 95 % 6,3 a 8,8) y 5,0 % en 12 meses.",
+        "Prevalencia de demencia en personas de 65 años o más: 5,6 %."
+      ],
+      "fuente": "Resumen (registro de GHDx y de indización)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-039",
+      "referencia_corta": "Weisz et al. (2017), American Psychologist",
+      "cita": "Weisz, J. R., Kuppens, S., Ng, M. Y., et al. (2017). What five decades of research tells us about the effects of youth psychological therapy: A multilevel meta-analysis and implications for science and practice. _American Psychologist_, 72(2), 79–117.",
+      "cita_breve": "Weisz, J. R., et al. (2017). What five decades of research tells us about the effects of youth psychological therapy. _American Psychologist_, 72(2), 79–117.",
+      "doi": "10.1037/a0040360",
+      "pmid": "",
+      "diseno": "Metaanálisis multinivel",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "Bélgica"
+      ],
+      "hallazgos": [
+        "447 estudios con 30 431 niños y adolescentes.",
+        "Efecto medio al finalizar: 0,46; los jóvenes tratados estuvieron mejor que los controles en el 63 % de las comparaciones.",
+        "Por problema: ansiedad 0,61, depresión 0,29; tratamientos para problemas múltiples, 0,15 (no significativo).",
+        "Los hallazgos respaldan la psicoterapia infantojuvenil y señalan la necesidad de mejores tratamientos y de muestras más representativas."
+      ],
+      "fuente": "Resumen en dash.harvard.edu y copia en chaamplab.sdsu.edu",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-040",
+      "referencia_corta": "Caspi et al. (2020), JAMA Netw Open",
+      "cita": "Caspi, A., Houts, R. M., Ambler, A., et al. (2020). Longitudinal assessment of mental health disorders and comorbidities across 4 decades among participants in the Dunedin birth cohort study. _JAMA Network Open_, 3(4), e203221.",
+      "cita_breve": "Caspi, A., et al. (2020). Longitudinal assessment of mental health disorders and comorbidities across 4 decades in the Dunedin birth cohort. _JAMA Network Open_, 3(4), e203221.",
+      "doi": "10.1001/jamanetworkopen.2020.3221",
+      "pmid": "",
+      "diseno": "Cohorte de nacimiento seguida 45 años",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "Reino Unido",
+        "Nueva Zelanda"
+      ],
+      "hallazgos": [
+        "Cohorte de 1037 personas nacidas en Nueva Zelanda en 1972-1973, seguidas desde el nacimiento hasta los 45 años.",
+        "El trastorno había comenzado hacia la adolescencia en el 59 % (600 de 1013) y llegó a afectar al 86 % de la cohorte (869 de 1013) en la mediana edad.",
+        "A los 45 años, el 85 % de quienes tuvieron un trastorno (737 de 869) había acumulado diagnósticos comórbidos.",
+        "Las historias de vida de los trastornos cambian entre trastornos sucesivos."
+      ],
+      "fuente": "Resumen (dunedinstudy.otago.ac.nz y moffittcaspi.trinity.duke.edu)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-041",
+      "referencia_corta": "Harrer et al. (2025), Psychological Bulletin",
+      "cita": "Harrer, M., Miguel, C., Cuijpers, P., et al. (2025). Effectiveness of psychotherapy: Synthesis of a «meta-analytic research domain» across world regions and 12 mental health problems. _Psychological Bulletin_, 151(5), 600–667.",
+      "cita_breve": "Harrer, M., et al. (2025). Effectiveness of psychotherapy across world regions and 12 mental health problems. _Psychological Bulletin_, 151(5), 600–667.",
+      "doi": "10.1037/bul0000465",
+      "pmid": "",
+      "diseno": "Síntesis de un dominio metaanalítico",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Alemania",
+        "Países Bajos"
+      ],
+      "hallazgos": [
+        "1029 estudios con 85 952 pacientes, en 12 problemas de salud mental.",
+        "Entre el 83,4 % y el 86,1 % de la evidencia proviene de países de ingresos altos y occidentales, una proporción que disminuye.",
+        "No hay indicios de menor eficacia en países de ingresos bajos y medios (g = 0,38 a 2,41) ni en culturas no occidentales (g = 0,74 a 2,20)."
+      ],
+      "fuente": "Resumen (research.vu.nl; pure.amsterdamumc.nl)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-042",
+      "referencia_corta": "Swift et al. (2018), J Clin Psychol",
+      "cita": "Swift, J. K., Callahan, J. L., Cooper, M., & Parkin, S. R. (2018). The impact of accommodating client preference in psychotherapy: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1924–1937.",
+      "cita_breve": "Swift, J. K., et al. (2018). The impact of accommodating client preference in psychotherapy: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1924–1937.",
+      "doi": "10.1002/jclp.22680",
+      "pmid": "30091140",
+      "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "Reino Unido"
+      ],
+      "hallazgos": [
+        "53 estudios con más de 16 000 consultantes.",
+        "Atender la preferencia del consultante se asoció con menos abandonos (OR = 1,79) y mejores resultados (d = 0,28) que un tratamiento no preferido.",
+        "El efecto varió según el diseño del estudio, el momento y el tipo de medición, y el diagnóstico; no según el tipo de preferencia, la edad, el género, la etnia ni la escolaridad."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/30091140 (resumen)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-043",
+      "referencia_corta": "Cuijpers et al. (2019), Epidemiol Psychiatr Sci",
+      "cita": "Cuijpers, P., Karyotaki, E., Reijnders, M., & Ebert, D. D. (2019). Was Eysenck right after all? A reassessment of the effects of psychotherapy for adult depression. _Epidemiology and Psychiatric Sciences_, 28(1), 21–30.",
+      "cita_breve": "Cuijpers, P., et al. (2019). Was Eysenck right after all? A reassessment of the effects of psychotherapy for adult depression. _Epidemiology and Psychiatric Sciences_, 28(1), 21–30.",
+      "doi": "10.1017/S2045796018000057",
+      "pmid": "",
+      "diseno": "Reevaluación metaanalítica",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Países Bajos",
+        "Alemania"
+      ],
+      "hallazgos": [
+        "Efecto sin ajustar de la psicoterapia frente a control en depresión adulta: g = 0,70 (NNT 4,18).",
+        "Solo alrededor del 23 % de los estudios tenía bajo riesgo de sesgo.",
+        "Tras ajustar por varias fuentes de sesgo, el efecto fue g = 0,31: pequeño, pero por encima de la diferencia mínima importante; Eysenck probablemente estaba equivocado.",
+        "Un reanálisis posterior (PMC6998909) sostuvo que el ajuste subestimó el efecto."
+      ],
+      "fuente": "Resumen (cris.fau.de; PMC6999031)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-044",
+      "referencia_corta": "Kessler et al. (2017), Eur J Psychotraumatol",
+      "cita": "Kessler, R. C., Aguilar-Gaxiola, S., Alonso, J., et al. (2017). Trauma and PTSD in the WHO World Mental Health Surveys. _European Journal of Psychotraumatology_, 8(sup5), 1353383.",
+      "cita_breve": "Kessler, R. C., et al. (2017). Trauma and PTSD in the WHO World Mental Health Surveys. _European Journal of Psychotraumatology_, 8, 1353383.",
+      "doi": "10.1080/20008198.2017.1353383",
+      "pmid": "",
+      "diseno": "Encuestas Mundiales de Salud Mental de la OMS",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "México",
+        "España",
+        "consorcio de 24 países"
+      ],
+      "hallazgos": [
+        "Encuestas en 24 países (n = 68 894) sobre 29 tipos de trauma a lo largo de la vida.",
+        "El 70,4 % vivió al menos un trauma, con un promedio de 3,2 por persona.",
+        "Grandes diferencias entre tipos de trauma en el inicio del estrés postraumático; los traumas de violencia interpersonal tuvieron el mayor riesgo.",
+        "La historia previa de trauma predijo nuevas exposiciones y mayor riesgo de estrés postraumático."
+      ],
+      "fuente": "Resumen (doaj.org; repositori.upf.edu)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
       "folio": ""
     }
   ],
@@ -2159,6 +2437,246 @@
         "rotulo": "Revisión Cochrane · Dinamarca",
         "cifra": "Sin diferencias",
         "frase": "Psicoterapias para el trastorno límite frente al tratamiento habitual."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-053",
+      "fecha": "2027-02-13",
+      "hora": "08:00",
+      "titulo": "Psicodinámica: la evidencia en 2023",
+      "secciones": {
+        "gancho": "¿Tiene la terapia psicodinámica respaldo empírico? Una revisión de revisiones responde.",
+        "introduccion": "Leichsenring y colaboradores (2023) revisaron los metaanálisis de terapia psicodinámica en trastornos mentales frecuentes.",
+        "desarrollo": "Con evidencia de *calidad alta en depresión y síntomas somáticos*, y moderada en ansiedad y trastornos de personalidad, *superó a condiciones control inactivas y activas* y fue *tan eficaz como otras terapias activas*.",
+        "conclusion": "💡 Sus limitaciones son comparables a las de otras psicoterapias, y los autores proponen una recomendación fuerte.\n\n¿Cómo comunican esta evidencia a pacientes y colegas?"
+      },
+      "estudios": [
+        "S-035"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión paraguas · GRADE",
+        "cifra": "Calidad alta",
+        "frase": "Terapia psicodinámica en depresión y síntomas somáticos."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-054",
+      "fecha": "2027-02-16",
+      "hora": "14:00",
+      "titulo": "Salud mental en Chile: el estudio nacional",
+      "secciones": {
+        "gancho": "Casi uno de cada tres chilenos ha tenido un trastorno mental en su vida. ¿Cuáles son los más frecuentes?",
+        "introduccion": "Vicente, Kohn y colaboradores (2006) entrevistaron a 2978 personas de 15 años o más, una muestra representativa de la población de Chile.",
+        "desarrollo": "*El 31,5 % había tenido algún trastorno a lo largo de la vida*, y el 22,2 % en el último año. Los más frecuentes fueron *la agorafobia (11,1 %), la fobia social (10,2 %), la fobia simple (9,8 %) y la depresión mayor (9,2 %)*.",
+        "conclusion": "💡 Las cifras se parecen a las de otros estudios de América Latina.\n\n¿Cómo se comparan con lo que ven en Costa Rica?"
+      },
+      "estudios": [
+        "S-036"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio nacional · Chile",
+        "cifra": "31,5 %",
+        "frase": "Personas con algún trastorno mental a lo largo de la vida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-055",
+      "fecha": "2027-02-19",
+      "hora": "11:00",
+      "titulo": "Apego y resultado en psicoterapia",
+      "secciones": {
+        "gancho": "La manera en que alguien aprendió a vincularse también llega a la consulta. Y pesa en el resultado.",
+        "introduccion": "Levy y colaboradores (2018) metaanalizaron 36 estudios con 3158 pacientes.",
+        "desarrollo": "*Los pacientes con apego seguro antes del tratamiento tuvieron mejores resultados* que los de apego inseguro, y *los avances en la seguridad del apego durante la terapia coincidieron con mejores resultados*. Con menor seguridad de apego, las terapias centradas en las relaciones cercanas podrían ayudar más (análisis preliminares).",
+        "conclusion": "💡 El vínculo terapéutico puede ofrecer también otra experiencia de apego.\n\n¿Cómo trabajan con pacientes de apego inseguro?"
+      },
+      "estudios": [
+        "S-037"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 36 estudios",
+        "cifra": "Apego",
+        "frase": "El apego del paciente se asocia con el resultado de la terapia."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-056",
+      "fecha": "2027-02-22",
+      "hora": "21:30",
+      "titulo": "Salud mental en China: la encuesta nacional",
+      "secciones": {
+        "gancho": "¿Cuál es el trastorno más frecuente en China? Un estudio nacional lo midió con entrevistas diagnósticas.",
+        "introduccion": "Huang, Wang y colaboradores (2019) aplicaron entrevistas diagnósticas estandarizadas a una muestra probabilística de adultos, en 157 puntos de vigilancia de 31 provincias.",
+        "desarrollo": "*Los trastornos de ansiedad fueron los más frecuentes*, con una prevalencia de vida del 7,6 % y del 5,0 % en el último año. Entre las personas de 65 años o más, *la demencia alcanzó el 5,6 %*.",
+        "conclusion": "💡 También en uno de los países más poblados del mundo, la ansiedad aparece en primer lugar.\n\n¿Qué lugar ocupa la ansiedad en su consulta?"
+      },
+      "estudios": [
+        "S-038"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta nacional · China",
+        "cifra": "7,6 %",
+        "frase": "Prevalencia de vida de los trastornos de ansiedad."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-057",
+      "fecha": "2027-02-25",
+      "hora": "18:00",
+      "titulo": "Psicoterapia con niños y adolescentes",
+      "secciones": {
+        "gancho": "Cinco décadas de psicoterapia con niños y adolescentes, en 447 estudios. ¿Qué tan bien funciona?",
+        "introduccion": "Weisz y colaboradores (2017), desde Harvard, metaanalizaron 447 estudios con 30 431 niños y adolescentes.",
+        "desarrollo": "*El efecto medio al finalizar fue de 0,46*, y los jóvenes tratados estuvieron mejor que los controles en el 63 % de las comparaciones. *El efecto fue mayor en ansiedad (0,61) que en depresión (0,29)*, y no fue significativo en tratamientos para problemas múltiples.",
+        "conclusion": "💡 La psicoterapia infantojuvenil funciona, y todavía hay espacio para mejores tratamientos.\n\n¿Qué desafíos encuentran en el trabajo con adolescentes?"
+      },
+      "estudios": [
+        "S-039"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 447 estudios",
+        "cifra": "0,46",
+        "frase": "Efecto medio de la psicoterapia con niños y adolescentes."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-058",
+      "fecha": "2027-02-28",
+      "hora": "14:00",
+      "titulo": "Dunedin: cuatro décadas de salud mental",
+      "secciones": {
+        "gancho": "Más de mil neozelandeses seguidos desde que nacieron: a los 45 años, el 86 % había tenido un trastorno mental.",
+        "introduccion": "Caspi, Moffitt y colaboradores (2020) siguieron a 1037 personas nacidas en Nueva Zelanda en 1972-1973, desde el nacimiento hasta los 45 años.",
+        "desarrollo": "*En el 59 %, el trastorno había comenzado hacia la adolescencia*, y *llegó a afectar al 86 % de la cohorte en la mediana edad*. De quienes tuvieron un trastorno, el 85 % acumuló diagnósticos comórbidos.",
+        "conclusion": "💡 Las historias de vida rara vez se quedan en un solo diagnóstico.\n\n¿Cómo influye esto en su manera de pensar el diagnóstico?"
+      },
+      "estudios": [
+        "S-040"
+      ],
+      "tarjeta": {
+        "rotulo": "Cohorte de nacimiento · Nueva Zelanda",
+        "cifra": "86 %",
+        "frase": "Personas con un trastorno mental a los 45 años."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-059",
+      "fecha": "2027-03-03",
+      "hora": "08:00",
+      "titulo": "Psicoterapia en distintas regiones del mundo",
+      "secciones": {
+        "gancho": "La mayor parte de la evidencia viene de países ricos y occidentales. ¿Funciona igual en otros lugares?",
+        "introduccion": "Harrer, Miguel, Cuijpers y colaboradores (2025) sintetizaron 1029 estudios con 85 952 pacientes, en 12 problemas de salud mental.",
+        "desarrollo": "*Entre el 83,4 % y el 86,1 % de la evidencia proviene de países de ingresos altos y occidentales*, aunque esa proporción disminuye. *No encontraron indicios de menor eficacia en países de ingresos bajos y medios ni en culturas no occidentales.*",
+        "conclusion": "💡 Una buena noticia para América Latina, y una invitación a investigar más desde aquí.\n\n¿Qué investigación les gustaría ver desde Costa Rica?"
+      },
+      "estudios": [
+        "S-041"
+      ],
+      "tarjeta": {
+        "rotulo": "Síntesis · 1029 estudios",
+        "cifra": "83,4–86,1 %",
+        "frase": "Evidencia que proviene de países de ingresos altos y occidentales."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-060",
+      "fecha": "2027-03-06",
+      "hora": "18:00",
+      "titulo": "Las preferencias del paciente en psicoterapia",
+      "secciones": {
+        "gancho": "Preguntarle al paciente qué tipo de tratamiento prefiere. Los datos dicen que importa.",
+        "introduccion": "Swift, Callahan, Cooper y Parkin (2018) metaanalizaron 53 estudios con más de 16 000 consultantes.",
+        "desarrollo": "Cuando el tratamiento respetó la preferencia del consultante, *hubo menos abandonos* (OR = 1,79) y *mejores resultados* (d = 0,28) que con un tratamiento no preferido. El efecto varió según el diseño del estudio, el tipo de medición y el diagnóstico.",
+        "conclusion": "💡 Escuchar lo que el paciente espera ya forma parte del tratamiento.\n\n¿Cómo exploran las preferencias en la primera sesión?"
+      },
+      "estudios": [
+        "S-042"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 53 estudios",
+        "cifra": "d = 0,28",
+        "frase": "Atender la preferencia del paciente mejora el resultado."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-061",
+      "fecha": "2027-03-09",
+      "hora": "21:30",
+      "titulo": "¿Tenía razón Eysenck?",
+      "secciones": {
+        "gancho": "Eysenck sostuvo que la psicoterapia no funcionaba. ¿Tenía razón? Un equipo europeo volvió a la pregunta.",
+        "introduccion": "Cuijpers y colaboradores (2019) reevaluaron los ensayos de psicoterapia para la depresión en adultos.",
+        "desarrollo": "Sin ajustar, el efecto fue g = 0,70. Solo alrededor del 23 % de los estudios tenía bajo riesgo de sesgo, y *al ajustar por varias fuentes de sesgo, el efecto bajó a g = 0,31*: *pequeño, pero por encima de la diferencia mínima importante*. Un reanálisis cuestionó ese ajuste.",
+        "conclusion": "💡 La psicoterapia funciona, con efectos más modestos de lo que a veces se dice.\n\n¿Qué efecto consideran clínicamente relevante?"
+      },
+      "estudios": [
+        "S-043"
+      ],
+      "tarjeta": {
+        "rotulo": "Reevaluación metaanalítica",
+        "cifra": "g = 0,31",
+        "frase": "Efecto de la psicoterapia para la depresión, ajustado por sesgo."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-062",
+      "fecha": "2027-03-12",
+      "hora": "11:00",
+      "titulo": "Trauma y estrés postraumático en 24 países",
+      "secciones": {
+        "gancho": "No todos los traumas tienen el mismo peso. Encuestas en 24 países muestran cuáles dejan más huella.",
+        "introduccion": "Kessler y colaboradores (2017) analizaron las Encuestas Mundiales de Salud Mental de la OMS, con 68 894 personas y 29 tipos de trauma.",
+        "desarrollo": "*El 70,4 % había vivido al menos un trauma*, con un promedio de 3,2 por persona. *La violencia interpersonal tuvo el mayor riesgo de estrés postraumático*, y haber vivido traumas previos predijo nuevas exposiciones y mayor riesgo.",
+        "conclusion": "💡 El tipo de experiencia importa tanto como su frecuencia.\n\n¿Cómo acompañan a pacientes que han vivido violencia interpersonal?"
+      },
+      "estudios": [
+        "S-044"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuestas en 24 países",
+        "cifra": "70,4 %",
+        "frase": "Personas que vivieron al menos un trauma."
       },
       "estado": "VERIFICADO",
       "verificado_el": "2026-11-07",

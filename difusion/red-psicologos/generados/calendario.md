@@ -59,3 +59,13 @@ Registro actualizado el 2026-11-07. Frecuencia: cada 3 días. Franjas en prueba:
 | 2027-02-04 | 18:00 | P-050 | VERIFICADO | Los trastornos más frecuentes en Argentina | S-015 (Argentina) | — |
 | 2027-02-07 | 11:00 | P-051 | VERIFICADO | Medir el progreso en psicoterapia | S-031 (Europa) | — |
 | 2027-02-10 | 08:00 | P-052 | VERIFICADO | Trastorno límite: la revisión Cochrane de 2020 | S-032 (Europa) | — |
+| 2027-02-13 | 08:00 | P-053 | VERIFICADO | Psicodinámica: la evidencia en 2023 | S-035 (Europa) | — |
+| 2027-02-16 | 14:00 | P-054 | VERIFICADO | Salud mental en Chile: el estudio nacional | S-036 (América Latina) | — |
+| 2027-02-19 | 11:00 | P-055 | VERIFICADO | Apego y resultado en psicoterapia | S-037 (Estados Unidos) | — |
+| 2027-02-22 | 21:30 | P-056 | VERIFICADO | Salud mental en China: la encuesta nacional | S-038 (Asia) | — |
+| 2027-02-25 | 18:00 | P-057 | VERIFICADO | Psicoterapia con niños y adolescentes | S-039 (Estados Unidos) | — |
+| 2027-02-28 | 14:00 | P-058 | VERIFICADO | Dunedin: cuatro décadas de salud mental | S-040 (Estados Unidos) | — |
+| 2027-03-03 | 08:00 | P-059 | VERIFICADO | Psicoterapia en distintas regiones del mundo | S-041 (Europa) | — |
+| 2027-03-06 | 18:00 | P-060 | VERIFICADO | Las preferencias del paciente en psicoterapia | S-042 (Estados Unidos) | — |
+| 2027-03-09 | 21:30 | P-061 | VERIFICADO | ¿Tenía razón Eysenck? | S-043 (Europa) | — |
+| 2027-03-12 | 11:00 | P-062 | VERIFICADO | Trauma y estrés postraumático en 24 países | S-044 (Estados Unidos) | — |

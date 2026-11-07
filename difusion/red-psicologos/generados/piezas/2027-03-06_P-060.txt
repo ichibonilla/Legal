@@ -1,0 +1,16 @@
+Preguntarle al paciente qué tipo de tratamiento prefiere. Los datos dicen que importa.
+
+📊 *Las preferencias del paciente en psicoterapia*
+
+Swift, Callahan, Cooper y Parkin (2018) metaanalizaron 53 estudios con más de 16 000 consultantes.
+
+Cuando el tratamiento respetó la preferencia del consultante, *hubo menos abandonos* (OR = 1,79) y *mejores resultados* (d = 0,28) que con un tratamiento no preferido. El efecto varió según el diseño del estudio, el tipo de medición y el diagnóstico.
+
+💡 Escuchar lo que el paciente espera ya forma parte del tratamiento.
+
+¿Cómo exploran las preferencias en la primera sesión?
+
+📚 *Fuente:* Swift, J. K., et al. (2018). The impact of accommodating client preference in psychotherapy: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1924–1937. https://doi.org/10.1002/jclp.22680
+
+🤝 Para compartir con colegas, el enlace de la *Red Psicólogos en Costa Rica*:
+🔗 https://chat.whatsapp.com/HSvcABcfUG198dGHikqyMo
