@@ -79,3 +79,13 @@ Registro actualizado el 2026-11-07. Frecuencia: cada 3 días. Franjas en prueba:
 | 2027-04-07 | 08:00 | P-070 | VERIFICADO | Portugal: trastornos comunes y discapacidad | S-052 (Europa) | — |
 | 2027-04-10 | 21:30 | P-071 | VERIFICADO | Polonia: el trastorno más frecuente | S-053 (Europa) | — |
 | 2027-04-13 | 18:00 | P-072 | VERIFICADO | Adolescentes en Ciudad de México: la brecha | S-054 (México) | — |
+| 2027-04-16 | 08:00 | P-073 | VERIFICADO | La evidencia sobre el psicoanálisis | S-055 (Europa) | — |
+| 2027-04-19 | 18:00 | P-074 | VERIFICADO | Grecia: trastornos mentales comunes | S-056 (Europa) | — |
+| 2027-04-22 | 21:30 | P-075 | VERIFICADO | Hikikomori: el retiro social en Japón | S-057 (Asia) | — |
+| 2027-04-25 | 11:00 | P-076 | VERIFICADO | Síntomas somáticos y psicodinámica breve | S-058 (Canadá) | — |
+| 2027-04-28 | 14:00 | P-077 | VERIFICADO | Perú: cuándo empiezan los trastornos mentales | S-059 (América Latina) | — |
+| 2027-05-02 | 08:00 | P-078 | VERIFICADO | República Checa: el peso del alcohol | S-060 (Europa) | — |
+| 2027-05-05 | 21:30 | P-079 | VERIFICADO | Psicodinámica y trastornos de personalidad | S-061 (Estados Unidos) | — |
+| 2027-05-08 | 14:00 | P-080 | VERIFICADO | Finlandia: diferencias entre hombres y mujeres | S-062 (Europa) | — |
+| 2027-05-11 | 18:00 | P-081 | VERIFICADO | Türkiye: la primera encuesta nacional en 30 años | S-063 (Europa) | — |
+| 2027-05-14 | 11:00 | P-082 | VERIFICADO | ¿Cuántos pacientes responden a la psicoterapia? | S-064 (Europa) | — |

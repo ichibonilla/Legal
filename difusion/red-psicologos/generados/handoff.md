@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2027-04-13. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2027-05-14. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
 
 ## Horario
 
@@ -87,6 +87,16 @@ Todavía no hay métricas registradas.
 - **S-052** — VERIFICADO — Europa — Antunes, A., Frasquilho, D., Azeredo-Lopes, S., Neto, D., Silva, M., Cardoso, G., & Caldas-de-Almeida, J. M. (2018). Disability and common mental disorders: Results from the World Mental Health Survey Initiative Portugal. _European Psychiatry_, 49, 56–61. https://doi.org/10.1016/j.eurpsy.2017.12.004
 - **S-053** — VERIFICADO — Europa — Kiejna, A., Piotrowski, P., Adamowski, T., et al. (2015). The prevalence of common mental disorders in the population of adult Poles by sex and age structure – an EZOP Poland study. _Psychiatria Polska_, 49(1), 15–27. https://doi.org/10.12740/PP/30811
 - **S-054** — VERIFICADO — México — Borges, G., Benjet, C., Medina-Mora, M. E., Orozco, R., & Wang, P. S. (2008). Treatment of mental disorders for adolescents in Mexico City. _Bulletin of the World Health Organization_, 86(10), 757–764. https://doi.org/10.2471/BLT.07.047696
+- **S-055** — VERIFICADO — Europa — de Maat, S., de Jonghe, F., de Kraker, R., Leichsenring, F., Abbass, A., Luyten, P., Barber, J. P., Van, R., & Dekker, J. (2013). The current state of the empirical evidence for psychoanalysis: A meta-analytic approach. _Harvard Review of Psychiatry_, 21(3), 107–137. https://doi.org/10.1097/HRP.0b013e318294f5fd
+- **S-056** — VERIFICADO — Europa — Skapinakis, P., Bellos, S., Koupidis, S., Grammatikopoulos, I., Theodorakis, P. N., & Mavreas, V. (2013). Prevalence and sociodemographic associations of common mental disorders in a nationally representative sample of the general population of Greece. _BMC Psychiatry_, 13, 163. https://doi.org/10.1186/1471-244X-13-163
+- **S-057** — VERIFICADO — Asia — Koyama, A., Miyake, Y., Kawakami, N., Tsuchiya, M., Tachimori, H., & Takeshima, T. (2010). Lifetime prevalence, psychiatric comorbidity and demographic correlates of «hikikomori» in a community population in Japan. _Psychiatry Research_, 176(1), 69–74. https://doi.org/10.1016/j.psychres.2008.10.019
+- **S-058** — VERIFICADO — Canadá — Abbass, A., Town, J., Holmes, H., Luyten, P., Cooper, A., Russell, L., Lumley, M. A., Schubiner, H., Allinson, M., & Kisely, S. (2020). Short-term psychodynamic psychotherapy for functional somatic disorders: A meta-analysis of randomized controlled trials. _Psychotherapy and Psychosomatics_, 89(6), 363–370. https://doi.org/10.1159/000507738
+- **S-059** — VERIFICADO — América Latina — Fiestas, F., & Piazza, M. (2014). Prevalencia de vida y edad de inicio de trastornos mentales en el Perú urbano: resultados del estudio mundial de salud mental, 2005. _Revista Peruana de Medicina Experimental y Salud Pública_, 31(1), 39–47. https://doi.org/10.17843/rpmesp.2014.311.6
+- **S-060** — VERIFICADO — Europa — Formánek, T., Kagström, A., Cermakova, P., Csémy, L., Mladá, K., & Winkler, P. (2019). Prevalence of mental disorders and associated disability: Results from the cross-sectional CZEch mental health Study (CZEMS). _European Psychiatry_, 60, 1–6. https://doi.org/10.1016/j.eurpsy.2019.05.001
+- **S-061** — VERIFICADO — Estados Unidos — Keefe, J. R., McMain, S. F., McCarthy, K. S., Zilcha-Mano, S., Dinger, U., Sahin, Z., Graham, K., & Barber, J. P. (2020). A meta-analysis of psychodynamic treatments for borderline and cluster C personality disorders. _Personality Disorders: Theory, Research, and Treatment_, 11(3), 157–169. https://doi.org/10.1037/per0000382
+- **S-062** — VERIFICADO — Europa — Pirkola, S. P., Isometsä, E., Suvisaari, J., et al. (2005). DSM-IV mood-, anxiety- and alcohol use disorders and their comorbidity in the Finnish general population: Results from the Health 2000 Study. _Social Psychiatry and Psychiatric Epidemiology_, 40(1), 1–10. https://doi.org/10.1007/s00127-005-0848-7
+- **S-063** — VERIFICADO — Europa — Kılıç, C., Üstün, B., Uluğ, B., et al. (2026). Prevalence, persistence, and severity of 12-month and 30-day DSM-5 disorders in the Turkish World Mental Health Survey. _Türk Psikiyatri Dergisi_, 37, 180–191. https://doi.org/10.5080/u27855
+- **S-064** — VERIFICADO — Europa — Cuijpers, P., Miguel, C., Ciharova, M., et al. (2024). Absolute and relative outcomes of psychotherapies for eight mental disorders: A systematic review and meta-analysis. _World Psychiatry_, 23(2), 267–275. https://doi.org/10.1002/wps.21203
 
 ## Registros reemplazados
 

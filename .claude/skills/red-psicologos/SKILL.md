@@ -120,6 +120,13 @@ Revisar estas reglas en el Centro de ayuda de WhatsApp (sección «Cómo dar for
 
 Cada jueves, la rutina de cierre incluye este registro: métricas de las piezas publicadas, registros nuevos o superados, `cerrar` y commit.
 
+### Rutina mensual (tarea programada, día 2 de cada mes)
+
+1. **Revisar el lote siguiente** (el próximo que va a publicarse): métricas registradas y ajuste de horas con `horarios`; actualizaciones o críticas nuevas de sus estudios (si hay, registro nuevo con `supersede`); `cotejo` del lote.
+2. **Preparar el lote que le sigue**, a partir del día siguiente a la última pieza programada: 10 piezas en 30 días, con el flujo de la sección anterior, priorizando el eje psicodinámico y los países que faltan en `cobertura.md`. Evitar feriados de Costa Rica con baja actividad (Semana Santa, 1 de mayo, 24-25 y 31 de diciembre, 1 de enero).
+3. `cerrar --desde AAAA-MM-DD`, `cotejo` de todos los lotes vigentes, commit y push.
+4. Enviar el lote al usuario con un resumen breve: temas, fuentes, cobertura y pendientes.
+
 ## 8. Lo que nunca va
 
 - El nombre de una institución en la firma; firma solo la Red.

@@ -100,12 +100,12 @@
       {
         "pais": "Costa Rica",
         "fecha": "2026-11-07",
-        "nota": "No se localizó un metaanálisis costarricense. Candidato de gran base de datos: «Depresión en el adulto», Revista Clínica de la Escuela de Medicina UCR-HSJD, 5(4), 2015, con datos de CRELES; la cifra de prevalencia (18,1 %) aparece solo en un extracto y falta cotejarla con el texto completo."
+        "nota": "No se localizó un metaanálisis costarricense. Candidato de gran base de datos: «Depresión en el adulto», Revista Clínica de la Escuela de Medicina UCR-HSJD, 5(4), 2015, con datos de CRELES; la cifra de prevalencia (18,1 %) aparece solo en un extracto y falta cotejarla con el texto completo. El texto completo no se pudo abrir desde el entorno de trabajo (revistas.ucr.ac.cr y redalyc.org bloqueados por la red)."
       },
       {
         "pais": "Colombia",
         "fecha": "2026-11-07",
-        "nota": "Encuesta Nacional de Salud Mental 2015 registrada como S-034, PENDIENTE de las cifras en adultos."
+        "nota": "Encuesta Nacional de Salud Mental 2015 registrada como S-034, PENDIENTE de las cifras en adultos. El texto completo no se pudo abrir desde el entorno de trabajo (revistas.ucr.ac.cr y redalyc.org bloqueados por la red)."
       }
     ]
   },
@@ -1556,6 +1556,280 @@
         "Grandes necesidades no atendidas en la salud mental de los jóvenes mexicanos."
       ],
       "fuente": "Resumen (SciELO, DOAJ, repositorio del Instituto Nacional de Psiquiatría)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-055",
+      "referencia_corta": "De Maat et al. (2013), Harv Rev Psychiatry",
+      "cita": "de Maat, S., de Jonghe, F., de Kraker, R., Leichsenring, F., Abbass, A., Luyten, P., Barber, J. P., Van, R., & Dekker, J. (2013). The current state of the empirical evidence for psychoanalysis: A meta-analytic approach. _Harvard Review of Psychiatry_, 21(3), 107–137.",
+      "cita_breve": "de Maat, S., et al. (2013). The current state of the empirical evidence for psychoanalysis: A meta-analytic approach. _Harvard Review of Psychiatry_, 21(3), 107–137.",
+      "doi": "10.1097/HRP.0b013e318294f5fd",
+      "pmid": "",
+      "diseno": "Revisión sistemática y metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Países Bajos",
+        "Alemania",
+        "Canadá",
+        "Bélgica",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "La eficacia del psicoanálisis sigue siendo un tema controvertido pese al aumento de la investigación.",
+        "Un conjunto limitado de estudios, sobre todo de antes y después y con análisis de quienes completaron el tratamiento, aporta evidencia de cambios en pacientes de psicoanálisis con trastornos mentales complejos.",
+        "La falta de comparaciones con grupos control es una limitación de esa evidencia."
+      ],
+      "fuente": "Resumen parcial (registros de indización; archive.internationalpsychoanalysis.net)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-056",
+      "referencia_corta": "Skapinakis et al. (2013), BMC Psychiatry",
+      "cita": "Skapinakis, P., Bellos, S., Koupidis, S., Grammatikopoulos, I., Theodorakis, P. N., & Mavreas, V. (2013). Prevalence and sociodemographic associations of common mental disorders in a nationally representative sample of the general population of Greece. _BMC Psychiatry_, 13, 163.",
+      "cita_breve": "Skapinakis, P., et al. (2013). Prevalence and sociodemographic associations of common mental disorders in Greece. _BMC Psychiatry_, 13, 163.",
+      "doi": "10.1186/1471-244X-13-163",
+      "pmid": "23734578",
+      "diseno": "Encuesta nacional de morbilidad psiquiátrica (CIS-R)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Grecia"
+      ],
+      "hallazgos": [
+        "Muestra nacional representativa de 4894 personas en hogares privados de Grecia (2009-2010), evaluadas con la CIS-R.",
+        "El 14 % tenía morbilidad psiquiátrica clínicamente significativa (hombres 11 %, mujeres 17 %).",
+        "Prevalencia en los últimos siete días: ansiedad generalizada 4,10 %, depresión 2,90 %, pánico 1,88 %, TOC 1,69 %.",
+        "La morbilidad se asoció con ser mujer, estar divorciado o viudo, baja escolaridad y desempleo.",
+        "Los trastornos comunes eran a menudo comórbidos, poco tratados y asociados con menor calidad de vida."
+      ],
+      "fuente": "Texto completo en PMC3686601",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-057",
+      "referencia_corta": "Koyama et al. (2010), Psychiatry Research",
+      "cita": "Koyama, A., Miyake, Y., Kawakami, N., Tsuchiya, M., Tachimori, H., & Takeshima, T. (2010). Lifetime prevalence, psychiatric comorbidity and demographic correlates of «hikikomori» in a community population in Japan. _Psychiatry Research_, 176(1), 69–74.",
+      "cita_breve": "Koyama, A., et al. (2010). Lifetime prevalence, psychiatric comorbidity and demographic correlates of «hikikomori» in Japan. _Psychiatry Research_, 176(1), 69–74.",
+      "doi": "10.1016/j.psychres.2008.10.019",
+      "pmid": "20074814",
+      "diseno": "Encuesta comunitaria en hogares (Encuesta Mundial de Salud Mental de Japón)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Asia",
+      "paises": [
+        "Japón"
+      ],
+      "hallazgos": [
+        "Encuesta en hogares a 4134 residentes; la pregunta sobre hikikomori se hizo a quienes tenían de 20 a 49 años (n = 1660).",
+        "El 1,2 % había vivido hikikomori alguna vez en la vida.",
+        "De ellos, el 54,5 % tuvo también un trastorno psiquiátrico (ánimo, ansiedad, control de impulsos o sustancias) a lo largo de la vida; cerca de la mitad parecen casos primarios, sin trastorno comórbido.",
+        "Quienes vivieron hikikomori tuvieron un riesgo 6,1 veces mayor de trastorno del ánimo."
+      ],
+      "fuente": "Resumen (researchmap.jp; registros de indización)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-058",
+      "referencia_corta": "Abbass et al. (2020), Psychother Psychosom",
+      "cita": "Abbass, A., Town, J., Holmes, H., Luyten, P., Cooper, A., Russell, L., Lumley, M. A., Schubiner, H., Allinson, M., & Kisely, S. (2020). Short-term psychodynamic psychotherapy for functional somatic disorders: A meta-analysis of randomized controlled trials. _Psychotherapy and Psychosomatics_, 89(6), 363–370.",
+      "cita_breve": "Abbass, A., et al. (2020). Short-term psychodynamic psychotherapy for functional somatic disorders: A meta-analysis. _Psychotherapy and Psychosomatics_, 89(6), 363–370.",
+      "doi": "10.1159/000507738",
+      "pmid": "",
+      "diseno": "Metaanálisis de ensayos aleatorizados",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Canadá",
+      "paises": [
+        "Canadá",
+        "Bélgica",
+        "Reino Unido",
+        "Estados Unidos",
+        "Australia"
+      ],
+      "hallazgos": [
+        "17 ensayos aleatorizados de psicoterapia psicodinámica breve en trastornos somáticos funcionales, frente a tratamiento mínimo, atención habitual o lista de espera.",
+        "Beneficios en los síntomas somáticos en todos los momentos medidos.",
+        "En 5 ensayos frente a otras terapias establecidas, la psicodinámica breve rindió al menos igual (revisión descriptiva).",
+        "Limitaciones: pocos estudios por análisis y posible sesgo de publicación; los autores la consideran una opción válida para varios trastornos somáticos funcionales."
+      ],
+      "fuente": "Resumen (research-repository.griffith.edu.au; scholarworks.iupui.edu; UCL Discovery)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-059",
+      "referencia_corta": "Fiestas y Piazza (2014), Rev Peru Med Exp Salud Publica",
+      "cita": "Fiestas, F., & Piazza, M. (2014). Prevalencia de vida y edad de inicio de trastornos mentales en el Perú urbano: resultados del estudio mundial de salud mental, 2005. _Revista Peruana de Medicina Experimental y Salud Pública_, 31(1), 39–47.",
+      "cita_breve": "Fiestas, F., & Piazza, M. (2014). Prevalencia de vida y edad de inicio de trastornos mentales en el Perú urbano. _Revista Peruana de Medicina Experimental y Salud Pública_, 31(1), 39–47.",
+      "doi": "10.17843/rpmesp.2014.311.6",
+      "pmid": "",
+      "diseno": "Estudio Mundial de Salud Mental (CIDI)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "América Latina",
+      "paises": [
+        "Perú"
+      ],
+      "hallazgos": [
+        "Muestra probabilística multietápica de personas de 18 a 65 años en Lima, Chiclayo, Arequipa, Huancayo e Iquitos; diagnóstico con el CIDI.",
+        "Prevalencia de vida de al menos un trastorno: 29 %.",
+        "Los más frecuentes: ansiedad (14,9 %), ánimo (8,2 %), control de impulsos (8,1 %) y sustancias (5,8 %).",
+        "Inicio más temprano en ansiedad (alrededor de los 15 años) y control de impulsos (alrededor de los 20).",
+        "La mayoría de los trastornos comienza antes de los 30 años; las cohortes más jóvenes tienen mayor riesgo."
+      ],
+      "fuente": "Resumen (rpmesp.ins.gob.pe; DOAJ; Redalyc)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-060",
+      "referencia_corta": "Formánek et al. (2019), European Psychiatry",
+      "cita": "Formánek, T., Kagström, A., Cermakova, P., Csémy, L., Mladá, K., & Winkler, P. (2019). Prevalence of mental disorders and associated disability: Results from the cross-sectional CZEch mental health Study (CZEMS). _European Psychiatry_, 60, 1–6.",
+      "cita_breve": "Formánek, T., et al. (2019). Prevalence of mental disorders and associated disability: Results from the CZEch mental health Study (CZEMS). _European Psychiatry_, 60, 1–6.",
+      "doi": "10.1016/j.eurpsy.2019.05.001",
+      "pmid": "31096115",
+      "diseno": "Estudio nacional transversal (CZEMS)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "República Checa"
+      ],
+      "hallazgos": [
+        "3306 adultos checos evaluados en 2017.",
+        "El 21,9 % tuvo un trastorno mental en el último año.",
+        "Trastornos del ánimo 5,5 %, ansiedad 7,3 %, consumo de alcohol 10,8 %, otras sustancias 2,9 %, psicóticos 1,5 %; dependencia del alcohol 6,6 % y depresión mayor 4,0 %.",
+        "Quienes tenían un trastorno reportaron considerablemente más discapacidad (WHODAS 2.0).",
+        "Prevalencias en general similares a las europeas, menores en ansiedad y cerca del doble en trastornos por alcohol."
+      ],
+      "fuente": "Resumen (nomos.is.cuni.cz; registros de indización)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-061",
+      "referencia_corta": "Keefe et al. (2020), Personality Disorders",
+      "cita": "Keefe, J. R., McMain, S. F., McCarthy, K. S., Zilcha-Mano, S., Dinger, U., Sahin, Z., Graham, K., & Barber, J. P. (2020). A meta-analysis of psychodynamic treatments for borderline and cluster C personality disorders. _Personality Disorders: Theory, Research, and Treatment_, 11(3), 157–169.",
+      "cita_breve": "Keefe, J. R., et al. (2020). A meta-analysis of psychodynamic treatments for borderline and cluster C personality disorders. _Personality Disorders_, 11(3), 157–169.",
+      "doi": "10.1037/per0000382",
+      "pmid": "",
+      "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Estados Unidos",
+      "paises": [
+        "Estados Unidos",
+        "Canadá",
+        "Israel",
+        "Alemania"
+      ],
+      "hallazgos": [
+        "16 ensayos, principalmente en trastorno límite y trastornos mixtos del grupo C.",
+        "La terapia psicodinámica superó a las condiciones control en síntomas centrales del trastorno de personalidad, suicidalidad, síntomas psiquiátricos generales y funcionamiento.",
+        "No superó con claridad a otros tratamientos activos.",
+        "Poco investigados: trastorno narcisista, trastornos específicos del grupo C y la patología de personalidad como dimensión continua."
+      ],
+      "fuente": "Resumen (cris.haifa.ac.il; sdg.haifa.ac.il)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-062",
+      "referencia_corta": "Pirkola et al. (2005), Soc Psychiatry Psychiatr Epidemiol",
+      "cita": "Pirkola, S. P., Isometsä, E., Suvisaari, J., et al. (2005). DSM-IV mood-, anxiety- and alcohol use disorders and their comorbidity in the Finnish general population: Results from the Health 2000 Study. _Social Psychiatry and Psychiatric Epidemiology_, 40(1), 1–10.",
+      "cita_breve": "Pirkola, S. P., et al. (2005). DSM-IV mood-, anxiety- and alcohol use disorders and their comorbidity in the Finnish general population. _Social Psychiatry and Psychiatric Epidemiology_, 40(1), 1–10.",
+      "doi": "10.1007/s00127-005-0848-7",
+      "pmid": "15624068",
+      "diseno": "Estudio nacional Salud 2000 (CIDI)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Finlandia"
+      ],
+      "hallazgos": [
+        "Muestra representativa de 6005 adultos de 30 años o más, entrevistados con el CIDI (2000-2001).",
+        "Prevalencia de 12 meses: trastornos depresivos 6,5 %, por alcohol 4,5 %, de ansiedad 4,1 %.",
+        "El 19 % de quienes tenían algún trastorno presentaba comorbilidad.",
+        "Alcohol más frecuente en hombres (7,3 % frente a 1,4 %); depresión más frecuente en mujeres (8,3 % frente a 4,6 %)."
+      ],
+      "fuente": "Resumen (pesquisa.bvsalud.org mdl-15624068; Springer)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-063",
+      "referencia_corta": "Kılıç et al. (2026), Turk Psikiyatri Derg",
+      "cita": "Kılıç, C., Üstün, B., Uluğ, B., et al. (2026). Prevalence, persistence, and severity of 12-month and 30-day DSM-5 disorders in the Turkish World Mental Health Survey. _Türk Psikiyatri Dergisi_, 37, 180–191.",
+      "cita_breve": "Kılıç, C., et al. (2026). Prevalence, persistence, and severity of 12-month and 30-day DSM-5 disorders in the Turkish World Mental Health Survey. _Türk Psikiyatri Dergisi_, 37, 180–191.",
+      "doi": "10.5080/u27855",
+      "pmid": "",
+      "diseno": "Encuesta nacional en hogares (WMH-CIDI, DSM-5)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Turquía"
+      ],
+      "hallazgos": [
+        "1790 adultos de la población de hogares de Türkiye, entrevistados con la versión DSM-5 del CIDI de la Iniciativa Mundial de Salud Mental.",
+        "Casi uno de cada cuatro adultos cumplía criterios de uno o más trastornos comunes en los últimos 12 meses.",
+        "No se había realizado una encuesta nacional de salud mental en Türkiye en unos 30 años.",
+        "El trabajo de campo (2019-2020) se interrumpió por las restricciones de la pandemia de COVID-19."
+      ],
+      "fuente": "Resumen (avesis.hacettepe.edu.tr; turkpsikiyatri.com)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-064",
+      "referencia_corta": "Cuijpers et al. (2024), World Psychiatry",
+      "cita": "Cuijpers, P., Miguel, C., Ciharova, M., et al. (2024). Absolute and relative outcomes of psychotherapies for eight mental disorders: A systematic review and meta-analysis. _World Psychiatry_, 23(2), 267–275.",
+      "cita_breve": "Cuijpers, P., et al. (2024). Absolute and relative outcomes of psychotherapies for eight mental disorders. _World Psychiatry_, 23(2), 267–275.",
+      "doi": "10.1002/wps.21203",
+      "pmid": "38727072",
+      "diseno": "Revisión sistemática y metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Países Bajos"
+      ],
+      "hallazgos": [
+        "441 ensayos con 33 881 pacientes en ocho trastornos: depresión mayor, ansiedad social, pánico, ansiedad generalizada, fobia específica, estrés postraumático, TOC y trastorno límite.",
+        "Respuesta definida como una reducción de al menos el 50 % de los síntomas.",
+        "Tasa de respuesta en depresión mayor: 0,42 (IC 95 % 0,39 a 0,45); en trastorno límite: 0,24 (IC 95 % 0,15 a 0,36).",
+        "Riesgos relativos significativos en todos los trastornos excepto el límite.",
+        "La mayoría de las psicoterapias es eficaz frente a control, pero las tasas absolutas de respuesta son modestas."
+      ],
+      "fuente": "Resumen (research.vu.nl; pubmed 38727072)",
       "estado": "VERIFICADO",
       "verificado_el": "2026-11-07",
       "supersede": "",
@@ -3184,6 +3458,246 @@
         "rotulo": "Encuesta · México",
         "cifra": "1 de cada 7",
         "frase": "Adolescentes con un trastorno que usaron algún servicio."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-073",
+      "fecha": "2027-04-16",
+      "hora": "08:00",
+      "titulo": "La evidencia sobre el psicoanálisis",
+      "secciones": {
+        "gancho": "¿Qué evidencia hay sobre el psicoanálisis en sí, y no solo sobre sus derivados breves?",
+        "introduccion": "De Maat y colaboradores (2013) revisaron y metaanalizaron los estudios sobre psicoanálisis.",
+        "desarrollo": "Un conjunto limitado de estudios, sobre todo de antes y después y con pacientes que completaron el tratamiento, *mostró cambios en pacientes con trastornos mentales complejos*. Pero *la falta de comparaciones con grupos control* sigue siendo una limitación importante.",
+        "conclusion": "💡 La evidencia acompaña al psicoanálisis y le plantea una tarea: más estudios controlados.\n\n¿Qué tipo de investigación haría falta en psicoanálisis?"
+      },
+      "estudios": [
+        "S-055"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión sistemática · psicoanálisis",
+        "cifra": "Con tareas",
+        "frase": "Cambios en trastornos complejos; faltan comparaciones controladas."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-074",
+      "fecha": "2027-04-19",
+      "hora": "18:00",
+      "titulo": "Grecia: trastornos mentales comunes",
+      "secciones": {
+        "gancho": "En Grecia, el 14 % de la población tenía un malestar psíquico clínicamente significativo.",
+        "introduccion": "Skapinakis, Mavreas y colaboradores (2013) evaluaron a 4894 personas de una muestra nacional representativa de Grecia.",
+        "desarrollo": "*El 14 % tenía morbilidad psiquiátrica clínicamente significativa*: 11 % de los hombres y 17 % de las mujeres. Entre los cuadros más frecuentes estuvieron la ansiedad generalizada (4,10 %) y la depresión (2,90 %). *Se asociaron con el desempleo, la baja escolaridad y la separación o la viudez.*",
+        "conclusion": "💡 El malestar psíquico sigue de cerca las condiciones de vida.\n\n¿Cómo integran el contexto social en su trabajo clínico?"
+      },
+      "estudios": [
+        "S-056"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta nacional · Grecia",
+        "cifra": "14 %",
+        "frase": "Población con malestar psíquico clínicamente significativo."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-075",
+      "fecha": "2027-04-22",
+      "hora": "21:30",
+      "titulo": "Hikikomori: el retiro social en Japón",
+      "secciones": {
+        "gancho": "En Japón, el 1,2 % de los adultos de 20 a 49 años vivió alguna vez un retiro social extremo: el hikikomori.",
+        "introduccion": "Koyama, Kawakami y colaboradores (2010) preguntaron por el hikikomori a 1660 personas de 20 a 49 años, en una encuesta comunitaria de 4134 residentes.",
+        "desarrollo": "*El 1,2 % lo había vivido a lo largo de la vida.* De ellos, *el 54,5 % tuvo también otro trastorno psiquiátrico*, y el riesgo de trastorno del ánimo fue 6,1 veces mayor. Cerca de la mitad no tenía un trastorno asociado.",
+        "conclusion": "💡 El aislamiento puede ser síntoma o punto de partida; distinguirlo pide una escucha fina.\n\n¿Han acompañado casos de retiro social prolongado?"
+      },
+      "estudios": [
+        "S-057"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta comunitaria · Japón",
+        "cifra": "1,2 %",
+        "frase": "Adultos de 20 a 49 años que vivieron hikikomori."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-076",
+      "fecha": "2027-04-25",
+      "hora": "11:00",
+      "titulo": "Síntomas somáticos y psicodinámica breve",
+      "secciones": {
+        "gancho": "Síntomas físicos sin una explicación médica suficiente. ¿Puede ayudar una terapia psicodinámica breve?",
+        "introduccion": "Abbass, Town, Luyten y colaboradores (2020) metaanalizaron 17 ensayos aleatorizados en trastornos somáticos funcionales.",
+        "desarrollo": "Frente a tratamiento mínimo, atención habitual o lista de espera, *redujo los síntomas somáticos en todos los momentos medidos*. En cinco ensayos frente a otras terapias establecidas, *rindió al menos igual*. Hubo pocos estudios y posible sesgo de publicación.",
+        "conclusion": "💡 El cuerpo también habla en la consulta, y escucharlo tiene respaldo empírico.\n\n¿Cómo trabajan con pacientes que llegan por síntomas físicos?"
+      },
+      "estudios": [
+        "S-058"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 17 ensayos",
+        "cifra": "Somático",
+        "frase": "Psicodinámica breve en trastornos somáticos funcionales."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-077",
+      "fecha": "2027-04-28",
+      "hora": "14:00",
+      "titulo": "Perú: cuándo empiezan los trastornos mentales",
+      "secciones": {
+        "gancho": "En el Perú urbano, los trastornos de ansiedad empiezan alrededor de los 15 años.",
+        "introduccion": "Fiestas y Piazza (2014) analizaron el estudio mundial de salud mental en adultos de 18 a 65 años de cinco ciudades peruanas.",
+        "desarrollo": "*El 29 % había tenido al menos un trastorno a lo largo de la vida.* La ansiedad fue la más frecuente (14,9 %), seguida de los trastornos del ánimo (8,2 %). *La mayoría de los trastornos comienza antes de los 30 años.*",
+        "conclusion": "💡 Como en Argentina y en Nueva Zelanda, el inicio temprano vuelve a aparecer en los datos.\n\n¿Qué espacios de atención existen para adolescentes en su comunidad?"
+      },
+      "estudios": [
+        "S-059"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio mundial · Perú",
+        "cifra": "29 %",
+        "frase": "Adultos con al menos un trastorno a lo largo de la vida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-078",
+      "fecha": "2027-05-02",
+      "hora": "08:00",
+      "titulo": "República Checa: el peso del alcohol",
+      "secciones": {
+        "gancho": "Después de Polonia, otro país de Europa Central muestra el mismo patrón: el alcohol.",
+        "introduccion": "Formánek, Winkler y colaboradores (2019) evaluaron a 3306 adultos checos en 2017, en el estudio nacional CZEMS.",
+        "desarrollo": "*El 21,9 % tuvo un trastorno mental en el último año.* Los trastornos por consumo de alcohol llegaron al 10,8 %, *cerca del doble que en Europa*, mientras que la ansiedad (7,3 %) fue menor. Quienes tenían un trastorno reportaron más discapacidad.",
+        "conclusion": "💡 Dos países vecinos, un mismo patrón: el alcohol como parte central del malestar.\n\n¿Cómo aparece el consumo de alcohol en sus pacientes?"
+      },
+      "estudios": [
+        "S-060"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio nacional · República Checa",
+        "cifra": "10,8 %",
+        "frase": "Adultos con un trastorno por consumo de alcohol en el último año."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-079",
+      "fecha": "2027-05-05",
+      "hora": "21:30",
+      "titulo": "Psicodinámica y trastornos de personalidad",
+      "secciones": {
+        "gancho": "16 ensayos sobre terapia psicodinámica en trastornos de personalidad. ¿Qué cambia?",
+        "introduccion": "Keefe, McMain, Barber y colaboradores (2020) metaanalizaron 16 ensayos, sobre todo en trastorno límite y del grupo C.",
+        "desarrollo": "*La terapia psicodinámica superó a las condiciones control en síntomas centrales, suicidalidad, síntomas generales y funcionamiento.* Frente a otros tratamientos activos, *no hubo una ventaja clara*. El trastorno narcisista sigue poco estudiado.",
+        "conclusion": "💡 Un respaldo sólido para el trabajo con la personalidad, con preguntas abiertas en terrenos clínicos frecuentes.\n\n¿Qué les ha enseñado el trabajo con pacientes narcisistas?"
+      },
+      "estudios": [
+        "S-061"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 16 ensayos",
+        "cifra": "Personalidad",
+        "frase": "Terapia psicodinámica en trastorno límite y del grupo C."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-080",
+      "fecha": "2027-05-08",
+      "hora": "14:00",
+      "titulo": "Finlandia: diferencias entre hombres y mujeres",
+      "secciones": {
+        "gancho": "En Finlandia, la depresión fue casi el doble en mujeres; el alcohol, más de cinco veces en hombres.",
+        "introduccion": "Pirkola y colaboradores (2005) entrevistaron a 6005 adultos de 30 años o más, en el estudio nacional Salud 2000.",
+        "desarrollo": "En el último año, *los trastornos depresivos afectaron al 6,5 %*, los de alcohol al 4,5 % y los de ansiedad al 4,1 %. *La depresión fue más frecuente en mujeres (8,3 % frente a 4,6 %) y el alcohol en hombres (7,3 % frente a 1,4 %).*",
+        "conclusion": "💡 El sufrimiento toma formas distintas según el género, y eso orienta la escucha.\n\n¿Cómo llega el malestar de los hombres a su consulta?"
+      },
+      "estudios": [
+        "S-062"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio nacional · Finlandia",
+        "cifra": "6,5 %",
+        "frase": "Adultos con un trastorno depresivo en el último año."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-081",
+      "fecha": "2027-05-11",
+      "hora": "18:00",
+      "titulo": "Türkiye: la primera encuesta nacional en 30 años",
+      "secciones": {
+        "gancho": "Casi uno de cada cuatro adultos en Türkiye tuvo un trastorno mental en el último año.",
+        "introduccion": "Kılıç y colaboradores (2026) entrevistaron a 1790 adultos de hogares de Türkiye, con la versión DSM-5 de la entrevista diagnóstica de la OMS.",
+        "desarrollo": "*Casi uno de cada cuatro adultos cumplió criterios de al menos un trastorno común en los últimos 12 meses.* *Era la primera encuesta nacional de salud mental en unos 30 años*, y su trabajo de campo, entre 2019 y 2020, se interrumpió por la pandemia.",
+        "conclusion": "💡 Sin datos, la salud mental de un país queda a ciegas.\n\n¿Qué datos sobre salud mental le harían falta a Costa Rica?"
+      },
+      "estudios": [
+        "S-063"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta nacional · Türkiye",
+        "cifra": "1 de cada 4",
+        "frase": "Adultos con un trastorno común en los últimos 12 meses."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-082",
+      "fecha": "2027-05-14",
+      "hora": "11:00",
+      "titulo": "¿Cuántos pacientes responden a la psicoterapia?",
+      "secciones": {
+        "gancho": "La psicoterapia funciona. Pero ¿cuántos pacientes responden de verdad? 441 ensayos dan una cifra modesta.",
+        "introduccion": "Cuijpers y colaboradores (2024) metaanalizaron 441 ensayos con 33 881 pacientes, en ocho trastornos mentales.",
+        "desarrollo": "Con respuesta definida como una reducción de al menos el 50 % de los síntomas, *en depresión mayor respondió el 42 %*, y en trastorno límite, el 24 %. *Las psicoterapias fueron eficaces frente a control en casi todos los trastornos*, aunque las tasas absolutas de respuesta son modestas.",
+        "conclusion": "💡 Que una terapia sea eficaz no significa que funcione para todos.\n\n¿Qué hacen cuando un paciente no responde?"
+      },
+      "estudios": [
+        "S-064"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 441 ensayos",
+        "cifra": "42 %",
+        "frase": "Pacientes con depresión mayor que responden a la psicoterapia."
       },
       "estado": "VERIFICADO",
       "verificado_el": "2026-11-07",
