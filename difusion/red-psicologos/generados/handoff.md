@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2027-03-12. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2027-04-13. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
 
 ## Horario
 
@@ -77,6 +77,16 @@ Todavía no hay métricas registradas.
 - **S-042** — VERIFICADO — Estados Unidos — Swift, J. K., Callahan, J. L., Cooper, M., & Parkin, S. R. (2018). The impact of accommodating client preference in psychotherapy: A meta-analysis. _Journal of Clinical Psychology_, 74(11), 1924–1937. https://doi.org/10.1002/jclp.22680
 - **S-043** — VERIFICADO — Europa — Cuijpers, P., Karyotaki, E., Reijnders, M., & Ebert, D. D. (2019). Was Eysenck right after all? A reassessment of the effects of psychotherapy for adult depression. _Epidemiology and Psychiatric Sciences_, 28(1), 21–30. https://doi.org/10.1017/S2045796018000057
 - **S-044** — VERIFICADO — Estados Unidos — Kessler, R. C., Aguilar-Gaxiola, S., Alonso, J., et al. (2017). Trauma and PTSD in the WHO World Mental Health Surveys. _European Journal of Psychotraumatology_, 8(sup5), 1353383. https://doi.org/10.1080/20008198.2017.1353383
+- **S-045** — VERIFICADO — Canadá — Abbass, A. A., Rabung, S., Leichsenring, F., Refseth, J. S., & Midgley, N. (2013). Psychodynamic psychotherapy for children and adolescents: A meta-analysis of short-term psychodynamic models. _Journal of the American Academy of Child and Adolescent Psychiatry_, 52(8), 863–875. https://doi.org/10.1016/j.jaac.2013.05.014
+- **S-046** — VERIFICADO — América Latina — Andrade, L. H., Wang, Y.-P., Andreoni, S., et al. (2012). Mental disorders in megacities: Findings from the São Paulo Megacity Mental Health Survey, Brazil. _PLoS ONE_, 7(2), e31879. https://doi.org/10.1371/journal.pone.0031879
+- **S-047** — VERIFICADO — Europa — Kelleher, I., Connor, D., Clarke, M. C., Devlin, N., Harley, M., & Cannon, M. (2012). Prevalence of psychotic symptoms in childhood and adolescence: A systematic review and meta-analysis of population-based studies. _Psychological Medicine_, 42(9), 1857–1863. https://doi.org/10.1017/S0033291711002960
+- **S-048** — VERIFICADO — Asia — Gautham, M. S., Gururaj, G., Varghese, M., et al. (2020). The National Mental Health Survey of India (2016): Prevalence, socio-demographic correlates and treatment gap of mental morbidity. _International Journal of Social Psychiatry_, 66(4), 361–372. https://doi.org/10.1177/0020764020907941
+- **S-049** — VERIFICADO — Europa — Daníelsdóttir, H. B., Aspelund, T., Shen, Q., et al. (2024). Adverse childhood experiences and adult mental health outcomes. _JAMA Psychiatry_. Publicación anticipada en línea, 6 de marzo de 2024. https://doi.org/10.1001/jamapsychiatry.2024.0039
+- **S-050** — VERIFICADO — Europa — Lépine, J.-P., Gasquet, I., Kovess, V., et al. (2005). Prévalence et comorbidité des troubles psychiatriques dans la population générale française: résultats de l'étude épidémiologique ESEMeD/MHEDEA 2000/(ESEMeD). _L'Encéphale_, 31(2), 182–194. https://doi.org/10.1016/s0013-7006(05)82385-1
+- **S-051** — VERIFICADO — Europa — Steinert, C., Hofmann, M., Kruse, J., & Leichsenring, F. (2014). Relapse rates after psychotherapy for depression – stable long-term effects? A meta-analysis. _Journal of Affective Disorders_, 168, 107–118. https://doi.org/10.1016/j.jad.2014.06.043
+- **S-052** — VERIFICADO — Europa — Antunes, A., Frasquilho, D., Azeredo-Lopes, S., Neto, D., Silva, M., Cardoso, G., & Caldas-de-Almeida, J. M. (2018). Disability and common mental disorders: Results from the World Mental Health Survey Initiative Portugal. _European Psychiatry_, 49, 56–61. https://doi.org/10.1016/j.eurpsy.2017.12.004
+- **S-053** — VERIFICADO — Europa — Kiejna, A., Piotrowski, P., Adamowski, T., et al. (2015). The prevalence of common mental disorders in the population of adult Poles by sex and age structure – an EZOP Poland study. _Psychiatria Polska_, 49(1), 15–27. https://doi.org/10.12740/PP/30811
+- **S-054** — VERIFICADO — México — Borges, G., Benjet, C., Medina-Mora, M. E., Orozco, R., & Wang, P. S. (2008). Treatment of mental disorders for adolescents in Mexico City. _Bulletin of the World Health Organization_, 86(10), 757–764. https://doi.org/10.2471/BLT.07.047696
 
 ## Registros reemplazados
 

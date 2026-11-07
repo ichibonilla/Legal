@@ -1294,6 +1294,273 @@
       "supersede": "",
       "razon": "",
       "folio": ""
+    },
+    {
+      "id": "S-045",
+      "referencia_corta": "Abbass et al. (2013), J Am Acad Child Adolesc Psychiatry",
+      "cita": "Abbass, A. A., Rabung, S., Leichsenring, F., Refseth, J. S., & Midgley, N. (2013). Psychodynamic psychotherapy for children and adolescents: A meta-analysis of short-term psychodynamic models. _Journal of the American Academy of Child and Adolescent Psychiatry_, 52(8), 863–875.",
+      "cita_breve": "Abbass, A. A., et al. (2013). Psychodynamic psychotherapy for children and adolescents: A meta-analysis of short-term psychodynamic models. _JAACAP_, 52(8), 863–875.",
+      "doi": "10.1016/j.jaac.2013.05.014",
+      "pmid": "",
+      "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Canadá",
+      "paises": [
+        "Canadá",
+        "Alemania",
+        "Noruega",
+        "Reino Unido"
+      ],
+      "hallazgos": [
+        "Primer metaanálisis de psicoterapia psicodinámica breve (40 sesiones o menos) en niños y adolescentes: 11 estudios con 655 pacientes (depresión, ansiedad, anorexia nerviosa, trastorno límite, entre otros).",
+        "No superó claramente a los tratamientos de comparación, en su mayoría sólidos.",
+        "Efectos intragrupo grandes: g = 1,07 (IC 95 % 0,80 a 1,34); los efectos fueron mayores en el seguimiento que al finalizar (g = 0,24; IC 95 % 0,00 a 0,48).",
+        "Heterogeneidad alta en la mayoría de los análisis; puede ser eficaz en una variedad de trastornos frecuentes de la infancia y la adolescencia."
+      ],
+      "fuente": "Resumen (fis.uke.de; Dalhousie University)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-046",
+      "referencia_corta": "Andrade et al. (2012), PLoS ONE",
+      "cita": "Andrade, L. H., Wang, Y.-P., Andreoni, S., et al. (2012). Mental disorders in megacities: Findings from the São Paulo Megacity Mental Health Survey, Brazil. _PLoS ONE_, 7(2), e31879.",
+      "cita_breve": "Andrade, L. H., et al. (2012). Mental disorders in megacities: Findings from the São Paulo Megacity Mental Health Survey, Brazil. _PLoS ONE_, 7(2), e31879.",
+      "doi": "10.1371/journal.pone.0031879",
+      "pmid": "",
+      "diseno": "Encuesta en hogares (WMH-CIDI)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "América Latina",
+      "paises": [
+        "Brasil",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "Muestra de 5037 adultos de la Región Metropolitana de São Paulo, entrevistados con el CIDI de la OMS.",
+        "Prevalencia de 12 meses de al menos un trastorno: 29,6 %; de vida: 44,8 % (texto completo).",
+        "Los más frecuentes en 12 meses: ansiedad (19,9 %), ánimo (11 %), control de impulsos (4,3 %) y sustancias (3,6 %).",
+        "Solo un tercio de los casos graves había recibido tratamiento el año anterior."
+      ],
+      "fuente": "Texto completo en PLoS ONE; registro en repositorio.unifesp.br",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-047",
+      "referencia_corta": "Kelleher et al. (2012), Psychological Medicine",
+      "cita": "Kelleher, I., Connor, D., Clarke, M. C., Devlin, N., Harley, M., & Cannon, M. (2012). Prevalence of psychotic symptoms in childhood and adolescence: A systematic review and meta-analysis of population-based studies. _Psychological Medicine_, 42(9), 1857–1863.",
+      "cita_breve": "Kelleher, I., et al. (2012). Prevalence of psychotic symptoms in childhood and adolescence: A systematic review and meta-analysis. _Psychological Medicine_, 42(9), 1857–1863.",
+      "doi": "10.1017/S0033291711002960",
+      "pmid": "",
+      "diseno": "Revisión sistemática y metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Irlanda"
+      ],
+      "hallazgos": [
+        "19 estudios poblacionales sobre síntomas psicóticos en niños y adolescentes.",
+        "Prevalencia mediana: 17 % en niños de 9 a 12 años y 7,5 % en adolescentes de 13 a 18 años.",
+        "Los síntomas psicóticos son relativamente frecuentes en jóvenes, sobre todo en la infancia, y más frecuentes en el grupo de menor edad."
+      ],
+      "fuente": "Resumen (repository.rcsi.com; Cambridge)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-048",
+      "referencia_corta": "Gautham et al. (2020), Int J Soc Psychiatry",
+      "cita": "Gautham, M. S., Gururaj, G., Varghese, M., et al. (2020). The National Mental Health Survey of India (2016): Prevalence, socio-demographic correlates and treatment gap of mental morbidity. _International Journal of Social Psychiatry_, 66(4), 361–372.",
+      "cita_breve": "Gautham, M. S., et al. (2020). The National Mental Health Survey of India (2016). _International Journal of Social Psychiatry_, 66(4), 361–372.",
+      "doi": "10.1177/0020764020907941",
+      "pmid": "32126902",
+      "diseno": "Encuesta nacional (MINI 6, CIE-10)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Asia",
+      "paises": [
+        "India"
+      ],
+      "hallazgos": [
+        "Adultos de 18 años o más, muestreo aleatorio estratificado por conglomerados en varias etapas; MINI 6 y criterios CIE-10.",
+        "Prevalencia de vida ponderada de cualquier morbilidad mental: 13,67 %; actual: 10,56 %.",
+        "Brecha de tratamiento global: 84,5 %.",
+        "Mayor prevalencia en hombres, edades medias, zonas metropolitanas, menor escolaridad y hogares de menores ingresos; la encuesta más grande de su tipo en India."
+      ],
+      "fuente": "Resumen (pubmed 32126902; IDEAS/RePEc; GHDx)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-049",
+      "referencia_corta": "Daníelsdóttir et al. (2024), JAMA Psychiatry",
+      "cita": "Daníelsdóttir, H. B., Aspelund, T., Shen, Q., et al. (2024). Adverse childhood experiences and adult mental health outcomes. _JAMA Psychiatry_. Publicación anticipada en línea, 6 de marzo de 2024.",
+      "cita_breve": "Daníelsdóttir, H. B., et al. (2024). Adverse childhood experiences and adult mental health outcomes. _JAMA Psychiatry_.",
+      "doi": "10.1001/jamapsychiatry.2024.0039",
+      "pmid": "",
+      "diseno": "Cohorte de gemelos con registros nacionales",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Islandia",
+        "Suecia"
+      ],
+      "hallazgos": [
+        "25 252 gemelos adultos del Registro Sueco de Gemelos, nacidos entre 1959 y 1998, seguidos desde los 19 años hasta 2016.",
+        "En la cohorte completa, cada experiencia adversa adicional en la infancia aumentó las probabilidades de cualquier trastorno psiquiátrico (OR = 1,52).",
+        "En gemelos dicigóticos la asociación se mantuvo atenuada (OR = 1,29), y fue similar en monocigóticos (OR = 1,20).",
+        "El abuso sexual se asoció con mayores probabilidades de un trastorno clínicamente confirmado en todas las comparaciones."
+      ],
+      "fuente": "Resumen (JAMA Psychiatry; Karolinska Institutet, news.ki.se; EurekAlert)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-050",
+      "referencia_corta": "Lépine et al. (2005), L'Encéphale",
+      "cita": "Lépine, J.-P., Gasquet, I., Kovess, V., et al. (2005). Prévalence et comorbidité des troubles psychiatriques dans la population générale française: résultats de l'étude épidémiologique ESEMeD/MHEDEA 2000/(ESEMeD). _L'Encéphale_, 31(2), 182–194.",
+      "cita_breve": "Lépine, J.-P., et al. (2005). Prévalence et comorbidité des troubles psychiatriques dans la population générale française (ESEMeD). _L'Encéphale_, 31(2), 182–194.",
+      "doi": "10.1016/s0013-7006(05)82385-1",
+      "pmid": "15959445",
+      "diseno": "Encuesta poblacional (ESEMeD)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Francia"
+      ],
+      "hallazgos": [
+        "Encuesta transversal en población general adulta, parte del estudio europeo ESEMeD; Francia, n = 2894 (2001-2003).",
+        "Episodio depresivo mayor: prevalencia de vida 21,4 %; en 12 meses, 6,0 %.",
+        "La comorbilidad entre trastornos del ánimo y de ansiedad fue más frecuente en mujeres, personas jóvenes y quienes viven solas.",
+        "En los trastornos por alcohol, la comorbilidad fue del 26 % en hombres y del 67 % en mujeres.",
+        "Alta prevalencia de trastornos del ánimo, de ansiedad y por alcohol en Francia, con alta comorbilidad entre ellos."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/15959445 (resumen)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-051",
+      "referencia_corta": "Steinert et al. (2014), J Affect Disord",
+      "cita": "Steinert, C., Hofmann, M., Kruse, J., & Leichsenring, F. (2014). Relapse rates after psychotherapy for depression – stable long-term effects? A meta-analysis. _Journal of Affective Disorders_, 168, 107–118.",
+      "cita_breve": "Steinert, C., et al. (2014). Relapse rates after psychotherapy for depression – stable long-term effects? A meta-analysis. _Journal of Affective Disorders_, 168, 107–118.",
+      "doi": "10.1016/j.jad.2014.06.043",
+      "pmid": "",
+      "diseno": "Metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Alemania"
+      ],
+      "hallazgos": [
+        "11 ensayos aleatorizados con seguimiento mayor de dos años, 966 pacientes; seguimiento medio de 4,4 años.",
+        "Tasa global de recaída a largo plazo: 0,39 (IC 95 % 0,29 a 0,50).",
+        "La psicoterapia tuvo significativamente menos recaídas que los tratamientos de comparación no psicoterapéuticos: 53,1 % frente a 71,1 % (OR = 0,51).",
+        "Resultados preliminares: datos escasos, heterogeneidad alta (I² = 82 %) e indicios de sesgo de publicación."
+      ],
+      "fuente": "Resumen (fis-portal.uni-giessen.de y registros de indización)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-052",
+      "referencia_corta": "Antunes et al. (2018), European Psychiatry",
+      "cita": "Antunes, A., Frasquilho, D., Azeredo-Lopes, S., Neto, D., Silva, M., Cardoso, G., & Caldas-de-Almeida, J. M. (2018). Disability and common mental disorders: Results from the World Mental Health Survey Initiative Portugal. _European Psychiatry_, 49, 56–61.",
+      "cita_breve": "Antunes, A., et al. (2018). Disability and common mental disorders: Results from the World Mental Health Survey Initiative Portugal. _European Psychiatry_, 49, 56–61.",
+      "doi": "10.1016/j.eurpsy.2017.12.004",
+      "pmid": "29366849",
+      "diseno": "Encuesta nacional (WMH, CIDI 3.0)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Portugal"
+      ],
+      "hallazgos": [
+        "Trastornos de 12 meses evaluados con CIDI 3.0 y discapacidad con WHODAS-II modificado.",
+        "El 14,6 % de las personas con un trastorno mental común reportó discapacidad.",
+        "Asociación con discapacidad: estrés postraumático (OR = 6,69), depresión mayor (3,49), trastorno bipolar (3,41) y ansiedad generalizada (3,14).",
+        "La prevalencia de 22,9 % de trastornos mentales comunes en 12 meses en Portugal es particularmente alta frente a Italia y España (texto del artículo)."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/29366849 y texto en cambridge.org; corrección publicada en 2020 sobre otra cifra de la discusión",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-053",
+      "referencia_corta": "Kiejna et al. (2015), Psychiatria Polska",
+      "cita": "Kiejna, A., Piotrowski, P., Adamowski, T., et al. (2015). The prevalence of common mental disorders in the population of adult Poles by sex and age structure – an EZOP Poland study. _Psychiatria Polska_, 49(1), 15–27.",
+      "cita_breve": "Kiejna, A., et al. (2015). The prevalence of common mental disorders in the population of adult Poles by sex and age structure – an EZOP Poland study. _Psychiatria Polska_, 49(1), 15–27.",
+      "doi": "10.12740/PP/30811",
+      "pmid": "25844407",
+      "diseno": "Encuesta nacional (EZOP, CIDI 3.0)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Polonia"
+      ],
+      "hallazgos": [
+        "Muestra representativa de 10 081 personas de 18 a 64 años; CIDI 3.0 adaptado según el protocolo de la OMS.",
+        "El trastorno más frecuente fue el abuso de alcohol: 18,6 % en hombres y 3,3 % en mujeres.",
+        "Pánico: 8,5 % en mujeres y 3,9 % en hombres.",
+        "Depresión: 4,0 % en mujeres, el doble que en hombres (1,9 %).",
+        "Prevalencias más bajas que en otros países para trastornos afectivos y algunos de ansiedad."
+      ],
+      "fuente": "Resumen (psychiatriapolska.pl; GHDx)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-054",
+      "referencia_corta": "Borges et al. (2008), Bull World Health Organ",
+      "cita": "Borges, G., Benjet, C., Medina-Mora, M. E., Orozco, R., & Wang, P. S. (2008). Treatment of mental disorders for adolescents in Mexico City. _Bulletin of the World Health Organization_, 86(10), 757–764.",
+      "cita_breve": "Borges, G., et al. (2008). Treatment of mental disorders for adolescents in Mexico City. _Bulletin of the World Health Organization_, 86(10), 757–764.",
+      "doi": "10.2471/BLT.07.047696",
+      "pmid": "18949212",
+      "diseno": "Encuesta en hogares (WMH-CIDI-A)",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "México",
+      "paises": [
+        "México",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "3005 adolescentes de 12 a 17 años del área metropolitana de la Ciudad de México (2005), con la versión adolescente del CIDI.",
+        "Menos de uno de cada siete adolescentes con un trastorno psiquiátrico usó algún servicio de salud mental el año anterior.",
+        "Alrededor de la mitad de quienes recibieron atención tuvo un tratamiento mínimamente adecuado.",
+        "Grandes necesidades no atendidas en la salud mental de los jóvenes mexicanos."
+      ],
+      "fuente": "Resumen (SciELO, DOAJ, repositorio del Instituto Nacional de Psiquiatría)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
     }
   ],
   "piezas": [
@@ -2677,6 +2944,246 @@
         "rotulo": "Encuestas en 24 países",
         "cifra": "70,4 %",
         "frase": "Personas que vivieron al menos un trauma."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-063",
+      "fecha": "2027-03-15",
+      "hora": "11:00",
+      "titulo": "Psicodinámica breve con niños y adolescentes",
+      "secciones": {
+        "gancho": "¿Funciona la psicoterapia psicodinámica breve con niños y adolescentes? Un primer metaanálisis lo examinó.",
+        "introduccion": "Abbass, Rabung, Leichsenring y colaboradores (2013) reunieron 11 estudios con 655 pacientes, en tratamientos de 40 sesiones o menos.",
+        "desarrollo": "*Los efectos intragrupo fueron grandes* (g = 1,07) y *aumentaron en el seguimiento*. No superó con claridad a los tratamientos de comparación, en su mayoría sólidos, y la heterogeneidad fue alta.",
+        "conclusion": "💡 Una opción con respaldo para una variedad de cuadros frecuentes en la infancia y la adolescencia.\n\n¿Cómo trabajan con las familias en tratamientos breves?"
+      },
+      "estudios": [
+        "S-045"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 11 estudios",
+        "cifra": "g = 1,07",
+        "frase": "Psicoterapia psicodinámica breve con niños y adolescentes."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-064",
+      "fecha": "2027-03-18",
+      "hora": "08:00",
+      "titulo": "São Paulo: salud mental en una megaciudad",
+      "secciones": {
+        "gancho": "En São Paulo, casi tres de cada diez adultos tuvieron un trastorno mental en el último año.",
+        "introduccion": "Andrade, Wang y colaboradores (2012) entrevistaron a 5037 adultos de la Región Metropolitana de São Paulo, con el instrumento diagnóstico de la OMS.",
+        "desarrollo": "*La prevalencia de 12 meses fue del 29,6 %*, con la ansiedad en primer lugar (19,9 %) y los trastornos del ánimo en segundo (11 %). *Solo un tercio de los casos graves había recibido tratamiento.*",
+        "conclusion": "💡 La necesidad es alta y la atención, todavía escasa, incluso en los casos graves.\n\n¿Cómo se ve esa brecha desde su práctica?"
+      },
+      "estudios": [
+        "S-046"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta · Brasil",
+        "cifra": "29,6 %",
+        "frase": "Adultos con un trastorno mental en los últimos 12 meses."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-065",
+      "fecha": "2027-03-21",
+      "hora": "18:00",
+      "titulo": "Síntomas psicóticos en la infancia",
+      "secciones": {
+        "gancho": "En niños de 9 a 12 años, la prevalencia mediana de síntomas psicóticos es del 17 %. ¿Qué significa?",
+        "introduccion": "Kelleher, Cannon y colaboradores (2012), del Royal College of Surgeons in Ireland, metaanalizaron 19 estudios poblacionales con niños y adolescentes.",
+        "desarrollo": "*En adolescentes de 13 a 18 años fue menor: 7,5 %.* *Los síntomas psicóticos son relativamente frecuentes en jóvenes*, sobre todo en la infancia.",
+        "conclusion": "💡 Un síntoma aislado no equivale a un diagnóstico: escucharlo en su contexto evita alarmas y también descuidos.\n\n¿Cómo los exploran con niños y sus familias?"
+      },
+      "estudios": [
+        "S-047"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · Irlanda",
+        "cifra": "17 %",
+        "frase": "Niños de 9 a 12 años con algún síntoma psicótico."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-066",
+      "fecha": "2027-03-24",
+      "hora": "14:00",
+      "titulo": "India: la encuesta nacional de salud mental",
+      "secciones": {
+        "gancho": "En India, más de ocho de cada diez personas con un trastorno mental no reciben tratamiento.",
+        "introduccion": "Gautham y colaboradores (2020) presentaron la Encuesta Nacional de Salud Mental de India (2016), con una muestra aleatoria estratificada de adultos.",
+        "desarrollo": "*La prevalencia de vida fue del 13,67 %* y la actual del 10,56 %. *La brecha de tratamiento llegó al 84,5 %*, con mayor prevalencia en hombres, edades medias, zonas metropolitanas y hogares de menores ingresos.",
+        "conclusion": "💡 Medir es el primer paso para cerrar la brecha entre quienes sufren y quienes reciben atención.\n\n¿Qué barreras de acceso observan en Costa Rica?"
+      },
+      "estudios": [
+        "S-048"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta nacional · India",
+        "cifra": "84,5 %",
+        "frase": "Brecha de tratamiento de los trastornos mentales."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-067",
+      "fecha": "2027-03-29",
+      "hora": "21:30",
+      "titulo": "Infancia adversa y salud mental adulta",
+      "secciones": {
+        "gancho": "¿Pesa la infancia adversa por sí misma, o por la familia en la que ocurre? 25 252 gemelos ayudan a responder.",
+        "introduccion": "Daníelsdóttir y colaboradores (2024), desde Islandia y Suecia, siguieron a gemelos del registro sueco desde los 19 años.",
+        "desarrollo": "*Cada experiencia adversa adicional aumentó las probabilidades de un trastorno psiquiátrico* (OR = 1,52). Al comparar gemelos, la asociación se atenuó, pero *se mantuvo* (OR = 1,29 y 1,20). El abuso sexual se asoció con más trastornos en todas las comparaciones.",
+        "conclusion": "💡 La infancia deja huellas que no se explican solo por la genética o el hogar compartido.\n\n¿Cómo incluyen la historia infantil en la evaluación?"
+      },
+      "estudios": [
+        "S-049"
+      ],
+      "tarjeta": {
+        "rotulo": "Cohorte de gemelos · Islandia y Suecia",
+        "cifra": "OR = 1,52",
+        "frase": "Por cada experiencia adversa adicional en la infancia."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-068",
+      "fecha": "2027-04-01",
+      "hora": "11:00",
+      "titulo": "Francia: depresión y comorbilidad",
+      "secciones": {
+        "gancho": "En Francia, más de uno de cada cinco adultos ha tenido un episodio depresivo mayor. Y a menudo no llega solo.",
+        "introduccion": "Lépine, Gasquet, Kovess y colaboradores (2005) analizaron a 2894 adultos franceses del estudio europeo ESEMeD.",
+        "desarrollo": "*El episodio depresivo mayor tuvo una prevalencia de vida del 21,4 %* y del 6,0 % en el último año. *La comorbilidad fue alta*: en los trastornos por alcohol, del 26 % en hombres y del 67 % en mujeres.",
+        "conclusion": "💡 A menudo, detrás de un diagnóstico hay otro: la escucha clínica no se agota en el primer motivo de consulta.\n\n¿Cómo abordan la comorbilidad en sus tratamientos?"
+      },
+      "estudios": [
+        "S-050"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta ESEMeD · Francia",
+        "cifra": "21,4 %",
+        "frase": "Prevalencia de vida del episodio depresivo mayor."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-069",
+      "fecha": "2027-04-04",
+      "hora": "14:00",
+      "titulo": "¿Qué pasa años después de la terapia?",
+      "secciones": {
+        "gancho": "Más de cuatro años después de una psicoterapia por depresión, ¿cuántos pacientes recaen?",
+        "introduccion": "Steinert, Hofmann, Kruse y Leichsenring (2014) metaanalizaron 11 ensayos con 966 pacientes, seguidos en promedio 4,4 años.",
+        "desarrollo": "*La tasa de recaída a largo plazo fue de 0,39.* Aun así, *la psicoterapia tuvo menos recaídas que los tratamientos no psicoterapéuticos*: 53,1 % frente a 71,1 % (OR = 0,51). Los autores consideran los resultados preliminares.",
+        "conclusion": "💡 El efecto de la terapia se prolonga, aunque no protege por completo de nuevas crisis.\n\n¿Cómo acompañan el cierre y el seguimiento?"
+      },
+      "estudios": [
+        "S-051"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 4,4 años",
+        "cifra": "0,39",
+        "frase": "Tasa de recaída a largo plazo después de la psicoterapia."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-070",
+      "fecha": "2027-04-07",
+      "hora": "08:00",
+      "titulo": "Portugal: trastornos comunes y discapacidad",
+      "secciones": {
+        "gancho": "No todos los trastornos limitan igual la vida diaria. Un estudio en Portugal lo midió.",
+        "introduccion": "Antunes, Caldas-de-Almeida y colaboradores (2018) analizaron la encuesta nacional de salud mental de Portugal, parte de la iniciativa de la OMS.",
+        "desarrollo": "*El 14,6 % de las personas con un trastorno mental común reportó discapacidad.* *El estrés postraumático tuvo la asociación más fuerte* (OR = 6,69), seguido de la depresión mayor (3,49), el trastorno bipolar (3,41) y la ansiedad generalizada (3,14).",
+        "conclusion": "💡 El impacto en la vida cotidiana es tan relevante como el diagnóstico.\n\n¿Cómo evalúan el funcionamiento de sus pacientes?"
+      },
+      "estudios": [
+        "S-052"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta nacional · Portugal",
+        "cifra": "OR = 6,69",
+        "frase": "Estrés postraumático y discapacidad."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-071",
+      "fecha": "2027-04-10",
+      "hora": "21:30",
+      "titulo": "Polonia: el trastorno más frecuente",
+      "secciones": {
+        "gancho": "En Polonia, el trastorno más frecuente no es la depresión ni la ansiedad.",
+        "introduccion": "Kiejna y colaboradores (2015) entrevistaron a 10 081 adultos de 18 a 64 años en el estudio nacional EZOP.",
+        "desarrollo": "*El abuso de alcohol fue el trastorno más frecuente*: 18,6 % en hombres y 3,3 % en mujeres. Le siguió el pánico, y *la depresión fue el doble de frecuente en mujeres* (4,0 % frente a 1,9 %).",
+        "conclusion": "💡 Las diferencias por sexo invitan a pensar cómo se expresa el malestar en cada historia.\n\n¿Qué diferencias observan entre hombres y mujeres en su consulta?"
+      },
+      "estudios": [
+        "S-053"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio nacional · Polonia",
+        "cifra": "18,6 %",
+        "frase": "Hombres con abuso de alcohol a lo largo de la vida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-072",
+      "fecha": "2027-04-13",
+      "hora": "18:00",
+      "titulo": "Adolescentes en Ciudad de México: la brecha",
+      "secciones": {
+        "gancho": "De cada siete adolescentes con un trastorno mental, menos de uno recibió atención.",
+        "introduccion": "Borges, Benjet, Medina-Mora y colaboradores (2008) entrevistaron en sus hogares a 3005 adolescentes de 12 a 17 años de la Ciudad de México.",
+        "desarrollo": "*Menos de uno de cada siete adolescentes con un trastorno usó algún servicio de salud mental* en el último año, y *alrededor de la mitad de ellos recibió un tratamiento mínimamente adecuado*.",
+        "conclusion": "💡 La adolescencia es una etapa decisiva, y la distancia entre necesidad y atención es amplia.\n\n¿Qué facilita que un adolescente llegue a consulta?"
+      },
+      "estudios": [
+        "S-054"
+      ],
+      "tarjeta": {
+        "rotulo": "Encuesta · México",
+        "cifra": "1 de cada 7",
+        "frase": "Adolescentes con un trastorno que usaron algún servicio."
       },
       "estado": "VERIFICADO",
       "verificado_el": "2026-11-07",

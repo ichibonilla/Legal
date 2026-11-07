@@ -69,3 +69,13 @@ Registro actualizado el 2026-11-07. Frecuencia: cada 3 días. Franjas en prueba:
 | 2027-03-06 | 18:00 | P-060 | VERIFICADO | Las preferencias del paciente en psicoterapia | S-042 (Estados Unidos) | — |
 | 2027-03-09 | 21:30 | P-061 | VERIFICADO | ¿Tenía razón Eysenck? | S-043 (Europa) | — |
 | 2027-03-12 | 11:00 | P-062 | VERIFICADO | Trauma y estrés postraumático en 24 países | S-044 (Estados Unidos) | — |
+| 2027-03-15 | 11:00 | P-063 | VERIFICADO | Psicodinámica breve con niños y adolescentes | S-045 (Canadá) | — |
+| 2027-03-18 | 08:00 | P-064 | VERIFICADO | São Paulo: salud mental en una megaciudad | S-046 (América Latina) | — |
+| 2027-03-21 | 18:00 | P-065 | VERIFICADO | Síntomas psicóticos en la infancia | S-047 (Europa) | — |
+| 2027-03-24 | 14:00 | P-066 | VERIFICADO | India: la encuesta nacional de salud mental | S-048 (Asia) | — |
+| 2027-03-29 | 21:30 | P-067 | VERIFICADO | Infancia adversa y salud mental adulta | S-049 (Europa) | — |
+| 2027-04-01 | 11:00 | P-068 | VERIFICADO | Francia: depresión y comorbilidad | S-050 (Europa) | — |
+| 2027-04-04 | 14:00 | P-069 | VERIFICADO | ¿Qué pasa años después de la terapia? | S-051 (Europa) | — |
+| 2027-04-07 | 08:00 | P-070 | VERIFICADO | Portugal: trastornos comunes y discapacidad | S-052 (Europa) | — |
+| 2027-04-10 | 21:30 | P-071 | VERIFICADO | Polonia: el trastorno más frecuente | S-053 (Europa) | — |
+| 2027-04-13 | 18:00 | P-072 | VERIFICADO | Adolescentes en Ciudad de México: la brecha | S-054 (México) | — |
