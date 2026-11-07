@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/registro.py el 2026-09-26 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py a partir de registro.json (actualizado el 2026-09-26). No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Carlos F. Bonilla Cortés — Colegio de Profesionales en Psicología de Costa Rica

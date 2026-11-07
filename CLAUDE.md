@@ -24,10 +24,10 @@ Material confidencial. No se publica fuera del repositorio.
 
 1. Agregar los registros nuevos y marcar los superados en `registro.json`.
 2. Actualizar `caso.actualizado_el`.
-3. `python3 herramientas/registro.py cerrar` (valida y regenera).
+3. `python3 herramientas/registro.py cerrar` (valida y regenera todos los casos; `--caso` limita a uno).
 4. Commit de registro, fuentes y generados.
 
 ## Antes de presentar un escrito
 
 `python3 herramientas/registro.py cotejo casos/<caso>/escritos/<escrito>.md`
-(con `--despacho` para exigir folio). Si devuelve observaciones, el escrito no sale hasta resolverlas o retirar la cita.
+(con `--despacho` para exigir folio). El caso se deduce de la ruta del escrito, así que el cotejo nunca se hace contra el registro de otro caso. Si devuelve observaciones, el escrito no sale hasta resolverlas o retirar la cita.

@@ -2,10 +2,13 @@
 """Registro único de un caso: validar, generar artefactos, cotejar escritos.
 
 Uso:
-  python3 herramientas/registro.py validar  [--caso casos/cppcr]
-  python3 herramientas/registro.py generar  [--caso casos/cppcr]
-  python3 herramientas/registro.py cotejo ESCRITO [--despacho] [--caso casos/cppcr]
-  python3 herramientas/registro.py cerrar   [--caso casos/cppcr]
+  python3 herramientas/registro.py validar  [--caso casos/<caso>]
+  python3 herramientas/registro.py generar  [--caso casos/<caso>]
+  python3 herramientas/registro.py cotejo ESCRITO [--despacho]
+  python3 herramientas/registro.py cerrar   [--caso casos/<caso>]
+
+Sin --caso, validar, generar y cerrar recorren todos los casos; cotejo deduce el
+caso de la ruta del escrito (casos/<caso>/escritos/...).
 
 La única fuente es <caso>/registro.json. Todo lo que está en <caso>/generados/
 se sobrescribe en cada `generar`; no se edita a mano.
@@ -14,12 +17,12 @@ import argparse
 import json
 import re
 import sys
-from datetime import date
 from pathlib import Path
 
 ESTADOS = ("VERIFICADO", "POR VERIFICAR", "PENDIENTE")
 CAMPOS = ("id", "fecha", "tipo", "titulo", "afirmacion", "fuente", "estado",
           "verificado_el", "supersede", "razon", "folio")
+RAIZ = Path(__file__).resolve().parent.parent
 CITA = re.compile(r"\[((?:[RN]-\d{3})(?:\s*,\s*[RN]-\d{3})*)\]")
 FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -91,10 +94,11 @@ def generar(d, caso):
     out = Path(caso) / "generados"
     out.mkdir(parents=True, exist_ok=True)
     regs, superado_por = indices(d)
-    hoy = date.today().isoformat()
-    cab = (f"<!-- Generado por herramientas/registro.py el {hoy} a partir de registro.json. "
-           f"No editar a mano: los cambios se hacen en registro.json y se regenera. -->\n\n")
     caso_d = d["caso"]
+    # La fecha es la del registro, no la de hoy: regenerar sin cambios no produce diferencias.
+    cab = (f"<!-- Generado por herramientas/registro.py a partir de registro.json "
+           f"(actualizado el {caso_d['actualizado_el']}). "
+           f"No editar a mano: los cambios se hacen en registro.json y se regenera. -->\n\n")
 
     # Cronología
     lineas = [cab, f"# Cronología — {caso_d['titulo']}\n",
@@ -185,19 +189,62 @@ def cotejo(d, escrito, despacho=False):
     return citas, problemas
 
 
+def caso_de(ruta):
+    """Carpeta del caso al que pertenece un archivo (casos/<caso>/...), o None."""
+    for p in Path(ruta).resolve().parents:
+        if p.parent.name == "casos" and (p / "registro.json").exists():
+            return p
+    return None
+
+
+def todos_los_casos():
+    return sorted(p.parent for p in RAIZ.glob("casos/*/registro.json"))
+
+
+def procesar(accion, caso):
+    d = cargar(caso)
+    errores = validar(d)
+    if errores:
+        print("El registro tiene errores:")
+        for e in errores:
+            print(f"  - {e}")
+        return 1
+    if accion == "validar":
+        print(f"Registro válido: {len(d['registros'])} registros, {len(d.get('evaluaciones', []))} evaluaciones.")
+        return 0
+    archivos = generar(d, caso)
+    print("Generados: " + ", ".join(archivos))
+    if accion == "cerrar":
+        _, superado_por = indices(d)
+        vig = [r for r in d["registros"] if r["id"] not in superado_por]
+        cuenta = {e: sum(1 for r in vig if r["estado"] == e) for e in ESTADOS}
+        print(f"Registro actualizado el {d['caso']['actualizado_el']}. "
+              f"Vigentes: {len(vig)} ({', '.join(f'{k}: {v}' for k, v in cuenta.items())}); "
+              f"superados: {len(superado_por)}; sin folio: {sum(1 for r in vig if not r['folio'])}.")
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("accion", choices=["validar", "generar", "cotejo", "cerrar"])
     ap.add_argument("escrito", nargs="?")
-    ap.add_argument("--caso", default="casos/cppcr")
+    ap.add_argument("--caso", help="carpeta del caso; si se omite, en cotejo se deduce de la "
+                    "ruta del escrito y en las demás acciones se procesan todos los casos")
     ap.add_argument("--despacho", action="store_true",
                     help="en cotejo, exige además folio en cada cita")
     a = ap.parse_args()
-    d = cargar(a.caso)
 
     if a.accion == "cotejo":
         if not a.escrito:
             ap.error("cotejo requiere la ruta del escrito")
+        deducido = caso_de(a.escrito)
+        if a.caso and deducido and Path(a.caso).resolve() != deducido:
+            ap.error(f"el escrito pertenece a {deducido.name}, no a {Path(a.caso).name}")
+        caso = a.caso or deducido
+        if not caso:
+            ap.error("no se pudo deducir el caso desde la ruta del escrito; indique --caso")
+        d = cargar(caso)
+        print(f"Caso: {Path(caso).resolve().name}")
         citas, problemas = cotejo(d, a.escrito, a.despacho)
         print(f"Cotejo de {a.escrito}: {len(citas)} identificadores citados.")
         if not problemas:
@@ -208,24 +255,13 @@ def main():
             print(f"  - {p}")
         return 1
 
-    errores = validar(d)
-    if errores:
-        print("El registro tiene errores:")
-        for e in errores:
-            print(f"  - {e}")
-        return 1
-    if a.accion == "validar":
-        print(f"Registro válido: {len(d['registros'])} registros, {len(d.get('evaluaciones', []))} evaluaciones.")
-        return 0
-    archivos = generar(d, a.caso)
-    print("Generados: " + ", ".join(archivos))
-    if a.accion == "cerrar":
-        _, superado_por = indices(d)
-        vig = [r for r in d["registros"] if r["id"] not in superado_por]
-        cuenta = {e: sum(1 for r in vig if r["estado"] == e) for e in ESTADOS}
-        print(f"Vigentes: {len(vig)} ({', '.join(f'{k}: {v}' for k, v in cuenta.items())}); "
-              f"superados: {len(superado_por)}; sin folio: {sum(1 for r in vig if not r['folio'])}.")
-    return 0
+    casos = [Path(a.caso)] if a.caso else todos_los_casos()
+    resultado = 0
+    for caso in casos:
+        if len(casos) > 1:
+            print(f"== {caso.name}")
+        resultado |= procesar(a.accion, caso)
+    return resultado
 
 
 if __name__ == "__main__":
