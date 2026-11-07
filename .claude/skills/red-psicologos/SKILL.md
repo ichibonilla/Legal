@@ -33,21 +33,31 @@ Regla de oro: **ninguna cifra entra en una pieza si no está en los `hallazgos` 
 
 Voz: clara, con la simpleza de Steve Jobs; cálida, amigable y objetiva; competente y segura, con modestia estratégica. Sin imperativos dirigidos a los colegas, sin condescendencia ni paternalismo, sin dramatizar ni prometer resultados. Español de Costa Rica, con tildes completas y coma decimal (r = 0,28).
 
-Estructura de cada pieza (el registro guarda título, cuerpo y estudios; la herramienta agrega la fuente y el cierre):
+Estructura narrativa de cada pieza: gancho, título, introducción, desarrollo, conclusión, fuente y compartir. El registro guarda `titulo` y `secciones` (`gancho`, `introduccion`, `desarrollo`, `conclusion`); la herramienta agrega la fuente y el cierre para compartir. Las piezas anteriores a esta estructura usan un solo `cuerpo`.
 
 ```
-📊 *Título: pregunta o dato, 60 caracteres como máximo*
+Gancho: una o dos frases, sin formato, de 110 caracteres como máximo.
+Abre una pregunta o una tensión que el título y el texto resuelven.
 
-Quién y qué: autores, año y diseño en una frase, con el tamaño de la muestra.
+📊 *Título: nombra el tema, 60 caracteres como máximo*
 
-El hallazgo principal, *en negrita*, con su cifra. Un matiz o límite si lo hay.
+Introducción: quién lo estudió, con cuántas personas y cómo, en una frase.
 
-💡 _Para la práctica:_ una lectura clínica breve, sin indicaciones.
+Desarrollo: el hallazgo *en negrita*, con su cifra. Un solo eje; un matiz si lo hay.
+
+Conclusión: 💡 qué significa para la clínica, sin indicaciones.
 
 ¿Pregunta abierta a los colegas?
+
+📚 Fuente (APA con DOI)
+
+🤝 Compartir: enlace del grupo
 ```
 
-- Cuerpo de unas 80 a 90 palabras (de 65 a 100; menos cuando se citan dos fuentes).
+- **Gancho:** es lo que se ve en la notificación. Va sin asteriscos ni guiones bajos, porque la vista previa los muestra como símbolos. Una cifra que sorprende, seguida de una frase que abre la pregunta. Nunca promete más de lo que el estudio dice.
+- **Un solo eje narrativo:** la pieza cuenta una idea. Las demás cifras del estudio quedan en el registro para otra pieza.
+- **Presupuesto de espacio:** el gancho, el título, la fuente y el cierre ocupan unos 520 caracteres; el resto (introducción, desarrollo y conclusión) cabe en unas 75 a 85 palabras.
+- Cuerpo de 65 a 100 palabras; menos cuando se citan dos fuentes.
 - Negrita solo en lo más importante: el hallazgo y, si acaso, la idea clínica. Dos o tres fragmentos por pieza como máximo.
 - Emojis como anclas visuales, no como decoración: 📊 título, 💡 práctica, 📚 fuente, 🤝 cierre, 🔗 enlace.
 - Revisar cada texto de inicio a fin: hilo conductor, coherencia entre título, hallazgo, práctica y pregunta, y que no se repitan palabras en frases cercanas.

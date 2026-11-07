@@ -63,3 +63,4 @@ Todavía no hay métricas registradas.
 - P-008 → P-018 (2026-11-07): Nueva versión y cambio de fuente: el lote incorpora un estudio de México. S-008 (Driessen et al., 2015) queda disponible para el lote siguiente.
 - P-009 → P-019 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.
 - P-010 → P-020 (2026-11-07): Nueva versión: negritas en el hallazgo, pregunta abierta al final, texto de 1024 caracteres como máximo para viajar con la tarjeta, y hora de prueba.
+- P-021 → P-022 (sin fecha): Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación.

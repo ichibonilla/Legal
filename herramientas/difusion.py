@@ -35,7 +35,9 @@ ESTADOS = ("VERIFICADO", "POR VERIFICAR", "PENDIENTE")
 COMUNES = ("id", "estado", "verificado_el", "supersede", "razon")
 CAMPOS_ESTUDIO = COMUNES + ("cita", "cita_breve", "doi", "pmid", "diseno", "region", "paises",
                             "hallazgos", "fuente", "folio")
-CAMPOS_PIEZA = COMUNES + ("fecha", "hora", "titulo", "cuerpo", "estudios", "tarjeta")
+CAMPOS_PIEZA = COMUNES + ("fecha", "hora", "titulo", "estudios", "tarjeta")
+SECCIONES = ("gancho", "introduccion", "desarrollo", "conclusion")
+GANCHO_MAX = 110      # lo que se alcanza a leer en la vista previa de la notificación
 CAMPOS_METRICAS = ("miembros", "leidos", "reacciones", "respuestas", "nuevos")
 FECHA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 HORA = re.compile(r"^\d{2}:\d{2}$")
@@ -64,6 +66,15 @@ def superados(lista):
 def vigentes(lista):
     sup = superados(lista)
     return [r for r in lista if r["id"] not in sup]
+
+
+def cuerpo(pieza):
+    """Texto entre el título y la fuente. Las piezas nuevas se escriben por secciones
+    (gancho, introducción, desarrollo, conclusión); las anteriores, en un solo `cuerpo`."""
+    if pieza.get("secciones"):
+        s = pieza["secciones"]
+        return "\n\n".join(s[k].strip() for k in SECCIONES[1:])
+    return pieza["cuerpo"].strip()
 
 
 def palabras(texto):
@@ -120,6 +131,12 @@ def validar(d):
             errores.append(f"{r['id']}: hora no válida «{h}».")
         elif r["id"] not in superados(d["piezas"]) and not ini <= h <= fin:
             errores.append(f"{r['id']}: hora {h} fuera de la ventana {ini}–{fin}.")
+        if r.get("secciones"):
+            faltan = [k for k in SECCIONES if not (r["secciones"].get(k) or "").strip()]
+            if faltan:
+                errores.append(f"{r['id']}: secciones vacías: {', '.join(faltan)}.")
+        elif not (r.get("cuerpo") or "").strip():
+            errores.append(f"{r['id']}: sin cuerpo ni secciones.")
         for s in r.get("estudios", []):
             if s not in ids_est:
                 errores.append(f"{r['id']}: cita {s}, que no existe.")
@@ -139,7 +156,8 @@ def ensamblar(pieza, d):
     est = {r["id"]: r for r in d["estudios"]}
     citas = [f"{est[s]['cita_breve']} https://doi.org/{est[s]['doi']}" for s in pieza["estudios"]]
     fuente = "📚 *Fuente:* " if len(citas) == 1 else "📚 *Fuentes:*\n"
-    bloques = [f"📊 *{pieza['titulo']}*", pieza["cuerpo"].strip(),
+    bloques = [pieza["secciones"]["gancho"].strip()] if pieza.get("secciones") else []
+    bloques += [f"📊 *{pieza['titulo']}*", cuerpo(pieza),
                fuente + "\n".join(citas),
                f"{p['cierre']}\n🔗 {p['enlace']}"]
     return "\n\n".join(bloques) + "\n"
@@ -184,14 +202,22 @@ def problemas_pieza(pieza, d, estricto=False):
             obs.append(f"{s}: sin DOI.")
         if estricto and not e.get("folio"):
             obs.append(f"{s}: sin folio (página o tabla del texto completo).")
-    n = palabras(pieza["cuerpo"])
+    n = palabras(cuerpo(pieza))
     if not PALABRAS[0] <= n <= PALABRAS[1]:
         obs.append(f"cuerpo de {n} palabras (margen {PALABRAS[0]}–{PALABRAS[1]}).")
     if len(pieza["titulo"]) > TITULO_MAX:
         obs.append(f"título de {len(pieza['titulo'])} caracteres; la notificación muestra unos {TITULO_MAX}.")
-    if "*" not in pieza["cuerpo"]:
+    if pieza.get("secciones"):
+        g = pieza["secciones"]["gancho"].strip()
+        if len(g) > GANCHO_MAX:
+            obs.append(f"gancho de {len(g)} caracteres; la vista previa muestra unos {GANCHO_MAX}.")
+        if re.search(r"[*_~`]", g):
+            obs.append("el gancho lleva marcas de formato, que la notificación muestra como símbolos.")
+        if "¿" not in pieza["secciones"]["conclusion"]:
+            obs.append("la conclusión no cierra con una pregunta abierta a los colegas.")
+    if "*" not in cuerpo(pieza):
         obs.append("sin negritas en el hallazgo principal.")
-    if "¿" not in pieza["cuerpo"]:
+    if "¿" not in cuerpo(pieza):
         obs.append("sin pregunta abierta a los colegas al final.")
     texto = ensamblar(pieza, d)
     if len(texto) > p["limite_caracteres"]:
@@ -381,7 +407,7 @@ def generar(d, proyecto, con_tarjetas=True):
         obs = problemas_pieza(r, d)
         texto = ensamblar(r, d)
         lineas.append(f"---\n\n## {r['fecha']} · {r['hora']} · {r['id']}\n")
-        lineas.append(f"{len(texto)} caracteres · {palabras(r['cuerpo'])} palabras en el cuerpo.\n")
+        lineas.append(f"{len(texto)} caracteres · {palabras(cuerpo(r))} palabras en el cuerpo.\n")
         lineas.append("> Antes de publicar: " + " ".join(obs) + "\n" if obs else "> Lista para publicar.\n")
         lineas.append("```\n" + texto + "```\n")
     (out / "lote.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")

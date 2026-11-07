@@ -857,6 +857,30 @@
       "verificado_el": "",
       "supersede": "",
       "razon": "Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación."
+    },
+    {
+      "id": "P-022",
+      "fecha": "2026-12-10",
+      "hora": "11:00",
+      "titulo": "Salud mental: una historia que empieza temprano",
+      "secciones": {
+        "gancho": "Casi tres de cada diez adultos ya lo vivieron. Para la mitad de ellos, empezó a los 20 años o antes.",
+        "introduccion": "Alfredo Cía, Juan Carlos Stagnaro y su equipo (2018) lo estudiaron en 3927 adultos de zonas urbanas de Argentina, con la entrevista diagnóstica de la OMS.",
+        "desarrollo": "*El 29,1 % había tenido algún trastorno mental a lo largo de la vida*, y *la edad mediana de inicio fue de 20 años*.",
+        "conclusion": "💡 Muchas historias que llegan a la consulta adulta comenzaron en la juventud. Ahí hay una ventana valiosa para escuchar a tiempo.\n\n¿A qué edad llegan sus pacientes a la primera consulta?"
+      },
+      "estudios": [
+        "S-015"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio epidemiológico · Argentina",
+        "cifra": "29,1 %",
+        "frase": "Adultos con algún trastorno mental a lo largo de la vida; edad mediana de inicio, 20 años."
+      },
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "P-021",
+      "razon": "Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación."
     }
   ]
 }

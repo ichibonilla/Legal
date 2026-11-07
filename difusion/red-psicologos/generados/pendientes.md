@@ -8,7 +8,7 @@
 
 ## POR VERIFICAR (1)
 
-- **P-021** — ¿A qué edad comienzan los trastornos mentales?. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación.
+- **P-022** — Salud mental: una historia que empieza temprano. Nueva estructura narrativa: gancho, título, introducción, desarrollo y conclusión. Borrador enviado para revisión el 2026-11-07; pasa a VERIFICADO con la aprobación.
 
 ## Publicadas sin métricas (0)
 
