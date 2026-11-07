@@ -12,6 +12,6 @@
 ## Publicadas sin métricas (0)
 
 
-## Sin folio (15 de 15 estudios vigentes)
+## Sin folio (22 de 22 estudios vigentes)
 
 Cotejados contra el resumen publicado. El folio (página o tabla del texto completo) se completa al leer el artículo; `cotejo --estricto` lo exige.

@@ -110,7 +110,8 @@ Revisar estas reglas en el Centro de ayuda de WhatsApp (sección «Cómo dar for
 1. Revisar `generados/handoff.md` y `generados/horarios.md`: cobertura, pendientes y mejores franjas.
 2. Elegir de 10 a 11 estudios para los 30 días siguientes, con variedad de temas, formatos y regiones. Cotejarlos y registrarlos como `S-xxx`.
 3. Redactar las piezas `P-xxx` con fecha, hora, título, cuerpo, estudios y tarjeta (`rotulo`, `cifra`, `frase`).
-4. `python3 herramientas/difusion.py cerrar`, para validar y regenerar el lote, las piezas, las tarjetas, el calendario, los horarios, los pendientes y el handoff.
+4. `python3 herramientas/difusion.py cerrar`, para validar y regenerar el lote, las piezas, las tarjetas, el calendario, los horarios, los pendientes y el handoff. Para un lote que empieza en otra fecha: `cerrar --desde AAAA-MM-DD`, que escribe `generados/lote_AAAA-MM-DD.md` y lo mantiene al día en cada cierre.
+   - Fechas: evitar el 24, 25 y 31 de diciembre y el 1 de enero; en esos casos, la pieza se corre uno o dos días.
 5. `python3 herramientas/difusion.py cotejo`. Si devuelve observaciones, esa pieza no sale hasta resolverlas o retirar la cita.
 6. Leer cada pieza completa en `generados/lote.md`, como la leería un colega en el teléfono.
 7. Commit del registro y de los generados.

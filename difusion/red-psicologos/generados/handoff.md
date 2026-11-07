@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2026-12-10. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2027-01-11. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
 
 ## Horario
 
@@ -49,6 +49,13 @@ Todavía no hay métricas registradas.
 - **S-014** (superado por S-016) — PENDIENTE — Argentina — Metaanálisis multinivel longitudinal sobre la eficacia a largo plazo de psicoterapias de buena fe para el trastorno de ansiedad generalizada, con coautoría de J. M. Gómez Penedo (UBA y CONICET). Cita completa por confirmar.
 - **S-015** — VERIFICADO — Argentina — Cía, A., Stagnaro, J. C., et al. (2018). Lifetime prevalence and age-of-onset of mental disorders in adults from the Argentinean Study of Mental Health Epidemiology. _Social Psychiatry and Psychiatric Epidemiology_, 53(4), 341–350. https://doi.org/10.1007/s00127-018-1492-3
 - **S-016** — VERIFICADO — Europa — Flückiger, C., Carratta, K., Del Re, A. C., Probst, G., Vîslă, A., Gómez Penedo, J. M., & Wampold, B. E. (2022). The relative efficacy of bona fide cognitive behavioral therapy and applied relaxation for generalized anxiety disorder at follow-up: A longitudinal multilevel meta-analysis. _Journal of Consulting and Clinical Psychology_, 90(4), 339–352. https://doi.org/10.1037/ccp0000717
+- **S-017** — VERIFICADO — Europa — Leichsenring, F., Luyten, P., Hilsenroth, M. J., et al. (2015). Psychodynamic therapy meets evidence-based medicine: A systematic review using updated criteria. _The Lancet Psychiatry_, 2(7), 648–660. https://doi.org/10.1016/S2215-0366(15)00155-8
+- **S-018** — VERIFICADO — Estados Unidos — Swift, J. K., & Greenberg, R. P. (2012). Premature discontinuation in adult psychotherapy: A meta-analysis. _Journal of Consulting and Clinical Psychology_, 80(4), 547–559. https://doi.org/10.1037/a0028226
+- **S-019** — VERIFICADO — México — Borges, G., Nock, M. K., Haro Abad, J. M., et al. (2010). Twelve-month prevalence of and risk factors for suicide attempts in the World Health Organization World Mental Health Surveys. _Journal of Clinical Psychiatry_, 71(12), 1617–1628. https://doi.org/10.4088/JCP.08m04967blu
+- **S-020** — VERIFICADO — Europa — Cuijpers, P., Smit, F., Bohlmeijer, E., Hollon, S. D., & Andersson, G. (2010). Efficacy of cognitive-behavioural therapy and other psychological treatments for adult depression: Meta-analytic study of publication bias. _British Journal of Psychiatry_, 196(3), 173–178. https://doi.org/10.1192/bjp.bp.109.066001
+- **S-021** — VERIFICADO — Europa — Johns, R. G., Barkham, M., Kellett, S., & Saxon, D. (2019). A systematic review of therapist effects: A critical narrative update and refinement to Baldwin and Imel's (2013) review. _Clinical Psychology Review_, 67, 78–93. https://doi.org/10.1016/j.cpr.2018.08.004
+- **S-022** — VERIFICADO — Asia — Furukawa, T. A., et al. (2021). Dismantling, optimising, and personalising internet cognitive behavioural therapy for depression: A systematic review and component network meta-analysis using individual participant data. _The Lancet Psychiatry_, 8(6), 500–511. https://doi.org/10.1016/S2215-0366(21)00077-8
+- **S-023** — VERIFICADO — Europa — Cuijpers, P., Sijbrandij, M., Koole, S. L., Andersson, G., Beekman, A. T., & Reynolds, C. F. (2014). Adding psychotherapy to antidepressant medication in depression and anxiety disorders: A meta-analysis. _World Psychiatry_, 13(1), 56–67. https://doi.org/10.1002/wps.20089
 
 ## Registros reemplazados
 

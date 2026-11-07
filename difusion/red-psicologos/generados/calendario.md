@@ -39,3 +39,13 @@ Registro actualizado el 2026-11-07. Frecuencia: cada 3 días. Franjas en prueba:
 | 2026-12-07 | 08:00 | P-032 | VERIFICADO | Trastorno límite: eficacia con matices | S-010 (Europa) | — |
 | 2026-12-10 | 11:00 | ~~P-021~~ (superada por P-022) | POR VERIFICAR | ¿A qué edad comienzan los trastornos mentales? | S-015 (Argentina) | — |
 | 2026-12-10 | 11:00 | P-022 | VERIFICADO | Salud mental: una historia que empieza temprano | S-015 (Argentina) | — |
+| 2026-12-13 | 18:00 | P-033 | VERIFICADO | Psicodinámica y medicina basada en la evidencia | S-017 (Europa) | — |
+| 2026-12-16 | 08:00 | P-034 | VERIFICADO | Abandono en psicoterapia: 669 estudios | S-018 (Estados Unidos) | — |
+| 2026-12-19 | 11:00 | P-035 | VERIFICADO | El efecto del terapeuta | S-021 (Europa) | — |
+| 2026-12-22 | 14:00 | P-036 | VERIFICADO | Conducta suicida en 21 países | S-019 (México) | — |
+| 2026-12-26 | 21:30 | P-037 | VERIFICADO | El sesgo de publicación en psicoterapia | S-020 (Europa) | — |
+| 2026-12-29 | 18:00 | P-038 | VERIFICADO | Psicodinámica y trastornos de ansiedad | S-006 (Estados Unidos) | — |
+| 2027-01-02 | 11:00 | P-039 | VERIFICADO | TCC en línea: qué componentes funcionan | S-022 (Asia) | — |
+| 2027-01-05 | 08:00 | P-040 | VERIFICADO | Psicodinámica breve y depresión | S-008 (Europa) | — |
+| 2027-01-08 | 14:00 | P-041 | VERIFICADO | Psicoterapia y antidepresivos: el valor de combinar | S-023 (Europa) | — |
+| 2027-01-11 | 21:30 | P-042 | VERIFICADO | Ansiedad generalizada: diferencias pequeñas | S-016 (Europa) | — |

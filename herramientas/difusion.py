@@ -3,7 +3,7 @@
 
 Uso:
   python3 herramientas/difusion.py validar  [--proyecto difusion/red-psicologos]
-  python3 herramientas/difusion.py generar  [--proyecto ...] [--sin-tarjetas]
+  python3 herramientas/difusion.py generar  [--proyecto ...] [--sin-tarjetas] [--desde AAAA-MM-DD]
   python3 herramientas/difusion.py cotejo   [FECHA] [--dias 30] [--estricto] [--proyecto ...]
   python3 herramientas/difusion.py metricas P-xxx --miembros N --leidos N --reacciones N
                                             --respuestas N --nuevos N [--publicada "AAAA-MM-DD HH:MM"]
@@ -378,7 +378,27 @@ def tarjetas(d, carpeta):
 
 # ---------------------------------------------------------------- generar
 
-def generar(d, proyecto, con_tarjetas=True):
+def escribir_lote(d, out, desde, nombre, cab):
+    p = d["proyecto"]
+    lote = ventana(d, desde, 30)
+    regiones, avisos = diversidad(d, lote)
+    lineas = [cab, f"# Lote — {p['nombre']}\n",
+              f"Piezas del {desde.isoformat()} al {(desde + timedelta(days=30)).isoformat()}, "
+              f"cada {p['frecuencia_dias']} días. Cada pieza se publica como un solo mensaje: "
+              f"la tarjeta (`generados/tarjetas/`) con el bloque de texto como descripción.\n",
+              f"Regiones de las fuentes: {', '.join(regiones) or '—'}."
+              + (f" Falta: {'; '.join(avisos)}." if avisos else "") + "\n"]
+    for r in lote:
+        obs = problemas_pieza(r, d)
+        texto = ensamblar(r, d)
+        lineas.append(f"---\n\n## {r['fecha']} · {r['hora']} · {r['id']}\n")
+        lineas.append(f"{len(texto)} caracteres · {palabras(cuerpo(r))} palabras en el cuerpo.\n")
+        lineas.append("> Antes de publicar: " + " ".join(obs) + "\n" if obs else "> Lista para publicar.\n")
+        lineas.append("```\n" + texto + "```\n")
+    (out / nombre).write_text("\n".join(lineas) + "\n", encoding="utf-8")
+
+
+def generar(d, proyecto, con_tarjetas=True, desde=None):
     out = Path(proyecto) / "generados"
     piezas_dir = out / "piezas"
     if piezas_dir.exists():
@@ -395,23 +415,11 @@ def generar(d, proyecto, con_tarjetas=True):
     for r in vig:
         (piezas_dir / f"{r['fecha']}_{r['id']}.txt").write_text(ensamblar(r, d), encoding="utf-8")
 
-    # Lote de los próximos 30 días
-    lote = ventana(d, hoy, 30)
-    regiones, avisos = diversidad(d, lote)
-    lineas = [cab, f"# Lote — {p['nombre']}\n",
-              f"Piezas del {hoy.isoformat()} al {(hoy + timedelta(days=30)).isoformat()}, "
-              f"cada {p['frecuencia_dias']} días. Cada pieza se publica como un solo mensaje: "
-              f"la tarjeta (`generados/tarjetas/`) con el bloque de texto como descripción.\n",
-              f"Regiones de las fuentes: {', '.join(regiones) or '—'}."
-              + (f" Falta: {'; '.join(avisos)}." if avisos else "") + "\n"]
-    for r in lote:
-        obs = problemas_pieza(r, d)
-        texto = ensamblar(r, d)
-        lineas.append(f"---\n\n## {r['fecha']} · {r['hora']} · {r['id']}\n")
-        lineas.append(f"{len(texto)} caracteres · {palabras(cuerpo(r))} palabras en el cuerpo.\n")
-        lineas.append("> Antes de publicar: " + " ".join(obs) + "\n" if obs else "> Lista para publicar.\n")
-        lineas.append("```\n" + texto + "```\n")
-    (out / "lote.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
+    # Lote de los próximos 30 días y lotes con fecha de inicio (lote_AAAA-MM-DD.md)
+    escribir_lote(d, out, hoy, "lote.md", cab)
+    fechas = {f.stem[5:] for f in out.glob("lote_*.md")} | ({desde.isoformat()} if desde else set())
+    for f in sorted(fechas):
+        escribir_lote(d, out, date.fromisoformat(f), f"lote_{f}.md", cab)
 
     # Calendario
     lineas = [cab, f"# Calendario — {p['nombre']}\n",
@@ -511,6 +519,7 @@ def main():
     ap.add_argument("--dias", type=int, default=30, help="en cotejo: días a revisar (por defecto 30)")
     ap.add_argument("--estricto", action="store_true", help="en cotejo: exige folio en cada estudio citado")
     ap.add_argument("--sin-tarjetas", action="store_true", help="no regenera las imágenes")
+    ap.add_argument("--desde", help="en generar o cerrar: escribe además generados/lote_AAAA-MM-DD.md desde esa fecha")
     for c in CAMPOS_METRICAS:
         ap.add_argument(f"--{c}", type=int)
     ap.add_argument("--publicada", help="en metricas: fecha y hora reales, «AAAA-MM-DD HH:MM»")
@@ -572,7 +581,8 @@ def main():
         print(f"Registro válido: {len(d['estudios'])} estudios, {len(d['piezas'])} piezas.")
         return 0
 
-    archivos = generar(d, a.proyecto, con_tarjetas=not a.sin_tarjetas)
+    desde = date.fromisoformat(a.desde) if a.desde else None
+    archivos = generar(d, a.proyecto, con_tarjetas=not a.sin_tarjetas, desde=desde)
     print("Generados: " + ", ".join(archivos))
     if a.accion == "cerrar":
         for grupo in ("estudios", "piezas"):
