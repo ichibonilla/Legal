@@ -31,3 +31,15 @@ Material confidencial. No se publica fuera del repositorio.
 
 `python3 herramientas/registro.py cotejo casos/<caso>/escritos/<escrito>.md`
 (con `--despacho` para exigir folio). Si devuelve observaciones, el escrito no sale hasta resolverlas o retirar la cita.
+
+## Difusión: Red Psicólogos en Costa Rica
+
+Mismo método, aplicado al calendario del grupo de WhatsApp. No es material de caso: son piezas para publicar en el grupo.
+
+- `difusion/red-psicologos/registro.json` es la fuente única: `estudios` (S-xxx, fuente científica y hallazgos cotejados) y `piezas` (P-xxx, mensaje, fecha y estudios que cita). Mismos estados y mismos campos `verificado_el`, `supersede` y `razon`; no se borra.
+- `folio` en un estudio es la página o tabla del texto completo donde consta la cifra; queda vacío mientras el cotejo se haya hecho solo contra el resumen.
+- Una pieza cada tres días, preparada con 30 días de antelación; unas 90 palabras, emojis discretos, cita APA con DOI y el enlace del grupo al final. Firma solo la Red; no se menciona a ninguna institución.
+- Toda cifra de una pieza debe constar en los `hallazgos` del estudio que cita.
+- `generados/` (lote para copiar, piezas en `.txt`, tarjetas en la paleta sin logotipo, calendario, pendientes, handoff) se regenera: `python3 herramientas/difusion.py cerrar`.
+- Antes de publicar: `python3 herramientas/difusion.py cotejo` (próximos 30 días; `--estricto` exige folio). Si devuelve observaciones, la pieza no sale hasta resolverlas o retirar la cita.
+- La rutina de cierre de cada jueves incluye este registro.
