@@ -273,7 +273,7 @@ def cobertura(d):
     sup = superados(d["estudios"])
     por_pais = {}
     for e in d["estudios"]:
-        if e["id"] in sup:
+        if e["id"] in sup or e["estado"] != "VERIFICADO":
             continue
         for pais in e["paises"]:
             if not pais.startswith("consorcio"):
@@ -487,7 +487,7 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
     # Cobertura por país
     en_ocde, fuera, faltan = cobertura(d)
     lineas = [cab, f"# Cobertura por país — {p['nombre']}\n",
-              "Países de afiliación de los autores de los estudios vigentes. Los datos de consorcios "
+              "Países de afiliación de los autores de los estudios vigentes y verificados. Los datos de consorcios "
               "multinacionales no se desglosan por país.\n",
               f"## OCDE: {len(en_ocde)} de {len(p['ocde'])} países\n",
               "| País | Estudios | Como primer autor |", "|---|---|---|"]
@@ -498,6 +498,10 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
     lineas += [f"- {c}: {', '.join(e['id'] for e in es)}" for c, es in fuera.items()]
     lineas.append(f"\n## Miembros de la OCDE sin estudios ({len(faltan)})\n")
     lineas.append(", ".join(faltan) + ".")
+    pend = p.get("pendientes_cobertura", [])
+    if pend:
+        lineas.append(f"\n## Búsquedas pendientes ({len(pend)})\n")
+        lineas += [f"- **{x['pais']}** ({x['fecha']}): {x['nota']}" for x in pend]
     (out / "cobertura.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
     # Pendientes

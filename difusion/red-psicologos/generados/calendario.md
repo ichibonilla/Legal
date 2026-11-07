@@ -49,3 +49,13 @@ Registro actualizado el 2026-11-07. Frecuencia: cada 3 días. Franjas en prueba:
 | 2027-01-05 | 08:00 | P-040 | VERIFICADO | Psicodinámica breve y depresión | S-008 (Europa) | — |
 | 2027-01-08 | 14:00 | P-041 | VERIFICADO | Psicoterapia y antidepresivos: el valor de combinar | S-023 (Europa) | — |
 | 2027-01-11 | 21:30 | P-042 | VERIFICADO | Ansiedad generalizada: diferencias pequeñas | S-016 (Europa) | — |
+| 2027-01-14 | 14:00 | P-043 | VERIFICADO | Psicodinámica breve: la revisión Cochrane | S-024 (Canadá) | — |
+| 2027-01-17 | 21:30 | P-044 | VERIFICADO | Prevenir la ansiedad: lo que dice la evidencia | S-025 (Europa) | — |
+| 2027-01-20 | 18:00 | P-045 | VERIFICADO | ¿La TCC está perdiendo eficacia? | S-026 (Europa) | — |
+| 2027-01-23 | 11:00 | P-046 | VERIFICADO | Lo que muestran los registros de todo un país | S-027 (Europa) | — |
+| 2027-01-26 | 08:00 | P-047 | VERIFICADO | TCC por internet en ansiedad y depresión | S-028 (Oceanía) | — |
+| 2027-01-29 | 14:00 | P-048 | VERIFICADO | Psicodinámica: dónde es más fuerte la evidencia | S-029 (Europa) | — |
+| 2027-02-01 | 21:30 | P-049 | VERIFICADO | Atención plena y depresión mayor | S-030 (Asia) | — |
+| 2027-02-04 | 18:00 | P-050 | VERIFICADO | Los trastornos más frecuentes en Argentina | S-015 (Argentina) | — |
+| 2027-02-07 | 11:00 | P-051 | VERIFICADO | Medir el progreso en psicoterapia | S-031 (Europa) | — |
+| 2027-02-10 | 08:00 | P-052 | VERIFICADO | Trastorno límite: la revisión Cochrane de 2020 | S-032 (Europa) | — |

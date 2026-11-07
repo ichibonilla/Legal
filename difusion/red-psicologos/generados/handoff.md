@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2027-01-11. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2027-02-10. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
 
 ## Horario
 
@@ -56,6 +56,17 @@ Todavía no hay métricas registradas.
 - **S-021** — VERIFICADO — Europa — Johns, R. G., Barkham, M., Kellett, S., & Saxon, D. (2019). A systematic review of therapist effects: A critical narrative update and refinement to Baldwin and Imel's (2013) review. _Clinical Psychology Review_, 67, 78–93. https://doi.org/10.1016/j.cpr.2018.08.004
 - **S-022** — VERIFICADO — Asia — Furukawa, T. A., et al. (2021). Dismantling, optimising, and personalising internet cognitive behavioural therapy for depression: A systematic review and component network meta-analysis using individual participant data. _The Lancet Psychiatry_, 8(6), 500–511. https://doi.org/10.1016/S2215-0366(21)00077-8
 - **S-023** — VERIFICADO — Europa — Cuijpers, P., Sijbrandij, M., Koole, S. L., Andersson, G., Beekman, A. T., & Reynolds, C. F. (2014). Adding psychotherapy to antidepressant medication in depression and anxiety disorders: A meta-analysis. _World Psychiatry_, 13(1), 56–67. https://doi.org/10.1002/wps.20089
+- **S-024** — VERIFICADO — Canadá — Abbass, A. A., Kisely, S. R., Town, J. M., et al. (2014). Short-term psychodynamic psychotherapies for common mental disorders. _Cochrane Database of Systematic Reviews_, 2014(7), CD004687. https://doi.org/10.1002/14651858.CD004687.pub4
+- **S-025** — VERIFICADO — Europa — Moreno-Peral, P., Conejo-Cerón, S., Rubio-Valera, M., et al. (2017). Effectiveness of psychological and/or educational interventions in the prevention of anxiety: A systematic review, meta-analysis, and meta-regression. _JAMA Psychiatry_, 74(10), 1021–1029. https://doi.org/10.1001/jamapsychiatry.2017.2509
+- **S-026** — VERIFICADO — Europa — Cristea, I. A., Stefan, S., Karyotaki, E., David, D., Hollon, S. D., & Cuijpers, P. (2017). The effects of cognitive behavioral therapy are not systematically falling: A revision of Johnsen and Friborg (2015). _Psychological Bulletin_, 143(3), 326–340. https://doi.org/10.1037/bul0000062
+- **S-027** — VERIFICADO — Europa — Pedersen, C. B., Mors, O., Bertelsen, A., et al. (2014). A comprehensive nationwide study of the incidence rate and lifetime risk for treated mental disorders. _JAMA Psychiatry_, 71(5), 573–581. https://doi.org/10.1001/jamapsychiatry.2014.16
+- **S-028** — VERIFICADO — Oceanía — Andrews, G., Basu, A., Cuijpers, P., Craske, M. G., McEvoy, P., English, C. L., & Newby, J. M. (2018). Computer therapy for the anxiety and depression disorders is effective, acceptable and practical health care: An updated meta-analysis. _Journal of Anxiety Disorders_, 55, 70–78. https://doi.org/10.1016/j.janxdis.2018.01.001
+- **S-029** — VERIFICADO — Europa — Fonagy, P. (2015). The effectiveness of psychodynamic psychotherapies: An update. _World Psychiatry_, 14(2), 137–150. https://doi.org/10.1002/wps.20235
+- **S-030** — VERIFICADO — Asia — Park, H., et al. (2024). Effects of mindfulness-based interventions on depressive symptoms in patients with major depressive disorder: A meta-analysis of randomized controlled trials. _Journal of the Korean Society of Biological Psychiatry_, 31(1), 7–14. https://doi.org/10.22857/kjbp.2024.31.1.002
+- **S-031** — VERIFICADO — Europa — de Jong, K., Conijn, J. M., Gallagher, R. A. V., Reshetnikova, A. S., Heij, M., & Lutz, M. C. (2021). Using progress feedback to improve outcomes and reduce drop-out, treatment duration, and deterioration: A multilevel meta-analysis. _Clinical Psychology Review_, 85, 102002. https://doi.org/10.1016/j.cpr.2021.102002
+- **S-032** — VERIFICADO — Europa — Storebø, O. J., Stoffers-Winterling, J. M., Völlm, B. A., et al. (2020). Psychological therapies for people with borderline personality disorder. _Cochrane Database of Systematic Reviews_, 2020(5), CD012955. https://doi.org/10.1002/14651858.CD012955.pub2
+- **S-033** — PENDIENTE — Europa — Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768.
+- **S-034** — PENDIENTE — América Latina — Gómez-Restrepo, C., et al. (2016). Trastornos depresivos y de ansiedad y factores asociados en la población adulta colombiana, Encuesta Nacional de Salud Mental 2015. _Revista Colombiana de Psiquiatría_, 45(S1), 58–67. https://doi.org/10.1016/j.rcp.2016.04.009
 
 ## Registros reemplazados
 

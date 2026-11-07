@@ -90,6 +90,23 @@
       "Suecia",
       "Suiza",
       "Turquía"
+    ],
+    "pendientes_cobertura": [
+      {
+        "pais": "Chile",
+        "fecha": "2026-11-07",
+        "nota": "No se localizó un metaanálisis o una gran base de datos con primer autor chileno; buscar en PubMed por afiliación (Pontificia Universidad Católica de Chile, Universidad de Chile) y en SciELO Chile."
+      },
+      {
+        "pais": "Costa Rica",
+        "fecha": "2026-11-07",
+        "nota": "No se localizó un metaanálisis costarricense. Candidatos de gran base de datos: CRELES (Centro Centroamericano de Población, unos 8000 adultos mayores) y la Encuesta Actualidades de la UCR; verificar cifras en publicaciones arbitradas."
+      },
+      {
+        "pais": "Colombia",
+        "fecha": "2026-11-07",
+        "nota": "Encuesta Nacional de Salud Mental 2015 registrada como S-034, PENDIENTE de las cifras en adultos."
+      }
     ]
   },
   "estudios": [
@@ -710,6 +727,294 @@
       "verificado_el": "2026-11-07",
       "supersede": "",
       "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-024",
+      "referencia_corta": "Abbass et al. (2014), Cochrane",
+      "cita": "Abbass, A. A., Kisely, S. R., Town, J. M., et al. (2014). Short-term psychodynamic psychotherapies for common mental disorders. _Cochrane Database of Systematic Reviews_, 2014(7), CD004687.",
+      "cita_breve": "Abbass, A. A., et al. (2014). Short-term psychodynamic psychotherapies for common mental disorders. _Cochrane Database of Systematic Reviews_, CD004687.",
+      "doi": "10.1002/14651858.CD004687.pub4",
+      "pmid": "",
+      "diseno": "Revisión sistemática Cochrane con metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Canadá",
+      "paises": [
+        "Canadá",
+        "Australia"
+      ],
+      "hallazgos": [
+        "33 ensayos aleatorizados con 2173 adultos con trastornos mentales frecuentes, en atención ambulatoria; terapia psicodinámica breve individual de 40 horas o menos.",
+        "Beneficios a corto y mediano plazo que, en general, parecían aumentar a largo plazo; algunos efectos no alcanzaron significación estadística en el seguimiento largo.",
+        "Pocos estudios (menos de 20) aportaron datos por categoría de resultado; heterogeneidad significativa en la mayoría de las categorías.",
+        "Conclusión: sigue siendo prometedora, con ganancias de moderadas a grandes; se necesitan estudios más amplios, de mayor calidad y por diagnóstico.",
+        "Conflicto de interés declarado: el autor principal trabaja en una variante de esta terapia y dirigió uno de los estudios incluidos."
+      ],
+      "fuente": "Página de evidencia de Cochrane y resumen en cochranelibrary.com (CD004687_abstract.pdf)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-025",
+      "referencia_corta": "Moreno-Peral et al. (2017), JAMA Psychiatry",
+      "cita": "Moreno-Peral, P., Conejo-Cerón, S., Rubio-Valera, M., et al. (2017). Effectiveness of psychological and/or educational interventions in the prevention of anxiety: A systematic review, meta-analysis, and meta-regression. _JAMA Psychiatry_, 74(10), 1021–1029.",
+      "cita_breve": "Moreno-Peral, P., et al. (2017). Effectiveness of psychological and/or educational interventions in the prevention of anxiety. _JAMA Psychiatry_, 74(10), 1021–1029.",
+      "doi": "10.1001/jamapsychiatry.2017.2509",
+      "pmid": "",
+      "diseno": "Revisión sistemática, metaanálisis y metarregresión",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "España"
+      ],
+      "hallazgos": [
+        "29 ensayos aleatorizados con 10 430 personas sin ansiedad al inicio, de 11 países; 36 comparaciones.",
+        "DME combinada = −0,31 (IC 95 % −0,40 a −0,21); heterogeneidad sustancial (I² = 61,1 %).",
+        "Hubo sesgo de publicación, pero el efecto apenas varió tras el ajuste (DME = −0,27; IC 95 % −0,37 a −0,17).",
+        "Efectos mayores frente a listas de espera y en muestras más pequeñas.",
+        "Beneficio pequeño pero estadísticamente significativo en todas las poblaciones evaluadas."
+      ],
+      "fuente": "Resumen (repositorio de la Universidad de Málaga, riuma.uma.es; registro de indización)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-026",
+      "referencia_corta": "Cristea et al. (2017), Psychological Bulletin",
+      "cita": "Cristea, I. A., Stefan, S., Karyotaki, E., David, D., Hollon, S. D., & Cuijpers, P. (2017). The effects of cognitive behavioral therapy are not systematically falling: A revision of Johnsen and Friborg (2015). _Psychological Bulletin_, 143(3), 326–340.",
+      "cita_breve": "Cristea, I. A., et al. (2017). The effects of cognitive behavioral therapy are not systematically falling: A revision of Johnsen and Friborg (2015). _Psychological Bulletin_, 143(3), 326–340.",
+      "doi": "10.1037/bul0000062",
+      "pmid": "",
+      "diseno": "Reanálisis metaanalítico",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Rumanía",
+        "Países Bajos",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "Johnsen y Friborg (2015) habían reportado una relación negativa significativa entre el año de publicación y el efecto de la TCC para la depresión.",
+        "El año de publicación no parece ser un moderador fiable e independiente de la eficacia de la TCC para la depresión.",
+        "La caída lineal reportada por Johnsen y Friborg (2015) es muy probablemente un hallazgo espurio."
+      ],
+      "fuente": "Resumen (scholars.mssm.edu; iris.unipv.it); DOI en lista de referencias y en news.ubbcluj.ro",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-027",
+      "referencia_corta": "Pedersen et al. (2014), JAMA Psychiatry",
+      "cita": "Pedersen, C. B., Mors, O., Bertelsen, A., et al. (2014). A comprehensive nationwide study of the incidence rate and lifetime risk for treated mental disorders. _JAMA Psychiatry_, 71(5), 573–581.",
+      "cita_breve": "Pedersen, C. B., et al. (2014). A comprehensive nationwide study of the incidence rate and lifetime risk for treated mental disorders. _JAMA Psychiatry_, 71(5), 573–581.",
+      "doi": "10.1001/jamapsychiatry.2014.16",
+      "pmid": "24806211",
+      "diseno": "Estudio de registros nacionales",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "Europa",
+      "paises": [
+        "Dinamarca"
+      ],
+      "hallazgos": [
+        "Cruce del Registro Civil de Dinamarca con el Registro Central de Investigación Psiquiátrica; solo trastornos tratados en atención especializada.",
+        "Aproximadamente un tercio de la población danesa recibió tratamiento por un trastorno mental (riesgo de vida acumulado hasta los 100 años).",
+        "La frecuencia varió marcadamente según categoría diagnóstica, sexo y edad.",
+        "Muchos trastornos tuvieron un único pico de incidencia en la segunda y tercera década de la vida."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/24806211 (resumen); jamanetwork.com",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-028",
+      "referencia_corta": "Andrews et al. (2018), J Anxiety Disord",
+      "cita": "Andrews, G., Basu, A., Cuijpers, P., Craske, M. G., McEvoy, P., English, C. L., & Newby, J. M. (2018). Computer therapy for the anxiety and depression disorders is effective, acceptable and practical health care: An updated meta-analysis. _Journal of Anxiety Disorders_, 55, 70–78.",
+      "cita_breve": "Andrews, G., et al. (2018). Computer therapy for the anxiety and depression disorders is effective, acceptable and practical health care. _Journal of Anxiety Disorders_, 55, 70–78.",
+      "doi": "10.1016/j.janxdis.2018.01.001",
+      "pmid": "",
+      "diseno": "Metaanálisis (actualización)",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Oceanía",
+      "paises": [
+        "Australia",
+        "Países Bajos",
+        "Estados Unidos"
+      ],
+      "hallazgos": [
+        "64 ensayos de TCC por computadora o internet frente a control, en depresión mayor, pánico, ansiedad social y ansiedad generalizada.",
+        "Efecto medio g = 0,80 (NNT 2,34), con beneficio en los cuatro trastornos.",
+        "La mejoría se mantuvo en el seguimiento, con buena aceptabilidad y bajo riesgo de sesgo.",
+        "Nueve estudios compararon TCC por internet con TCC presencial y tres con biblioterapia: las tres modalidades parecieron igual de beneficiosas.",
+        "Limitación: faltan comparaciones con medicación."
+      ],
+      "fuente": "Registro y resumen en espace.curtin.edu.au (20.500.11937/72384) y research.vu.nl",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-029",
+      "referencia_corta": "Fonagy (2015), World Psychiatry",
+      "cita": "Fonagy, P. (2015). The effectiveness of psychodynamic psychotherapies: An update. _World Psychiatry_, 14(2), 137–150.",
+      "cita_breve": "Fonagy, P. (2015). The effectiveness of psychodynamic psychotherapies: An update. _World Psychiatry_, 14(2), 137–150.",
+      "doi": "10.1002/wps.20235",
+      "pmid": "",
+      "diseno": "Revisión de estudios y metaanálisis",
+      "tipo_evidencia": "revisión de alto impacto",
+      "region": "Europa",
+      "paises": [
+        "Reino Unido"
+      ],
+      "hallazgos": [
+        "Revisa estudios de resultado y metaanálisis de terapia psicodinámica en los grandes grupos de trastornos.",
+        "Frente a controles inactivos suele ser eficaz en depresión, algunos trastornos de ansiedad, trastornos alimentarios y somáticos, aunque no siempre.",
+        "La evidencia es débil en estrés postraumático, TOC, bulimia nerviosa, dependencia de cocaína y psicosis.",
+        "Frente a tratamientos activos rara vez resulta superior; los estudios no suelen estar diseñados para probar equivalencia.",
+        "La evidencia más sólida respalda tratamientos psicodinámicos de largo plazo para algunos trastornos de personalidad, en particular el límite."
+      ],
+      "fuente": "Resumen en UCL Discovery (1465823) y PMC4471961",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-030",
+      "referencia_corta": "Park et al. (2024), J Korean Soc Biol Psychiatry",
+      "cita": "Park, H., et al. (2024). Effects of mindfulness-based interventions on depressive symptoms in patients with major depressive disorder: A meta-analysis of randomized controlled trials. _Journal of the Korean Society of Biological Psychiatry_, 31(1), 7–14.",
+      "cita_breve": "Park, H., et al. (2024). Mindfulness-based interventions for depressive symptoms in major depressive disorder: A meta-analysis. _Journal of the Korean Society of Biological Psychiatry_, 31(1), 7–14.",
+      "doi": "10.22857/kjbp.2024.31.1.002",
+      "pmid": "",
+      "diseno": "Metaanálisis de ensayos aleatorizados",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Asia",
+      "paises": [
+        "Corea del Sur"
+      ],
+      "hallazgos": [
+        "Búsqueda en seis bases de datos (febrero de 2021); 12 ensayos aleatorizados con 720 casos de depresión mayor.",
+        "Modelo de efectos aleatorios: g de Hedges = 0,787 (IC 95 % 0,414 a 1,160), efecto mediano según Cohen."
+      ],
+      "fuente": "Resumen en inglés en koreascience.kr; autores del Hospital Universitario Nacional de Kangwon",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "Título en inglés tomado del resumen; confirmar la redacción exacta del título al completar el folio.",
+      "folio": ""
+    },
+    {
+      "id": "S-031",
+      "referencia_corta": "De Jong et al. (2021), Clin Psychol Rev",
+      "cita": "de Jong, K., Conijn, J. M., Gallagher, R. A. V., Reshetnikova, A. S., Heij, M., & Lutz, M. C. (2021). Using progress feedback to improve outcomes and reduce drop-out, treatment duration, and deterioration: A multilevel meta-analysis. _Clinical Psychology Review_, 85, 102002.",
+      "cita_breve": "de Jong, K., et al. (2021). Using progress feedback to improve outcomes and reduce drop-out, treatment duration, and deterioration. _Clinical Psychology Review_, 85, 102002.",
+      "doi": "10.1016/j.cpr.2021.102002",
+      "pmid": "33721605",
+      "diseno": "Metaanálisis multinivel",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Países Bajos"
+      ],
+      "hallazgos": [
+        "58 estudios aleatorizados y no aleatorizados, 110 tamaños del efecto, 21 699 pacientes en atención curativa.",
+        "La retroalimentación sobre el progreso redujo los síntomas frente a control: d = 0,15 (IC 95 % 0,10 a 0,20).",
+        "En los casos que no avanzaban como se esperaba: d = 0,17.",
+        "Efecto pequeño y favorable sobre el abandono: OR = 1,19 (IC 95 % 1,03 a 1,38)."
+      ],
+      "fuente": "Resumen (pure.eur.nl, research.vu.nl; texto completo en el repositorio de Leiden)",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-032",
+      "referencia_corta": "Storebø et al. (2020), Cochrane",
+      "cita": "Storebø, O. J., Stoffers-Winterling, J. M., Völlm, B. A., et al. (2020). Psychological therapies for people with borderline personality disorder. _Cochrane Database of Systematic Reviews_, 2020(5), CD012955.",
+      "cita_breve": "Storebø, O. J., et al. (2020). Psychological therapies for people with borderline personality disorder. _Cochrane Database of Systematic Reviews_, CD012955.",
+      "doi": "10.1002/14651858.CD012955.pub2",
+      "pmid": "32368793",
+      "diseno": "Revisión sistemática Cochrane con metaanálisis",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Dinamarca",
+        "Alemania",
+        "Reino Unido"
+      ],
+      "hallazgos": [
+        "Ensayos aleatorizados de psicoterapia frente a tratamiento habitual, lista de espera, sin tratamiento o tratamientos activos; certeza evaluada con GRADE.",
+        "Frente al tratamiento habitual, la psicoterapia redujo la gravedad de los síntomas del trastorno límite y la suicidalidad, y podría reducir las autolesiones y la depresión.",
+        "La terapia dialéctico-conductual y la basada en la mentalización fueron las más estudiadas.",
+        "Los análisis por subgrupos no mostraron diferencias entre tipos de terapia frente al tratamiento habitual."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/32368793 y resumen en lenguaje sencillo de Cochrane",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": "",
+      "folio": ""
+    },
+    {
+      "id": "S-033",
+      "referencia_corta": "Johnsen y Friborg (2015), Psychological Bulletin",
+      "cita": "Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768.",
+      "cita_breve": "Johnsen, T. J., & Friborg, O. (2015). The effects of cognitive behavioral therapy as an anti-depressive treatment is falling: A meta-analysis. _Psychological Bulletin_, 141(4), 747–768.",
+      "doi": "",
+      "pmid": "25961373",
+      "diseno": "Metaanálisis con metarregresión",
+      "tipo_evidencia": "metaanálisis",
+      "region": "Europa",
+      "paises": [
+        "Noruega"
+      ],
+      "hallazgos": [
+        "Las metarregresiones indicaron que los efectos de la TCC en la depresión unipolar disminuyeron de forma lineal y sostenida desde su introducción (BDI, HRSD y tasas de remisión)."
+      ],
+      "fuente": "https://pubmed.ncbi.nlm.nih.gov/25961373 (resumen); PDF en uit.no",
+      "estado": "PENDIENTE",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Falta confirmar el DOI. La pieza del 20/1 cita el reanálisis de Cristea et al. (S-026), que sí está verificado.",
+      "folio": ""
+    },
+    {
+      "id": "S-034",
+      "referencia_corta": "Gómez-Restrepo et al. (2016), Rev Colomb Psiquiatr",
+      "cita": "Gómez-Restrepo, C., et al. (2016). Trastornos depresivos y de ansiedad y factores asociados en la población adulta colombiana, Encuesta Nacional de Salud Mental 2015. _Revista Colombiana de Psiquiatría_, 45(S1), 58–67.",
+      "cita_breve": "Gómez-Restrepo, C., et al. (2016). Trastornos depresivos y de ansiedad en la población adulta colombiana. _Revista Colombiana de Psiquiatría_, 45(S1), 58–67.",
+      "doi": "10.1016/j.rcp.2016.04.009",
+      "pmid": "",
+      "diseno": "Encuesta Nacional de Salud Mental 2015",
+      "tipo_evidencia": "grandes bases de datos",
+      "region": "América Latina",
+      "paises": [
+        "Colombia"
+      ],
+      "hallazgos": [
+        "Los trastornos de ansiedad y depresión suponen una carga de enfermedad importante para Colombia."
+      ],
+      "fuente": "Registro en Redalyc (80650839009)",
+      "estado": "PENDIENTE",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Faltan las cifras de prevalencia en adultos; están en el texto completo (Redalyc), que no se pudo leer en esta sesión.",
       "folio": ""
     }
   ],
@@ -1614,6 +1919,246 @@
         "rotulo": "Metaanálisis multinivel · 23 estudios",
         "cifra": "Empate",
         "frase": "Psicoterapias de buena fe en ansiedad generalizada: diferencias pequeñas."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-043",
+      "fecha": "2027-01-14",
+      "hora": "14:00",
+      "titulo": "Psicodinámica breve: la revisión Cochrane",
+      "secciones": {
+        "gancho": "Terapia breve, efectos que podrían crecer con el tiempo. Una revisión Cochrane lo examinó en 33 ensayos.",
+        "introduccion": "Abbass y colaboradores (2014) revisaron 33 ensayos aleatorizados con 2173 adultos con trastornos mentales frecuentes, en tratamientos de 40 horas o menos.",
+        "desarrollo": "Hubo *beneficios a corto y mediano plazo* que, en general, *parecían aumentar a largo plazo*, aunque no todos alcanzaron significación. Hubo heterogeneidad marcada, y el autor principal declaró un conflicto de interés.",
+        "conclusion": "💡 Ganancias de moderadas a grandes, que piden estudios más amplios y por diagnóstico.\n\n¿Qué lugar ocupa la terapia breve en su práctica?"
+      },
+      "estudios": [
+        "S-024"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión Cochrane · 33 ensayos",
+        "cifra": "2173",
+        "frase": "Adultos en ensayos de psicoterapia psicodinámica breve."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-044",
+      "fecha": "2027-01-17",
+      "hora": "21:30",
+      "titulo": "Prevenir la ansiedad: lo que dice la evidencia",
+      "secciones": {
+        "gancho": "¿Se puede prevenir la ansiedad? 29 ensayos en 11 países lo pusieron a prueba.",
+        "introduccion": "Moreno-Peral y colaboradores (2017), de la Universidad de Málaga, analizaron datos de 10 430 personas sin ansiedad al inicio.",
+        "desarrollo": "Las intervenciones psicológicas o educativas tuvieron *un beneficio pequeño pero significativo* (DME = −0,31), que *se mantuvo tras ajustar por sesgo de publicación* (−0,27). Los efectos fueron mayores frente a listas de espera y en muestras pequeñas.",
+        "conclusion": "💡 La prevención funciona, con efectos modestos, en todas las poblaciones estudiadas.\n\n¿Qué experiencias de prevención conocen en Costa Rica?"
+      },
+      "estudios": [
+        "S-025"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · España",
+        "cifra": "29 ensayos",
+        "frase": "Prevención de la ansiedad: beneficio pequeño pero significativo."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-045",
+      "fecha": "2027-01-20",
+      "hora": "18:00",
+      "titulo": "¿La TCC está perdiendo eficacia?",
+      "secciones": {
+        "gancho": "En 2015, un metaanálisis anunció que la TCC para la depresión perdía eficacia. En 2017, otro lo revisó.",
+        "introduccion": "Johnsen y Friborg (2015) reportaron que el efecto de la terapia cognitivo-conductual para la depresión caía con los años. Cristea, Cuijpers y colaboradores (2017) reanalizaron la pregunta.",
+        "desarrollo": "Concluyeron que *el año de publicación no parece ser un moderador fiable de la eficacia de la TCC*, y que *la caída reportada es muy probablemente un hallazgo espurio*.",
+        "conclusion": "💡 Un solo metaanálisis rara vez cierra una discusión; la réplica es parte del método.\n\n¿Cómo leen los hallazgos que llegan a los titulares?"
+      },
+      "estudios": [
+        "S-026"
+      ],
+      "tarjeta": {
+        "rotulo": "Reanálisis metaanalítico",
+        "cifra": "Espurio",
+        "frase": "La caída del efecto de la TCC no se sostuvo al reanalizar los datos."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-046",
+      "fecha": "2027-01-23",
+      "hora": "11:00",
+      "titulo": "Lo que muestran los registros de todo un país",
+      "secciones": {
+        "gancho": "Cerca de un tercio de la población danesa recibe tratamiento por un trastorno mental en algún momento.",
+        "introduccion": "Pedersen y colaboradores (2014) cruzaron el registro civil de Dinamarca con su registro psiquiátrico nacional.",
+        "desarrollo": "*Aproximadamente un tercio de la población recibió tratamiento por un trastorno mental*, contando solo la atención especializada. *Muchos trastornos tuvieron su pico de incidencia en la segunda y tercera década de la vida*, con diferencias por diagnóstico, sexo y edad.",
+        "conclusion": "💡 El sufrimiento psíquico toca a muchas personas, y suele empezar temprano.\n\n¿Cómo se compara con lo que ven en su consulta?"
+      },
+      "estudios": [
+        "S-027"
+      ],
+      "tarjeta": {
+        "rotulo": "Registros nacionales · Dinamarca",
+        "cifra": "1 de cada 3",
+        "frase": "Personas tratadas por un trastorno mental a lo largo de la vida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-047",
+      "fecha": "2027-01-26",
+      "hora": "08:00",
+      "titulo": "TCC por internet en ansiedad y depresión",
+      "secciones": {
+        "gancho": "Terapia frente a una pantalla: ¿tan eficaz como en el consultorio? Un equipo australiano lo estudió.",
+        "introduccion": "Andrews y colaboradores (2018) metaanalizaron 64 ensayos en depresión mayor, pánico, ansiedad social y ansiedad generalizada.",
+        "desarrollo": "*El efecto medio fue g = 0,80*, con beneficio en los cuatro trastornos y mejoría mantenida en el seguimiento. *En nueve estudios, la versión en línea y la presencial resultaron igual de beneficiosas.* Faltan comparaciones con medicación.",
+        "conclusion": "💡 La modalidad en línea tiene respaldo; el encuadre y el vínculo siguen pidiendo cuidado.\n\n¿Cómo combinan lo presencial y lo virtual?"
+      },
+      "estudios": [
+        "S-028"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · Australia",
+        "cifra": "g = 0,80",
+        "frase": "TCC por internet en ansiedad y depresión, en 64 ensayos."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-048",
+      "fecha": "2027-01-29",
+      "hora": "14:00",
+      "titulo": "Psicodinámica: dónde es más fuerte la evidencia",
+      "secciones": {
+        "gancho": "¿En qué cuadros tiene más respaldo la psicoterapia psicodinámica? La respuesta tiene matices.",
+        "introduccion": "Peter Fonagy (2015), del University College London, revisó estudios y metaanálisis en los grandes grupos de trastornos.",
+        "desarrollo": "Frente a controles inactivos, *suele ser eficaz en depresión, algunos trastornos de ansiedad, alimentarios y somáticos*. La evidencia es débil en estrés postraumático, TOC, bulimia, dependencia de cocaína y psicosis. *El respaldo más sólido está en tratamientos largos para algunos trastornos de personalidad*, en especial el límite.",
+        "conclusion": "💡 Saber dónde la evidencia es fuerte, y dónde no, es parte de una práctica honesta.\n\n¿Dónde han visto mejores resultados?"
+      },
+      "estudios": [
+        "S-029"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión · Reino Unido",
+        "cifra": "Con matices",
+        "frase": "Dónde tiene más respaldo la psicoterapia psicodinámica."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-049",
+      "fecha": "2027-02-01",
+      "hora": "21:30",
+      "titulo": "Atención plena y depresión mayor",
+      "secciones": {
+        "gancho": "¿Ayuda la atención plena en la depresión mayor? Un equipo coreano reunió 12 ensayos aleatorizados.",
+        "introduccion": "Park y colaboradores (2024), del Hospital Universitario Nacional de Kangwon, metaanalizaron ensayos con 720 casos de depresión mayor.",
+        "desarrollo": "Las intervenciones basadas en atención plena mostraron *un efecto mediano sobre los síntomas depresivos* (g = 0,787). *El intervalo de confianza es amplio* (0,414 a 1,160), lo que invita a leer la cifra con cautela.",
+        "conclusion": "💡 La atención plena puede acompañar el tratamiento de la depresión, como una herramienta entre otras.\n\n¿La integran en su trabajo clínico?"
+      },
+      "estudios": [
+        "S-030"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · Corea del Sur",
+        "cifra": "g = 0,787",
+        "frase": "Atención plena y síntomas depresivos en depresión mayor."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-050",
+      "fecha": "2027-02-04",
+      "hora": "18:00",
+      "titulo": "Los trastornos más frecuentes en Argentina",
+      "secciones": {
+        "gancho": "Depresión, alcohol y fobias: en Argentina, tres trastornos encabezan la lista.",
+        "introduccion": "Cía, Stagnaro y colaboradores (2018) encuestaron a 3927 adultos de zonas urbanas de Argentina.",
+        "desarrollo": "*Los trastornos con mayor prevalencia de vida fueron la depresión mayor (8,7 %), el abuso de alcohol (8,1 %) y la fobia específica (6,8 %).* El riesgo proyectado de algún trastorno a los 75 años llegaba al 37,1 %.",
+        "conclusion": "💡 El alcohol aparece casi a la par de la depresión, aunque no siempre llega como motivo de consulta.\n\n¿Cómo exploran el consumo de alcohol en la primera entrevista?"
+      },
+      "estudios": [
+        "S-015"
+      ],
+      "tarjeta": {
+        "rotulo": "Estudio epidemiológico · Argentina",
+        "cifra": "8,7 %",
+        "frase": "Depresión mayor, el trastorno con mayor prevalencia de vida."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-051",
+      "fecha": "2027-02-07",
+      "hora": "11:00",
+      "titulo": "Medir el progreso en psicoterapia",
+      "secciones": {
+        "gancho": "¿Mejora la terapia cuando se sigue el progreso sesión a sesión? 21 699 pacientes dan una respuesta.",
+        "introduccion": "De Jong y colaboradores (2021), desde los Países Bajos, metaanalizaron 58 estudios en los que el terapeuta recibía información sobre el progreso del paciente.",
+        "desarrollo": "*La retroalimentación redujo los síntomas de forma pequeña pero significativa* (d = 0,15), también en los casos que no avanzaban como se esperaba (d = 0,17). *Tuvo además un efecto favorable sobre el abandono* (OR = 1,19).",
+        "conclusion": "💡 Escuchar al paciente también puede incluir preguntarle, con regularidad, cómo va.\n\n¿Usan algún instrumento para seguir el proceso?"
+      },
+      "estudios": [
+        "S-031"
+      ],
+      "tarjeta": {
+        "rotulo": "Metaanálisis · 58 estudios",
+        "cifra": "d = 0,15",
+        "frase": "Retroalimentación sobre el progreso y resultado terapéutico."
+      },
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-07",
+      "supersede": "",
+      "razon": ""
+    },
+    {
+      "id": "P-052",
+      "fecha": "2027-02-10",
+      "hora": "08:00",
+      "titulo": "Trastorno límite: la revisión Cochrane de 2020",
+      "secciones": {
+        "gancho": "Mentalización y terapia dialéctico-conductual son las más estudiadas. ¿Hay diferencias entre ellas?",
+        "introduccion": "Storebø y colaboradores (2020) revisaron los ensayos aleatorizados de psicoterapia para el trastorno límite de la personalidad.",
+        "desarrollo": "Frente al tratamiento habitual, *la psicoterapia redujo la gravedad de los síntomas y la suicidalidad*, y podría reducir las autolesiones y la depresión. *No hubo evidencia de diferencias entre los tipos de terapia.*",
+        "conclusion": "💡 Lo que comparten estos tratamientos parece pesar tanto como lo que los distingue.\n\n¿Qué les ha resultado más útil para sostener el vínculo en estos tratamientos?"
+      },
+      "estudios": [
+        "S-032"
+      ],
+      "tarjeta": {
+        "rotulo": "Revisión Cochrane · Dinamarca",
+        "cifra": "Sin diferencias",
+        "frase": "Psicoterapias para el trastorno límite frente al tratamiento habitual."
       },
       "estado": "VERIFICADO",
       "verificado_el": "2026-11-07",
