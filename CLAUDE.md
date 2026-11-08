@@ -2,6 +2,10 @@
 
 Material confidencial. No se publica fuera del repositorio.
 
+## Forma de consultar
+
+- Cuando haga falta una decisión del usuario, se presenta como preguntas de opción múltiple, en español y en lenguaje sencillo, para que marque la opción. Se explica en una línea qué implica cada opción.
+
 ## Una sola fuente por caso
 
 - `casos/<caso>/registro.json` es la fuente única. Todo lo que está en `casos/<caso>/generados/` (cronología, handoff, pendientes) se regenera desde ahí y no se edita a mano.
