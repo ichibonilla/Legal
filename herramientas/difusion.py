@@ -467,6 +467,14 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
                           f"[Abrir en WhatsApp]({enlace_whatsapp(ensamblar(r, d))}) |")
     (out / "whatsapp.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
+    # Calendario de envíos para la tarea programada de la Mac (WhatsApp Web)
+    envios = [{"id": r["id"], "fecha": r["fecha"], "hora": r["hora"], "titulo": r["titulo"],
+               "tarjeta": f"tarjetas/{r['fecha']}_{r['id']}.png", "texto": ensamblar(r, d)}
+              for r in vig if r["fecha"] >= hoy.isoformat() and r["estado"] == "VERIFICADO"]
+    (out / "envios.json").write_text(json.dumps({"grupo": p["nombre"], "generado_el": hoy.isoformat(),
+                                                 "piezas": envios}, ensure_ascii=False, indent=2) + "\n",
+                                     encoding="utf-8")
+
     # Lote de los próximos 30 días y lotes con fecha de inicio (lote_AAAA-MM-DD.md)
     escribir_lote(d, out, hoy, "lote.md", cab)
     fechas = {f.stem[5:] for f in out.glob("lote_*.md")} | ({desde.isoformat()} if desde else set())
@@ -568,7 +576,7 @@ def generar(d, proyecto, con_tarjetas=True, desde=None):
                    for r in sup]
     (out / "handoff.md").write_text("\n".join(lineas) + "\n", encoding="utf-8")
 
-    archivos = ["lote.md", "whatsapp.md", "calendario.md", "horarios.md", "cobertura.md", "pendientes.md", "handoff.md",
+    archivos = ["lote.md", "whatsapp.md", "envios.json", "calendario.md", "horarios.md", "cobertura.md", "pendientes.md", "handoff.md",
                 f"piezas/ ({len(vig)})"]
     if con_tarjetas:
         t_dir = out / "tarjetas"

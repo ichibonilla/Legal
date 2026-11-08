@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/difusion.py el 2026-11-07 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/difusion.py el 2026-11-08 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cobertura por país — Red Psicólogos en Costa Rica

@@ -1,4 +1,4 @@
-<!-- Generado por herramientas/difusion.py el 2026-11-07 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/difusion.py el 2026-11-08 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Red Psicólogos en Costa Rica
@@ -19,7 +19,7 @@ Estado al 2026-11-07. Fuente única: `registro.json`.
 
 ## Cobertura
 
-Última pieza programada: 2027-05-14. Objetivo de antelación (30 días): 2026-12-07. Cubierto.
+Última pieza programada: 2027-05-14. Objetivo de antelación (30 días): 2026-12-08. Cubierto.
 
 ## Horario
 

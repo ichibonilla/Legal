@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/difusion.py el 2026-11-07 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/difusion.py el 2026-11-08 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Lote — Red Psicólogos en Costa Rica
 
-Piezas del 2026-11-07 al 2026-12-07, cada 3 días. Cada pieza se publica como un solo mensaje: la tarjeta (`generados/tarjetas/`) con el bloque de texto como descripción.
+Piezas del 2026-11-08 al 2026-12-08, cada 3 días. Cada pieza se publica como un solo mensaje: la tarjeta (`generados/tarjetas/`) con el bloque de texto como descripción.
 
 Regiones de las fuentes: Asia, Estados Unidos, Europa, México.
 
