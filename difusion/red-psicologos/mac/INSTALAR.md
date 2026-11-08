@@ -5,7 +5,7 @@ Este paquete permite que Claude, en la Mac, publique cada pieza a su hora desde 
 ## Contenido
 
 - `envios.json`: las piezas programadas (fecha, hora, título, texto y tarjeta). Se genera desde el registro de la Red; no se edita a mano.
-- `tarjetas/`: la imagen de cada pieza.
+- `TAREA-COWORK.md`: las instrucciones para pegar en Cowork (prueba y tarea programada).
 - `pieza_del_momento.py`: dice qué pieza toca y deja su texto en el portapapeles.
 - `registrar_envio.py`: anota el resultado en `enviados.log`.
 

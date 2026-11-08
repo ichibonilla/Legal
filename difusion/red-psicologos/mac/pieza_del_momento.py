@@ -2,8 +2,8 @@
 """Pieza que toca publicar ahora en el grupo de WhatsApp de la Red.
 
 Uso, desde esta carpeta:  python3 pieza_del_momento.py
-- Código 0: imprime el id, el título y la ruta de la tarjeta, y deja el texto
-  de la pieza en el portapapeles (pbcopy) para pegarlo con Cmd+V.
+- Código 0: imprime el id, el título y el texto de la pieza entre las líneas
+  «--- TEXTO ---» y «--- FIN ---», y lo deja también en el portapapeles.
 - Código 2: no hay pieza para esta hora.
 - Código 3: la pieza de hoy ya se envió.
 Toma la pieza de hoy cuya hora ya llegó (o llega en los próximos 15 minutos)
@@ -38,7 +38,11 @@ if not pendientes:
     print("La pieza de hoy aún no llega a su hora.")
     sys.exit(2)
 p = pendientes[0]
-subprocess.run(["pbcopy"], input=p["texto"].encode("utf-8"), check=True)
+try:
+    subprocess.run(["pbcopy"], input=p["texto"].encode("utf-8"), check=True)
+except (FileNotFoundError, subprocess.CalledProcessError):
+    pass
 print(f"PIEZA\t{p['id']}\t{p['hora']}\t{p['titulo']}")
-print(f"TARJETA\t{aqui / p['tarjeta']}")
-print("TEXTO en el portapapeles (pegar con Cmd+V en la descripción de la imagen).")
+print("--- TEXTO ---")
+print(p["texto"].rstrip("\n"))
+print("--- FIN ---")
