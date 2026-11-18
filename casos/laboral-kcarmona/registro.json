@@ -1683,6 +1683,19 @@
       "supersede": "",
       "razon": "Fecha de inicio: mayo de 2022 en la carta y abril de 2022 en su declaración (R-035); confirmar con planilla (R-022).",
       "folio": ""
+    },
+    {
+      "id": "R-081",
+      "fecha": "2026-11-18",
+      "tipo": "hecho",
+      "titulo": "Último salario pagado a Fiorella",
+      "afirmacion": "La Dirección indica que el último salario pagado a Fiorella fue de ₡405 710 y decide no incluir en la consulta a la asesoría el tratamiento de los bonos ni la regularización ante la CCSS.",
+      "fuente": "Indicación de la Dirección, 18/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-18",
+      "supersede": "",
+      "razon": "Precisa R-078 (noviembre en ₡405 000 según el cálculo de ella). Los riesgos de E-032 sobre bonos y CCSS se mantienen en el expediente.",
+      "folio": ""
     }
   ],
   "evaluaciones": [

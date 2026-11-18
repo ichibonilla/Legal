@@ -84,6 +84,6 @@
 - **N-048** — Límites de la jornada extraordinaria y registro. Fuente: Código de Trabajo, arts. 139, 140 y 144; criterio DAJ-AE-020-12 del MTSS (citados por la valoración externa del 6/11/2026). Precisa N-016. La garantía económica no subsana una jornada o un descanso mal organizados.
 - **N-049** — Día libre durante el preaviso y vacaciones al terminar. Fuente: Código de Trabajo, arts. 28 y 156. Respuesta a los puntos primero y segundo de la carta de Fiorella.
 
-## Sin folio (120 de 120 vigentes)
+## Sin folio (121 de 121 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.
