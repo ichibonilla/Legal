@@ -196,6 +196,12 @@ Renuncia voluntaria, con un mes de preaviso y sin invocar causa: no genera cesan
 
 > Advertencia: R-073 está POR VERIFICAR. N-007 está POR VERIFICAR. N-043 está POR VERIFICAR. N-031 está POR VERIFICAR. N-044 está POR VERIFICAR. N-049 está POR VERIFICAR.
 
+### E-032 — Análisis de riesgo laboral para la asesoría (18/11/2026)
+
+Riesgos principales: salario inferior al mínimo en 2026 (alta probabilidad si el dato de Fiorella es real) [R-078, N-038]; bono calificado como salario, con efecto en aguinaldo, vacaciones y cuotas [R-049, N-031]; antigüedad y periodos sin reportar [R-079, R-080]; esquemas de servicios profesionales con propósito declarado en audios [R-069]; trabajo de fin de semana de Angiolette sin acuerdo firmado [R-074]. Despido indirecto: baja probabilidad tras las renuncias sin causa [R-077, R-080, N-043]. Documento: documentos/2026-11-18_Analisis_de_Riesgo_Laboral_Salidas.md.
+
+> Advertencia: N-031 está POR VERIFICAR. R-069 está POR VERIFICAR. N-043 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel

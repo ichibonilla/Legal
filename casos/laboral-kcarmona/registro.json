@@ -2075,6 +2075,23 @@
         "N-044",
         "N-049"
       ]
+    },
+    {
+      "id": "E-032",
+      "titulo": "Análisis de riesgo laboral para la asesoría (18/11/2026)",
+      "conclusion": "Riesgos principales: salario inferior al mínimo en 2026 (alta probabilidad si el dato de Fiorella es real) [R-078, N-038]; bono calificado como salario, con efecto en aguinaldo, vacaciones y cuotas [R-049, N-031]; antigüedad y periodos sin reportar [R-079, R-080]; esquemas de servicios profesionales con propósito declarado en audios [R-069]; trabajo de fin de semana de Angiolette sin acuerdo firmado [R-074]. Despido indirecto: baja probabilidad tras las renuncias sin causa [R-077, R-080, N-043]. Documento: documentos/2026-11-18_Analisis_de_Riesgo_Laboral_Salidas.md.",
+      "depende_de": [
+        "R-078",
+        "N-038",
+        "R-049",
+        "N-031",
+        "R-079",
+        "R-080",
+        "R-069",
+        "R-074",
+        "R-077",
+        "N-043"
+      ]
     }
   ]
 }
