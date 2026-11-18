@@ -1670,6 +1670,19 @@
       "supersede": "",
       "razon": "Respuesta a los puntos primero y segundo de la carta de Fiorella.",
       "folio": ""
+    },
+    {
+      "id": "R-080",
+      "fecha": "2026-11-17",
+      "tipo": "hecho",
+      "titulo": "Renuncia de Kristell con preaviso",
+      "afirmacion": "Kristell Carmona Soto, cédula 1-1762-0524, renuncia a su puesto; indica que labora desde mayo de 2022; cumplirá un mes de preaviso del 17/11 al 17/12/2026, su último día; usará un día de asueto remunerado por semana para buscar empleo (art. 28); facilitará la transición; devolverá el teléfono asignado y la tarjeta de la empresa emitida a su nombre; pide el pago de los extremos que le correspondan: vacaciones, aguinaldo proporcional, salarios pendientes y cualquier otro monto adeudado. No invoca causa contra Poïesis ni pide cesantía; agradece la oportunidad. Trae una línea de acuse de recibido para el Dr. Bonilla.",
+      "fuente": "fuentes/KCarmona_carta_renuncia_2026-11-17.jpg.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-18",
+      "supersede": "",
+      "razon": "Fecha de inicio: mayo de 2022 en la carta y abril de 2022 en su declaración (R-035); confirmar con planilla (R-022).",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2046,6 +2059,21 @@
         "N-044",
         "N-049",
         "R-049"
+      ]
+    },
+    {
+      "id": "E-031",
+      "titulo": "Renuncia de Kristell: qué procede",
+      "conclusion": "Renuncia voluntaria, con un mes de preaviso y sin invocar causa: no genera cesantía ni preaviso a cargo de Poïesis [N-007]. Al no alegar despido indirecto al retirarse, ese reclamo pierde fuerza [N-043], aunque la frase «cualquier otro monto adeudado» deja abiertos los reclamos por el bono como salario (aguinaldo, vacaciones, CCSS) y por diferencias frente al mínimo si las hubiera [R-073, N-031, N-038]. El acuerdo de terminación por mutuo consentimiento queda sin objeto; si la Dirección decide honrar la conversación sobre la cesantía, el instrumento es un acuerdo de liquidación y finiquito con una suma que resuelva expresamente la diferencia sobre el bono, ratificado ante el MTSS [N-044]. Si Poïesis prefiere que no labore el resto del preaviso, la dispensa debe ser con goce de salario hasta el 17/12. Igual que con Fiorella: firmar solo el acuse, responder por escrito y conceder el día libre por cortesía [N-049].",
+      "depende_de": [
+        "R-080",
+        "R-073",
+        "N-007",
+        "N-043",
+        "N-031",
+        "N-038",
+        "N-044",
+        "N-049"
       ]
     }
   ]

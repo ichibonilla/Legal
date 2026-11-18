@@ -190,6 +190,12 @@ La renuncia con un mes de preaviso es válida y no genera cesantía ni preaviso 
 
 > Advertencia: N-007 está POR VERIFICAR. N-017 está POR VERIFICAR. N-031 está POR VERIFICAR. N-044 está POR VERIFICAR. N-049 está POR VERIFICAR.
 
+### E-031 — Renuncia de Kristell: qué procede
+
+Renuncia voluntaria, con un mes de preaviso y sin invocar causa: no genera cesantía ni preaviso a cargo de Poïesis [N-007]. Al no alegar despido indirecto al retirarse, ese reclamo pierde fuerza [N-043], aunque la frase «cualquier otro monto adeudado» deja abiertos los reclamos por el bono como salario (aguinaldo, vacaciones, CCSS) y por diferencias frente al mínimo si las hubiera [R-073, N-031, N-038]. El acuerdo de terminación por mutuo consentimiento queda sin objeto; si la Dirección decide honrar la conversación sobre la cesantía, el instrumento es un acuerdo de liquidación y finiquito con una suma que resuelva expresamente la diferencia sobre el bono, ratificado ante el MTSS [N-044]. Si Poïesis prefiere que no labore el resto del preaviso, la dispensa debe ser con goce de salario hasta el 17/12. Igual que con Fiorella: firmar solo el acuse, responder por escrito y conceder el día libre por cortesía [N-049].
+
+> Advertencia: R-073 está POR VERIFICAR. N-007 está POR VERIFICAR. N-043 está POR VERIFICAR. N-031 está POR VERIFICAR. N-044 está POR VERIFICAR. N-049 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel

@@ -60,6 +60,7 @@ Registro actualizado el 2026-11-18.
 | 2026-11-05 | R-076 | VERIFICADO | Pedido de la Dirección sobre el fin de semana de Angiolette | — |
 | 2026-11-17 | R-077 | VERIFICADO | Renuncia de Fiorella con preaviso | — |
 | 2026-11-17 | R-078 | VERIFICADO | Cálculo de liquidación de Fiorella en la calculadora del MTSS | — |
+| 2026-11-17 | R-080 | VERIFICADO | Renuncia de Kristell con preaviso | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
