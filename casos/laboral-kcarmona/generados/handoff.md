@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-11-06 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-18 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-11-06. Fuente única: `registro.json`.
+Estado al 2026-11-18. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -184,6 +184,12 @@ Se acepta la corrección principal: la garantía mínima reduce diferencias de p
 
 > Advertencia: N-048 está POR VERIFICAR. N-040 está POR VERIFICAR. N-047 está POR VERIFICAR.
 
+### E-030 — Renuncia de Fiorella: qué procede
+
+La renuncia con un mes de preaviso es válida y no genera cesantía ni preaviso a cargo de Poïesis [N-007]. Procede: firmar solo un recibido con fecha, no las líneas de firma que podrían leerse como aceptación de los «acuerdos»; responder por escrito aceptando la renuncia y precisando vacaciones, día libre y entrega; pagar vacaciones, aguinaldo y salario pendiente con los datos de planilla. Riesgos a resolver antes del 18/12: (1) el salario de ₡330 000 de enero a octubre es inferior al mínimo (diferencia aproximada ₡757 107 sin recargos) si la jornada era completa [R-078, N-038, N-017]; (2) la fecha de inicio que ella indica no coincide con su actividad desde 2022 [R-079]; (3) los bonos que recibía, si se califican como salario, entran en aguinaldo y vacaciones [R-049, N-031]. Conviene que la liquidación final se firme con detalle y, de ser posible, se ratifique ante el MTSS [N-044]. El día libre semanal puede concederse por cortesía, con poco costo, para evitar discusión [N-049].
+
+> Advertencia: N-007 está POR VERIFICAR. N-017 está POR VERIFICAR. N-031 está POR VERIFICAR. N-044 está POR VERIFICAR. N-049 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -199,7 +205,7 @@ Se acepta la corrección principal: la garantía mínima reduce diferencias de p
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (62)
+## Por verificar (63)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -263,6 +269,7 @@ Se acepta la corrección principal: la garantía mínima reduce diferencias de p
 - N-046 — Vicios del consentimiento
 - N-047 — Salario por comisión o por unidad de obra
 - N-048 — Límites de la jornada extraordinaria y registro
+- N-049 — Día libre durante el preaviso y vacaciones al terminar
 
 ## Registros reemplazados
 

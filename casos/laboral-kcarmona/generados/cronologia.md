@@ -1,13 +1,14 @@
-<!-- Generado por herramientas/registro.py el 2026-11-06 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-18 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Registro actualizado el 2026-11-06.
+Registro actualizado el 2026-11-18.
 
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
 | 2022-06-01 | R-004 | VERIFICADO | Presente en la operación desde al menos junio de 2022 | — |
+| 2022-07-01 | R-079 | VERIFICADO | Fiorella aparece en el grupo de asistentes desde julio de 2022 | — |
 | 2022-08-24 | R-063 | VERIFICADO | Primera asignación escrita de tiempo para videos | — |
 | 2022-09-03 | R-065 | VERIFICADO | En 2022 los videos semanales los elaboraba Fiorella | — |
 | 2022-12-18 | R-005 | VERIFICADO | Aumento salarial en diciembre de 2022 | — |
@@ -57,6 +58,8 @@ Registro actualizado el 2026-11-06.
 | 2026-11-03 | R-072 | VERIFICADO | Jornada de Angiolette | — |
 | 2026-11-05 | R-075 | VERIFICADO | Reunión de estrategia de la Dirección y la asesoría sobre la salida | — |
 | 2026-11-05 | R-076 | VERIFICADO | Pedido de la Dirección sobre el fin de semana de Angiolette | — |
+| 2026-11-17 | R-077 | VERIFICADO | Renuncia de Fiorella con preaviso | — |
+| 2026-11-17 | R-078 | VERIFICADO | Cálculo de liquidación de Fiorella en la calculadora del MTSS | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

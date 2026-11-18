@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-11-06",
+    "actualizado_el": "2026-11-18",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1618,6 +1618,58 @@
       "supersede": "",
       "razon": "Precisa N-016. La garantía económica no subsana una jornada o un descanso mal organizados.",
       "folio": ""
+    },
+    {
+      "id": "R-077",
+      "fecha": "2026-11-17",
+      "tipo": "hecho",
+      "titulo": "Renuncia de Fiorella con preaviso",
+      "afirmacion": "Fiorella María Varela Monge, cédula 1-1867-0233, renuncia por motivos personales; indica que inició el 4/9/2023; da un mes de preaviso del 18/11 al 18/12/2026, su último día. Deja constancia de: (1) que se acordó que sus diez días de vacaciones se laboren durante el preaviso y se paguen en la liquidación (art. 156); (2) su derecho a un día libre remunerado por semana durante el preaviso para buscar empleo (art. 28); (3) la entrega del celular (apps) y de la tarjeta el 18/12, y que a su solicitud se cerró la cuenta asociada a la tarjeta. Pide copia firmada de recibido. Incluye líneas de firma para el Dr. Bonilla y la Licda. Mora.",
+      "fuente": "fuentes/FVarela_carta_renuncia_2026-11-17_p1.jpg y _p2.jpg.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-18",
+      "supersede": "",
+      "razon": "Cotejado contra las fotografías de la carta.",
+      "folio": ""
+    },
+    {
+      "id": "R-078",
+      "fecha": "2026-11-17",
+      "tipo": "hecho",
+      "titulo": "Cálculo de liquidación de Fiorella en la calculadora del MTSS",
+      "afirmacion": "Con datos ingresados por la usuaria: antigüedad 3 años, 3 meses y 15 días (4/9/2023 a 18/12/2026); salario promedio de 6 meses ₡385 000; salario diario ₡14 807,69; pago semanal; 10 días de vacaciones; salarios de ₡330 000 de enero a octubre de 2026 y ₡405 000 en noviembre y diciembre. Resultado: aguinaldo ₡342 500; vacaciones ₡148 076,92; preaviso y cesantía ₡0; total ₡490 576,92.",
+      "fuente": "fuentes/FVarela_calculo_MTSS_2026-11-17.jpg.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-18",
+      "supersede": "",
+      "razon": "El promedio de los últimos seis meses con esos salarios es ₡355 000, no ₡385 000. El salario de ₡330 000 es inferior al mínimo vigente (N-038) si la jornada es completa. Los bonos no están incluidos.",
+      "folio": ""
+    },
+    {
+      "id": "R-079",
+      "fecha": "2022-07-01",
+      "tipo": "hecho",
+      "titulo": "Fiorella aparece en el grupo de asistentes desde julio de 2022",
+      "afirmacion": "«Fiorella - Poïesis Móvil III» fue agregada al grupo de asistentes el 1/7/2022 y escribe de forma continua durante 2022 y 2023, antes del 4/9/2023 que indica como fecha de inicio; en septiembre de 2022 elaboraba los videos semanales.",
+      "fuente": "CHAT-G, 7/1/22 4:03:10 PM; mensajes de 2022 y 2023; R-065.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-18",
+      "supersede": "",
+      "razon": "Confirmar en planilla si hubo una relación anterior y si se interrumpió. Si fue continua desde 2022, la antigüedad, las vacaciones y las cotizaciones de ese periodo cambian.",
+      "folio": ""
+    },
+    {
+      "id": "N-049",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Día libre durante el preaviso y vacaciones al terminar",
+      "afirmacion": "Durante el preaviso que da el patrono, este concede un día de asueto por semana para buscar empleo; la doctrina administrativa discute si aplica cuando quien da el preaviso es la persona que renuncia. Las vacaciones no disfrutadas se pagan en dinero al terminar la relación.",
+      "fuente": "Código de Trabajo, arts. 28 y 156.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Respuesta a los puntos primero y segundo de la carta de Fiorella.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -1977,6 +2029,23 @@
         "N-040",
         "N-047",
         "R-076"
+      ]
+    },
+    {
+      "id": "E-030",
+      "titulo": "Renuncia de Fiorella: qué procede",
+      "conclusion": "La renuncia con un mes de preaviso es válida y no genera cesantía ni preaviso a cargo de Poïesis [N-007]. Procede: firmar solo un recibido con fecha, no las líneas de firma que podrían leerse como aceptación de los «acuerdos»; responder por escrito aceptando la renuncia y precisando vacaciones, día libre y entrega; pagar vacaciones, aguinaldo y salario pendiente con los datos de planilla. Riesgos a resolver antes del 18/12: (1) el salario de ₡330 000 de enero a octubre es inferior al mínimo (diferencia aproximada ₡757 107 sin recargos) si la jornada era completa [R-078, N-038, N-017]; (2) la fecha de inicio que ella indica no coincide con su actividad desde 2022 [R-079]; (3) los bonos que recibía, si se califican como salario, entran en aguinaldo y vacaciones [R-049, N-031]. Conviene que la liquidación final se firme con detalle y, de ser posible, se ratifique ante el MTSS [N-044]. El día libre semanal puede concederse por cortesía, con poco costo, para evitar discusión [N-049].",
+      "depende_de": [
+        "R-077",
+        "R-078",
+        "R-079",
+        "N-007",
+        "N-038",
+        "N-017",
+        "N-031",
+        "N-044",
+        "N-049",
+        "R-049"
       ]
     }
   ]
