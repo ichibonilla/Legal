@@ -70,6 +70,7 @@ Registro actualizado el 2026-11-19.
 | 2026-11-18 | R-081 | VERIFICADO | Último salario pagado a Fiorella | — |
 | 2026-11-18 | R-082 | VERIFICADO | Criterio de la asesoría sobre la respuesta a las renuncias | — |
 | 2026-11-19 | R-086 | VERIFICADO | Regla de vacaciones de Poïesis | — |
+| 2026-11-19 | R-090 | VERIFICADO | Los chats son el control de vacaciones de Poïesis | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

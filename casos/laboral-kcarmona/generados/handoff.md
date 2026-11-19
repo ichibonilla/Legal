@@ -244,6 +244,12 @@ Los saldos de E-038 suponen que las únicas vacaciones fueron las que aparecen e
 
 > Advertencia: N-036 está POR VERIFICAR. N-051 está POR VERIFICAR.
 
+### E-040 — Criterio de vacaciones sacado de los chats
+
+Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colectivo de fin de año, fijado por nota de la Dirección Administrativa; quien cubre por turno ese día no lo carga a vacaciones; (2) las vacaciones individuales se piden por chat y la Dirección las aprueba. Aplicado a los últimos periodos [R-089, R-090, R-052]: Kristell tuvo 11 días (6 del cierre y 5 de Bogotá) y Fiorella 6 (cierre). El cierre de fin de año descontó 6 de los 12 días del periodo; los 6 restantes no se tomaron y no caducan: se pagan al terminar. Saldos a pagar: Kristell 8,5 días; Fiorella 9,5 días [N-051, N-017].
+
+> Advertencia: N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel

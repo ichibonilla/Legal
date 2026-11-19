@@ -1827,6 +1827,19 @@
       "supersede": "R-088",
       "razon": "Corrige R-088: el 30 y el 31 no son feriados de ley; la nota oficial los cargó a vacaciones y es la prueba documental de Poïesis. Se mantienen de R-088 las fechas de ingreso (Kristell mayo de 2022, Fiorella 4/9/2023) y la ausencia de saldos previos.",
       "folio": ""
+    },
+    {
+      "id": "R-090",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Los chats son el control de vacaciones de Poïesis",
+      "afirmacion": "La Dirección indica que el control de vacaciones está en los chats: las asistentes piden sus vacaciones por ese medio y la Dirección las aprueba. Revisada toda la historia de los chats, las únicas vacaciones de Kristell y Fiorella en sus últimos periodos son el cierre colectivo de fin de año 2025 (nota del 22/12/2025) y el viaje de Kristell a Bogotá (solicitado el 28/7/2026 y aprobado con «Juega»). El 13/12/2024 la Dirección Administrativa también coordinó con el Dr. Bonilla los días de vacaciones del cierre de fin de año 2024.",
+      "fuente": "Indicación de la Dirección, 19/11/2026; CHAT-C2, 22/12/25 8:17:45 a. m. y 13/12/24 10:05:55 a. m.; CHAT-M2, 7/28/26 12:31:21 PM a 1:30:56 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "",
+      "razon": "Responde a E-039: con los chats como control, los saldos de E-038 quedan confirmados.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2322,6 +2335,18 @@
         "R-077",
         "R-089",
         "N-051"
+      ]
+    },
+    {
+      "id": "E-040",
+      "titulo": "Criterio de vacaciones sacado de los chats",
+      "conclusion": "Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colectivo de fin de año, fijado por nota de la Dirección Administrativa; quien cubre por turno ese día no lo carga a vacaciones; (2) las vacaciones individuales se piden por chat y la Dirección las aprueba. Aplicado a los últimos periodos [R-089, R-090, R-052]: Kristell tuvo 11 días (6 del cierre y 5 de Bogotá) y Fiorella 6 (cierre). El cierre de fin de año descontó 6 de los 12 días del periodo; los 6 restantes no se tomaron y no caducan: se pagan al terminar. Saldos a pagar: Kristell 8,5 días; Fiorella 9,5 días [N-051, N-017].",
+      "depende_de": [
+        "R-089",
+        "R-090",
+        "R-052",
+        "N-051",
+        "N-017"
       ]
     }
   ]
