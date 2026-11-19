@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-11-18",
+    "actualizado_el": "2026-11-19",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1695,6 +1695,19 @@
       "verificado_el": "2026-11-18",
       "supersede": "",
       "razon": "Precisa R-078 (noviembre en ₡405 000 según el cálculo de ella). Los riesgos de E-032 sobre bonos y CCSS se mantienen en el expediente.",
+      "folio": ""
+    },
+    {
+      "id": "R-082",
+      "fecha": "2026-11-18",
+      "tipo": "hecho",
+      "titulo": "Criterio de la asesoría sobre la respuesta a las renuncias",
+      "afirmacion": "La Licda. Mora recomienda dar a Kristell y Fiorella, al día siguiente, una respuesta formal que indique si laboran o no el preaviso, si las vacaciones se disfrutan o se pagan (y, si se disfrutan, qué días), y que establezca el día semanal libre y pagado al que tienen derecho.",
+      "fuente": "fuentes/Cafe_Legal_2026-11-18_criterio_Fressy.webp (grupo Café Legal, 5:04 a 5:09 p. m.).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "",
+      "razon": "Las respuestas del 20/11 se ajustan: preaviso laborado, vacaciones pagadas en la liquidación y días libres fijados, alternados para mantener la cobertura.",
       "folio": ""
     }
   ],

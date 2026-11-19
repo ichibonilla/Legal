@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-11-18 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-19 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Registro actualizado el 2026-11-18.
+Registro actualizado el 2026-11-19.
 
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
@@ -62,6 +62,7 @@ Registro actualizado el 2026-11-18.
 | 2026-11-17 | R-078 | VERIFICADO | Cálculo de liquidación de Fiorella en la calculadora del MTSS | — |
 | 2026-11-17 | R-080 | VERIFICADO | Renuncia de Kristell con preaviso | — |
 | 2026-11-18 | R-081 | VERIFICADO | Último salario pagado a Fiorella | — |
+| 2026-11-18 | R-082 | VERIFICADO | Criterio de la asesoría sobre la respuesta a las renuncias | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
