@@ -26,7 +26,7 @@ Agradecemos su trabajo en Poïesis y le deseamos éxito en sus próximos proyect
 
 **1. Preaviso.** Usted laborará el preaviso hasta el 17 de diciembre, conforme al rol de horarios vigente.
 
-**2. Vacaciones.** Según nuestros registros, en su último periodo usted disfrutó 11 días de vacaciones: el 24, 29, 30 y 31 de diciembre de 2025 y el 2 y 3 de enero de 2026, en el cierre institucional de fin de año, y del 29 de setiembre al 3 de octubre de 2026. Su saldo es de 8,5 días; para darlo por cerrado, Poïesis le otorga de forma voluntaria 9 días, que le serán pagados en la liquidación y no se disfrutarán durante el preaviso.
+**2. Vacaciones.** Según nuestros registros, en el último año usted disfrutó 11 días de vacaciones: el 24, 29, 30 y 31 de diciembre de 2025 y el 2 y 3 de enero de 2026, en el cierre institucional de fin de año, y del 29 de setiembre al 3 de octubre de 2026. Su saldo es de 8,5 días; para darlo por cerrado, Poïesis le otorga de forma voluntaria 9 días, que le serán pagados en la liquidación y no se disfrutarán durante el preaviso.
 
 **3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el lunes 23 de noviembre y los miércoles 25 de noviembre, 2 y 9 de diciembre. Los cambios se coordinan con la jefatura.
 
