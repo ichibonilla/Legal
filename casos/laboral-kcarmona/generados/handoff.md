@@ -250,6 +250,12 @@ Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colec
 
 > Advertencia: N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-041 — Saldo de Fiorella con sus chats individuales
+
+Con los chats individuales, Fiorella tomó en su último periodo 6 días del cierre de fin de año más 2 o 3 del viaje a Panamá [R-092]: 12 − (8 o 9) = 3 o 4; en el periodo en curso, 3,5 proporcionales menos medio día del 8 de setiembre [R-093] = 3; saldo de 6 a 7 días, no 9,5. La carta, que lista solo los 6 días del cierre, queda incompleta: antes de entregarla, la Dirección decide si mantiene los 10 días otorgados (una concesión de unos 3 o 4 días) o los ajusta. La revisión de los chats de Kristell no cambia su saldo.
+
+> Advertencia: R-092 está POR VERIFICAR. R-093 está POR VERIFICAR. N-051 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -265,7 +271,7 @@ Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colec
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (65)
+## Por verificar (67)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -332,6 +338,8 @@ Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colec
 - N-049 — Día libre durante el preaviso y vacaciones al terminar
 - N-050 — Obligaciones del patrono al terminar la relación
 - N-051 — Vacaciones: periodo y proporcional
+- R-092 — Vacaciones de Fiorella por viaje a Panamá
+- R-093 — Medio día de vacaciones de Fiorella
 
 ## Registros reemplazados
 
@@ -359,3 +367,4 @@ Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colec
 - Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible.
 - CHAT-DIR = fuentes/CHAT-DIR_Direccion_y_asesoria_2026-11-02.txt (extracto transcrito por la Dirección).
 - CHAT-C2 = fuentes/WhatsApp_Chat_-_Crew_Poi_esis_2026-11-19.zip (exportación del grupo Crew recibida el 19/11/2026; llega al 21/10/2026).
+- CHAT-F3 = fuentes/WhatsApp_Chat_-_Fiorella_-_Poi_esis__Movil_III.zip (Dirección con el teléfono de la empresa que usa Fiorella); CHAT-FV = fuentes/WhatsApp_Chat_-_Fiorella_Varela.zip (Dirección con Fiorella, personal). Recibidos el 19/11/2026.
