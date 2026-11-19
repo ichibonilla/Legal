@@ -86,6 +86,6 @@
 - **N-050** — Obligaciones del patrono al terminar la relación. Fuente: Código de Trabajo, arts. 35, 156, 172 y 413; Reglamento de Afiliación y SICERE de la CCSS; póliza de riesgos del trabajo del INS. Lista de control del cierre de Kristell y Fiorella (E-033).
 - **N-051** — Vacaciones: periodo y proporcional. Fuente: Código de Trabajo, arts. 153 y 157. Base del cálculo de saldos de E-035.
 
-## Sin folio (129 de 129 vigentes)
+## Sin folio (130 de 130 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

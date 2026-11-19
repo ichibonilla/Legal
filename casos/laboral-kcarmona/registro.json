@@ -1840,6 +1840,19 @@
       "supersede": "",
       "razon": "Responde a E-039: con los chats como control, los saldos de E-038 quedan confirmados.",
       "folio": ""
+    },
+    {
+      "id": "R-091",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Vacaciones otorgadas para cerrar el saldo",
+      "afirmacion": "La Dirección decide cerrar las vacaciones en 10 días para Fiorella (saldo 9,5) y 9 días para Kristell (saldo 8,5), otorgando la diferencia de forma voluntaria, y detallar en las cartas los días tomados.",
+      "fuente": "Decisión de la Dirección, 19/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "",
+      "razon": "Las cartas lo expresan como otorgamiento voluntario para dar el saldo por cerrado, sin cambiar el criterio de cálculo (E-040). Chats disponibles: Crew, Assist with Love, Administrativo, chat personal con Kristell y chat del Móvil II con Kristell; no se han recibido el chat personal con Fiorella ni el del Móvil III con Fiorella.",
+      "folio": ""
     }
   ],
   "evaluaciones": [

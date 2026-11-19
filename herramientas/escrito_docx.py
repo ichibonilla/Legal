@@ -153,7 +153,9 @@ def tabla(doc, filas, ancho):
                 runs(p, texto, 9.5, GRIS if etiqueta else TINTA)
                 if firmas:
                     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    doc.add_paragraph()
+    tras = doc.add_paragraph()
+    espacio(tras, 0, 4, 1.0)
+    tras.paragraph_format.line_spacing = Pt(6)
 
 
 def convertir(md, salida, aviso, confidencial=False, membrete=False):
@@ -171,7 +173,7 @@ def convertir(md, salida, aviso, confidencial=False, membrete=False):
 
     cab = sec.header.paragraphs[0]
     if membrete:
-        INTERLINEADO[0], TAMANO[0] = 1.1, 10
+        INTERLINEADO[0], TAMANO[0] = 1.05, 9.5
         for m in ("left_margin", "right_margin"):
             setattr(sec, m, Inches(1.0))
         sec.top_margin, sec.bottom_margin = Inches(0.95), Inches(0.7)

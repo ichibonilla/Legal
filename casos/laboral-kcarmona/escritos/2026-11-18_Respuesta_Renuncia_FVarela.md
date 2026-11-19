@@ -20,23 +20,23 @@ Presente
 
 Estimada señora Varela:
 
-Acusamos recibo de su carta del 17 de noviembre de 2026, mediante la cual comunica su renuncia por motivos personales. Tomamos nota de su decisión y del preaviso de un mes, del 18 de noviembre al 18 de diciembre de 2026, fecha que corresponderá a su último día de labores.
+Acusamos recibo de su carta del 17 de noviembre de 2026, en la que comunica su renuncia. Tomamos nota de su decisión y del preaviso de un mes, del 18 de noviembre al 18 de diciembre de 2026, fecha que corresponderá a su último día de labores.
 
-Agradecemos su trabajo y el cuidado con que acompañó a las personas que acudieron a Poïesis. Le deseamos éxito en sus próximos proyectos. En atención a los puntos de su carta, le indicamos lo siguiente:
+Agradecemos su trabajo en Poïesis y le deseamos éxito en sus próximos proyectos. En atención a los puntos de su carta, le indicamos lo siguiente:
 
-**1. Preaviso.** Usted laborará el preaviso completo, hasta el 18 de diciembre, conforme al rol de horarios vigente.
+**1. Preaviso.** Usted laborará el preaviso hasta el 18 de diciembre, conforme al rol de horarios vigente.
 
-**2. Vacaciones.** Según nuestros registros, usted tiene 9,5 días de vacaciones pendientes. No se disfrutarán durante el preaviso y le serán pagados en la liquidación.
+**2. Vacaciones.** Según nuestros registros, en su último periodo usted disfrutó 6 días de vacaciones: el 24, 26, 27, 29, 30 y 31 de diciembre de 2025, en el cierre institucional de fin de año. Su saldo es de 9,5 días; para darlo por cerrado, Poïesis le otorga de forma voluntaria los 10 días que usted indica, que le serán pagados en la liquidación y no se disfrutarán durante el preaviso.
 
-**3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el martes 24 de noviembre y los viernes 27 de noviembre, 4 y 11 de diciembre. Cualquier cambio se coordina con la jefatura con dos días de anticipación.
+**3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el martes 24 de noviembre y los viernes 27 de noviembre, 4 y 11 de diciembre. Los cambios se coordinan con la jefatura.
 
-**4. Entrega.** El 18 de diciembre recibiremos el teléfono institucional, con sus aplicaciones, y la tarjeta a su cargo, y dejaremos constancia escrita de su estado y de la situación de la cuenta asociada. Al concluir esa jornada se desactivarán sus accesos a los sistemas y canales institucionales. Le agradecemos no conservar información de pacientes ni documentos de la clínica; el deber de confidencialidad sobre esa información se mantiene después de concluida la relación laboral.
+**4. Entrega.** El 18 de diciembre recibiremos el teléfono institucional, con sus aplicaciones, y la tarjeta a su cargo, y dejaremos constancia escrita de su estado y de la situación de la cuenta asociada. Al concluir esa jornada se desactivarán sus accesos a los sistemas y canales institucionales. La información de pacientes y los documentos de la clínica no se conservan, y el deber de confidencialidad se mantiene después de concluida la relación laboral.
 
 **5. Transición.** Durante el preaviso, le solicitamos acompañar la transición de sus tareas, en especial la gestión de los formularios de aseguradoras, para que el equipo pueda continuarlas.
 
 **6. Liquidación.** El 18 de diciembre le pagaremos y entregaremos por escrito la liquidación detallada: salario pendiente, incluidos los días libres del preaviso, aguinaldo y vacaciones, calculados con los registros de planilla. El pago se hará mediante transferencia a la cuenta en la que recibe su salario.
 
-Si tiene alguna observación sobre estos puntos o sobre el cálculo, puede comunicarla por escrito a la Dirección. Quedamos a su disposición.
+Si tiene alguna observación sobre estos puntos o sobre el cálculo, puede comunicarla por escrito a la Dirección.
 
 Atentamente,
 
