@@ -1,7 +1,7 @@
 <!--
 RESPUESTA A LA RENUNCIA DE KRISTELL (R-080, E-031). Se entrega con el recibido de la carta.
 
-Antes de entregar:
+Antes de entregar (revisión laboral del 19/11: «tomamos nota» en lugar de «aceptamos», para no sugerir un mutuo acuerdo; sin mención de fecha de ingreso ni de videos; pago, no solo entrega, de la liquidación; confidencialidad posterior; línea de recibido):
 - Confirmar en planilla el saldo de vacaciones (10 días) y la fecha de ingreso (mayo o abril de 2022; R-035, R-080).
 - Criterio de la asesoría (Café Legal, 18/11/2026): respuesta formal con preaviso laborado o no, vacaciones pagadas o disfrutadas, y día libre semanal fijado. Días propuestos alternados entre las dos para no dejar la oficina sin cobertura; Silvia los confirma.
 - Conciliar los gastos de la tarjeta de la empresa y gestionar su cancelación (punto tercero).
@@ -19,9 +19,9 @@ Se firma el acuse de recibido de la carta con fecha y hora; no requiere otra fir
 
 Estimada Kristell:
 
-Recibimos tu carta del 17 de noviembre de 2026, en la que comunicas tu renuncia. La aceptamos, con un mes de preaviso, del 17 de noviembre al 17 de diciembre de 2026, que será tu último día de labores.
+Recibimos tu carta del 17 de noviembre de 2026, en la que comunicas tu renuncia. Tomamos nota de tu decisión y del preaviso de un mes, del 17 de noviembre al 17 de diciembre de 2026, que será tu último día de labores.
 
-Gracias por el trabajo de estos años, por la atención a tantas personas que llegaron a Poïesis y por los videos que ayudaron a darla a conocer. Te deseamos lo mejor en tus nuevos proyectos.
+Gracias por el trabajo de estos años y por la atención a tantas personas que llegaron a Poïesis. Te deseamos lo mejor en tus nuevos proyectos.
 
 Sobre los puntos de tu carta:
 
@@ -31,11 +31,11 @@ Sobre los puntos de tu carta:
 
 **3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, tendrás un día libre remunerado por semana durante el preaviso para buscar empleo: el lunes 23 de noviembre y los miércoles 25 de noviembre, 2 y 9 de diciembre. Si necesitas cambiar alguno, puedes coordinarlo con la jefatura con dos días de anticipación.
 
-**4. Entrega.** El 17 de diciembre recibiremos el teléfono institucional y la tarjeta de la empresa emitida a tu nombre, y dejaremos constancia escrita del estado de ambos y de los gastos pendientes de liquidar, si los hubiera. Ese mismo día se desactivarán tus accesos a los sistemas y canales institucionales. Te agradecemos no conservar información de pacientes ni documentos de la clínica.
+**4. Entrega.** El 17 de diciembre recibiremos el teléfono institucional y la tarjeta de la empresa emitida a tu nombre, y dejaremos constancia escrita del estado de ambos y de los gastos pendientes de liquidar, si los hubiera. Ese mismo día se desactivarán tus accesos a los sistemas y canales institucionales. Te agradecemos no conservar información de pacientes ni documentos de la clínica. La confidencialidad sobre la información de pacientes se mantiene después de concluida la relación laboral.
 
 **5. Transición.** Durante el preaviso, te pedimos acompañar la transición de tus tareas, con una lista de los temas pendientes y de los procesos a tu cargo, para que el equipo pueda continuarlos.
 
-**6. Liquidación.** El 17 de diciembre te entregaremos la liquidación detallada, con el salario pendiente, el aguinaldo y las vacaciones, calculados con los registros de planilla.
+**6. Liquidación.** El 17 de diciembre te pagaremos y entregaremos por escrito la liquidación detallada: salario pendiente, incluidos los días libres del preaviso, aguinaldo y vacaciones, calculados con los registros de planilla.
 
 Quedamos a tu disposición para cualquier consulta.
 
@@ -48,3 +48,7 @@ Con aprecio,
 | ______________________________ |
 | Carlos Fernando Bonilla Cortés |
 | Director General · Grupo Poïesis |
+
+&nbsp;
+
+**Recibido:** ______________________________  Fecha y hora: ____________________
