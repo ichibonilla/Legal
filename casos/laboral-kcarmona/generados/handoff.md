@@ -208,6 +208,10 @@ Revisadas palabra por palabra. Se ajustan: preaviso conforme al rol de horarios 
 
 > Advertencia: N-050 está POR VERIFICAR. N-044 está POR VERIFICAR. N-049 está POR VERIFICAR.
 
+### E-034 — Vacaciones del último año (noviembre de 2025 a noviembre de 2026) según los chats
+
+Derecho: dos semanas por cada cincuenta semanas; con semana de seis días son 12 días hábiles al año; la Dirección Administrativa indicó 15 al año, que rige si es la práctica de Poïesis [R-083]. Kristell: 24, 29 (probable), 30 y 31 de diciembre y 2 y 3 de enero (cubrió el 26 y el 27) [R-084], más 29 de setiembre al 3 de octubre de 2026 (5 días) [R-052]: unos 10 a 11 días. Fiorella: 24, 26, 27, 29 (probable), 30 y 31 de diciembre (cubrió el 2 y el 3 de enero): 5 a 6 días; no constan otras vacaciones en 2026; su saldo declarado de 10 días es coherente con 15 al año menos 5. Angiolette: ingreso alrededor del 20/2/2026 [R-085]; no constan vacaciones; le corresponde la proporción. Los chats no sustituyen el control de vacaciones ni la planilla.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -312,3 +316,4 @@ Revisadas palabra por palabra. Se ajustan: preaviso conforme al rol de horarios 
 - Antes de entregar el plan: python3 herramientas/registro.py cotejo casos/laboral-kcarmona/escritos/<escrito>.md --caso casos/laboral-kcarmona
 - Capturas de pantalla: se guardan en fuentes/ con la fecha y el chat en el nombre; se citan por nombre de archivo y hora visible.
 - CHAT-DIR = fuentes/CHAT-DIR_Direccion_y_asesoria_2026-11-02.txt (extracto transcrito por la Dirección).
+- CHAT-C2 = fuentes/WhatsApp_Chat_-_Crew_Poi_esis_2026-11-19.zip (exportación del grupo Crew recibida el 19/11/2026; llega al 21/10/2026).

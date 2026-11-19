@@ -25,7 +25,10 @@ Registro actualizado el 2026-11-19.
 | 2025-06-30 | R-036 | VERIFICADO | En sus funciones de confianza, los chats la muestran protegiendo los intereses de la clínica | — |
 | 2025-07-01 | R-033 | VERIFICADO | Aparece como firmante, por Recursos Humanos, del informe de incumplimiento contra la Dra. Robles | — |
 | 2025-12-05 | R-029 | VERIFICADO | Cálculo del aguinaldo 2025: «el salario sin bonos» | — |
+| 2025-12-22 | R-083 | VERIFICADO | Calendario de vacaciones de fin de año 2025 | — |
+| 2026-01-03 | R-084 | VERIFICADO | Quién cubrió en el fin de año 2025 | — |
 | 2026-02-19 | R-009 | VERIFICADO | Protocolo de Atención Telefónica: Kristel lo confirmó como «Entendido y de acuerdo» | — |
+| 2026-02-20 | R-085 | VERIFICADO | Ingreso de Angiolette al grupo Crew | — |
 | 2026-04-20 | R-034 | VERIFICADO | Declaración jurada para la PRODHAB: Kristel ajustó el borrador a lo que le constaba | — |
 | 2026-04-20 | R-035 | VERIFICADO | Ella declara vínculo laboral con Poïesis desde abril de 2022 | — |
 | 2026-04-20 | R-046 | POR VERIFICAR | Nombre completo y cédula según su propia declaración | — |

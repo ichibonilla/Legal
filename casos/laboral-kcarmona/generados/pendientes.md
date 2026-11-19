@@ -85,6 +85,6 @@
 - **N-049** — Día libre durante el preaviso y vacaciones al terminar. Fuente: Código de Trabajo, arts. 28 y 156. Respuesta a los puntos primero y segundo de la carta de Fiorella.
 - **N-050** — Obligaciones del patrono al terminar la relación. Fuente: Código de Trabajo, arts. 35, 156, 172 y 413; Reglamento de Afiliación y SICERE de la CCSS; póliza de riesgos del trabajo del INS. Lista de control del cierre de Kristell y Fiorella (E-033).
 
-## Sin folio (123 de 123 vigentes)
+## Sin folio (126 de 126 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.
