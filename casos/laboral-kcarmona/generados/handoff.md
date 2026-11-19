@@ -224,6 +224,12 @@ El cálculo correcto se hace por periodo desde la fecha de ingreso, no por año 
 
 Motivos: (a) cierre institucional de fin de año, fijado por la Dirección Administrativa el 22/12/2025 para descanso del equipo, con cobertura por turnos [R-083, R-087]; (b) viaje personal de Kristell a Bogotá, del 29/9 al 3/10/2026, solicitado por ella el 28/7/2026 y aprobado por la Dirección [R-052]. Días cargados a vacaciones en el fin de año: Kristell 24/12, 2/1 y 3/1, más el 29/12 si ese día trabajó Fiorella (3 o 4); Fiorella 24/12, 26/12 y 27/12, más el 29/12 si ese día trabajó Kristell (3 o 4). Saldos con 12 días al año, por periodo desde el ingreso [N-051, R-086]: Kristell 12 − (3 o 4) = 8 o 9, más 7,5 proporcionales − 5 de Bogotá = 2,5: total 10,5 u 11,5. Fiorella 12 − (3 o 4) = 8 o 9, más 3,5 proporcionales: total 11,5 o 12,5. El saldo de Fiorella supera los 10 que ella declara: se paga lo que corresponde por ley, no lo declarado [N-017]. Sustituye a E-034 y E-035.
 
+> Advertencia: R-087 está superado por R-088; revisar la conclusión. N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
+### E-037 — Saldo final de vacaciones de Kristell y Fiorella
+
+Días cargados a vacaciones en el cierre institucional de fin de año [R-083, R-088]: Kristell 24 y 29 de diciembre y 2 y 3 de enero (4); Fiorella 24, 26, 27 y 29 de diciembre (4). Con 12 días al año por periodo desde el ingreso [N-051, R-086] y sin saldos previos: Kristell, periodo 1/5/2025 a 30/4/2026, 12 − 4 = 8, más el periodo en curso al 17/12/2026, 7,5 − 5 del viaje a Bogotá [R-052] = 2,5: total 10,5 días. Fiorella, periodo 4/9/2025 a 3/9/2026, 12 − 4 = 8, más 3,5 proporcionales al 18/12/2026: total 11,5 días, superior a los 10 que declara; se paga lo que corresponde [N-017]. Sustituye a E-036.
+
 > Advertencia: N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
 ## Pendientes (12)
@@ -320,6 +326,7 @@ Motivos: (a) cierre institucional de fin de año, fijado por la Dirección Admin
 - R-058 → R-059 (sin fecha): Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.
 - R-060 → R-061 (2026-10-27): La Dirección resuelve la duda sobre la empleadora planteada en R-060. Las otras cédulas que aparecen en CHAT-C (3-101-582680, Égida de Salud Mental S.R.L.) no intervienen en este caso.
 - R-084 → R-087 (2026-11-19): Precisa R-083 (el aviso del 22/12 contaba el 30 y el 31 como vacaciones) y R-084 (el 29 sí se trabajó).
+- R-087 → R-088 (2026-11-19): Corrige R-087: el 29 no lo cubrió ninguna de las dos, por lo que es vacaciones para ambas, como fijó el aviso del 22/12 (R-083).
 
 ## Reglas
 

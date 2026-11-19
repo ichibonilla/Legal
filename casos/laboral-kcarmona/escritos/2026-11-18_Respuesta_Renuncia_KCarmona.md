@@ -26,7 +26,7 @@ Agradecemos su trabajo durante estos años y la atención brindada a las persona
 
 **1. Preaviso.** Usted laborará el preaviso completo, hasta el 17 de diciembre, conforme al rol de horarios vigente.
 
-**2. Vacaciones.** Según nuestros registros, usted tiene ____ días de vacaciones pendientes. No se disfrutarán durante el preaviso y le serán pagados en la liquidación.
+**2. Vacaciones.** Según nuestros registros, usted tiene 10,5 días de vacaciones pendientes. No se disfrutarán durante el preaviso y le serán pagados en la liquidación.
 
 **3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el lunes 23 de noviembre y los miércoles 25 de noviembre, 2 y 9 de diciembre. Cualquier cambio se coordina con la jefatura con dos días de anticipación.
 

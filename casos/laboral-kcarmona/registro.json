@@ -1801,6 +1801,19 @@
       "supersede": "R-084",
       "razon": "Precisa R-083 (el aviso del 22/12 contaba el 30 y el 31 como vacaciones) y R-084 (el 29 sí se trabajó).",
       "folio": ""
+    },
+    {
+      "id": "R-088",
+      "fecha": "2026-01-05",
+      "tipo": "hecho",
+      "titulo": "Cierre de fin de año 2025: quién trabajó cada día; ingresos y saldos previos",
+      "afirmacion": "Según la Dirección: el 25, 29, 30 y 31 de diciembre trabajó Silvia; el 26 y el 27 trabajó Kristell; el 2 y el 3 de enero trabajó Fiorella; el 24 no se trabajó; el equipo se reincorporó el 5 de enero. El 30 y el 31 se otorgaron sin cargo a vacaciones. Fechas de ingreso en planilla: Kristell, mayo de 2022; Fiorella, 4 de setiembre de 2023. Ninguna tiene vacaciones pendientes de periodos anteriores.",
+      "fuente": "Respuestas de la Dirección, 19/11/2026; CHAT-C2, 26/12/25, 27/12/25, 2/1/26 y 3/1/26.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "R-087",
+      "razon": "Corrige R-087: el 29 no lo cubrió ninguna de las dos, por lo que es vacaciones para ambas, como fijó el aviso del 22/12 (R-083).",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2259,6 +2272,19 @@
         "R-052",
         "N-051",
         "R-086",
+        "N-017"
+      ]
+    },
+    {
+      "id": "E-037",
+      "titulo": "Saldo final de vacaciones de Kristell y Fiorella",
+      "conclusion": "Días cargados a vacaciones en el cierre institucional de fin de año [R-083, R-088]: Kristell 24 y 29 de diciembre y 2 y 3 de enero (4); Fiorella 24, 26, 27 y 29 de diciembre (4). Con 12 días al año por periodo desde el ingreso [N-051, R-086] y sin saldos previos: Kristell, periodo 1/5/2025 a 30/4/2026, 12 − 4 = 8, más el periodo en curso al 17/12/2026, 7,5 − 5 del viaje a Bogotá [R-052] = 2,5: total 10,5 días. Fiorella, periodo 4/9/2025 a 3/9/2026, 12 − 4 = 8, más 3,5 proporcionales al 18/12/2026: total 11,5 días, superior a los 10 que declara; se paga lo que corresponde [N-017]. Sustituye a E-036.",
+      "depende_de": [
+        "R-083",
+        "R-088",
+        "N-051",
+        "R-086",
+        "R-052",
         "N-017"
       ]
     }
