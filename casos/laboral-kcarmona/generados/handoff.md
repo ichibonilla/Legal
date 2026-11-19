@@ -230,6 +230,12 @@ Motivos: (a) cierre institucional de fin de año, fijado por la Dirección Admin
 
 Días cargados a vacaciones en el cierre institucional de fin de año [R-083, R-088]: Kristell 24 y 29 de diciembre y 2 y 3 de enero (4); Fiorella 24, 26, 27 y 29 de diciembre (4). Con 12 días al año por periodo desde el ingreso [N-051, R-086] y sin saldos previos: Kristell, periodo 1/5/2025 a 30/4/2026, 12 − 4 = 8, más el periodo en curso al 17/12/2026, 7,5 − 5 del viaje a Bogotá [R-052] = 2,5: total 10,5 días. Fiorella, periodo 4/9/2025 a 3/9/2026, 12 − 4 = 8, más 3,5 proporcionales al 18/12/2026: total 11,5 días, superior a los 10 que declara; se paga lo que corresponde [N-017]. Sustituye a E-036.
 
+> Advertencia: R-088 está superado por R-089; revisar la conclusión. N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
+
+### E-038 — Saldo final de vacaciones con la nota oficial de fin de año
+
+Con 12 días por periodo desde el ingreso, sin saldos previos [N-051, R-086, R-089]: Kristell, periodo 1/5/2025 a 30/4/2026, 12 − 6 = 6; periodo en curso al 17/12/2026, 7,5 proporcionales − 5 del viaje a Bogotá = 2,5: total 8,5 días. Fiorella, periodo 4/9/2025 a 3/9/2026, 12 − 6 = 6; periodo en curso al 18/12/2026, 3,5 proporcionales: total 9,5 días (ella declara 10). Ningún periodo supera los 12 días; el proporcional del periodo en curso lo impone la ley al terminar la relación y no puede omitirse [N-017]. Defensa: la nota del 22/12/2025, comunicada al equipo, prueba qué días se cargaron a vacaciones (el patrono fija la época de vacaciones). Sustituye a E-037.
+
 > Advertencia: N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
 ## Pendientes (12)
@@ -327,6 +333,7 @@ Días cargados a vacaciones en el cierre institucional de fin de año [R-083, R-
 - R-060 → R-061 (2026-10-27): La Dirección resuelve la duda sobre la empleadora planteada en R-060. Las otras cédulas que aparecen en CHAT-C (3-101-582680, Égida de Salud Mental S.R.L.) no intervienen en este caso.
 - R-084 → R-087 (2026-11-19): Precisa R-083 (el aviso del 22/12 contaba el 30 y el 31 como vacaciones) y R-084 (el 29 sí se trabajó).
 - R-087 → R-088 (2026-11-19): Corrige R-087: el 29 no lo cubrió ninguna de las dos, por lo que es vacaciones para ambas, como fijó el aviso del 22/12 (R-083).
+- R-088 → R-089 (2026-11-19): Corrige R-088: el 30 y el 31 no son feriados de ley; la nota oficial los cargó a vacaciones y es la prueba documental de Poïesis. Se mantienen de R-088 las fechas de ingreso (Kristell mayo de 2022, Fiorella 4/9/2023) y la ausencia de saldos previos.
 
 ## Reglas
 

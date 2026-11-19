@@ -1814,6 +1814,19 @@
       "supersede": "R-087",
       "razon": "Corrige R-087: el 29 no lo cubrió ninguna de las dos, por lo que es vacaciones para ambas, como fijó el aviso del 22/12 (R-083).",
       "folio": ""
+    },
+    {
+      "id": "R-089",
+      "fecha": "2026-01-05",
+      "tipo": "hecho",
+      "titulo": "Cierre de fin de año 2025: días cargados a vacaciones según la nota oficial",
+      "afirmacion": "La nota de la Dirección Administrativa del 22/12/2025 fijó como vacaciones el 24, 26, 27, 29, 30 y 31 de diciembre y el 2 y 3 de enero (8 días), y como feriados solo el 25/12 y el 1/1. Kristell trabajó el 26 y el 27; Fiorella, el 2 y el 3; Silvia cubrió el 29, 30 y 31. Días cargados a vacaciones: Kristell 24, 29, 30 y 31 de diciembre y 2 y 3 de enero (6); Fiorella 24, 26, 27, 29, 30 y 31 de diciembre (6). Revisados de nuevo los cinco chats desde abril de 2025, no constan otras vacaciones de ninguna de las dos, salvo el viaje de Kristell a Bogotá (R-052).",
+      "fuente": "CHAT-C2, 22/12/25 8:17:45 a. m. (nota oficial), 26/12/25, 27/12/25, 2/1/26 y 3/1/26; indicación de la Dirección, 19/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "R-088",
+      "razon": "Corrige R-088: el 30 y el 31 no son feriados de ley; la nota oficial los cargó a vacaciones y es la prueba documental de Poïesis. Se mantienen de R-088 las fechas de ingreso (Kristell mayo de 2022, Fiorella 4/9/2023) y la ausencia de saldos previos.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2282,6 +2295,18 @@
       "depende_de": [
         "R-083",
         "R-088",
+        "N-051",
+        "R-086",
+        "R-052",
+        "N-017"
+      ]
+    },
+    {
+      "id": "E-038",
+      "titulo": "Saldo final de vacaciones con la nota oficial de fin de año",
+      "conclusion": "Con 12 días por periodo desde el ingreso, sin saldos previos [N-051, R-086, R-089]: Kristell, periodo 1/5/2025 a 30/4/2026, 12 − 6 = 6; periodo en curso al 17/12/2026, 7,5 proporcionales − 5 del viaje a Bogotá = 2,5: total 8,5 días. Fiorella, periodo 4/9/2025 a 3/9/2026, 12 − 6 = 6; periodo en curso al 18/12/2026, 3,5 proporcionales: total 9,5 días (ella declara 10). Ningún periodo supera los 12 días; el proporcional del periodo en curso lo impone la ley al terminar la relación y no puede omitirse [N-017]. Defensa: la nota del 22/12/2025, comunicada al equipo, prueba qué días se cargaron a vacaciones (el patrono fija la época de vacaciones). Sustituye a E-037.",
+      "depende_de": [
+        "R-089",
         "N-051",
         "R-086",
         "R-052",
