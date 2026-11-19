@@ -238,6 +238,12 @@ Con 12 días por periodo desde el ingreso, sin saldos previos [N-051, R-086, R-0
 
 > Advertencia: N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
+### E-039 — Límite de los chats para calcular vacaciones
+
+Los saldos de E-038 suponen que las únicas vacaciones fueron las que aparecen en los chats; los chats no prueban que no hubo otros días. La Dirección indica que cada año se busca descontar las vacaciones del periodo. La fuente válida es el control de vacaciones (boletas, planilla o registro de Contabilidad): con él se fijan los días tomados en cada periodo. Si Poïesis afirma que los días se disfrutaron, le corresponde probarlo con esos registros [N-036]. Para Fiorella, su propia carta declara un saldo de 10 días [R-077], que sirve de referencia si no hay registro. Para Kristell no hay declaración de saldo.
+
+> Advertencia: N-036 está POR VERIFICAR. N-051 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel

@@ -2312,6 +2312,17 @@
         "R-052",
         "N-017"
       ]
+    },
+    {
+      "id": "E-039",
+      "titulo": "Límite de los chats para calcular vacaciones",
+      "conclusion": "Los saldos de E-038 suponen que las únicas vacaciones fueron las que aparecen en los chats; los chats no prueban que no hubo otros días. La Dirección indica que cada año se busca descontar las vacaciones del periodo. La fuente válida es el control de vacaciones (boletas, planilla o registro de Contabilidad): con él se fijan los días tomados en cada periodo. Si Poïesis afirma que los días se disfrutaron, le corresponde probarlo con esos registros [N-036]. Para Fiorella, su propia carta declara un saldo de 10 días [R-077], que sirve de referencia si no hay registro. Para Kristell no hay declaración de saldo.",
+      "depende_de": [
+        "N-036",
+        "R-077",
+        "R-089",
+        "N-051"
+      ]
     }
   ]
 }
