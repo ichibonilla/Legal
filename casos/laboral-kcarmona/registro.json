@@ -1762,6 +1762,32 @@
       "supersede": "",
       "razon": "Indicio de su fecha de ingreso; confirmar con planilla.",
       "folio": ""
+    },
+    {
+      "id": "R-086",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Regla de vacaciones de Poïesis",
+      "afirmacion": "La Dirección indica que Poïesis otorga 12 días hábiles de vacaciones al año.",
+      "fuente": "Indicación de la Dirección, 19/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "",
+      "razon": "Precisa R-083, donde la Dirección Administrativa mencionó 15 al año.",
+      "folio": ""
+    },
+    {
+      "id": "N-051",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Vacaciones: periodo y proporcional",
+      "afirmacion": "Se adquieren dos semanas de vacaciones por cada cincuenta semanas de trabajo continuo, contadas desde la fecha de ingreso; si la relación termina antes de completar el periodo, corresponde un día por cada mes trabajado. Se pagan con el promedio de salarios de las últimas cincuenta semanas o del tiempo laborado.",
+      "fuente": "Código de Trabajo, arts. 153 y 157.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Base del cálculo de saldos de E-035.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2193,6 +2219,21 @@
         "R-084",
         "R-052",
         "R-085"
+      ]
+    },
+    {
+      "id": "E-035",
+      "titulo": "Saldo de vacaciones con 12 días al año, por periodo de servicio",
+      "conclusion": "El cálculo correcto se hace por periodo desde la fecha de ingreso, no por año calendario; corrige E-034 [N-051, R-086]. Kristell (ingreso mayo de 2022, por confirmar): periodo 1/5/2025 a 30/4/2026, 12 días menos 5 o 6 del fin de año = 6 o 7; periodo 1/5/2026 al 17/12/2026, 7,5 días proporcionales menos 5 de setiembre-octubre = 2,5; saldo estimado 8,5 a 9,5 días. Fiorella (ingreso 4/9/2023, por confirmar): periodo 4/9/2025 a 3/9/2026, 12 menos 5 o 6 = 6 o 7; periodo 4/9/2026 al 18/12/2026, 3,5 proporcionales; saldo estimado 9,5 a 10,5 días, coherente con los 10 que declara. Angiolette (ingreso cerca del 20/2/2026): 9 días proporcionales acumulados a hoy, sin vacaciones tomadas. No incluye saldos de periodos anteriores ni días no registrados en los chats [R-083, R-084, R-052, R-085].",
+      "depende_de": [
+        "N-051",
+        "R-086",
+        "R-083",
+        "R-084",
+        "R-052",
+        "R-085",
+        "R-077",
+        "R-080"
       ]
     }
   ]
