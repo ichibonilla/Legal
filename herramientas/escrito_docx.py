@@ -33,6 +33,7 @@ NAVY, TINTA, GRIS, ARENA = "131237", "2F2E47", "5C6684", "D1D0CB"
 PALETA = (NAVY, TINTA, GRIS, ARENA, "FFFFFF")
 COLOR = re.compile(r'((?:w:color w:val|w:fill|a:srgbClr val|lastClr)=")([0-9A-Fa-f]{6})(")')
 TITULOS, TEXTO = "Safira March", "Georgia"
+LOGO = Path(__file__).resolve().parent / "marca" / "poiesis_logo.png"
 CITA = re.compile(r"\s*\[(?:[RN]-\d{3})(?:\s*,\s*[RN]-\d{3})*\]")
 NEGRITA = re.compile(r"\*\*(.+?)\*\*")
 
@@ -58,7 +59,8 @@ def a_paleta(ruta):
             z.writestr(n, datos)
 
 
-def runs(p, texto, size=10.5, tinta=TINTA, negrita=False):
+def runs(p, texto, size=None, tinta=TINTA, negrita=False):
+    size = size or TAMANO[0]
     """Agrega el texto al párrafo respetando **negrita** en línea."""
     partes = NEGRITA.split(texto)
     for i, parte in enumerate(partes):
@@ -70,7 +72,12 @@ def runs(p, texto, size=10.5, tinta=TINTA, negrita=False):
     return p
 
 
-def espacio(p, antes=0, despues=6, interlineado=1.25):
+INTERLINEADO = [1.25]
+TAMANO = [10.5]
+
+
+def espacio(p, antes=0, despues=6, interlineado=None):
+    interlineado = interlineado or INTERLINEADO[0]
     pf = p.paragraph_format
     pf.space_before, pf.space_after, pf.line_spacing = Pt(antes), Pt(despues), interlineado
 
@@ -147,7 +154,7 @@ def tabla(doc, filas, ancho):
     doc.add_paragraph()
 
 
-def convertir(md, salida, aviso, confidencial=False):
+def convertir(md, salida, aviso, confidencial=False, membrete=False):
     texto = re.sub(r"<!--.*?-->", "", md, flags=re.S)
     texto = CITA.sub("", texto)
     doc = Document()
@@ -161,15 +168,40 @@ def convertir(md, salida, aviso, confidencial=False):
     ancho = 8.5 - 2.2
 
     cab = sec.header.paragraphs[0]
-    runs(cab, "Grupo Poïesis · Confidencial" if confidencial else "Grupo Poïesis", 8.5, GRIS)
-    if aviso:
-        cab.add_run("    ")
-        runs(cab, aviso, 8.5, NAVY, True)
-    pie = sec.footer.paragraphs[0]
-    runs(pie, "Página ", 8.5, GRIS)
-    campo(pie, "PAGE")
-    runs(pie, " de ", 8.5, GRIS)
-    campo(pie, "NUMPAGES")
+    if membrete:
+        INTERLINEADO[0], TAMANO[0] = 1.1, 10
+        for m in ("left_margin", "right_margin"):
+            setattr(sec, m, Inches(1.0))
+        sec.top_margin, sec.bottom_margin = Inches(1.0), Inches(0.75)
+        # Membrete institucional: logotipo, nombre legal y filete; pie con datos de la sociedad.
+        sec.header_distance, sec.footer_distance = Inches(0.45), Inches(0.4)
+        cab.add_run().add_picture(str(LOGO), height=Inches(0.55))
+        cab.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        linea = sec.header.add_paragraph()
+        runs(linea, "Grupo Poïesis Clínica Integral de Psicología y Psicoanálisis S. A.", 8, GRIS)
+        espacio(linea, 2, 0)
+        borde_inferior(linea)
+        pie = sec.footer.paragraphs[0]
+        pie.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        runs(pie, "Cédula jurídica 3-101-746424 · San José, Costa Rica · psicologosencostarica.com", 7.5, GRIS)
+        num = sec.footer.add_paragraph()
+        num.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        runs(num, "Página ", 7.5, GRIS)
+        campo(num, "PAGE")
+        runs(num, " de ", 7.5, GRIS)
+        campo(num, "NUMPAGES")
+        if aviso:
+            runs(linea, "    " + aviso, 8, NAVY, True)
+    else:
+        runs(cab, "Grupo Poïesis · Confidencial" if confidencial else "Grupo Poïesis", 8.5, GRIS)
+        if aviso:
+            cab.add_run("    ")
+            runs(cab, aviso, 8.5, NAVY, True)
+        pie = sec.footer.paragraphs[0]
+        runs(pie, "Página ", 8.5, GRIS)
+        campo(pie, "PAGE")
+        runs(pie, " de ", 8.5, GRIS)
+        campo(pie, "NUMPAGES")
 
     lineas = texto.splitlines()
     i = 0
@@ -217,10 +249,27 @@ def convertir(md, salida, aviso, confidencial=False):
             for r in p.runs:
                 r.italic = True
             espacio(p, 0, 8)
+        elif l.startswith("@derecha "):
+            p = doc.add_paragraph()
+            runs(p, l[len("@derecha "):])
+            p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+            espacio(p, 0, 12)
+        elif l.endswith("\\"):
+            # Bloque de líneas seguidas (destinatario, firma): un párrafo con saltos de línea.
+            p = doc.add_paragraph()
+            while i < len(lineas) and lineas[i].rstrip().endswith("\\"):
+                runs(p, lineas[i].rstrip()[:-1].rstrip())
+                p.runs[-1].add_break()
+                i += 1
+            if i < len(lineas) and lineas[i].strip():
+                runs(p, lineas[i].rstrip())
+            else:
+                i -= 1
+            espacio(p, 0, 10)
         else:
             p = doc.add_paragraph()
             solo_negrita = l.startswith("**") and l.endswith("**") and l.count("**") == 2
-            runs(p, l, 11 if solo_negrita else 10.5, NAVY if solo_negrita else TINTA)
+            runs(p, l, 11 if solo_negrita else TAMANO[0], NAVY if solo_negrita else TINTA)
             espacio(p, 6 if solo_negrita else 0, 6)
             if solo_negrita and doc.paragraphs[-2].alignment == WD_ALIGN_PARAGRAPH.CENTER:
                 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -246,12 +295,13 @@ def main():
     ap.add_argument("--salida")
     ap.add_argument("--confidencial", action="store_true", help="marca «Confidencial» en el encabezado")
     ap.add_argument("--pdf", action="store_true", help="genera también la versión PDF")
+    ap.add_argument("--membrete", action="store_true", help="membrete institucional con logotipo y pie de la sociedad")
     a = ap.parse_args()
     _, problemas = registro.cotejo(registro.cargar(a.caso), a.escrito)
     aviso = (f"BORRADOR · No entregar: el cotejo tiene {len(problemas)} observaciones"
              if problemas else "")
     salida = a.salida or str(Path(a.escrito).with_suffix(".docx"))
-    convertir(Path(a.escrito).read_text(encoding="utf-8"), salida, aviso, a.confidencial)
+    convertir(Path(a.escrito).read_text(encoding="utf-8"), salida, aviso, a.confidencial, a.membrete)
     print(f"Generado {salida}" + (f" ({aviso})." if aviso else " (cotejo sin observaciones)."))
     if a.pdf:
         subprocess.run(["soffice", "--headless", "--convert-to", "pdf", "--outdir", str(Path(salida).parent), salida],
