@@ -1,12 +1,10 @@
 <!--
-RESPUESTA A LA RENUNCIA DE FIORELLA (R-077, E-030). Se entrega con el recibido de la carta.
-
-Revisión del 19/11 (laboral y administrativa): rol de horarios, cierre de accesos al final de la jornada, gastos con comprobantes, deber de confidencialidad, forma de pago, canal escrito para observaciones (la sociedad consta en el membrete). Versión formal con membrete (19/11): trato de usted y formato de carta. Antes de entregar (revisión laboral del 19/11: «tomamos nota» en lugar de «aceptamos», para no sugerir un mutuo acuerdo; sin mención de fecha de ingreso ni de videos; pago, no solo entrega, de la liquidación; confidencialidad posterior; línea de recibido):
-- Confirmar en planilla el saldo de vacaciones (10 días) y la fecha de ingreso (R-079).
-- Criterio de la asesoría (Café Legal, 18/11/2026): respuesta formal con preaviso laborado o no, vacaciones pagadas o disfrutadas, y día libre semanal fijado. Días propuestos alternados entre las dos para no dejar la oficina sin cobertura; Silvia los confirma.
-- Confirmar qué es la tarjeta y la cuenta que se cerró (punto tercero).
-- Contabilidad prepara la liquidación con salarios reales de planilla; revisar antes el salario frente al mínimo (R-078).
-No se firman las líneas de la carta de renuncia: se firma solo «Recibido» con fecha y hora en la copia de ella.
+RESPUESTA A LA RENUNCIA (R-077, E-030, R-094 a R-096, E-042). Versión final del 19/11/2026, con membrete; se entrega el 20/11 con el recibido de la carta.
+Criterio de la asesoría (R-082): preaviso laborado, vacaciones pagadas y no disfrutadas en el preaviso, días libres fijados.
+Vacaciones: días tomados según los chats, que son el control de Poïesis (R-090); saldo cerrado por decisión de la Dirección.
+Revisión laboral y administrativa (E-033): «tomamos nota», sin fecha de ingreso ni videos, accesos al cierre de la jornada,
+confidencialidad continua, forma de pago, canal escrito, recibido junto a la firma.
+Pendiente: que Silvia confirme los días libres; firma de la Dirección.
 -->
 
 @derecha San José, 20 de noviembre de 2026
