@@ -151,6 +151,8 @@ def tabla(doc, filas, ancho):
             else:
                 etiqueta = not con_cabecera and not firmas and n == 2 and j == 0
                 runs(p, texto, 9.5, GRIS if etiqueta else TINTA)
+                if firmas:
+                    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     doc.add_paragraph()
 
 
