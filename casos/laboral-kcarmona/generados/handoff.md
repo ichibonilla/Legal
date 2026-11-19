@@ -212,11 +212,19 @@ Revisadas palabra por palabra. Se ajustan: preaviso conforme al rol de horarios 
 
 Derecho: dos semanas por cada cincuenta semanas; con semana de seis días son 12 días hábiles al año; la Dirección Administrativa indicó 15 al año, que rige si es la práctica de Poïesis [R-083]. Kristell: 24, 29 (probable), 30 y 31 de diciembre y 2 y 3 de enero (cubrió el 26 y el 27) [R-084], más 29 de setiembre al 3 de octubre de 2026 (5 días) [R-052]: unos 10 a 11 días. Fiorella: 24, 26, 27, 29 (probable), 30 y 31 de diciembre (cubrió el 2 y el 3 de enero): 5 a 6 días; no constan otras vacaciones en 2026; su saldo declarado de 10 días es coherente con 15 al año menos 5. Angiolette: ingreso alrededor del 20/2/2026 [R-085]; no constan vacaciones; le corresponde la proporción. Los chats no sustituyen el control de vacaciones ni la planilla.
 
+> Advertencia: R-084 está superado por R-087; revisar la conclusión.
+
 ### E-035 — Saldo de vacaciones con 12 días al año, por periodo de servicio
 
 El cálculo correcto se hace por periodo desde la fecha de ingreso, no por año calendario; corrige E-034 [N-051, R-086]. Kristell (ingreso mayo de 2022, por confirmar): periodo 1/5/2025 a 30/4/2026, 12 días menos 5 o 6 del fin de año = 6 o 7; periodo 1/5/2026 al 17/12/2026, 7,5 días proporcionales menos 5 de setiembre-octubre = 2,5; saldo estimado 8,5 a 9,5 días. Fiorella (ingreso 4/9/2023, por confirmar): periodo 4/9/2025 a 3/9/2026, 12 menos 5 o 6 = 6 o 7; periodo 4/9/2026 al 18/12/2026, 3,5 proporcionales; saldo estimado 9,5 a 10,5 días, coherente con los 10 que declara. Angiolette (ingreso cerca del 20/2/2026): 9 días proporcionales acumulados a hoy, sin vacaciones tomadas. No incluye saldos de periodos anteriores ni días no registrados en los chats [R-083, R-084, R-052, R-085].
 
-> Advertencia: N-051 está POR VERIFICAR.
+> Advertencia: N-051 está POR VERIFICAR. R-084 está superado por R-087; revisar la conclusión.
+
+### E-036 — Saldo de vacaciones con los datos del cierre de fin de año
+
+Motivos: (a) cierre institucional de fin de año, fijado por la Dirección Administrativa el 22/12/2025 para descanso del equipo, con cobertura por turnos [R-083, R-087]; (b) viaje personal de Kristell a Bogotá, del 29/9 al 3/10/2026, solicitado por ella el 28/7/2026 y aprobado por la Dirección [R-052]. Días cargados a vacaciones en el fin de año: Kristell 24/12, 2/1 y 3/1, más el 29/12 si ese día trabajó Fiorella (3 o 4); Fiorella 24/12, 26/12 y 27/12, más el 29/12 si ese día trabajó Kristell (3 o 4). Saldos con 12 días al año, por periodo desde el ingreso [N-051, R-086]: Kristell 12 − (3 o 4) = 8 o 9, más 7,5 proporcionales − 5 de Bogotá = 2,5: total 10,5 u 11,5. Fiorella 12 − (3 o 4) = 8 o 9, más 3,5 proporcionales: total 11,5 o 12,5. El saldo de Fiorella supera los 10 que ella declara: se paga lo que corresponde por ley, no lo declarado [N-017]. Sustituye a E-034 y E-035.
+
+> Advertencia: N-051 está POR VERIFICAR. N-017 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -311,6 +319,7 @@ El cálculo correcto se hace por periodo desde la fecha de ingreso, no por año 
 - R-051 → R-055 (sin fecha): La Dirección corrige R-051: los videos sí se recibieron. Faltan las fechas de entrega de cada video, si ya se publicaron, y una minuta de la reunión del 22/10 con quienes asistieron.
 - R-058 → R-059 (sin fecha): Unifica las dos formulaciones de la Dirección («frenar todo pago» y «suspender la producción»). Se sostiene con su propio testimonio, los relatos individuales de quienes asistieron y los indicios concordantes. El mensaje del 26/10 puede leerse como confirmación escrita de esa instrucción.
 - R-060 → R-061 (2026-10-27): La Dirección resuelve la duda sobre la empleadora planteada en R-060. Las otras cédulas que aparecen en CHAT-C (3-101-582680, Égida de Salud Mental S.R.L.) no intervienen en este caso.
+- R-084 → R-087 (2026-11-19): Precisa R-083 (el aviso del 22/12 contaba el 30 y el 31 como vacaciones) y R-084 (el 29 sí se trabajó).
 
 ## Reglas
 

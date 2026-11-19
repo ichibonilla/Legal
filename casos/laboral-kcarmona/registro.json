@@ -1788,6 +1788,19 @@
       "supersede": "",
       "razon": "Base del cálculo de saldos de E-035.",
       "folio": ""
+    },
+    {
+      "id": "R-087",
+      "fecha": "2026-01-03",
+      "tipo": "hecho",
+      "titulo": "Cómo se aplicó el cierre de fin de año 2025",
+      "afirmacion": "Según la Dirección: el 24 de diciembre no se trabajó; el 30 y el 31 de diciembre se otorgaron como feriados y no se cargan a vacaciones; el 26, 27 y 29 de diciembre y el 2 y 3 de enero hubo cobertura por turnos, de modo que en cada uno de esos días una trabajó y la otra no. Los chats muestran que Kristell trabajó el 26 y el 27 y Fiorella el 2 y el 3; no hay mensajes del 29 que indiquen cuál de las dos trabajó.",
+      "fuente": "Indicación de la Dirección, 19/11/2026; CHAT-C2, 26/12/25 10:51:52 a. m. a 27/12/25 9:00:50 a. m. (Kristel) y 2/1/26 7:43:05 a. m. a 3/1/26 2:14:51 p. m. (Fiorella).",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "R-084",
+      "razon": "Precisa R-083 (el aviso del 22/12 contaba el 30 y el 31 como vacaciones) y R-084 (el 29 sí se trabajó).",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2234,6 +2247,19 @@
         "R-085",
         "R-077",
         "R-080"
+      ]
+    },
+    {
+      "id": "E-036",
+      "titulo": "Saldo de vacaciones con los datos del cierre de fin de año",
+      "conclusion": "Motivos: (a) cierre institucional de fin de año, fijado por la Dirección Administrativa el 22/12/2025 para descanso del equipo, con cobertura por turnos [R-083, R-087]; (b) viaje personal de Kristell a Bogotá, del 29/9 al 3/10/2026, solicitado por ella el 28/7/2026 y aprobado por la Dirección [R-052]. Días cargados a vacaciones en el fin de año: Kristell 24/12, 2/1 y 3/1, más el 29/12 si ese día trabajó Fiorella (3 o 4); Fiorella 24/12, 26/12 y 27/12, más el 29/12 si ese día trabajó Kristell (3 o 4). Saldos con 12 días al año, por periodo desde el ingreso [N-051, R-086]: Kristell 12 − (3 o 4) = 8 o 9, más 7,5 proporcionales − 5 de Bogotá = 2,5: total 10,5 u 11,5. Fiorella 12 − (3 o 4) = 8 o 9, más 3,5 proporcionales: total 11,5 o 12,5. El saldo de Fiorella supera los 10 que ella declara: se paga lo que corresponde por ley, no lo declarado [N-017]. Sustituye a E-034 y E-035.",
+      "depende_de": [
+        "R-083",
+        "R-087",
+        "R-052",
+        "N-051",
+        "R-086",
+        "N-017"
       ]
     }
   ]
