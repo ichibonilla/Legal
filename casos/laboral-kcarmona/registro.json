@@ -1880,6 +1880,45 @@
       "supersede": "",
       "razon": "Medio día del periodo que inició el 4/9/2026; confirmar con Silvia.",
       "folio": ""
+    },
+    {
+      "id": "R-094",
+      "fecha": "2026-03-24",
+      "tipo": "hecho",
+      "titulo": "Vacaciones de Fiorella por viaje a Panamá (confirmadas)",
+      "afirmacion": "La Dirección confirma que Fiorella tomó vacaciones el sábado 21, el lunes 23 y el martes 24 de marzo de 2026 por su viaje a Panamá (3 días).",
+      "fuente": "Confirmación de la Dirección, 19/11/2026; CHAT-FV, 3/18/26 10:27:04 AM a 1:58:04 PM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "R-092",
+      "razon": "Confirma R-092.",
+      "folio": ""
+    },
+    {
+      "id": "R-095",
+      "fecha": "2026-09-08",
+      "tipo": "hecho",
+      "titulo": "Medio día de vacaciones de Fiorella (confirmado)",
+      "afirmacion": "La Dirección confirma que Fiorella tomó medio día de vacaciones el martes 8 de setiembre de 2026.",
+      "fuente": "Confirmación de la Dirección, 19/11/2026; CHAT-FV, 9/7/26 11:51:01 AM.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "R-093",
+      "razon": "Confirma R-093.",
+      "folio": ""
+    },
+    {
+      "id": "R-096",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Vacaciones de Fiorella cerradas en 7 días",
+      "afirmacion": "La Dirección decide cerrar las vacaciones de Fiorella en 7 días (saldo 6), otorgando la diferencia de forma voluntaria.",
+      "fuente": "Decisión de la Dirección, 19/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "R-091",
+      "razon": "Sustituye la parte de R-091 sobre Fiorella (10 días); Kristell se mantiene en 9 días.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2399,6 +2438,19 @@
         "R-093",
         "N-051",
         "R-091"
+      ]
+    },
+    {
+      "id": "E-042",
+      "titulo": "Saldo final de Fiorella con todos sus chats",
+      "conclusion": "Último periodo (4/9/2025 a 3/9/2026): 6 días del cierre de fin de año y 3 del viaje a Panamá [R-089, R-094] = 9; quedan 3. Periodo en curso (4/9/2026 al 18/12/2026): 3,5 proporcionales menos medio día del 8 de setiembre [R-095] = 3. Saldo: 6 días; se cierra en 7 [R-096]. Kristell se mantiene: 8,5, cerrado en 9 [R-091]. Ella declaró 10 días: la carta detalla las fechas tomadas, que son la prueba del cálculo [N-051].",
+      "depende_de": [
+        "R-089",
+        "R-094",
+        "R-095",
+        "R-096",
+        "R-091",
+        "N-051"
       ]
     }
   ]

@@ -254,7 +254,13 @@ Criterio de Poïesis: (1) cada año se descuentan vacaciones con un cierre colec
 
 Con los chats individuales, Fiorella tomó en su último periodo 6 días del cierre de fin de año más 2 o 3 del viaje a Panamá [R-092]: 12 − (8 o 9) = 3 o 4; en el periodo en curso, 3,5 proporcionales menos medio día del 8 de setiembre [R-093] = 3; saldo de 6 a 7 días, no 9,5. La carta, que lista solo los 6 días del cierre, queda incompleta: antes de entregarla, la Dirección decide si mantiene los 10 días otorgados (una concesión de unos 3 o 4 días) o los ajusta. La revisión de los chats de Kristell no cambia su saldo.
 
-> Advertencia: R-092 está POR VERIFICAR. R-093 está POR VERIFICAR. N-051 está POR VERIFICAR.
+> Advertencia: R-092 está superado por R-094; revisar la conclusión. R-093 está superado por R-095; revisar la conclusión. N-051 está POR VERIFICAR. R-091 está superado por R-096; revisar la conclusión.
+
+### E-042 — Saldo final de Fiorella con todos sus chats
+
+Último periodo (4/9/2025 a 3/9/2026): 6 días del cierre de fin de año y 3 del viaje a Panamá [R-089, R-094] = 9; quedan 3. Periodo en curso (4/9/2026 al 18/12/2026): 3,5 proporcionales menos medio día del 8 de setiembre [R-095] = 3. Saldo: 6 días; se cierra en 7 [R-096]. Kristell se mantiene: 8,5, cerrado en 9 [R-091]. Ella declaró 10 días: la carta detalla las fechas tomadas, que son la prueba del cálculo [N-051].
+
+> Advertencia: R-091 está superado por R-096; revisar la conclusión. N-051 está POR VERIFICAR.
 
 ## Pendientes (12)
 
@@ -271,7 +277,7 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (67)
+## Por verificar (65)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -338,8 +344,6 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 - N-049 — Día libre durante el preaviso y vacaciones al terminar
 - N-050 — Obligaciones del patrono al terminar la relación
 - N-051 — Vacaciones: periodo y proporcional
-- R-092 — Vacaciones de Fiorella por viaje a Panamá
-- R-093 — Medio día de vacaciones de Fiorella
 
 ## Registros reemplazados
 
@@ -354,6 +358,9 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 - R-084 → R-087 (2026-11-19): Precisa R-083 (el aviso del 22/12 contaba el 30 y el 31 como vacaciones) y R-084 (el 29 sí se trabajó).
 - R-087 → R-088 (2026-11-19): Corrige R-087: el 29 no lo cubrió ninguna de las dos, por lo que es vacaciones para ambas, como fijó el aviso del 22/12 (R-083).
 - R-088 → R-089 (2026-11-19): Corrige R-088: el 30 y el 31 no son feriados de ley; la nota oficial los cargó a vacaciones y es la prueba documental de Poïesis. Se mantienen de R-088 las fechas de ingreso (Kristell mayo de 2022, Fiorella 4/9/2023) y la ausencia de saldos previos.
+- R-092 → R-094 (2026-11-19): Confirma R-092.
+- R-093 → R-095 (2026-11-19): Confirma R-093.
+- R-091 → R-096 (2026-11-19): Sustituye la parte de R-091 sobre Fiorella (10 días); Kristell se mantiene en 9 días.
 
 ## Reglas
 

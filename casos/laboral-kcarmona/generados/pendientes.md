@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (67)
+## POR VERIFICAR (65)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -85,8 +85,6 @@
 - **N-049** — Día libre durante el preaviso y vacaciones al terminar. Fuente: Código de Trabajo, arts. 28 y 156. Respuesta a los puntos primero y segundo de la carta de Fiorella.
 - **N-050** — Obligaciones del patrono al terminar la relación. Fuente: Código de Trabajo, arts. 35, 156, 172 y 413; Reglamento de Afiliación y SICERE de la CCSS; póliza de riesgos del trabajo del INS. Lista de control del cierre de Kristell y Fiorella (E-033).
 - **N-051** — Vacaciones: periodo y proporcional. Fuente: Código de Trabajo, arts. 153 y 157. Base del cálculo de saldos de E-035.
-- **R-092** — Vacaciones de Fiorella por viaje a Panamá. Fuente: CHAT-FV, 3/18/26 10:27:04 AM a 1:58:04 PM; CHAT-C2 y CHAT-G, 19/3/26 a 24/3/26. Indica 2 o 3 días de vacaciones (23 y 24, y quizá el sábado 21); la Dirección debe confirmar qué días se tomaron.
-- **R-093** — Medio día de vacaciones de Fiorella. Fuente: CHAT-FV, 9/7/26 11:51:01 AM a 12:00:03 PM. Medio día del periodo que inició el 4/9/2026; confirmar con Silvia.
 
 ## Sin folio (132 de 132 vigentes)
 

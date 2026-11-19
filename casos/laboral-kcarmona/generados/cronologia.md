@@ -32,7 +32,8 @@ Registro actualizado el 2026-11-19.
 | 2026-01-05 | R-089 | VERIFICADO | Cierre de fin de año 2025: días cargados a vacaciones según la nota oficial | — |
 | 2026-02-19 | R-009 | VERIFICADO | Protocolo de Atención Telefónica: Kristel lo confirmó como «Entendido y de acuerdo» | — |
 | 2026-02-20 | R-085 | VERIFICADO | Ingreso de Angiolette al grupo Crew | — |
-| 2026-03-18 | R-092 | POR VERIFICAR | Vacaciones de Fiorella por viaje a Panamá | — |
+| 2026-03-18 | ~~R-092~~ (superado por R-094) | POR VERIFICAR | ~~Vacaciones de Fiorella por viaje a Panamá~~ | — |
+| 2026-03-24 | R-094 | VERIFICADO | Vacaciones de Fiorella por viaje a Panamá (confirmadas) | — |
 | 2026-04-20 | R-034 | VERIFICADO | Declaración jurada para la PRODHAB: Kristel ajustó el borrador a lo que le constaba | — |
 | 2026-04-20 | R-035 | VERIFICADO | Ella declara vínculo laboral con Poïesis desde abril de 2022 | — |
 | 2026-04-20 | R-046 | POR VERIFICAR | Nombre completo y cédula según su propia declaración | — |
@@ -43,7 +44,8 @@ Registro actualizado el 2026-11-19.
 | 2026-08-21 | R-014 | VERIFICADO | Tensión laboral previa entre la Dirección y Fiorella, expuesta en el grupo | — |
 | 2026-09-03 | R-013 | VERIFICADO | Ha tenido acceso a material de litigio de la empresa | — |
 | 2026-09-04 | R-030 | VERIFICADO | Horario administrativo de Kristel desde el 7/09/2026 | — |
-| 2026-09-08 | R-093 | POR VERIFICAR | Medio día de vacaciones de Fiorella | — |
+| 2026-09-08 | ~~R-093~~ (superado por R-095) | POR VERIFICAR | ~~Medio día de vacaciones de Fiorella~~ | — |
+| 2026-09-08 | R-095 | VERIFICADO | Medio día de vacaciones de Fiorella (confirmado) | — |
 | 2026-10-07 | R-002 | VERIFICADO | Puesto: asistente administrativa, con funciones de agenda y archivo | — |
 | 2026-10-07 | ~~R-012~~ (superado por R-027) | VERIFICADO | ~~Colaboró como posible testigo en el asunto Robles~~ | — |
 | 2026-10-07 | R-027 | VERIFICADO | Respondió el primer cuestionario sobre el asunto Robles; no consta respuesta al segundo | — |
@@ -73,7 +75,8 @@ Registro actualizado el 2026-11-19.
 | 2026-11-18 | R-082 | VERIFICADO | Criterio de la asesoría sobre la respuesta a las renuncias | — |
 | 2026-11-19 | R-086 | VERIFICADO | Regla de vacaciones de Poïesis | — |
 | 2026-11-19 | R-090 | VERIFICADO | Los chats son el control de vacaciones de Poïesis | — |
-| 2026-11-19 | R-091 | VERIFICADO | Vacaciones otorgadas para cerrar el saldo | — |
+| 2026-11-19 | ~~R-091~~ (superado por R-096) | VERIFICADO | ~~Vacaciones otorgadas para cerrar el saldo~~ | — |
+| 2026-11-19 | R-096 | VERIFICADO | Vacaciones de Fiorella cerradas en 7 días | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
