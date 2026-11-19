@@ -26,7 +26,7 @@ Agradecemos su trabajo en Poïesis y le deseamos éxito en sus próximos proyect
 
 **2. Vacaciones.** Según nuestros registros, en su último periodo usted disfrutó 9 días de vacaciones: el 24, 26, 27, 29, 30 y 31 de diciembre de 2025, en el cierre institucional de fin de año, y el 21, 23 y 24 de marzo de 2026; además, medio día el 8 de setiembre de 2026. Su saldo es de 6 días; para darlo por cerrado, Poïesis le otorga de forma voluntaria 7 días, que le serán pagados en la liquidación y no se disfrutarán durante el preaviso.
 
-**3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el martes 24 de noviembre y los viernes 27 de noviembre, 4 y 11 de diciembre. Los cambios se coordinan con la jefatura.
+**3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el lunes 23 de noviembre y los miércoles 25 de noviembre, 2 y 9 de diciembre. Los cambios se coordinan con la jefatura.
 
 **4. Entrega.** El 18 de diciembre recibiremos el teléfono institucional, con sus aplicaciones, y la tarjeta a su cargo, y dejaremos constancia escrita de su estado y de la situación de la cuenta asociada. Al concluir esa jornada se desactivarán sus accesos a los sistemas y canales institucionales. La información de pacientes y los documentos de la clínica no se conservan, y el deber de confidencialidad se mantiene después de concluida la relación laboral.
 

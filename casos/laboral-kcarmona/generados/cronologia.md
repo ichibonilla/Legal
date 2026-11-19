@@ -77,6 +77,7 @@ Registro actualizado el 2026-11-19.
 | 2026-11-19 | R-090 | VERIFICADO | Los chats son el control de vacaciones de Poïesis | — |
 | 2026-11-19 | ~~R-091~~ (superado por R-096) | VERIFICADO | ~~Vacaciones otorgadas para cerrar el saldo~~ | — |
 | 2026-11-19 | R-096 | VERIFICADO | Vacaciones de Fiorella cerradas en 7 días | — |
+| 2026-11-19 | R-097 | VERIFICADO | Días libres del preaviso definidos por la Dirección | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

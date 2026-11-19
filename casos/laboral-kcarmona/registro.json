@@ -1919,6 +1919,19 @@
       "supersede": "R-091",
       "razon": "Sustituye la parte de R-091 sobre Fiorella (10 días); Kristell se mantiene en 9 días.",
       "folio": ""
+    },
+    {
+      "id": "R-097",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Días libres del preaviso definidos por la Dirección",
+      "afirmacion": "Fiorella: lunes 23 y miércoles 25 de noviembre, y miércoles 2 y 9 de diciembre de 2026. Kristell: viernes 20 y martes 24 de noviembre, y miércoles 2 y martes 15 de diciembre de 2026.",
+      "fuente": "Indicación de la Dirección, 19/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-19",
+      "supersede": "",
+      "razon": "Sustituye las fechas propuestas en las cartas. El 2 de diciembre coinciden las dos; Kristell no tiene día libre en la semana del 8 al 14 de diciembre y el 20 de noviembre es la fecha prevista de entrega de la carta.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
