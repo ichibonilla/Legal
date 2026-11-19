@@ -172,10 +172,10 @@ def convertir(md, salida, aviso, confidencial=False, membrete=False):
         INTERLINEADO[0], TAMANO[0] = 1.1, 10
         for m in ("left_margin", "right_margin"):
             setattr(sec, m, Inches(1.0))
-        sec.top_margin, sec.bottom_margin = Inches(1.0), Inches(0.75)
+        sec.top_margin, sec.bottom_margin = Inches(0.95), Inches(0.7)
         # Membrete institucional: logotipo, nombre legal y filete; pie con datos de la sociedad.
         sec.header_distance, sec.footer_distance = Inches(0.45), Inches(0.4)
-        cab.add_run().add_picture(str(LOGO), height=Inches(0.55))
+        cab.add_run().add_picture(str(LOGO), height=Inches(0.48))
         cab.alignment = WD_ALIGN_PARAGRAPH.LEFT
         linea = sec.header.add_paragraph()
         runs(linea, "Grupo Poïesis Clínica Integral de Psicología y Psicoanálisis S. A.", 8, GRIS)

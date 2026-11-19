@@ -202,6 +202,12 @@ Riesgos principales: salario inferior al mínimo en 2026 (alta probabilidad si e
 
 > Advertencia: N-031 está POR VERIFICAR. R-069 está POR VERIFICAR. N-043 está POR VERIFICAR.
 
+### E-033 — Revisión laboral y administrativa de las respuestas a las renuncias
+
+Revisadas palabra por palabra. Se ajustan: preaviso conforme al rol de horarios (la jornada es rotativa); cierre de accesos al concluir la última jornada, para no impedir el trabajo de ese día; gastos de la tarjeta conciliados con comprobantes, sin anunciar deducciones de la liquidación [N-050]; deber de confidencialidad expresado como obligación continua; forma de pago; canal escrito para observaciones, que deja constancia de buena fe; recibido junto a la firma. Se mantienen: «tomamos nota» en lugar de «aceptamos» [N-044]; sin fecha de ingreso ni mención de videos [R-079, R-080]; vacaciones pagadas fuera del preaviso; día libre conforme al art. 28 [N-049]. Fuera de las cartas: reportar las salidas en SICERE y ante el INS; emitir el certificado de servicio con las fechas de planilla; liquidación con salario frente al mínimo; conservar expedientes al menos un año [N-050].
+
+> Advertencia: N-050 está POR VERIFICAR. N-044 está POR VERIFICAR. N-049 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -217,7 +223,7 @@ Riesgos principales: salario inferior al mínimo en 2026 (alta probabilidad si e
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (63)
+## Por verificar (64)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -282,6 +288,7 @@ Riesgos principales: salario inferior al mínimo en 2026 (alta probabilidad si e
 - N-047 — Salario por comisión o por unidad de obra
 - N-048 — Límites de la jornada extraordinaria y registro
 - N-049 — Día libre durante el preaviso y vacaciones al terminar
+- N-050 — Obligaciones del patrono al terminar la relación
 
 ## Registros reemplazados
 

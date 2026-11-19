@@ -1709,6 +1709,19 @@
       "supersede": "",
       "razon": "Las respuestas del 20/11 se ajustan: preaviso laborado, vacaciones pagadas en la liquidación y días libres fijados, alternados para mantener la cobertura.",
       "folio": ""
+    },
+    {
+      "id": "N-050",
+      "fecha": "",
+      "tipo": "norma",
+      "titulo": "Obligaciones del patrono al terminar la relación",
+      "afirmacion": "Al terminar el contrato, el patrono entrega a solicitud de la persona trabajadora un certificado con las fechas de entrada y salida y la clase de trabajo; las vacaciones solo se compensan en dinero si la relación termina antes de disfrutarlas; las deducciones del salario y de la liquidación están limitadas por ley; el patrono reporta la exclusión de la persona en la planilla de la CCSS y en la póliza de riesgos del trabajo; las acciones laborales prescriben en un año desde la terminación.",
+      "fuente": "Código de Trabajo, arts. 35, 156, 172 y 413; Reglamento de Afiliación y SICERE de la CCSS; póliza de riesgos del trabajo del INS.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Lista de control del cierre de Kristell y Fiorella (E-033).",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2117,6 +2130,18 @@
         "R-074",
         "R-077",
         "N-043"
+      ]
+    },
+    {
+      "id": "E-033",
+      "titulo": "Revisión laboral y administrativa de las respuestas a las renuncias",
+      "conclusion": "Revisadas palabra por palabra. Se ajustan: preaviso conforme al rol de horarios (la jornada es rotativa); cierre de accesos al concluir la última jornada, para no impedir el trabajo de ese día; gastos de la tarjeta conciliados con comprobantes, sin anunciar deducciones de la liquidación [N-050]; deber de confidencialidad expresado como obligación continua; forma de pago; canal escrito para observaciones, que deja constancia de buena fe; recibido junto a la firma. Se mantienen: «tomamos nota» en lugar de «aceptamos» [N-044]; sin fecha de ingreso ni mención de videos [R-079, R-080]; vacaciones pagadas fuera del preaviso; día libre conforme al art. 28 [N-049]. Fuera de las cartas: reportar las salidas en SICERE y ante el INS; emitir el certificado de servicio con las fechas de planilla; liquidación con salario frente al mínimo; conservar expedientes al menos un año [N-050].",
+      "depende_de": [
+        "N-050",
+        "N-044",
+        "N-049",
+        "R-079",
+        "R-080"
       ]
     }
   ]
