@@ -2036,6 +2036,19 @@
       "supersede": "",
       "razon": "Aun como recepcionista a tiempo completo, el salario debía ser al menos el mínimo de su categoría (N-038, N-017); confirmar categoría y fechas con la planilla.",
       "folio": ""
+    },
+    {
+      "id": "R-106",
+      "fecha": "2026-11-06",
+      "tipo": "hecho",
+      "titulo": "Pagos semanales de salario según las transferencias del BAC",
+      "afirmacion": "Transferencias semanales programadas al 6/11/2026: Fiorella ₡74 846 (el 24/10/2026 fueron ₡69 571,58); Kristell ₡83 485,90; Angiolette ₡83 485,90 desde el 24/10/2026 (antes ₡85 000). ₡83 485,90 semanales equivalen a un neto mensual de ₡361 772, que corresponde a ₡405 710,70 menos la cuota obrera de 10,83 %; el pago de Fiorella equivale a un bruto cercano a ₡363 700. En el hilo no consta la fecha en que el salario de Fiorella pasó de ₡330 000 a ₡405 710 ni lo reportado a la CCSS.",
+      "fuente": "Hilo «🏦 Hacienda 🔥 (Carros - Contrato - Compra)», mensajes del 6/11/2026 (lista de transferencias programadas del BAC) y del 21/10/2026 (favoritos del BAC).",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Cálculo propio sobre las transferencias; confirmar con la planilla de la CCSS (Oficina Virtual) y con Contabilidad antes de la liquidación de Fiorella.",
+      "folio": ""
     }
   ],
   "evaluaciones": [

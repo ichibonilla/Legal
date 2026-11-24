@@ -295,7 +295,7 @@ Fechadas el 24/11/2026. Se agregó: (1) las vacaciones otorgadas por encima del 
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (70)
+## Por verificar (71)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -367,6 +367,7 @@ Fechadas el 24/11/2026. Se agregó: (1) las vacaciones otorgadas por encima del 
 - R-100 — Declaraciones de Kristell en la reunión de renuncia
 - R-101 — Lectura con Fiorella de la respuesta a su renuncia
 - R-102 — Reunión previa a la renuncia de Fiorella
+- R-106 — Pagos semanales de salario según las transferencias del BAC
 
 ## Registros reemplazados
 

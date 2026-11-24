@@ -68,6 +68,7 @@ Registro actualizado el 2026-11-24.
 | 2026-11-03 | R-072 | VERIFICADO | Jornada de Angiolette | — |
 | 2026-11-05 | R-075 | VERIFICADO | Reunión de estrategia de la Dirección y la asesoría sobre la salida | — |
 | 2026-11-05 | R-076 | VERIFICADO | Pedido de la Dirección sobre el fin de semana de Angiolette | — |
+| 2026-11-06 | R-106 | POR VERIFICAR | Pagos semanales de salario según las transferencias del BAC | — |
 | 2026-11-17 | R-077 | VERIFICADO | Renuncia de Fiorella con preaviso | — |
 | 2026-11-17 | R-078 | VERIFICADO | Cálculo de liquidación de Fiorella en la calculadora del MTSS | — |
 | 2026-11-17 | R-080 | VERIFICADO | Renuncia de Kristell con preaviso | — |

@@ -18,7 +18,7 @@
 - **R-038** — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras. Falta prueba: fecha, palabras textuales, lugar y personas presentes, anotadas el mismo día o en declaraciones firmadas voluntariamente.
 - **R-042** — Pacientes han preguntado por qué se mantiene a Kristel. Falta documentar cada caso: fecha, a quién se lo dijo, palabras y código del paciente. No se solicitan quejas a pacientes; se registra lo que expresan espontáneamente.
 
-## POR VERIFICAR (70)
+## POR VERIFICAR (71)
 
 - **N-001** — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe. Fuente: Código de Trabajo (Ley 2 de 1943), art. 19. SCIJ. Redactado de memoria; SCIJ no accesible desde la sesión del 25/10/2026.
 - **N-002** — Código de Trabajo, art. 71: obligaciones de la persona trabajadora. Fuente: Código de Trabajo, art. 71 (en particular incisos a, b y d). SCIJ. Cotejar incisos y redacción vigente en SCIJ.
@@ -90,7 +90,8 @@
 - **R-100** — Declaraciones de Kristell en la reunión de renuncia. Fuente: fuentes/AUDIO_Reunion_renuncia_KCarmona_2026-11-17.m4a, 00:21 a 04:15, 11:50, 31:57 a 32:06 y 49:44 a 50:06; documentos/2026-11-17_Transcripcion_automatica_reunion_renuncia_KCarmona.md. El viaje a Brasil no aparece en los chats disponibles (búsqueda del 24/11/2026); podría constar en el chat de Silvia. Fecha de la reunión inferida.
 - **R-101** — Lectura con Fiorella de la respuesta a su renuncia. Fuente: fuentes/AUDIO_Dialogo_carta_respuesta_FVarela.m4a, 01:45 a 07:10; documentos/2026-11-19_Transcripcion_automatica_dialogo_respuesta_FVarela.md. Los días libres leídos a Fiorella no coinciden con los que fijó la Dirección (R-097: 23 y 25 de noviembre, 2 y 9 de diciembre); se leyó la versión anterior de la carta.
 - **R-102** — Reunión previa a la renuncia de Fiorella. Fuente: fuentes/AUDIO_Reunion_renuncia_FVarela_previa.m4a, 21:00 a 23:45, 35:40 a 41:10, 37:04 a 38:08, 42:39 a 44:50 y 45:18 a 46:50; documentos/2026-11-17_Transcripcion_automatica_reunion_renuncia_FVarela.md. Fecha inferida (anterior a la carta del 17/11). La cifra de 10 días fue sustituida por 7 (R-096).
+- **R-106** — Pagos semanales de salario según las transferencias del BAC. Fuente: Hilo «🏦 Hacienda 🔥 (Carros - Contrato - Compra)», mensajes del 6/11/2026 (lista de transferencias programadas del BAC) y del 21/10/2026 (favoritos del BAC). Cálculo propio sobre las transferencias; confirmar con la planilla de la CCSS (Oficina Virtual) y con Contabilidad antes de la liquidación de Fiorella.
 
-## Sin folio (140 de 140 vigentes)
+## Sin folio (141 de 141 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.
