@@ -1,10 +1,10 @@
 <!--
-RESPUESTA A LA RENUNCIA (R-077, E-030, R-094 a R-096, E-042). Versión final del 19/11/2026, con membrete; se entrega el 20/11 con el recibido de la carta.
+RESPUESTA A LA RENUNCIA (R-077, E-030, R-094 a R-096, E-042, R-101 a R-103, E-044). Versión del 24/11/2026, con membrete.
 Criterio de la asesoría (R-082): preaviso laborado, vacaciones pagadas y no disfrutadas en el preaviso, días libres fijados.
 Vacaciones: días tomados según los chats, que son el control de Poïesis (R-090); saldo cerrado por decisión de la Dirección.
-Revisión laboral y administrativa (E-033): «tomamos nota», sin fecha de ingreso ni videos, accesos al cierre de la jornada,
-confidencialidad continua, forma de pago, canal escrito, recibido junto a la firma.
-Pendiente: que Silvia confirme los días libres; firma de la Dirección.
+Días libres: los que se leyeron a Fiorella en la lectura de la carta, confirmados por la Dirección (R-101, R-103).
+Tarjeta a su nombre: se pide su cancelación, como ella solicitó (R-102).
+El contrato de confidencialidad no va en la carta: monto pendiente de decisión de la Dirección.
 -->
 
 @derecha San José, 20 de noviembre de 2026
@@ -26,9 +26,9 @@ Agradecemos su trabajo en Poïesis y le deseamos éxito en sus próximos proyect
 
 **2. Vacaciones.** Según nuestros registros, en su último periodo usted disfrutó 9 días de vacaciones: el 24, 26, 27, 29, 30 y 31 de diciembre de 2025, en el cierre institucional de fin de año, y el 21, 23 y 24 de marzo de 2026; además, medio día el 8 de setiembre de 2026. Su saldo es de 6 días; para darlo por cerrado, Poïesis le otorga de forma voluntaria 7 días, que le serán pagados en la liquidación y no se disfrutarán durante el preaviso.
 
-**3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el lunes 23 de noviembre y los miércoles 25 de noviembre, 2 y 9 de diciembre. Los cambios se coordinan con la jefatura.
+**3. Día libre semanal.** Conforme al artículo 28 del Código de Trabajo, usted dispondrá de un día libre remunerado por semana durante el preaviso para buscar empleo: el lunes 23 y el viernes 27 de noviembre, y el viernes 4 y el viernes 11 de diciembre. Los cambios se coordinan con la jefatura.
 
-**4. Entrega.** El 18 de diciembre recibiremos el teléfono institucional, con sus aplicaciones, y la tarjeta a su cargo, y dejaremos constancia escrita de su estado y de la situación de la cuenta asociada. Al concluir esa jornada se desactivarán sus accesos a los sistemas y canales institucionales. La información de pacientes y los documentos de la clínica no se conservan, y el deber de confidencialidad se mantiene después de concluida la relación laboral.
+**4. Entrega.** El 18 de diciembre recibiremos el teléfono institucional, con sus aplicaciones, y la tarjeta de la empresa emitida a su nombre, cuya cancelación gestionaremos, y dejaremos constancia escrita de su estado y de la situación de la cuenta asociada. Al concluir esa jornada se desactivarán sus accesos a los sistemas y canales institucionales. La información de pacientes y los documentos de la clínica no se conservan, y el deber de confidencialidad se mantiene después de concluida la relación laboral.
 
 **5. Transición.** Durante el preaviso, le solicitamos acompañar la transición de sus tareas, en especial la gestión de los formularios de aseguradoras, para que el equipo pueda continuarlas.
 

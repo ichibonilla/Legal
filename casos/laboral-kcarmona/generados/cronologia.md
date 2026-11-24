@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-11-19 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-24 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Cronología — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Registro actualizado el 2026-11-19.
+Registro actualizado el 2026-11-24.
 
 | Fecha | ID | Estado | Hecho | Folio |
 |---|---|---|---|---|
@@ -71,13 +71,19 @@ Registro actualizado el 2026-11-19.
 | 2026-11-17 | R-077 | VERIFICADO | Renuncia de Fiorella con preaviso | — |
 | 2026-11-17 | R-078 | VERIFICADO | Cálculo de liquidación de Fiorella en la calculadora del MTSS | — |
 | 2026-11-17 | R-080 | VERIFICADO | Renuncia de Kristell con preaviso | — |
+| 2026-11-17 | R-100 | POR VERIFICAR | Declaraciones de Kristell en la reunión de renuncia | — |
+| 2026-11-17 | R-102 | POR VERIFICAR | Reunión previa a la renuncia de Fiorella | — |
 | 2026-11-18 | R-081 | VERIFICADO | Último salario pagado a Fiorella | — |
 | 2026-11-18 | R-082 | VERIFICADO | Criterio de la asesoría sobre la respuesta a las renuncias | — |
 | 2026-11-19 | R-086 | VERIFICADO | Regla de vacaciones de Poïesis | — |
 | 2026-11-19 | R-090 | VERIFICADO | Los chats son el control de vacaciones de Poïesis | — |
 | 2026-11-19 | ~~R-091~~ (superado por R-096) | VERIFICADO | ~~Vacaciones otorgadas para cerrar el saldo~~ | — |
 | 2026-11-19 | R-096 | VERIFICADO | Vacaciones de Fiorella cerradas en 7 días | — |
-| 2026-11-19 | R-097 | VERIFICADO | Días libres del preaviso definidos por la Dirección | — |
+| 2026-11-19 | ~~R-097~~ (superado por R-103) | VERIFICADO | ~~Días libres del preaviso definidos por la Dirección~~ | — |
+| 2026-11-19 | R-098 | POR VERIFICAR | Acuerdos con Kristell sobre la respuesta a su renuncia | — |
+| 2026-11-19 | R-099 | POR VERIFICAR | Contrato de confidencialidad sin monto | — |
+| 2026-11-19 | R-101 | POR VERIFICAR | Lectura con Fiorella de la respuesta a su renuncia | — |
+| 2026-11-24 | R-103 | VERIFICADO | Días libres de Fiorella confirmados | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |

@@ -1,9 +1,9 @@
-<!-- Generado por herramientas/registro.py el 2026-11-19 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
+<!-- Generado por herramientas/registro.py el 2026-11-24 a partir de registro.json. No editar a mano: los cambios se hacen en registro.json y se regenera. -->
 
 
 # Handoff — Grupo Poïesis — Kristell Carmona Soto: plan de mejora del desempeño
 
-Estado al 2026-11-19. Fuente única: `registro.json`.
+Estado al 2026-11-24. Fuente única: `registro.json`.
 
 ## Expedientes
 
@@ -262,6 +262,18 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 
 > Advertencia: R-091 está superado por R-096; revisar la conclusión. N-051 está POR VERIFICAR.
 
+### E-043 — Carta de Kristell ajustada a la reunión del 19/11
+
+El preaviso en teletrabajo consta en la carta como acordado por ambas partes, con el equipo y canales institucionales [R-098, N-041]. Los videos se piden como tarea del puesto, dentro de la jornada y de uso interno para capacitación, para no confundirlos con los productos audiovisuales pagados por video [R-098]. Si se confirma el viaje a Brasil de abril de 2026, que la propia Kristell declaró [R-100], y no hubo saldo previo [R-088], su saldo bajaría de 8,5 a unos 3,5 días; la decisión de cerrar en 9 es de la Dirección [R-091].
+
+> Advertencia: R-098 está POR VERIFICAR. R-100 está POR VERIFICAR. R-088 está superado por R-089; revisar la conclusión. R-091 está superado por R-096; revisar la conclusión. N-041 está POR VERIFICAR.
+
+### E-044 — Lo que las grabaciones de Fiorella cambian en su carta y en el riesgo
+
+La carta no cambia en vacaciones ni en entrega, salvo precisar que la tarjeta está a su nombre y que se pedirá su cancelación [R-102]. Los días libres deben conciliarse: a Fiorella se le leyeron fechas distintas de las fijadas por la Dirección [R-101, R-097]. Riesgo: en la grabación ella vincula su renuncia con la suspensión del bono, base posible de un reclamo por despido indirecto, aunque su carta no invoca causa [R-102, R-077]; conviene no reabrir el tema y cerrar con la liquidación firmada. Su cuestionamiento de diciembre y de marzo se atiende con los chats y el chat de Silvia [R-101, R-094]. Sobre la causa penal, Poïesis no debe intervenir en su decisión de declarar.
+
+> Advertencia: R-101 está POR VERIFICAR. R-102 está POR VERIFICAR. R-097 está superado por R-103; revisar la conclusión.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
@@ -277,7 +289,7 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 - R-038 — Expresiones verbales despectivas sobre el Dr. Bonilla y Poïesis ante compañeras
 - R-042 — Pacientes han preguntado por qué se mantiene a Kristel
 
-## Por verificar (65)
+## Por verificar (70)
 
 - N-001 — Código de Trabajo, art. 19: el contrato obliga a lo pactado y a la buena fe
 - N-002 — Código de Trabajo, art. 71: obligaciones de la persona trabajadora
@@ -344,6 +356,11 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 - N-049 — Día libre durante el preaviso y vacaciones al terminar
 - N-050 — Obligaciones del patrono al terminar la relación
 - N-051 — Vacaciones: periodo y proporcional
+- R-098 — Acuerdos con Kristell sobre la respuesta a su renuncia
+- R-099 — Contrato de confidencialidad sin monto
+- R-100 — Declaraciones de Kristell en la reunión de renuncia
+- R-101 — Lectura con Fiorella de la respuesta a su renuncia
+- R-102 — Reunión previa a la renuncia de Fiorella
 
 ## Registros reemplazados
 
@@ -361,6 +378,7 @@ Con los chats individuales, Fiorella tomó en su último periodo 6 días del cie
 - R-092 → R-094 (2026-11-19): Confirma R-092.
 - R-093 → R-095 (2026-11-19): Confirma R-093.
 - R-091 → R-096 (2026-11-19): Sustituye la parte de R-091 sobre Fiorella (10 días); Kristell se mantiene en 9 días.
+- R-097 → R-103 (2026-11-24): Sustituye la parte de R-097 sobre Fiorella; la de Kristell se mantiene (viernes 20 y martes 24 de noviembre, 2 y 15 de diciembre, R-098).
 
 ## Reglas
 

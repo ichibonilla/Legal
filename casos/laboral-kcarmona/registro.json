@@ -1971,6 +1971,45 @@
       "supersede": "",
       "razon": "El viaje a Brasil no aparece en los chats disponibles (búsqueda del 24/11/2026); podría constar en el chat de Silvia. Fecha de la reunión inferida.",
       "folio": ""
+    },
+    {
+      "id": "R-101",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Lectura con Fiorella de la respuesta a su renuncia",
+      "afirmacion": "Se leyó a Fiorella: último día el 18 de diciembre; vacaciones tomadas el 24, 26, 27, 29, 30 y 31 de diciembre de 2025, el 21, 23 y 24 de marzo de 2026 y medio día el 8 de setiembre; cierre en 7 días; entrega del teléfono, sus aplicaciones y la tarjeta, y pago de la liquidación el 18 de diciembre. Como días libres se leyeron el martes 24 y el viernes 27 de noviembre y el 4 y 11 de diciembre; el martes 24 se cambió por el lunes 23 y se mantuvieron el 27 de noviembre y el 4 y 11 de diciembre. Fiorella dijo que algunos días de diciembre trabajó en forma virtual y no se le descontaron, que revisará su chat con Silvia, y que en marzo pidió dos días. Preguntó en cuánto quedará el contrato de confidencialidad.",
+      "fuente": "fuentes/AUDIO_Dialogo_carta_respuesta_FVarela.m4a, 01:45 a 07:10; documentos/2026-11-19_Transcripcion_automatica_dialogo_respuesta_FVarela.md.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Los días libres leídos a Fiorella no coinciden con los que fijó la Dirección (R-097: 23 y 25 de noviembre, 2 y 9 de diciembre); se leyó la versión anterior de la carta.",
+      "folio": ""
+    },
+    {
+      "id": "R-102",
+      "fecha": "2026-11-17",
+      "tipo": "hecho",
+      "titulo": "Reunión previa a la renuncia de Fiorella",
+      "afirmacion": "Fiorella anunció su renuncia con un mes de preaviso y dijo que sabe que al renunciar no recibe cesantía. Atribuyó su decisión a que el bono del podcast no se le pagó una semana en que cumplió la grabación, sin aviso previo. La Dirección respondió que el bono pagaba un producto aparte, no era salario y no se incluye en el aguinaldo. La Dirección ofreció reconocer 10 días de vacaciones y reconocer una parte de lo conversado sobre la cesantía contra la firma de un contrato de confidencialidad, con monto por definir. Fiorella pidió un acta de entrega del teléfono y de la tarjeta de la empresa, que está a su nombre, y la cancelación de esa cuenta, y que conste por escrito su día libre semanal. También se habló de su eventual declaración como testigo en una causa penal.",
+      "fuente": "fuentes/AUDIO_Reunion_renuncia_FVarela_previa.m4a, 21:00 a 23:45, 35:40 a 41:10, 37:04 a 38:08, 42:39 a 44:50 y 45:18 a 46:50; documentos/2026-11-17_Transcripcion_automatica_reunion_renuncia_FVarela.md.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Fecha inferida (anterior a la carta del 17/11). La cifra de 10 días fue sustituida por 7 (R-096).",
+      "folio": ""
+    },
+    {
+      "id": "R-103",
+      "fecha": "2026-11-24",
+      "tipo": "hecho",
+      "titulo": "Días libres de Fiorella confirmados",
+      "afirmacion": "La Dirección confirma como días libres del preaviso de Fiorella los que se le leyeron: lunes 23 y viernes 27 de noviembre, y viernes 4 y 11 de diciembre de 2026.",
+      "fuente": "Respuesta de la Dirección, 24/11/2026; fuentes/AUDIO_Dialogo_carta_respuesta_FVarela.m4a, 02:29 a 03:22.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-24",
+      "supersede": "R-097",
+      "razon": "Sustituye la parte de R-097 sobre Fiorella; la de Kristell se mantiene (viernes 20 y martes 24 de noviembre, 2 y 15 de diciembre, R-098).",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2515,6 +2554,18 @@
         "R-088",
         "R-091",
         "N-041"
+      ]
+    },
+    {
+      "id": "E-044",
+      "titulo": "Lo que las grabaciones de Fiorella cambian en su carta y en el riesgo",
+      "conclusion": "La carta no cambia en vacaciones ni en entrega, salvo precisar que la tarjeta está a su nombre y que se pedirá su cancelación [R-102]. Los días libres deben conciliarse: a Fiorella se le leyeron fechas distintas de las fijadas por la Dirección [R-101, R-097]. Riesgo: en la grabación ella vincula su renuncia con la suspensión del bono, base posible de un reclamo por despido indirecto, aunque su carta no invoca causa [R-102, R-077]; conviene no reabrir el tema y cerrar con la liquidación firmada. Su cuestionamiento de diciembre y de marzo se atiende con los chats y el chat de Silvia [R-101, R-094]. Sobre la causa penal, Poïesis no debe intervenir en su decisión de declarar.",
+      "depende_de": [
+        "R-101",
+        "R-102",
+        "R-097",
+        "R-077",
+        "R-094"
       ]
     }
   ]
