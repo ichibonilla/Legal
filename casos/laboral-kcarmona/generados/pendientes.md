@@ -91,6 +91,6 @@
 - **R-101** — Lectura con Fiorella de la respuesta a su renuncia. Fuente: fuentes/AUDIO_Dialogo_carta_respuesta_FVarela.m4a, 01:45 a 07:10; documentos/2026-11-19_Transcripcion_automatica_dialogo_respuesta_FVarela.md. Los días libres leídos a Fiorella no coinciden con los que fijó la Dirección (R-097: 23 y 25 de noviembre, 2 y 9 de diciembre); se leyó la versión anterior de la carta.
 - **R-102** — Reunión previa a la renuncia de Fiorella. Fuente: fuentes/AUDIO_Reunion_renuncia_FVarela_previa.m4a, 21:00 a 23:45, 35:40 a 41:10, 37:04 a 38:08, 42:39 a 44:50 y 45:18 a 46:50; documentos/2026-11-17_Transcripcion_automatica_reunion_renuncia_FVarela.md. Fecha inferida (anterior a la carta del 17/11). La cifra de 10 días fue sustituida por 7 (R-096).
 
-## Sin folio (138 de 138 vigentes)
+## Sin folio (140 de 140 vigentes)
 
 Se completan de una sola vez cuando llegue el expediente certificado.

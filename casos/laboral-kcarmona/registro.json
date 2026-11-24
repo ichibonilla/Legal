@@ -2010,6 +2010,32 @@
       "supersede": "R-097",
       "razon": "Sustituye la parte de R-097 sobre Fiorella; la de Kristell se mantiene (viernes 20 y martes 24 de noviembre, 2 y 15 de diciembre, R-098).",
       "folio": ""
+    },
+    {
+      "id": "R-104",
+      "fecha": "2026-11-24",
+      "tipo": "hecho",
+      "titulo": "Decisiones de la Dirección sobre las salidas",
+      "afirmacion": "Kristell: se mantiene lo acordado en la reunión del 19/11 (11 días tomados, saldo 8,5, cerrado en 9), sin descontar el viaje a Brasil que ella mencionó. No se hará contrato de confidencialidad con Kristell ni con Fiorella. Las liquidaciones se firman solo como recibido en la clínica, sin conciliación ante el MTSS.",
+      "fuente": "Respuestas de la Dirección, 24/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-24",
+      "supersede": "",
+      "razon": "Cierra los pendientes de R-099, R-100 y R-102 sobre esos puntos.",
+      "folio": ""
+    },
+    {
+      "id": "R-105",
+      "fecha": "2026-11-24",
+      "tipo": "hecho",
+      "titulo": "Salario de Fiorella como recepcionista",
+      "afirmacion": "Fiorella ingresó como recepcionista, a tiempo completo, con un salario de ₡330 000, y luego pasó al salario de asistente; la fecha del cambio debe tomarse del hilo «Hacienda (Carros - Contrato - Compra)».",
+      "fuente": "Respuestas de la Dirección, 24/11/2026.",
+      "estado": "VERIFICADO",
+      "verificado_el": "2026-11-24",
+      "supersede": "",
+      "razon": "Aun como recepcionista a tiempo completo, el salario debía ser al menos el mínimo de su categoría (N-038, N-017); confirmar categoría y fechas con la planilla.",
+      "folio": ""
     }
   ],
   "evaluaciones": [

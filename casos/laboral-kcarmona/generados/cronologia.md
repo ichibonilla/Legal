@@ -84,6 +84,8 @@ Registro actualizado el 2026-11-24.
 | 2026-11-19 | R-099 | POR VERIFICAR | Contrato de confidencialidad sin monto | — |
 | 2026-11-19 | R-101 | POR VERIFICAR | Lectura con Fiorella de la respuesta a su renuncia | — |
 | 2026-11-24 | R-103 | VERIFICADO | Días libres de Fiorella confirmados | — |
+| 2026-11-24 | R-104 | VERIFICADO | Decisiones de la Dirección sobre las salidas | — |
+| 2026-11-24 | R-105 | VERIFICADO | Salario de Fiorella como recepcionista | — |
 | — | R-017 | PENDIENTE | Quejas de pacientes sobre el trato de Kristel | — |
 | — | R-018 | PENDIENTE | Observaciones directas de la jefatura sobre trato inadecuado a pacientes | — |
 | — | R-019 | PENDIENTE | Comentarios negativos sobre la empresa | — |
