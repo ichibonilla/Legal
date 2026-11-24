@@ -154,8 +154,10 @@ def tabla(doc, filas, ancho):
                 if firmas:
                     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     tras = doc.add_paragraph()
-    espacio(tras, 0, 4, 1.0)
-    tras.paragraph_format.line_spacing = Pt(6)
+    espacio(tras, 0, 4 if not firmas else 0, 1.0)
+    tras.paragraph_format.line_spacing = Pt(6 if not firmas else 1)
+    if firmas:  # tras la firma, el párrafo obligatorio no debe abrir otra página
+        tras.add_run("").font.size = Pt(1)
 
 
 def convertir(md, salida, aviso, confidencial=False, membrete=False):

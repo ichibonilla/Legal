@@ -274,6 +274,12 @@ La carta no cambia en vacaciones ni en entrega, salvo precisar que la tarjeta es
 
 > Advertencia: R-101 está POR VERIFICAR. R-102 está POR VERIFICAR. R-097 está superado por R-103; revisar la conclusión.
 
+### E-045 — Revisión laboral, administrativa y civil de las respuestas a las renuncias (24/11/2026)
+
+Fechadas el 24/11/2026. Se agregó: (1) las vacaciones otorgadas por encima del saldo son una liberalidad que no cambia el criterio de cálculo, para que no se lean como reconocimiento de otros saldos [N-051, N-049]; (2) la liquidación se paga con las deducciones de ley y se ofrece el certificado de servicio del art. 35 [N-050, N-026, N-008]; (3) Kristell: el teletrabajo rige solo durante el preaviso, mantiene las demás condiciones y ella firma su conformidad solo con ese punto, porque la ley lo exige por escrito, sin aceptar el resto de la carta [N-041]; (4) los videos de procedimientos se graban sin datos reales de pacientes ni imagen obligatoria y son material de trabajo de Poïesis [N-015, N-037]. Se mantiene: «tomamos nota» (la renuncia no necesita aceptación), sin mención del bono ni de la cesantía, recibido sin aceptación de acuerdos, canal escrito. La carga de probar pagos y vacaciones es del patrono: conservar los chats, las cartas firmadas y la liquidación con firma [N-036].
+
+> Advertencia: N-051 está POR VERIFICAR. N-049 está POR VERIFICAR. N-050 está POR VERIFICAR. N-026 está POR VERIFICAR. N-008 está POR VERIFICAR. N-041 está POR VERIFICAR. N-015 está POR VERIFICAR. N-037 está POR VERIFICAR. N-036 está POR VERIFICAR.
+
 ## Pendientes (12)
 
 - R-017 — Quejas de pacientes sobre el trato de Kristel
