@@ -6,7 +6,7 @@
       "Sin expediente judicial ni administrativo. Gestión interna de recursos humanos.",
       "Relacionados solo como contexto (no se mezclan con este proceso): asunto Andrea Robles (casos/cppcr) y Exp. 25-001758-0641-LA."
     ],
-    "actualizado_el": "2026-11-19",
+    "actualizado_el": "2026-11-24",
     "reglas": [
       "Una sola fuente: este archivo. Todo lo demás en generados/ se regenera con: python3 herramientas/registro.py generar --caso casos/laboral-kcarmona",
       "No se borra: un registro corregido se reemplaza por otro con 'supersede' y 'razon'.",
@@ -1932,6 +1932,45 @@
       "supersede": "",
       "razon": "Sustituye las fechas propuestas en las cartas. El 2 de diciembre coinciden las dos; Kristell no tiene día libre en la semana del 8 al 14 de diciembre y el 20 de noviembre es la fecha prevista de entrega de la carta.",
       "folio": ""
+    },
+    {
+      "id": "R-098",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Acuerdos con Kristell sobre la respuesta a su renuncia",
+      "afirmacion": "En la lectura de la respuesta, se acordó con Kristell: último día el 17 de diciembre; el preaviso se labora en su horario, desde la casa, todo el mes, a partir del lunes; durante el preaviso graba un video por cada labor para documentar los procedimientos y capacitar al equipo; vacaciones tomadas 11 días, saldo 8,5, cerrado en 9; días libres viernes 20 y martes 24 de noviembre, 2 de diciembre y martes 15 de diciembre (cambiado por el 9 a pedido suyo, por su cumpleaños); entrega del teléfono y la tarjeta y pago de la liquidación por transferencia el 17 de diciembre.",
+      "fuente": "fuentes/AUDIO_Dialogo_carta_respuesta_KCarmona_2026-11-19.m4a, 01:11 a 07:12 y 08:57 a 09:31; documentos/2026-11-19_Transcripcion_automatica_dialogo_respuesta_KCarmona.md.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "Transcripción automática; la Dirección participó en la reunión y puede confirmarla. La transcripción dice «12 y 15 de diciembre»; por contexto es 2 y 15 (R-097).",
+      "folio": ""
+    },
+    {
+      "id": "R-099",
+      "fecha": "2026-11-19",
+      "tipo": "hecho",
+      "titulo": "Contrato de confidencialidad sin monto",
+      "afirmacion": "Kristell preguntó si el contrato de confidencialidad ya tenía monto; se le indicó que no y la Dirección dijo que consultaría cuánto puede costar. En la reunión del 17/11 se le había dicho que es una decisión posterior de la Dirección, que puede firmarse o no, sin consecuencia.",
+      "fuente": "fuentes/AUDIO_Dialogo_carta_respuesta_KCarmona_2026-11-19.m4a, 07:18 a 08:11; fuentes/AUDIO_Reunion_renuncia_KCarmona_2026-11-17.m4a, 33:01 a 33:46.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "No se incluye en la carta de respuesta.",
+      "folio": ""
+    },
+    {
+      "id": "R-100",
+      "fecha": "2026-11-17",
+      "tipo": "hecho",
+      "titulo": "Declaraciones de Kristell en la reunión de renuncia",
+      "afirmacion": "Kristell declaró que sabe que no le corresponde cesantía porque renuncia; que labora desde mayo de 2022; que en diciembre de 2025 le quedaban 5 días de vacaciones, que Silvia le dijo que los dejara para el año siguiente y que los tomó en abril de 2026, en un viaje a Brasil. La Dirección reiteró que las vacaciones no se acumulan, que se piden por escrito y que el saldo se saca de los chats. Kristell agradeció la oportunidad y dijo que su ciclo terminó.",
+      "fuente": "fuentes/AUDIO_Reunion_renuncia_KCarmona_2026-11-17.m4a, 00:21 a 04:15, 11:50, 31:57 a 32:06 y 49:44 a 50:06; documentos/2026-11-17_Transcripcion_automatica_reunion_renuncia_KCarmona.md.",
+      "estado": "POR VERIFICAR",
+      "verificado_el": "",
+      "supersede": "",
+      "razon": "El viaje a Brasil no aparece en los chats disponibles (búsqueda del 24/11/2026); podría constar en el chat de Silvia. Fecha de la reunión inferida.",
+      "folio": ""
     }
   ],
   "evaluaciones": [
@@ -2464,6 +2503,18 @@
         "R-096",
         "R-091",
         "N-051"
+      ]
+    },
+    {
+      "id": "E-043",
+      "titulo": "Carta de Kristell ajustada a la reunión del 19/11",
+      "conclusion": "El preaviso en teletrabajo consta en la carta como acordado por ambas partes, con el equipo y canales institucionales [R-098, N-041]. Los videos se piden como tarea del puesto, dentro de la jornada y de uso interno para capacitación, para no confundirlos con los productos audiovisuales pagados por video [R-098]. Si se confirma el viaje a Brasil de abril de 2026, que la propia Kristell declaró [R-100], y no hubo saldo previo [R-088], su saldo bajaría de 8,5 a unos 3,5 días; la decisión de cerrar en 9 es de la Dirección [R-091].",
+      "depende_de": [
+        "R-098",
+        "R-100",
+        "R-088",
+        "R-091",
+        "N-041"
       ]
     }
   ]
